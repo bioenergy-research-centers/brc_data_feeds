@@ -31938,6 +31938,135 @@
     },
     {
       "brc": "CBI",
+      "title": "A haplotype-resolved, chromosome-scale genome assembly for the southern live oak, Quercus virginiana",
+      "description": "Abstract: \n\n                  Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "abstract": "Abstract: \n\n                  Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "date": "2026-04-01",
+      "issue": "4",
+      "identifier": "https://www.osti.gov/biblio/3030808",
+      "bibliographicCitation": "https://doi.org/10.1093/g3journal/jkag023",
+      "journal_name": "Genes|Genomes|Genetics",
+      "volume": "16",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Laramie Ak\u00f6zbek",
+          "primaryContact": true
+        },
+        {
+          "name": "Zachary Meharg",
+          "primaryContact": false
+        },
+        {
+          "name": "Jillian Abendroth-McGhee",
+          "primaryContact": false
+        },
+        {
+          "name": "Tosin Akinsipe",
+          "primaryContact": false
+        },
+        {
+          "name": "Rijan Dhakal",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicholas Gladstone",
+          "primaryContact": false
+        },
+        {
+          "name": "Zahida Pervaiz",
+          "primaryContact": false
+        },
+        {
+          "name": "Sejal Patel",
+          "primaryContact": false
+        },
+        {
+          "name": "Giovani Rossi",
+          "primaryContact": false
+        },
+        {
+          "name": "Claudia Ann Rutland",
+          "primaryContact": false
+        },
+        {
+          "name": "Caroline Bendickson",
+          "primaryContact": false
+        },
+        {
+          "name": "Adam Kranz",
+          "primaryContact": false
+        },
+        {
+          "name": "Ellen O Martinson",
+          "primaryContact": false
+        },
+        {
+          "name": "Scott P Egan",
+          "primaryContact": false
+        },
+        {
+          "name": "F Alex Feltus",
+          "primaryContact": false
+        },
+        {
+          "name": "David J Clarke",
+          "primaryContact": false
+        },
+        {
+          "name": "John T Lovell",
+          "primaryContact": false
+        },
+        {
+          "name": "Jenell Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Lori Beth Boston",
+          "primaryContact": false
+        },
+        {
+          "name": "Haley Hale",
+          "primaryContact": false
+        },
+        {
+          "name": "Hannah McCoy",
+          "primaryContact": false
+        },
+        {
+          "name": "Jane Grimwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Sarah B Carey",
+          "primaryContact": false
+        },
+        {
+          "name": "Leslie Goertzen",
+          "primaryContact": false
+        },
+        {
+          "name": "Alex Harkess",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "US Department of Energy"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23), Biological Systems Science Division (SC-23.2 )"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030808",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Nonenergy Biomass Carbon Removal and Storage (BiCRS): Assessing Durability of Nongaseous Carbon Products Across Terrestrial Storage Fates",
       "description": "Biomass Carbon Removal and Storage, or BiCRS, pathways use plants or algae that remove carbon dioxide from the atmosphere through photosynthesis and store it underground or in long-lived products. While some BiCRS approaches generate an energy product, all BiCRS approaches generate a carbon product. A new subset of BiCRS approaches focus on the storage of these raw or converted carbon products for generation of carbon credits. However, the durability of these approaches is highly variable as carbon products vary widely in their \u201cform\u201d and the conditions of their \u201cfate.\u201d We organize our thinking about carbon products and their durability around these two primary axes. The durability of carbon product \u201cforms\u201d is mediated by chemical recalcitrance and ranges substantially across agricultural residues, municipal solid waste, woody biomass, and nongaseous products of thermochemical conversion (e.g., biochars and bio-oils). Meanwhile, terrestrial storage \u201cfates\u201d vary in the mechanism employed to stall decay, including surface storage, dry storage, shallow anoxic storage, and deep or geologic anoxic storage (or injection). Each mechanism has different implications for suitability with different feedstock forms as well as long-term risks. We present a framework for assessing durability of solid or liquid raw and conversion carbon products under terrestrial storage fates, highlighting knowns, unknowns, and research priorities moving forward.",
       "abstract": "Biomass Carbon Removal and Storage, or BiCRS, pathways use plants or algae that remove carbon dioxide from the atmosphere through photosynthesis and store it underground or in long-lived products. While some BiCRS approaches generate an energy product, all BiCRS approaches generate a carbon product. A new subset of BiCRS approaches focus on the storage of these raw or converted carbon products for generation of carbon credits. However, the durability of these approaches is highly variable as carbon products vary widely in their \u201cform\u201d and the conditions of their \u201cfate.\u201d We organize our thinking about carbon products and their durability around these two primary axes. The durability of carbon product \u201cforms\u201d is mediated by chemical recalcitrance and ranges substantially across agricultural residues, municipal solid waste, woody biomass, and nongaseous products of thermochemical conversion (e.g., biochars and bio-oils). Meanwhile, terrestrial storage \u201cfates\u201d vary in the mechanism employed to stall decay, including surface storage, dry storage, shallow anoxic storage, and deep or geologic anoxic storage (or injection). Each mechanism has different implications for suitability with different feedstock forms as well as long-term risks. We present a framework for assessing durability of solid or liquid raw and conversion carbon products under terrestrial storage fates, highlighting knowns, unknowns, and research priorities moving forward.",
@@ -32051,6 +32180,233 @@
     },
     {
       "brc": "CBI",
+      "title": "Valorization of consolidated bioprocessing residues for bioplastics",
+      "description": "This study demonstrates an organic solvent-free processing strategy to valorize consolidated bioprocessing (CBP) residues, from switchgrass and poplar biomass, into functional poly(butylene succinate) (PBS)-based biocomposites using high-shear homogenization (HSH). HSH transformed the switchgrass and poplar CBP residues (CBP-R) into fine, uniformly distributed particles and microfibers. The composites of PBS with homogenized switchgrass residues (H-CBP-R-SG) or homogenized poplar residues (H-CBP-R-P) at a 70/30 weight ratio exhibited improved processability and mechanical integrity, with the Young's modulus for the PBS/H-CBP-R-SG and PBS/H-CBP-R-P nearly doubling to 0.66 \u00b1 0.07 GPa and 0.65 \u00b1 0.04 GPa, respectively, compared to neat PBS (0.36 \u00b1 0.02 GPa). Dynamic Mechanical Analysis (DMA) reveals a significant suppression of the tan \u03b4 peak magnitude, indicating that HSH-mediated physical activation facilitates stress transfer in composites typical of covalent chemical grafting systems. While the transition to a stiffness-dominated profile reduces ductility, the resulting composites exhibit the dimensional stability and resistance to thermal warping required for high-fidelity FDM 3D printing and injection molding. Beyond material performance, comprehensive techno-economic analysis (TEA) and life cycle assessment (LCA) confirmed that diverting CBP residues into composite products can improve the economic viability of the biorefinery without substantially increasing biorefinery global warming potential (GWP). At a 30 wt% blend ratio, incorporating residuals into PBS yielded a minimum selling price for the composite of $\\$4.07$ per kg compared to the conventional bioplastic price of $\\$5.00$ per kg. This approach aligns with circular bioeconomy principles by converting waste streams into value-added products. Furthermore, this innovative strategy addresses key challenges in bioplastic development, including cost, compatibility, and performance, while simultaneously advancing waste minimization strategies for sustainable manufacturing systems.",
+      "abstract": "This study demonstrates an organic solvent-free processing strategy to valorize consolidated bioprocessing (CBP) residues, from switchgrass and poplar biomass, into functional poly(butylene succinate) (PBS)-based biocomposites using high-shear homogenization (HSH). HSH transformed the switchgrass and poplar CBP residues (CBP-R) into fine, uniformly distributed particles and microfibers. The composites of PBS with homogenized switchgrass residues (H-CBP-R-SG) or homogenized poplar residues (H-CBP-R-P) at a 70/30 weight ratio exhibited improved processability and mechanical integrity, with the Young's modulus for the PBS/H-CBP-R-SG and PBS/H-CBP-R-P nearly doubling to 0.66 \u00b1 0.07 GPa and 0.65 \u00b1 0.04 GPa, respectively, compared to neat PBS (0.36 \u00b1 0.02 GPa). Dynamic Mechanical Analysis (DMA) reveals a significant suppression of the tan \u03b4 peak magnitude, indicating that HSH-mediated physical activation facilitates stress transfer in composites typical of covalent chemical grafting systems. While the transition to a stiffness-dominated profile reduces ductility, the resulting composites exhibit the dimensional stability and resistance to thermal warping required for high-fidelity FDM 3D printing and injection molding. Beyond material performance, comprehensive techno-economic analysis (TEA) and life cycle assessment (LCA) confirmed that diverting CBP residues into composite products can improve the economic viability of the biorefinery without substantially increasing biorefinery global warming potential (GWP). At a 30 wt% blend ratio, incorporating residuals into PBS yielded a minimum selling price for the composite of $\\$4.07$ per kg compared to the conventional bioplastic price of $\\$5.00$ per kg. This approach aligns with circular bioeconomy principles by converting waste streams into value-added products. Furthermore, this innovative strategy addresses key challenges in bioplastic development, including cost, compatibility, and performance, while simultaneously advancing waste minimization strategies for sustainable manufacturing systems.",
+      "date": "2026-05-21",
+      "identifier": "https://www.osti.gov/biblio/3364558",
+      "bibliographicCitation": "https://doi.org/10.1039/D6GC00489J",
+      "journal_name": "Green Chemistry",
+      "publisher_information": "Royal Society of Chemistry (RSC)",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Nataraja S. [University of Georgia,Athens,GA (United States)] (ORCID:0000000178498900) Yadavalli",
+          "primaryContact": true
+        },
+        {
+          "name": "Mohammad [University of Georgia,Athens,GA (United States)] (ORCID:000000030042528X) Aghajohari",
+          "primaryContact": false
+        },
+        {
+          "name": "Neal N. [National Laboratory of the Rockies,Golden,CO (United States)] Hengge",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel C. [University of Georgia,Athens,GA (United States)] Josey",
+          "primaryContact": false
+        },
+        {
+          "name": "Jacob [National Laboratory of the Rockies,Golden,CO (United States)] Dempsey",
+          "primaryContact": false
+        },
+        {
+          "name": "Jacob K. [National Laboratory of the Rockies,Golden,CO (United States)] Kenny",
+          "primaryContact": false
+        },
+        {
+          "name": "Bruno C. [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:000000033438253X) Klein",
+          "primaryContact": false
+        },
+        {
+          "name": "Rebecca J. [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000215585887) Hanes",
+          "primaryContact": false
+        },
+        {
+          "name": "Evert K. [Dartmouth College,Hanover,NH (United States)] Holwerda",
+          "primaryContact": false
+        },
+        {
+          "name": "Yannick J. [National Laboratory of the Rockies,Golden,CO (United States)] Bomble",
+          "primaryContact": false
+        },
+        {
+          "name": "Kush G. [University of Georgia,Athens,GA (United States)] (ORCID:0009000622734250) Patel",
+          "primaryContact": false
+        },
+        {
+          "name": "Jason J. [University of Georgia,Athens,GA (United States)] (ORCID:0000000192722403) Locklin",
+          "primaryContact": false
+        },
+        {
+          "name": "Sergiy [University of Georgia,Athens,GA (United States)] (ORCID:0000000277479668) Minko",
+          "primaryContact": false
+        },
+        {
+          "name": "Breeanna R. [University of Georgia,Athens,GA (United States)] (ORCID:0000000152474513) Urbanowicz",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364558",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Harnessing citizen science to contextualize adaptation mechanism discovery",
+      "description": "Species occupying broad geographic regions have evolved multiple mechanisms to regulate phenological characteristics, enabling adaptations to diverse native habitats. By developing computer vision AI to process citizen science observations across native habitats over North America, we uncovered a consistent latitudinal trend of earlier flowering at higher latitudes in warm-season perennial grasses. To explore the underlying mechanisms of adaptation, we conducted common garden experiments with one species (switchgrass) and discovered the opposite latitudinal flowering-time trend. Integration of differential plasticity of GI-Hd1-FTL1 haplotypes of flowering time regulatory genes, haplotype range, and local environmental profiles found that observations from native habitats capture only part of the genotype-environment-phenotype spectrum established in common garden experiments, therefore reconciling the discrepancy. Two mechanisms emerged as key forces shaping current haplotype ranges and influencing future shifts. Our study highlights the power of combining citizen science observations with designed experiments to uncover mechanisms of adaptation across spatiotemporal scales.",
+      "abstract": "Species occupying broad geographic regions have evolved multiple mechanisms to regulate phenological characteristics, enabling adaptations to diverse native habitats. By developing computer vision AI to process citizen science observations across native habitats over North America, we uncovered a consistent latitudinal trend of earlier flowering at higher latitudes in warm-season perennial grasses. To explore the underlying mechanisms of adaptation, we conducted common garden experiments with one species (switchgrass) and discovered the opposite latitudinal flowering-time trend. Integration of differential plasticity of GI-Hd1-FTL1 haplotypes of flowering time regulatory genes, haplotype range, and local environmental profiles found that observations from native habitats capture only part of the genotype-environment-phenotype spectrum established in common garden experiments, therefore reconciling the discrepancy. Two mechanisms emerged as key forces shaping current haplotype ranges and influencing future shifts. Our study highlights the power of combining citizen science observations with designed experiments to uncover mechanisms of adaptation across spatiotemporal scales.",
+      "date": "2026-05-01",
+      "identifier": "https://www.osti.gov/biblio/3364589",
+      "bibliographicCitation": "https://doi.org/10.1016/j.cell.2026.04.039",
+      "keywords": [
+        "FTL1",
+        "GI",
+        "Hd1",
+        "adaptation",
+        "citizen science",
+        "common garden experiment",
+        "flowering time",
+        "haplotype range",
+        "phenotypic plasticity",
+        "switchgrass"
+      ],
+      "journal_name": "Cell",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Laura E. [USDA-ARS Wheat Health,Pullman,WA (United States); USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Tibbs-Cortes",
+          "primaryContact": true
+        },
+        {
+          "name": "Linqian [Washington State University,Pullman,WA (United States)] Han",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy B. [Washington State University,Pullman,WA (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Jewell",
+          "primaryContact": false
+        },
+        {
+          "name": "Puranjit [University of Delaware,Newark,DE (United States)] Singh",
+          "primaryContact": false
+        },
+        {
+          "name": "Haiyan [Washington State University,Pullman,WA (United States)] Huang",
+          "primaryContact": false
+        },
+        {
+          "name": "Ryan [USDA-ARS Wheat Health,Pullman,WA (United States)] Benke",
+          "primaryContact": false
+        },
+        {
+          "name": "Tony [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Trieu",
+          "primaryContact": false
+        },
+        {
+          "name": "Zhou [Washington State University,Pullman,WA (United States)] Tang",
+          "primaryContact": false
+        },
+        {
+          "name": "Soyeon [University of Georgia,Athens,GA (United States); Stanford University,CA (United States)] Choi",
+          "primaryContact": false
+        },
+        {
+          "name": "Jianxin [University of Georgia,Athens,GA (United States)] Zhao",
+          "primaryContact": false
+        },
+        {
+          "name": "Eudald Illa [University of Georgia,Athens,GA (United States)] Berenguer",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas H. [University of Georgia,Athens,GA (United States)] Pendergast",
+          "primaryContact": false
+        },
+        {
+          "name": "Bing [University of Georgia,Athens,GA (United States)] Liu",
+          "primaryContact": false
+        },
+        {
+          "name": "Tina [Washington State University,Pullman,WA (United States)] Le",
+          "primaryContact": false
+        },
+        {
+          "name": "Kankshita [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Swaminathan",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiaoyu [University of Texas,Austin,TX (United States)] Weng",
+          "primaryContact": false
+        },
+        {
+          "name": "Carson [USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Andorf",
+          "primaryContact": false
+        },
+        {
+          "name": "Michelle A. [USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Graham",
+          "primaryContact": false
+        },
+        {
+          "name": "Karen [Washington State University,Pullman,WA (United States); South Dakota State University,Brookings,SD (United States)] Sanguinet",
+          "primaryContact": false
+        },
+        {
+          "name": "Zhiwu [Washington State University,Pullman,WA (United States)] Zhang",
+          "primaryContact": false
+        },
+        {
+          "name": "Laura E. [Washington State University,Pullman,WA (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Bartley",
+          "primaryContact": false
+        },
+        {
+          "name": "Yin [University of Delaware,Newark,DE (United States)] Bao",
+          "primaryContact": false
+        },
+        {
+          "name": "Wayne [University of Georgia,Athens,GA (United States)] Parrott",
+          "primaryContact": false
+        },
+        {
+          "name": "Katrien M. [University of Georgia,Athens,GA (United States)] Devos",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas [University of Texas,Austin,TX (United States)] Juenger",
+          "primaryContact": false
+        },
+        {
+          "name": "Jianming [Iowa State University,Ames,IA (United States)] Yu",
+          "primaryContact": false
+        },
+        {
+          "name": "Xianran [USDA-ARS Wheat Health,Pullman,WA (United States); Washington State University,Pullman,WA (United States)] Li",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDA-ARS"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364589",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Multi-site Milling Strategy Reveals Significant Variation in Biomass Composition of Switchgrass (<em>Panicum virgatum</em>) Grown at Ten Locations",
       "description": "Cell wall composition influences biomass use as a forage and as a feedstock for biofuel and chemical conversion. To examine the influence of environment on composition of switchgrass (Panicum virgatum L.), we utilized a multi-environment experiment consisting of clones of switchgrass genotypes grown at up to ten locations in the continental US. We tested the influence of different milling treatments on biomass composition trait predictions via near-infrared reflectance spectroscopy (NIRS). We found that most compositional trait predictions (29/34) were significantly different (P &lt; 0.05) when a single lot of biomass was subjected to disparate milling treatments, i.e., knife milling vs. knife milling with an additional cyclone milling. Further, depending on the plant material tested, three to eight compositional trait predictions vary (P &lt; 0.05) when identical biomass was knife milled at different sites followed by cyclone milling at a single site, including for traits such as Klason lignin, nitrogen, and carbon. In some cases, variation due to milling site exceeded environmentally induced compositional variation of a single switchgrass genotype grown at different sites. From these observations, we recommend a protocol with two sequential millings that decouples growth environment from a particular mill. Utilizing this approach, we found that 46/46 biomass composition traits from the warm season herbaceous forage and switchgrass bioethanol NIRS equations vary significantly (P &lt; 0.001) in clones of a switchgrass genotype (WBC) grown at ten sites, with the growth site representing the largest average source of variation (41%). This multi-site milling approach can be used to examine environmental and gene-by-environment influences on composition with the goal of optimizing cell wall composition in different environments for biomass utilization.",
       "abstract": "Cell wall composition influences biomass use as a forage and as a feedstock for biofuel and chemical conversion. To examine the influence of environment on composition of switchgrass (Panicum virgatum L.), we utilized a multi-environment experiment consisting of clones of switchgrass genotypes grown at up to ten locations in the continental US. We tested the influence of different milling treatments on biomass composition trait predictions via near-infrared reflectance spectroscopy (NIRS). We found that most compositional trait predictions (29/34) were significantly different (P &lt; 0.05) when a single lot of biomass was subjected to disparate milling treatments, i.e., knife milling vs. knife milling with an additional cyclone milling. Further, depending on the plant material tested, three to eight compositional trait predictions vary (P &lt; 0.05) when identical biomass was knife milled at different sites followed by cyclone milling at a single site, including for traits such as Klason lignin, nitrogen, and carbon. In some cases, variation due to milling site exceeded environmentally induced compositional variation of a single switchgrass genotype grown at different sites. From these observations, we recommend a protocol with two sequential millings that decouples growth environment from a particular mill. Utilizing this approach, we found that 46/46 biomass composition traits from the warm season herbaceous forage and switchgrass bioethanol NIRS equations vary significantly (P &lt; 0.001) in clones of a switchgrass genotype (WBC) grown at ten sites, with the growth site representing the largest average source of variation (41%). This multi-site milling approach can be used to examine environmental and gene-by-environment influences on composition with the goal of optimizing cell wall composition in different environments for biomass utilization.",
@@ -32107,6 +32463,87 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3364779",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Biomass carbon removal can help sustainable aviation fuels achieve on-time arrival",
+      "description": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
+      "abstract": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
+      "date": "2026-05-01",
+      "issue": "6",
+      "identifier": "https://www.osti.gov/biblio/3367069",
+      "bibliographicCitation": "https://doi.org/10.1016/j.isci.2026.115956",
+      "journal_name": "iScience",
+      "volume": "29",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Matthew H [ORNL] (ORCID:0000000281537154) Langholtz",
+          "primaryContact": true
+        },
+        {
+          "name": "Joe [North Carolina State University] Sagues",
+          "primaryContact": false
+        },
+        {
+          "name": "Charlotte [Carbon180] Levy",
+          "primaryContact": false
+        },
+        {
+          "name": "John   [ORNL] (ORCID:0000000344518947) Field",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel [Lawrence Livermore National Laboratory (LLNL)] Sanchez",
+          "primaryContact": false
+        },
+        {
+          "name": "Pete [Loamist] Christensen",
+          "primaryContact": false
+        },
+        {
+          "name": "Lawrence [Clemson University] Murdoch",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel   [ORNL] (ORCID:0000000238350458) De La Torre Ugarte",
+          "primaryContact": false
+        },
+        {
+          "name": "Ryan   [ORNL] (ORCID:0000000329209695) Jacobson",
+          "primaryContact": false
+        },
+        {
+          "name": "Ning [University of Maryland] Zeng",
+          "primaryContact": false
+        },
+        {
+          "name": "Damon [Idaho National Laboratory (INL)] Hartley",
+          "primaryContact": false
+        },
+        {
+          "name": "Emily [University of Illinois at Urbana-Champaign] Heaton",
+          "primaryContact": false
+        },
+        {
+          "name": "Charles W. [Massachusetts Institute of Technology (MIT)] Forsberg",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3367069",
       "active": false
     }
   ]
