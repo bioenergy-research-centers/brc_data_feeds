@@ -32545,6 +32545,72 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3367069",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Advancing specialized biofoundries via automated adaptive laboratory evolution",
+      "date": "2026-05-31",
+      "identifier": "https://www.osti.gov/biblio/3367793",
+      "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2026.103496",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Adaptive Laboratory Evolution",
+        "CBI",
+        "Conversion"
+      ],
+      "journal_name": "Current Opinion in Biotechnology",
+      "volume": "99",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Adam M (ORCID:0000000286304800) Feist",
+          "primaryContact": true
+        },
+        {
+          "name": "Sunghwa Woo",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Lawrence Berkeley National Laboratory"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Novo Nordisk Fonden"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Novo Nordisk Haemophilia & Haemoglobinopathies Foundation"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Science"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "U.S. Department of Energy"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "US Department of Energy Biological and Environmental Research"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3367793",
+      "active": false
     }
   ]
 }
