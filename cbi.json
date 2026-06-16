@@ -8251,39 +8251,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Targeting Root Ion Uptake Kinetics to Increase Plant Productivity and Nutrient Use Efficiency",
-      "description": "Not Available",
-      "abstract": "Not Available",
-      "date": "2020-02-05",
-      "issue": "4",
-      "identifier": "https://www.osti.gov/biblio/1598086",
-      "bibliographicCitation": "https://doi.org/10.1104/pp.19.01496",
-      "journal_name": "Plant Physiology (Bethesda)",
-      "volume": "182",
-      "publisher_information": "Oxford University Press",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Marcus [Noble Research Institute,LLC,Ardmore,Oklahoma 73401] (ORCID:0000000323498967) Griffiths",
-          "primaryContact": true
-        },
-        {
-          "name": "Larry M. [Noble Research Institute,LLC,Ardmore,Oklahoma 73401] (ORCID:0000000219959479) York",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/1598086",
-      "active": false
-    },
-    {
-      "brc": "CBI",
       "title": "Towards renewable flavors, fragrances, and beyond",
       "description": "Esters demand a large space of unique molecules with broad range of applications as flavors, fragrances, pharmaceuticals, cosmetics, green solvents, and advanced biofuels. Global demand of natural esters in food, household cleaner, personal care, and perfume industries is increasing while the ester supply from natural sources has been limited. Development of novel microbial cell factories for ester production from renewable feedstocks can potentially provide an alternative and sustainable source of natural esters and hence help fulfill growing demand. In this work, we highlight recent advances in microbial production of esters and provide perspectives for improving its economic feasibility. As the field matures, microbial ester production platforms will enable renewable and sustainable production of flavors, fragrances, and open new market opportunities beyond what nature can offer.",
       "abstract": "Esters demand a large space of unique molecules with broad range of applications as flavors, fragrances, pharmaceuticals, cosmetics, green solvents, and advanced biofuels. Global demand of natural esters in food, household cleaner, personal care, and perfume industries is increasing while the ester supply from natural sources has been limited. Development of novel microbial cell factories for ester production from renewable feedstocks can potentially provide an alternative and sustainable source of natural esters and hence help fulfill growing demand. In this work, we highlight recent advances in microbial production of esters and provide perspectives for improving its economic feasibility. As the field matures, microbial ester production platforms will enable renewable and sustainable production of flavors, fragrances, and open new market opportunities beyond what nature can offer.",
