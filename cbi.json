@@ -10594,6 +10594,107 @@
     },
     {
       "brc": "CBI",
+      "title": "Development and characterization of stable anaerobic thermophilic methanogenic microbiomes fermenting switchgrass at decreasing residence times",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2018-09-05",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1618731",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-018-1238-1",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Anaerobic",
+        "Clostridium clariflavum",
+        "Lignocellulose",
+        "Metagenomics",
+        "Methanogenic",
+        "Microbial communities",
+        "Solubilization",
+        "Thermophilic"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "11",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Xiaoyu (ORCID:0000000230389374) Liang",
+          "primaryContact": true
+        },
+        {
+          "name": "Jason M. Whitham",
+          "primaryContact": false
+        },
+        {
+          "name": "Evert K. Holwerda",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiongjun Shao",
+          "primaryContact": false
+        },
+        {
+          "name": "Liang Tian",
+          "primaryContact": false
+        },
+        {
+          "name": "Yu-Wei Wu",
+          "primaryContact": false
+        },
+        {
+          "name": "Vincent Lombard",
+          "primaryContact": false
+        },
+        {
+          "name": "Bernard Henrissat",
+          "primaryContact": false
+        },
+        {
+          "name": "Dawn M. Klingeman",
+          "primaryContact": false
+        },
+        {
+          "name": "Zamin K. Yang",
+          "primaryContact": false
+        },
+        {
+          "name": "Mircea Podar",
+          "primaryContact": false
+        },
+        {
+          "name": "Tom L. Richard",
+          "primaryContact": false
+        },
+        {
+          "name": "James G. Elkins",
+          "primaryContact": false
+        },
+        {
+          "name": "Steven D. Brown",
+          "primaryContact": false
+        },
+        {
+          "name": "Lee R. Lynd",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1618731",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "High activity CAZyme cassette for improving biomass degradation in thermophiles",
       "description": "Not Available",
       "abstract": "Not Available",
