@@ -13681,55 +13681,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Thermodynamic analysis of the pathway for ethanol production from cellobiose in Clostridium thermocellum",
-      "description": "Not Available",
-      "abstract": "Not Available",
-      "date": "2019-08-31",
-      "issue": "C",
-      "identifier": "https://www.osti.gov/biblio/1694035",
-      "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2019.06.006",
-      "journal_name": "Metabolic Engineering",
-      "volume": "55",
-      "publisher_information": "Elsevier",
-      "country_publication_code": "Belgium",
-      "creator": [
-        {
-          "name": "Satyakam Dash",
-          "primaryContact": true
-        },
-        {
-          "name": "Daniel G. Olson",
-          "primaryContact": false
-        },
-        {
-          "name": "Siu Hung Joshua Chan",
-          "primaryContact": false
-        },
-        {
-          "name": "Daniel Amador-Noguez",
-          "primaryContact": false
-        },
-        {
-          "name": "Lee R. Lynd",
-          "primaryContact": false
-        },
-        {
-          "name": "Costas D. Maranas",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/1694035",
-      "active": false
-    },
-    {
-      "brc": "CBI",
       "title": "The effect of switchgrass plant cell wall properties on its deconstruction by thermochemical pretreatments coupled with fungal enzymatic hydrolysis or Clostridium thermocellum consolidated bioprocessing",
       "description": "A combination of thermochemical pretreatment and biological digestion technologies is usually required to overcome lignocellulosic recalcitrance and accomplish effective biomass deconstruction. In this study, we aimed to understand switchgrass breakdown by hydrothermal, dilute acid, dilute alkali, and co-solvent enhanced lignocellulosic fractionation (CELF) pretreatments followed by application of traditional fungal enzymatic hydrolysis (EH) and Clostridium thermocellum consolidated bioprocessing (CBP) to the resulting solids. Unpretreated and pretreated switchgrass and their EH and CBP residues were characterized by a suite of analytical techniques to understand structural changes that occurred during deconstruction. CELF pretreated solids showed the highest accessibility and digestibility by both EH and CBP followed by dilute alkali and then dilute acid/hydrothermal pretreated solids. Lignin removal from biomass had a more positive impact on substrate accessibility and digestibility than did xylan removal, while xyloglucan removal by pretreatment appeared essential for cellulose digestion by fungal enzymes. The extent of CBP digestion of cellulose and non-cellulosic glycans was larger than that by EH. Unlike dilute alkali pretreatment, cellulose crystallinity increased for acid-based pretreatments in the following order: hydrothermal, dilute acid, and CELF. Acid-based pretreatments also substantially reduced cellulose degree of polymerization. All thermochemical and biological digestion approaches increased syringyl to guaiacyl lignin (S/G) ratio and reduced \u03b2-O-4 lignin interunit linkage and hydroxycinnamates content from levels in unpretreated switchgrass. The substantial increase in S/G ratio after hydrothermal and dilute alkali preatreatments suggested that high temperatures or alkali removed a large portion of G lignin from switchgrass.",
       "abstract": "A combination of thermochemical pretreatment and biological digestion technologies is usually required to overcome lignocellulosic recalcitrance and accomplish effective biomass deconstruction. In this study, we aimed to understand switchgrass breakdown by hydrothermal, dilute acid, dilute alkali, and co-solvent enhanced lignocellulosic fractionation (CELF) pretreatments followed by application of traditional fungal enzymatic hydrolysis (EH) and Clostridium thermocellum consolidated bioprocessing (CBP) to the resulting solids. Unpretreated and pretreated switchgrass and their EH and CBP residues were characterized by a suite of analytical techniques to understand structural changes that occurred during deconstruction. CELF pretreated solids showed the highest accessibility and digestibility by both EH and CBP followed by dilute alkali and then dilute acid/hydrothermal pretreated solids. Lignin removal from biomass had a more positive impact on substrate accessibility and digestibility than did xylan removal, while xyloglucan removal by pretreatment appeared essential for cellulose digestion by fungal enzymes. The extent of CBP digestion of cellulose and non-cellulosic glycans was larger than that by EH. Unlike dilute alkali pretreatment, cellulose crystallinity increased for acid-based pretreatments in the following order: hydrothermal, dilute acid, and CELF. Acid-based pretreatments also substantially reduced cellulose degree of polymerization. All thermochemical and biological digestion approaches increased syringyl to guaiacyl lignin (S/G) ratio and reduced \u03b2-O-4 lignin interunit linkage and hydroxycinnamates content from levels in unpretreated switchgrass. The substantial increase in S/G ratio after hydrothermal and dilute alkali preatreatments suggested that high temperatures or alkali removed a large portion of G lignin from switchgrass.",
