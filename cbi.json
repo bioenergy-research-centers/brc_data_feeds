@@ -29099,6 +29099,65 @@
     },
     {
       "brc": "CBI",
+      "title": "\u03b3-Aminobutyric acid modulates terpene biosynthesis through the ATG8a-mediated pathway",
+      "description": "Terpenes play crucial roles in plant growth, development, and stress responses. The biosynthesis of terpenes is influenced by abiotic stress factors, such as drought, temperature, or light. Here, however, the molecular network underlying how terpenes are regulated in response to environmental stimuli remains largely unknown. Here, we identified the autophagy protein SgATG8a as a key mediator of GABA-regulated terpene production and drought tolerance in Sindora glabra. SgATG8a, evolutionarily related to the animal GABA receptor-associated protein (GABARAP) subfamily, localizes in both the nucleus and cytoplasm. Exogenous GABA treatment not only increased the expression level of terpene synthase genes (SgTPSs) but also led to enhanced accumulation of six main terpene components in Sindora glabra. In addition, GABA alleviated the photosynthesis damage and enhanced leaf biomass under drought conditions. Consistently, overexpression of SgATG8a in Arabidopsis increased terpene synthase gene (SgTPS) expression, leading to the enhanced production of four major terpenes and improved the tolerance of transgenic plants to drought stress by regulating reactive oxygen species (ROS) scavenging systems. Moreover, the transcription factors SgWRKY13 and SgERF4 were identified as interacting partners of SgATG8a, activating SgTPS3 expression. Lectin receptor-like kinase (LecRK1) is involved in the GABA-mediated pathway by interacting with the SgWRKY13/SgERF4-SgATG8a proteins, and the LecRK1-SgWRKY13/SgERF4 phosphorylation module fine-tunes the transcription of the downstream SgTPS3 gene. Taken together, these findings reveal a novel role for GABA in regulating terpene biosynthesis and drought tolerance, providing insights into the molecular mechanism underlying GABA-mediated terpene production.",
+      "abstract": "Terpenes play crucial roles in plant growth, development, and stress responses. The biosynthesis of terpenes is influenced by abiotic stress factors, such as drought, temperature, or light. Here, however, the molecular network underlying how terpenes are regulated in response to environmental stimuli remains largely unknown. Here, we identified the autophagy protein SgATG8a as a key mediator of GABA-regulated terpene production and drought tolerance in Sindora glabra. SgATG8a, evolutionarily related to the animal GABA receptor-associated protein (GABARAP) subfamily, localizes in both the nucleus and cytoplasm. Exogenous GABA treatment not only increased the expression level of terpene synthase genes (SgTPSs) but also led to enhanced accumulation of six main terpene components in Sindora glabra. In addition, GABA alleviated the photosynthesis damage and enhanced leaf biomass under drought conditions. Consistently, overexpression of SgATG8a in Arabidopsis increased terpene synthase gene (SgTPS) expression, leading to the enhanced production of four major terpenes and improved the tolerance of transgenic plants to drought stress by regulating reactive oxygen species (ROS) scavenging systems. Moreover, the transcription factors SgWRKY13 and SgERF4 were identified as interacting partners of SgATG8a, activating SgTPS3 expression. Lectin receptor-like kinase (LecRK1) is involved in the GABA-mediated pathway by interacting with the SgWRKY13/SgERF4-SgATG8a proteins, and the LecRK1-SgWRKY13/SgERF4 phosphorylation module fine-tunes the transcription of the downstream SgTPS3 gene. Taken together, these findings reveal a novel role for GABA in regulating terpene biosynthesis and drought tolerance, providing insights into the molecular mechanism underlying GABA-mediated terpene production.",
+      "date": "2025-05-26",
+      "issue": "4",
+      "identifier": "https://www.osti.gov/biblio/2573555",
+      "bibliographicCitation": "https://doi.org/10.1111/tpj.70232",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "GABA",
+        "Sesquiterpene biosynthesis",
+        "Sindora glabra",
+        "autophagy protein",
+        "terpene synthase"
+      ],
+      "journal_name": "The Plant Journal",
+      "volume": "122",
+      "publisher_information": "Society for Experimental Biology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Niu [Chinese Academy of Forestry,Guangzhou (China)] (ORCID:0000000238412815) Yu",
+          "primaryContact": true
+        },
+        {
+          "name": "Jinchang [Chinese Academy of Forestry,Guangzhou (China)] Yang",
+          "primaryContact": false
+        },
+        {
+          "name": "Shengqing [Chinese Academy of Forestry,Beijing (China)] Shi",
+          "primaryContact": false
+        },
+        {
+          "name": "Tao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000293820731) Yao",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Natural Science Foundation of China"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Natural Science Foundation of Guangdong Province"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2573555",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Through the lens of bioenergy crops: advances, bottlenecks, and promises of plant engineering",
       "description": "Advances in engineering of bioenergy crops were driven over the past years by adapting technological breakthroughs and accelerating conventional applications but also exposed intriguing challenges. New tools revealed rich interconnectivity in the exponentially growing and dynamic 'big' omics data' of metabolomes, transcriptomes, and genomes at previously inaccessible magnitude (global, cross-species, meta-) and resolution (single cell). Insights enabled fresh hypotheses and stimulated disciplines such as functional genomics with discovery of broad regulatory networks and their determinants, that is, DNA parts, including promoters, regulatory elements, and transcription factors. Their rational design, assembly into increasingly complex blueprints, and installation into diverse chassis is an existing frontier that may benefit from emerging technologies to address bottlenecks. Interweaving nature-inspired to fully synthetic parts has already allowed building of fine-tuned regulatory circuits, or new-to-nature metabolic routes insulated from the biological context of the chassis species. Similarly, developments and the evolving need for unifying principles in plant transformation and species-agnostic technologies highlight future opportunities for engineering the next generation of bioenergy plants.",
       "abstract": "Advances in engineering of bioenergy crops were driven over the past years by adapting technological breakthroughs and accelerating conventional applications but also exposed intriguing challenges. New tools revealed rich interconnectivity in the exponentially growing and dynamic 'big' omics data' of metabolomes, transcriptomes, and genomes at previously inaccessible magnitude (global, cross-species, meta-) and resolution (single cell). Insights enabled fresh hypotheses and stimulated disciplines such as functional genomics with discovery of broad regulatory networks and their determinants, that is, DNA parts, including promoters, regulatory elements, and transcription factors. Their rational design, assembly into increasingly complex blueprints, and installation into diverse chassis is an existing frontier that may benefit from emerging technologies to address bottlenecks. Interweaving nature-inspired to fully synthetic parts has already allowed building of fine-tuned regulatory circuits, or new-to-nature metabolic routes insulated from the biological context of the chassis species. Similarly, developments and the evolving need for unifying principles in plant transformation and species-agnostic technologies highlight future opportunities for engineering the next generation of bioenergy plants.",
