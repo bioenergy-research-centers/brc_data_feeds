@@ -12537,6 +12537,98 @@
     },
     {
       "brc": "CBI",
+      "title": "Deconstruction of biomass enabled by local demixing of cosolvents at cellulose and lignin surfaces",
+      "description": "<p>\r\n A particularly promising approach to deconstructing and fractionating lignocellulosic biomass to produce green renewable fuels and high-value chemicals pretreats the biomass with organic solvents in aqueous solution. Here, neutron scattering and molecular-dynamics simulations reveal the temperature-dependent morphological changes in poplar wood biomass during tetrahydrofuran (THF):water pretreatment and provide a mechanism by which the solvent components drive efficient biomass breakdown. Whereas lignin dissociates over a wide temperature range (>25 \u00b0C) cellulose disruption occurs only above 150 \u00b0C. Neutron scattering with contrast variation provides direct evidence for the formation of THF-rich nanoclusters (R\r\n <sub>g</sub>\r\n \u223c 0.5 nm) on the nonpolar cellulose surfaces and on hydrophobic lignin, and equivalent water-rich nanoclusters on polar cellulose surfaces. The disassembly of the amphiphilic biomass is thus enabled through the local demixing of highly functional cosolvents, THF and water, which preferentially solvate specific biomass surfaces so as to match the local solute polarity. A multiscale description of the efficiency of THF:water pretreatment is provided: matching polarity at the atomic scale prevents lignin aggregation and disrupts cellulose, leading to improvements in deconstruction at the macroscopic scale.\r\n </p>",
+      "abstract": "<p>\r\n A particularly promising approach to deconstructing and fractionating lignocellulosic biomass to produce green renewable fuels and high-value chemicals pretreats the biomass with organic solvents in aqueous solution. Here, neutron scattering and molecular-dynamics simulations reveal the temperature-dependent morphological changes in poplar wood biomass during tetrahydrofuran (THF):water pretreatment and provide a mechanism by which the solvent components drive efficient biomass breakdown. Whereas lignin dissociates over a wide temperature range (>25 \u00b0C) cellulose disruption occurs only above 150 \u00b0C. Neutron scattering with contrast variation provides direct evidence for the formation of THF-rich nanoclusters (R\r\n <sub>g</sub>\r\n \u223c 0.5 nm) on the nonpolar cellulose surfaces and on hydrophobic lignin, and equivalent water-rich nanoclusters on polar cellulose surfaces. The disassembly of the amphiphilic biomass is thus enabled through the local demixing of highly functional cosolvents, THF and water, which preferentially solvate specific biomass surfaces so as to match the local solute polarity. A multiscale description of the efficiency of THF:water pretreatment is provided: matching polarity at the atomic scale prevents lignin aggregation and disrupts cellulose, leading to improvements in deconstruction at the macroscopic scale.\r\n </p>",
+      "date": "2020-07-06",
+      "issue": "29",
+      "identifier": "https://www.osti.gov/biblio/1637572",
+      "bibliographicCitation": "https://doi.org/10.1073/pnas.1922883117",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "biomass",
+        "pretreatment",
+        "solvents"
+      ],
+      "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
+      "volume": "117",
+      "publisher_information": "National Academy of Sciences",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Sai Venkatesh Pingali",
+          "primaryContact": true
+        },
+        {
+          "name": "Micholas Dean Smith",
+          "primaryContact": false
+        },
+        {
+          "name": "Shih-Hsien Liu",
+          "primaryContact": false
+        },
+        {
+          "name": "Takat B. (ORCID:0000000331917770) Rawal",
+          "primaryContact": false
+        },
+        {
+          "name": "Yunqiao Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Riddhi Shah",
+          "primaryContact": false
+        },
+        {
+          "name": "Barbara R. (ORCID:0000000225742567) Evans",
+          "primaryContact": false
+        },
+        {
+          "name": "Volker S. Urban",
+          "primaryContact": false
+        },
+        {
+          "name": "Brian H. (ORCID:0000000274083609) Davison",
+          "primaryContact": false
+        },
+        {
+          "name": "Charles M. (ORCID:0000000250470815) Cai",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. (ORCID:000000023536554X) Ragauskas",
+          "primaryContact": false
+        },
+        {
+          "name": "Hugh M. O\u2019Neill",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy C. Smith",
+          "primaryContact": false
+        },
+        {
+          "name": "Loukas Petridis",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1637572",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Plant Biosystems Design for a Carbon-Neutral Bioeconomy",
       "description": "<p>\r\n Our society faces multiple daunting challenges including finding sustainable solutions towards climate change mitigation; efficient production of food, biofuels, and biomaterials; maximizing land-use efficiency; and enabling a sustainable bioeconomy. Plants can provide environmentally and economically sustainable solutions to these challenges due to their inherent capabilities for photosynthetic capture of atmospheric CO\r\n <sub>2</sub>\r\n , allocation of carbon to various organs and partitioning into various chemical forms, including contributions to total soil carbon. In order to enhance crop productivity and optimize chemistry simultaneously in the above- and belowground plant tissues, transformative biosystems design strategies are needed. Concerted research efforts will be required for accelerating the development of plant cultivars, genotypes, or varieties that are cooptimized in the contexts of biomass-derived fuels and/or materials aboveground and enhanced carbon sequestration belowground. Here, we briefly discuss significant knowledge gaps in our process understanding and the potential of synthetic biology in enabling advancements along the fundamental to applied research arc. Ultimately, a convergence of perspectives from academic, industrial, government, and consumer sectors will be needed to realize the potential merits of plant biosystems design for a carbon neutral bioeconomy.\r\n </p>",
       "abstract": "<p>\r\n Our society faces multiple daunting challenges including finding sustainable solutions towards climate change mitigation; efficient production of food, biofuels, and biomaterials; maximizing land-use efficiency; and enabling a sustainable bioeconomy. Plants can provide environmentally and economically sustainable solutions to these challenges due to their inherent capabilities for photosynthetic capture of atmospheric CO\r\n <sub>2</sub>\r\n , allocation of carbon to various organs and partitioning into various chemical forms, including contributions to total soil carbon. In order to enhance crop productivity and optimize chemistry simultaneously in the above- and belowground plant tissues, transformative biosystems design strategies are needed. Concerted research efforts will be required for accelerating the development of plant cultivars, genotypes, or varieties that are cooptimized in the contexts of biomass-derived fuels and/or materials aboveground and enhanced carbon sequestration belowground. Here, we briefly discuss significant knowledge gaps in our process understanding and the potential of synthetic biology in enabling advancements along the fundamental to applied research arc. Ultimately, a convergence of perspectives from academic, industrial, government, and consumer sectors will be needed to realize the potential merits of plant biosystems design for a carbon neutral bioeconomy.\r\n </p>",
@@ -29003,65 +29095,6 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/2573188",
-      "active": false
-    },
-    {
-      "brc": "CBI",
-      "title": "\u03b3-Aminobutyric acid modulates terpene biosynthesis through the ATG8a-mediated pathway",
-      "description": "Terpenes play crucial roles in plant growth, development, and stress responses. The biosynthesis of terpenes is influenced by abiotic stress factors, such as drought, temperature, or light. Here, however, the molecular network underlying how terpenes are regulated in response to environmental stimuli remains largely unknown. Here, we identified the autophagy protein SgATG8a as a key mediator of GABA-regulated terpene production and drought tolerance in Sindora glabra. SgATG8a, evolutionarily related to the animal GABA receptor-associated protein (GABARAP) subfamily, localizes in both the nucleus and cytoplasm. Exogenous GABA treatment not only increased the expression level of terpene synthase genes (SgTPSs) but also led to enhanced accumulation of six main terpene components in Sindora glabra. In addition, GABA alleviated the photosynthesis damage and enhanced leaf biomass under drought conditions. Consistently, overexpression of SgATG8a in Arabidopsis increased terpene synthase gene (SgTPS) expression, leading to the enhanced production of four major terpenes and improved the tolerance of transgenic plants to drought stress by regulating reactive oxygen species (ROS) scavenging systems. Moreover, the transcription factors SgWRKY13 and SgERF4 were identified as interacting partners of SgATG8a, activating SgTPS3 expression. Lectin receptor-like kinase (LecRK1) is involved in the GABA-mediated pathway by interacting with the SgWRKY13/SgERF4-SgATG8a proteins, and the LecRK1-SgWRKY13/SgERF4 phosphorylation module fine-tunes the transcription of the downstream SgTPS3 gene. Taken together, these findings reveal a novel role for GABA in regulating terpene biosynthesis and drought tolerance, providing insights into the molecular mechanism underlying GABA-mediated terpene production.",
-      "abstract": "Terpenes play crucial roles in plant growth, development, and stress responses. The biosynthesis of terpenes is influenced by abiotic stress factors, such as drought, temperature, or light. Here, however, the molecular network underlying how terpenes are regulated in response to environmental stimuli remains largely unknown. Here, we identified the autophagy protein SgATG8a as a key mediator of GABA-regulated terpene production and drought tolerance in Sindora glabra. SgATG8a, evolutionarily related to the animal GABA receptor-associated protein (GABARAP) subfamily, localizes in both the nucleus and cytoplasm. Exogenous GABA treatment not only increased the expression level of terpene synthase genes (SgTPSs) but also led to enhanced accumulation of six main terpene components in Sindora glabra. In addition, GABA alleviated the photosynthesis damage and enhanced leaf biomass under drought conditions. Consistently, overexpression of SgATG8a in Arabidopsis increased terpene synthase gene (SgTPS) expression, leading to the enhanced production of four major terpenes and improved the tolerance of transgenic plants to drought stress by regulating reactive oxygen species (ROS) scavenging systems. Moreover, the transcription factors SgWRKY13 and SgERF4 were identified as interacting partners of SgATG8a, activating SgTPS3 expression. Lectin receptor-like kinase (LecRK1) is involved in the GABA-mediated pathway by interacting with the SgWRKY13/SgERF4-SgATG8a proteins, and the LecRK1-SgWRKY13/SgERF4 phosphorylation module fine-tunes the transcription of the downstream SgTPS3 gene. Taken together, these findings reveal a novel role for GABA in regulating terpene biosynthesis and drought tolerance, providing insights into the molecular mechanism underlying GABA-mediated terpene production.",
-      "date": "2025-05-26",
-      "issue": "4",
-      "identifier": "https://www.osti.gov/biblio/2573555",
-      "bibliographicCitation": "https://doi.org/10.1111/tpj.70232",
-      "keywords": [
-        "59 BASIC BIOLOGICAL SCIENCES",
-        "GABA",
-        "Sesquiterpene biosynthesis",
-        "Sindora glabra",
-        "autophagy protein",
-        "terpene synthase"
-      ],
-      "journal_name": "The Plant Journal",
-      "volume": "122",
-      "publisher_information": "Society for Experimental Biology",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Niu [Chinese Academy of Forestry,Guangzhou (China)] (ORCID:0000000238412815) Yu",
-          "primaryContact": true
-        },
-        {
-          "name": "Jinchang [Chinese Academy of Forestry,Guangzhou (China)] Yang",
-          "primaryContact": false
-        },
-        {
-          "name": "Shengqing [Chinese Academy of Forestry,Beijing (China)] Shi",
-          "primaryContact": false
-        },
-        {
-          "name": "Tao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000293820731) Yao",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "National Natural Science Foundation of China"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Natural Science Foundation of Guangdong Province"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/2573555",
       "active": false
     },
     {
