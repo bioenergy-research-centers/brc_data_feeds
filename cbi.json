@@ -16087,6 +16087,78 @@
     },
     {
       "brc": "CBI",
+      "title": "Machine Learning-Based Classification of Lignocellulosic Biomass from Pyrolysis-Molecular Beam Mass Spectrometry Data",
+      "description": "<p>High-throughput analysis of biomass is necessary to ensure consistent and uniform feedstocks for agricultural and bioenergy applications and is needed to inform genomics and systems biology models. Pyrolysis followed by mass spectrometry such as molecular beam mass spectrometry (py-MBMS) analyses are becoming increasingly popular for the rapid analysis of biomass cell wall composition and typically require the use of different data analysis tools depending on the need and application. Here, the authors report the py-MBMS analysis of several types of lignocellulosic biomass to gain an understanding of spectral patterns and variation with associated biomass composition and use machine learning approaches to classify, differentiate, and predict biomass types on the basis of py-MBMS spectra. Py-MBMS spectra were also corrected for instrumental variance using generalized linear modeling (GLM) based on the use of select ions relative abundances as spike-in controls. Machine learning classification algorithms e.g., random forest, k-nearest neighbor, decision tree, Gaussian Na\u00efve Bayes, gradient boosting, and multilayer perceptron classifiers were used. The k-nearest neighbors (k-NN) classifier generally performed the best for classifications using raw spectral data, and the decision tree classifier performed the worst. After normalization of spectra to account for instrumental variance, all the classifiers had comparable and generally acceptable performance for predicting the biomass types, although the k-NN and decision tree classifiers were not as accurate for prediction of specific sample types. Gaussian Na\u00efve Bayes (GNB) and extreme gradient boosting (XGB) classifiers performed better than the k-NN and the decision tree classifiers for the prediction of biomass mixtures. The data analysis workflow reported here could be applied and extended for comparison of biomass samples of varying types, species, phenotypes, and/or genotypes or subjected to different treatments, environments, etc. to further elucidate the sources of spectral variance, patterns, and to infer compositional information based on spectral analysis, particularly for analysis of data without a priori knowledge of the feedstock composition or identity.</p>",
+      "abstract": "<p>High-throughput analysis of biomass is necessary to ensure consistent and uniform feedstocks for agricultural and bioenergy applications and is needed to inform genomics and systems biology models. Pyrolysis followed by mass spectrometry such as molecular beam mass spectrometry (py-MBMS) analyses are becoming increasingly popular for the rapid analysis of biomass cell wall composition and typically require the use of different data analysis tools depending on the need and application. Here, the authors report the py-MBMS analysis of several types of lignocellulosic biomass to gain an understanding of spectral patterns and variation with associated biomass composition and use machine learning approaches to classify, differentiate, and predict biomass types on the basis of py-MBMS spectra. Py-MBMS spectra were also corrected for instrumental variance using generalized linear modeling (GLM) based on the use of select ions relative abundances as spike-in controls. Machine learning classification algorithms e.g., random forest, k-nearest neighbor, decision tree, Gaussian Na\u00efve Bayes, gradient boosting, and multilayer perceptron classifiers were used. The k-nearest neighbors (k-NN) classifier generally performed the best for classifications using raw spectral data, and the decision tree classifier performed the worst. After normalization of spectra to account for instrumental variance, all the classifiers had comparable and generally acceptable performance for predicting the biomass types, although the k-NN and decision tree classifiers were not as accurate for prediction of specific sample types. Gaussian Na\u00efve Bayes (GNB) and extreme gradient boosting (XGB) classifiers performed better than the k-NN and the decision tree classifiers for the prediction of biomass mixtures. The data analysis workflow reported here could be applied and extended for comparison of biomass samples of varying types, species, phenotypes, and/or genotypes or subjected to different treatments, environments, etc. to further elucidate the sources of spectral variance, patterns, and to infer compositional information based on spectral analysis, particularly for analysis of data without a priori knowledge of the feedstock composition or identity.</p>",
+      "date": "2021-04-14",
+      "issue": "8",
+      "identifier": "https://www.osti.gov/biblio/1777643",
+      "bibliographicCitation": "https://doi.org/10.3390/ijms22084107",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Gaussian Na\u00efve Bayes",
+        "bioenergy",
+        "biomass",
+        "biomass analysis",
+        "biomaterials",
+        "biopolymers",
+        "classifiers",
+        "cork",
+        "decision tree",
+        "gradient boosting",
+        "molecular beam mass spectrometry",
+        "multilayer perceptron",
+        "pyrolysis",
+        "random\r\nforest",
+        "suberin"
+      ],
+      "journal_name": "International Journal of Molecular Sciences (Online)",
+      "volume": "22",
+      "publisher_information": "MDPI AG",
+      "country_publication_code": "Switzerland",
+      "creator": [
+        {
+          "name": "Ambarish Nag",
+          "primaryContact": true
+        },
+        {
+          "name": "Alida Gerritsen",
+          "primaryContact": false
+        },
+        {
+          "name": "Crissa Doeppke",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. Harman-Ware",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Transportation Office. Bioenergy Technologies Office"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1777643",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2800-79514"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "Engineering promiscuity of chloramphenicol acetyltransferase for microbial designer ester biosynthesis",
       "description": "Not Available",
       "abstract": "Not Available",
