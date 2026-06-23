@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.15",
+  "schema_version": "0.2.0",
   "datasets": [
     {
       "brc": "CBI",
@@ -17,6 +17,9 @@
         "Py-MBMS",
         "analytical pyrolysis",
         "plant cell wall property prediction"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "BioEnergy Research",
       "volume": "10",
@@ -81,6 +84,9 @@
         "ferredoxin",
         "nfnAB",
         "rnf"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Metabolic Engineering",
       "publisher_information": "Elsevier",
@@ -150,6 +156,9 @@
         "malic enzyme",
         "oxaloacetate decarboxylase",
         "pyruvate kinase"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Metabolic Engineering",
       "publisher_information": "Elsevier",
@@ -223,6 +232,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microbial Biotechnology (Online)",
       "volume": "10",
       "publisher_information": "Wiley-Blackwell",
@@ -280,6 +292,9 @@
         "secondary ions",
         "time-of-flight secondary ion mass spectrometry"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Energy Science & Engineering",
       "volume": "5",
       "publisher_information": "Wiley Blackwell (John Wiley & Sons)",
@@ -325,6 +340,9 @@
         "crystallinity",
         "degree of polymerization",
         "lignin"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "ChemSusChem",
       "volume": "9",
@@ -415,6 +433,9 @@
         "network-based data integration",
         "systems genetics"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "114",
       "publisher_information": "National Academy of Sciences, Washington, DC (United States)",
@@ -501,6 +522,9 @@
         "ruminiclostridium",
         "transcriptomics"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "83",
       "publisher_information": "American Society for Microbiology",
@@ -567,6 +591,10 @@
         "enzymatic sugar release",
         "straw"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "Analytica Chimica Acta",
       "volume": "962",
       "publisher_information": "Elsevier",
@@ -627,6 +655,10 @@
         "77 NANOSCIENCE AND NANOTECHNOLOGY",
         "applications of atomic force microscopy (AFM)",
         "nanoscale materials"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Materials Science & Bioproducts"
       ],
       "journal_name": "Scientific Reports",
       "volume": "7",
@@ -694,6 +726,9 @@
         "ionic liquids",
         "lignocellulosic biomass"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Current Opinion in Green and Sustainable Chemistry",
       "volume": "5",
       "publisher_information": "Elsevier",
@@ -737,6 +772,10 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY",
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Green Chemistry",
       "volume": "19",
@@ -799,6 +838,9 @@
         "reveals",
         "software"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Scientific Reports",
       "volume": "7",
       "publisher_information": "Nature Publishing Group",
@@ -851,6 +893,10 @@
         "lavonoids",
         "lignin",
         "tricin"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Chemistry Select",
       "volume": "2",
@@ -905,6 +951,10 @@
         "pretreatment",
         "surface analysis"
       ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
+      ],
       "journal_name": "ChemPlusChem",
       "volume": "82",
       "publisher_information": "ChemPubSoc Europe",
@@ -957,6 +1007,10 @@
         "microRNA156",
         "switchgrass",
         "transgene regulation"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Plant Biology"
       ],
       "journal_name": "Plant Biotechnology Journal",
       "volume": "16",
@@ -1051,6 +1105,9 @@
         "next-generation sequencing (NGS)",
         "repetitive DNA"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Microbiology",
       "volume": "8",
       "publisher_information": "Frontiers Research Foundation",
@@ -1098,6 +1155,10 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY",
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Green Chemistry",
       "volume": "19",
@@ -1157,6 +1218,9 @@
         "hydroxymethylfurfural",
         "pseudo-lignin"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Recent Advances in Petrochemical Science",
       "volume": "1",
       "publisher_information": "Juniper Publishers",
@@ -1197,6 +1261,10 @@
         "cellulosic ethanol",
         "clostridium thermocellum",
         "glutamine synthetase"
+      ],
+      "topic": [
+        "Microbiology",
+        "Plant Biology"
       ],
       "journal_name": "Metabolic Engineering",
       "volume": "41",
@@ -1272,6 +1340,9 @@
         "lignocellulose deconstruction and conversion",
         "switchgrass"
       ],
+      "topic": [
+        "Plant Biology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "83",
       "publisher_information": "American Society for Microbiology",
@@ -1341,6 +1412,9 @@
       "issue": "44",
       "identifier": "https://www.osti.gov/biblio/1399640",
       "bibliographicCitation": "https://doi.org/10.1073/pnas.1704652114",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "114",
       "publisher_information": "Proceedings of the National Academy of Sciences",
@@ -1389,6 +1463,9 @@
         "lignin",
         "sugars",
         "water"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biofuels, Bioproducts & Biorefining",
       "volume": "12",
@@ -1446,6 +1523,10 @@
         "genome sequencing",
         "niche construction",
         "peatlands"
+      ],
+      "topic": [
+        "Environmental Science & Sustainability",
+        "Plant Biology"
       ],
       "journal_name": "New Phytologist",
       "volume": "NA",
@@ -1613,6 +1694,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1413774",
       "bibliographicCitation": "https://doi.org/10.1016/j.carbpol.2017.03.062",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Carbohydrate Polymers",
       "volume": "168",
       "publisher_information": "Elsevier",
@@ -1682,6 +1766,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1416770",
       "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2017.02.016",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "45",
       "publisher_information": "Elsevier",
@@ -1737,6 +1824,9 @@
         "deconstruction",
         "depolymerization",
         "lignocellulose"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Current Opinion in Chemical Biology",
       "volume": "41",
@@ -1816,6 +1906,9 @@
       "issue": "8",
       "identifier": "https://www.osti.gov/biblio/1422455",
       "bibliographicCitation": "https://doi.org/10.1002/cbic.201700638",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "ChemBioChem: a European journal of chemical biology",
       "volume": "19",
       "publisher_information": "Wiley Blackwell (John Wiley & Sons)",
@@ -1861,6 +1954,9 @@
       "issue": "6",
       "identifier": "https://www.osti.gov/biblio/1426355",
       "bibliographicCitation": "https://doi.org/10.1002/bit.26582",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology and Bioengineering",
       "volume": "115",
       "publisher_information": "Wiley Blackwell (John Wiley & Sons)",
@@ -1926,6 +2022,9 @@
         "09 BIOMASS FUELS",
         "Science & Technology - Other Topics"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "PLoS ONE",
       "volume": "13",
       "publisher_information": "Public Library of Science",
@@ -1982,6 +2081,9 @@
         "Lignin",
         "Protocatechuate"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Metabolic Engineering Communications",
       "volume": "6",
       "publisher_information": "Elsevier",
@@ -2034,6 +2136,9 @@
         "proteomes",
         "transcription factors",
         "water resources"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "PLoS ONE",
       "volume": "13",
@@ -2109,6 +2214,9 @@
         "genetic engineering",
         "molecular engineering",
         "secondary metabolism"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Nature Communications",
       "volume": "9",
@@ -2304,6 +2412,9 @@
         "lines of evidence",
         "multi-omic data layering"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Frontiers in Energy Research",
       "volume": "6",
       "publisher_information": "Frontiers Research Foundation",
@@ -2400,6 +2511,9 @@
         "microcosm",
         "mycorrhiza"
       ],
+      "topic": [
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "8",
       "publisher_information": "Frontiers Media SA",
@@ -2454,6 +2568,9 @@
         "genome editing",
         "genome engineering",
         "transformation"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology and Bioengineering",
       "volume": "115",
@@ -2521,6 +2638,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1439267",
       "bibliographicCitation": "https://doi.org/10.1016/j.mec.2018.e00073",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Metabolic Engineering Communications",
       "volume": "7",
       "publisher_information": "Elsevier",
@@ -2579,6 +2699,9 @@
       "issue": "4",
       "identifier": "https://www.osti.gov/biblio/1457493",
       "bibliographicCitation": "https://doi.org/10.1111/nph.15258",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "New Phytologist",
       "volume": "219",
       "publisher_information": "Wiley-Blackwell",
@@ -2664,6 +2787,9 @@
         "CRISPRa",
         "CRISPRi"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology Journal",
       "volume": "13",
       "publisher_information": "Wiley",
@@ -2718,6 +2844,9 @@
         "hydrogenolysis",
         "lignin",
         "sorghum"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "6",
@@ -2779,6 +2908,9 @@
       "bibliographicCitation": "https://doi.org/10.1128/AEM.00444-17",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "83",
@@ -2852,6 +2984,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Horticulture Research (online)",
       "volume": "5",
       "publisher_information": "Springer Nature - Nanjing Agricultural University",
@@ -2912,6 +3047,9 @@
         "lignin",
         "polyQ",
         "subcellular localization"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "G3",
       "volume": "8",
@@ -3000,6 +3138,9 @@
         "genome-wide association studies",
         "leaves",
         "transcription factors"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "PLoS ONE",
       "volume": "13",
@@ -3101,6 +3242,9 @@
         "surface characteristics",
         "topochemical effect"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Chemistry Select",
       "volume": "3",
       "publisher_information": "Wiley",
@@ -3164,6 +3308,9 @@
         "ionic liquid",
         "lignin",
         "pretreatment"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "6",
@@ -3250,6 +3397,9 @@
         "hydroxycinnamoyl\u2010CoA",
         "metabolome",
         "shikimate hydroxycinnamoyl transferase (HCT)"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "New Phytologist",
       "volume": "220",
@@ -3365,6 +3515,10 @@
         "robustness",
         "stress response"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Journal of Industrial Microbiology and Biotechnology",
       "publisher_information": "Springer",
       "country_publication_code": "DE",
@@ -3428,6 +3582,9 @@
         "molecular weight",
         "pyrolysis"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Energy and Fuels",
       "volume": "32",
       "publisher_information": "American Chemical Society (ACS)",
@@ -3475,6 +3632,10 @@
         "co-expression analysis",
         "secondary cell wall\r\nbiosynthesis",
         "transgenic switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
       ],
       "journal_name": "Plant Biotechnology Journal",
       "volume": "17",
@@ -3562,6 +3723,10 @@
         "54 ENVIRONMENTAL SCIENCES",
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Environmental Science & Sustainability",
+        "Microbiology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "84",
       "publisher_information": "American Society for Microbiology",
@@ -3605,6 +3770,9 @@
       "bibliographicCitation": "https://doi.org/10.1128/MRA.01040-18",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Microbiology Resource Announcements",
       "volume": "7",
@@ -3701,6 +3869,10 @@
         "moisture availability",
         "phenotypic plasticity"
       ],
+      "topic": [
+        "Environmental Science & Sustainability",
+        "Microbiology"
+      ],
       "journal_name": "Oikos",
       "volume": "128",
       "publisher_information": "Nordic Ecological Society",
@@ -3757,6 +3929,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "9",
       "publisher_information": "Frontiers Research Foundation",
@@ -3812,6 +3987,9 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "6",
       "publisher_information": "American Chemical Society (ACS)",
@@ -3859,6 +4037,9 @@
       "bibliographicCitation": "https://doi.org/10.1039/C8GC00353J",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Green Chemistry",
       "volume": "20",
@@ -3909,6 +4090,10 @@
       "keywords": [
         "54 ENVIRONMENTAL SCIENCES",
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Environmental Science & Sustainability",
+        "Microbiology"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "83",
@@ -3992,6 +4177,9 @@
         "lignin",
         "plant cell walls"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Frontiers in Energy Research",
       "volume": "6",
       "publisher_information": "Frontiers Research Foundation",
@@ -4047,6 +4235,10 @@
         "parallel algorithms",
         "vector similarity metrics"
       ],
+      "topic": [
+        "Microbiology",
+        "Computational Biology & Modeling"
+      ],
       "journal_name": "Parallel Computing",
       "volume": "75",
       "publisher_information": "Elsevier",
@@ -4093,6 +4285,9 @@
       "issue": "1",
       "identifier": "https://www.osti.gov/biblio/1476948",
       "bibliographicCitation": "https://doi.org/10.1039/C8SE00287H",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Sustainable Energy & Fuels",
       "volume": "3",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -4137,6 +4332,9 @@
         "Plant cell wall",
         "Switchgrass",
         "Transcriptomic analysis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -4222,6 +4420,10 @@
         "09 BIOMASS FUELS",
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "9",
       "publisher_information": "Frontiers Media SA",
@@ -4274,6 +4476,9 @@
       "bibliographicCitation": "https://doi.org/10.1039/C8SE00471D",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Sustainable Energy & Fuels",
       "volume": "3",
@@ -4396,6 +4601,9 @@
         "high throughput analysis",
         "neural networks"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Frontiers in Energy Research",
       "volume": "6",
       "publisher_information": "Frontiers Research Foundation",
@@ -4490,6 +4698,9 @@
         "lignocellulosic biomass",
         "recalcitrance"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Frontiers in Energy Research",
       "volume": "6",
       "publisher_information": "Frontiers Research Foundation",
@@ -4530,6 +4741,9 @@
         "quantitative genetics",
         "somatic mutations",
         "tree habit"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "9",
@@ -4653,6 +4867,11 @@
         "Molecular weight distribution",
         "Sequential precipitation"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry",
+        "Microbiology"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "272",
       "publisher_information": "Elsevier",
@@ -4728,6 +4947,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microbiology Resource Announcements",
       "volume": "8",
       "publisher_information": "American Society for Microbiology",
@@ -4801,6 +5023,9 @@
         "feedstocks",
         "lignocellulose",
         "perennial biomass crop"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Global Change Biology. Bioenergy",
       "volume": "11",
@@ -5084,6 +5309,10 @@
         "molecular dynamics",
         "polymer power laws"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "7",
       "publisher_information": "American Chemical Society (ACS)",
@@ -5146,6 +5375,10 @@
         "force field parameterization",
         "lignin",
         "molecular dynamics"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "21",
@@ -5214,6 +5447,9 @@
         "enzyme stability",
         "galactose",
         "glycosylation"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "7",
@@ -5325,6 +5561,10 @@
         "scaffoldin",
         "thermostability"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "BioMed Central",
@@ -5408,6 +5648,9 @@
       "issue": "5",
       "identifier": "https://www.osti.gov/biblio/1504288",
       "bibliographicCitation": "https://doi.org/10.1111/gcbb.12592",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Global Change Biology. Bioenergy",
       "volume": "11",
       "publisher_information": "Wiley-Blackwell",
@@ -5459,6 +5702,9 @@
       "bibliographicCitation": "https://doi.org/10.1039/c7ob02605f",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Organic and Biomolecular Chemistry",
       "volume": "15",
@@ -5535,6 +5781,9 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "21",
       "publisher_information": "Royal Society of Chemistry",
@@ -5590,6 +5839,9 @@
         "Gas\u2013liquid interface",
         "Hydrolysis"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "BioMed Central",
@@ -5638,6 +5890,9 @@
         "Lignin valorization",
         "Organic polymers",
         "Pretreatment"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "6",
@@ -5707,6 +5962,10 @@
         "AND ANALYTICAL CHEMISTRY",
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
+      ],
       "journal_name": "Nature Communications",
       "volume": "9",
       "publisher_information": "Nature Publishing Group",
@@ -5762,6 +6021,9 @@
         "microbes",
         "microbial communities",
         "microbiomes"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nature Methods",
       "volume": "16",
@@ -5895,6 +6157,9 @@
         "lignin valorization",
         "protein engineering"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "116",
       "publisher_information": "Proceedings of the National Academy of Sciences",
@@ -6017,6 +6282,9 @@
         "green solvent",
         "lignocellulosic biomass"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "116",
       "publisher_information": "Proceedings of the National Academy of Sciences",
@@ -6079,6 +6347,9 @@
         "multi-scale modeling",
         "spatial heterogeneity"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Processes",
       "volume": "7",
       "publisher_information": "Multidisciplinary Digital Publishing Institute (MDPI)",
@@ -6120,6 +6391,9 @@
       "issue": "6",
       "identifier": "https://www.osti.gov/biblio/1529693",
       "bibliographicCitation": "https://doi.org/10.3390/pr7060361",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Processes",
       "volume": "7",
       "publisher_information": "MDPI AG",
@@ -6156,6 +6430,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Nature Plants",
       "volume": "5",
       "publisher_information": "Nature Publishing Group",
@@ -6186,6 +6463,9 @@
       "bibliographicCitation": "https://doi.org/10.3389/fpls.2019.00862",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "10",
@@ -6246,6 +6526,9 @@
         "co-evolution",
         "data integration",
         "wavelet transform"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Genetics",
       "volume": "10",
@@ -6319,6 +6602,9 @@
         "lignocellulosic biofuels",
         "plant breeding"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "BioMed Central",
@@ -6388,6 +6674,9 @@
         "NMR",
         "Populus",
         "Pyrolysis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Bioresource Technology",
       "volume": "289",
@@ -6460,6 +6749,9 @@
       "bibliographicCitation": "https://doi.org/10.1038/s41467-019-10082-7",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nature Communications",
       "volume": "10",
@@ -6537,6 +6829,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microbiology Resource Announcements",
       "volume": "7",
       "publisher_information": "SSPA - American Society for Microbiology",
@@ -6594,6 +6889,9 @@
         "disease resistance",
         "invasive disease",
         "septoria canker"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "115",
@@ -6727,6 +7025,9 @@
         "Hemicellulose",
         "Structural properties"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "21",
       "publisher_information": "Royal Society of Chemistry",
@@ -6787,6 +7088,9 @@
       "bibliographicCitation": "https://doi.org/10.1038/s41477-019-0469-x",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nature Plants",
       "volume": "5",
@@ -6960,6 +7264,9 @@
         "RNA-Seq",
         "Relative quantitation"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Analytica Chimica Acta",
       "volume": "993",
       "publisher_information": "Elsevier",
@@ -7013,6 +7320,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "56",
       "publisher_information": "Elsevier",
@@ -7064,6 +7374,9 @@
         "ORGANIC",
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Journal of the American Chemical Society",
       "volume": "141",
@@ -7148,6 +7461,9 @@
       "bibliographicCitation": "https://doi.org/10.3389/fgene.2019.00417",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Genetics",
       "volume": "10",
@@ -7235,6 +7551,9 @@
         "X-ray crystallography",
         "cryo-EM",
         "protein structure prediction"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Proteins",
       "volume": "87",
@@ -7404,6 +7723,9 @@
       "issue": "10",
       "identifier": "https://www.osti.gov/biblio/1560912",
       "bibliographicCitation": "https://doi.org/10.1093/abbs/gmz080",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Acta Biochimica et Biophysica Sinica",
       "volume": "51",
       "publisher_information": "China Science Publishing & Media Ltd.",
@@ -7444,6 +7766,9 @@
         "lignin catabolism",
         "molecular dynamics",
         "pathway optimization"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Molecular Microbiology",
       "volume": "112",
@@ -7535,6 +7860,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Nature Chemical Biology",
       "volume": "15",
       "publisher_information": "Nature Publishing Group",
@@ -7617,6 +7945,9 @@
         "lignin permeability",
         "molecular dynamics"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "116",
       "publisher_information": "National Academy of Sciences",
@@ -7687,6 +8018,9 @@
         "ethanol",
         "heterogeneous catalysis",
         "low-carbon fungible fuel blendstocks"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "2018",
@@ -7804,6 +8138,9 @@
         "genome editing",
         "photosynthesis"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Journal of Experimental Botany",
       "volume": "70",
       "publisher_information": "Oxford University Press",
@@ -7862,6 +8199,9 @@
         "X-AI-based eQTL",
         "high-performance\r\ncomputing"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Genes",
       "volume": "10",
       "publisher_information": "MDPI",
@@ -7919,6 +8259,9 @@
         "mechanism",
         "molecular modeling",
         "qmmm"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Journal of Physical Chemistry. B",
       "volume": "123",
@@ -7979,6 +8322,9 @@
         "BCPL",
         "cellulases",
         "multifunctional enzymes"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Green Chemistry",
       "volume": "22",
@@ -8052,6 +8398,9 @@
       "issue": "3",
       "identifier": "https://www.osti.gov/biblio/1581018",
       "bibliographicCitation": "https://doi.org/10.1111/gcb.14925",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Global Change Biology",
       "volume": "26",
       "publisher_information": "Wiley-Blackwell",
@@ -8150,6 +8499,10 @@
         "molecular weight",
         "pyrolysis"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "RSC Advances",
       "volume": "10",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -8221,6 +8574,9 @@
         "Pyruvate kinase",
         "Pyruvate phosphate dikinase"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Metabolic Engineering Communications",
       "volume": "10",
       "publisher_information": "Elsevier",
@@ -8269,6 +8625,9 @@
       "bibliographicCitation": "https://doi.org/10.1021/acsomega.9b02849",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "ACS Omega",
       "volume": "5",
@@ -8329,6 +8688,9 @@
       "issue": "4",
       "identifier": "https://www.osti.gov/biblio/1598086",
       "bibliographicCitation": "https://doi.org/10.1104/pp.19.01496",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "182",
       "publisher_information": "Oxford University Press",
@@ -8376,6 +8738,9 @@
         "modular cell engineering",
         "pharmaceuticals"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "61",
       "publisher_information": "Elsevier",
@@ -8420,6 +8785,9 @@
         "Sterols",
         "Stress responsive metabolism",
         "Yarrowia lipolytica"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Metabolic Engineering",
       "volume": "54",
@@ -8480,6 +8848,9 @@
         "Synthetic biology",
         "Systems biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology Advances",
       "volume": "37",
       "publisher_information": "Elsevier",
@@ -8527,6 +8898,9 @@
         "glycosylation",
         "scaffoldin",
         "thermostability"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Federation of European Biochemical Societies (FEBS) Journal",
       "volume": "287",
@@ -8600,6 +8974,9 @@
         "renewable energy",
         "thermophilic microorganisms"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "International Journal of Molecular Sciences (Online)",
       "volume": "21",
       "publisher_information": "MDPI",
@@ -8654,6 +9031,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2019/9680853",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2019",
@@ -8729,6 +9109,9 @@
         "Recalcitrance",
         "S/G ratio"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "295",
       "publisher_information": "Elsevier",
@@ -8797,6 +9180,9 @@
       "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2020.01.010",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "61",
@@ -8884,6 +9270,9 @@
       "keywords": [
         "54 ENVIRONMENTAL SCIENCES",
         "plant sciences"
+      ],
+      "topic": [
+        "Environmental Science & Sustainability"
       ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "178",
@@ -8980,6 +9369,9 @@
         "signal processing",
         "wavelet transform"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Genetics",
       "volume": "10",
       "publisher_information": "Frontiers",
@@ -9029,6 +9421,9 @@
         "Photosynthesis",
         "Positive selection",
         "Transcriptome"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BMC Genomics",
       "volume": "19",
@@ -9132,6 +9527,9 @@
         "Xylanase",
         "Xyloglucanase"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -9210,6 +9608,10 @@
         "cellulose",
         "recalcitrance",
         "sugar release"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Plant Biology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9301,6 +9703,9 @@
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -9386,6 +9791,9 @@
         "switchgrass",
         "\u03b2-1",
         "4-Endoglucanase"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9476,6 +9884,9 @@
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -9522,6 +9933,10 @@
         "circular dichroism",
         "molecular modeling",
         "x-ray crystallography"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9609,6 +10024,10 @@
         "plant cell wall",
         "stimulated raman scattering"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -9656,6 +10075,9 @@
       "bibliographicCitation": "https://doi.org/10.1186/s13068-017-0926-6",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9723,6 +10145,9 @@
         "glycome profiling",
         "lignin",
         "suspension cell"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9807,6 +10232,9 @@
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -9855,6 +10283,9 @@
         "gene flow",
         "miR156",
         "switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -9941,6 +10372,9 @@
         "cellulase",
         "cellulose",
         "commercial cellulase formulations"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
@@ -10042,6 +10476,9 @@
         "dehydrogenation polymer",
         "lignin"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -10104,6 +10541,9 @@
         "center operation",
         "recalcitrance"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "Springer Science + Business Media",
@@ -10164,6 +10604,9 @@
       "bibliographicCitation": "https://doi.org/10.1186/s13068-018-1028-9",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -10243,6 +10686,9 @@
         "WAXD",
         "Wide-angle X-ray diffraction"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
       "publisher_information": "Springer Science + Business Media",
@@ -10299,6 +10745,9 @@
       "keywords": [
         "09 BIOMASS FUELS"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
       "publisher_information": "Springer Science + Business Media",
@@ -10354,6 +10803,9 @@
       "bibliographicCitation": "https://doi.org/10.1186/s13068-018-1076-1",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -10428,6 +10880,11 @@
         "computational protein design",
         "pyruvate decarboxylase",
         "thermal stability"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry",
+        "Computational Biology & Modeling"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -10525,6 +10982,9 @@
         "Pyruvate ferredoxin oxidoreductase",
         "Thermoanaerobacterium saccharolyticum"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
       "publisher_information": "Springer Science + Business Media",
@@ -10611,6 +11071,9 @@
         "Microbial communities",
         "Solubilization",
         "Thermophilic"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -10711,6 +11174,9 @@
         "biomass degrading enzymes",
         "cellulose",
         "thermophile"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
@@ -10815,6 +11281,9 @@
         "Lignin",
         "Pretreatment"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "11",
       "publisher_information": "Springer Science + Business Media",
@@ -10879,6 +11348,9 @@
         "fungal cellulase",
         "recalcitrance",
         "transgenic switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
@@ -11018,6 +11490,9 @@
         "Miscanthus",
         "Recalcitrance"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "Springer Science + Business Media",
@@ -11084,6 +11559,9 @@
         "Soaking",
         "Tetrahydrofuran"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "Springer Science + Business Media",
@@ -11148,6 +11626,9 @@
         "Lactate ester",
         "Modular cell"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
       "publisher_information": "Springer Science + Business Media",
@@ -11189,6 +11670,9 @@
       "keywords": [
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
@@ -11252,6 +11736,9 @@
         "Cellulosic biofuels",
         "Lignin",
         "Pretreatment"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "12",
@@ -11339,6 +11826,9 @@
       "issue": "1",
       "identifier": "https://www.osti.gov/biblio/1618982",
       "bibliographicCitation": "https://doi.org/10.1186/s42480-019-0021-9",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "BMC Chemical Engineering",
       "volume": "1",
       "publisher_information": "Springer Science + Business Media",
@@ -11381,6 +11871,9 @@
         "Delignification",
         "Enzyme-mediated hydrolysis",
         "Increased enzyme accessibility"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "8",
@@ -11459,6 +11952,9 @@
         "switchgrass",
         "transcriptional regulation/regulation of transcription\u2014general"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant Direct",
       "volume": "1",
       "publisher_information": "Wiley and American Society of Plant Biologists and Society for Experimental Biology",
@@ -11508,6 +12004,9 @@
       "keywords": [
         "09 BIOMASS FUELS",
         "Science & Technology - Other Topics"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Scientific Reports",
       "volume": "8",
@@ -11559,6 +12058,9 @@
         "computer modelling",
         "metabolic pathways",
         "science & technology"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Scientific Reports",
       "volume": "9",
@@ -11614,6 +12116,9 @@
         "elicitor",
         "lignin modification",
         "polygalacturonase"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "117",
@@ -11696,6 +12201,9 @@
         "59 BASIC BIOLOGICAL SCIENCES",
         "Biochemistry & Molecular Biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "295",
       "publisher_information": "American Society for Biochemistry and Molecular Biology",
@@ -11771,6 +12279,9 @@
         "genome",
         "palindrome",
         "sex"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Genome Biology (Online)",
       "volume": "21",
@@ -11885,6 +12396,9 @@
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "BioMed Central",
@@ -11938,6 +12452,9 @@
         "Biotechnology & Applied Microbiology",
         "Energy & Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "10",
       "publisher_information": "BioMed Central",
@@ -11985,6 +12502,9 @@
       "keywords": [
         "09 BIOMASS FUELS",
         "Science & Technology - Other Topics"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "PeerJ",
       "volume": "7",
@@ -12049,6 +12569,9 @@
         "cell wall",
         "evolution",
         "xylan"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "New Phytologist",
       "volume": "218",
@@ -12155,6 +12678,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Polymers",
       "volume": "12",
       "publisher_information": "MDPI",
@@ -12198,6 +12724,9 @@
         "lignin",
         "lignocellulose pretreatment",
         "solvent impurities"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Chemistry Select",
       "volume": "5",
@@ -12247,6 +12776,9 @@
         "genomics",
         "next-generation artificial intelligence",
         "smart farming"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Trends in Biotechnology",
       "volume": "37",
@@ -12320,6 +12852,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "11",
       "publisher_information": "Frontiers Research Foundation",
@@ -12373,6 +12908,9 @@
         "membrane fractionation",
         "ultrafiltration"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "8",
       "publisher_information": "American Chemical Society (ACS)",
@@ -12413,6 +12951,9 @@
         "bioprocess development",
         "functional replacement",
         "muconic acid"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Joule",
       "volume": "3",
@@ -12550,6 +13091,9 @@
         "pretreatment",
         "solvents"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "117",
       "publisher_information": "National Academy of Sciences",
@@ -12638,6 +13182,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "BioDesign Research",
       "volume": "2020",
       "publisher_information": "American Association for the Advancement of Science (AAAS)",
@@ -12676,6 +13223,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2020/9350905",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2020",
@@ -12727,6 +13277,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1642283",
       "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2018.09.006",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "51",
       "publisher_information": "Elsevier",
@@ -12765,6 +13318,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2020/9078303",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2020",
@@ -12826,6 +13382,9 @@
         "contaminants",
         "poplar"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Applied Sciences",
       "volume": "10",
       "publisher_information": "MDPI AG",
@@ -12871,6 +13430,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1647107",
       "bibliographicCitation": "https://doi.org/10.1016/j.jag.2020.102205",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "International Journal of Applied Earth Observation and Geoinformation",
       "volume": "93",
       "publisher_information": "Elsevier",
@@ -12939,6 +13501,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Energy Research",
       "volume": "8",
       "publisher_information": "Frontiers Research Foundation",
@@ -13001,6 +13566,9 @@
         "Recalcitrance",
         "Saccharification",
         "Transgenic poplar"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Trends in Plant Science",
       "volume": "25",
@@ -13067,6 +13635,9 @@
         "lignin valorization",
         "recalcitrance"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "301",
       "publisher_information": "Elsevier",
@@ -13111,6 +13682,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Natural Product Reports",
       "volume": "37",
       "publisher_information": "Royal Society of Chemistry",
@@ -13150,6 +13724,9 @@
       "bibliographicCitation": "https://doi.org/10.1128/msystems.00092-20",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "mSystems",
       "volume": "5",
@@ -13211,6 +13788,9 @@
         "ecosystem modeling",
         "life cycle assessment",
         "negative emissions"
+      ],
+      "topic": [
+        "Environmental Science & Sustainability"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "117",
@@ -13331,6 +13911,10 @@
         "plant age dynamics",
         "soil"
       ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
+      ],
       "journal_name": "Global Change Biology. Bioenergy",
       "publisher_information": "Wiley",
       "country_publication_code": "GB",
@@ -13410,6 +13994,9 @@
         "ORGANIC",
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "22",
@@ -13502,6 +14089,9 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "22",
       "publisher_information": "Royal Society of Chemistry",
@@ -13550,6 +14140,9 @@
         "adaptive laboratory evolution",
         "hydroxycinnamic acids",
         "microbial lignin conversion"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Metabolic Engineering Communications",
       "volume": "11",
@@ -13648,6 +14241,9 @@
         "biomethanation potential",
         "enzymatic hydrolysis"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "BioEnergy Research",
       "volume": "13",
       "publisher_information": "Springer",
@@ -13705,6 +14301,10 @@
         "phenotype",
         "spectral index"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "11",
       "publisher_information": "Frontiers Media SA",
@@ -13759,6 +14359,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1694035",
       "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2019.06.006",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "55",
       "publisher_information": "Elsevier",
@@ -13818,6 +14421,9 @@
         "lignocellulosic biomass",
         "pretreatment",
         "switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Green Chemistry",
       "volume": "N/A",
@@ -13903,6 +14509,9 @@
         "nitrogen limitation",
         "pyrophosphate"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "86",
       "publisher_information": "American Society for Microbiology",
@@ -13971,6 +14580,9 @@
         "polycaprolactone",
         "ring-opening polymerization"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "New Biotechnology",
       "volume": "60",
       "publisher_information": "Elsevier",
@@ -14016,6 +14628,9 @@
         "09 BIOMASS FUELS",
         "birefining",
         "lignin"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Energy & Environmental Science",
       "volume": "14",
@@ -14122,6 +14737,9 @@
         "resins",
         "thermoplastics"
       ],
+      "topic": [
+        "Materials Science & Bioproducts"
+      ],
       "journal_name": "Polymers",
       "volume": "12",
       "publisher_information": "MDPI AG",
@@ -14178,6 +14796,9 @@
         "high-throughput",
         "microbial systems"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "67",
       "publisher_information": "Elsevier",
@@ -14226,6 +14847,9 @@
         "cytochrome P450",
         "guaiacol",
         "lignin valorization"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "117",
@@ -14303,6 +14927,9 @@
         "Oil mallee",
         "Short-rotation annual coppice"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biomass and Bioenergy",
       "volume": "143",
       "publisher_information": "Elsevier",
@@ -14365,6 +14992,9 @@
         "plant development",
         "receptor-like kinase"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "11",
       "publisher_information": "Frontiers Research Foundation",
@@ -14414,6 +15044,9 @@
         "large-scale production",
         "lignin valorization",
         "renewable materials"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biofuels, Bioproducts & Biorefining",
       "volume": "14",
@@ -14487,6 +15120,9 @@
         "rhizobacteria",
         "rhizosphere"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Microbiology",
       "volume": "11",
       "publisher_information": "Frontiers Research Foundation",
@@ -14535,6 +15171,9 @@
         "pectin",
         "polysaccharide",
         "scanning electron microscopy"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Molecules",
       "volume": "25",
@@ -14607,6 +15246,9 @@
         "Thioacidolysis",
         "Tricin"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "14",
       "publisher_information": "Springer Science + Business Media",
@@ -14668,6 +15310,9 @@
         "molecular simulation",
         "polymer-solvent interactions"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "8",
       "publisher_information": "American Chemical Society (ACS)",
@@ -14717,6 +15362,9 @@
         "Synthetic biology",
         "Transformation"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "14",
       "publisher_information": "Springer Science + Business Media",
@@ -14762,6 +15410,9 @@
         "COVID 19",
         "Human ACE2",
         "SARS CoV-2"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Computational and Structural Biotechnology Journal",
       "volume": "18",
@@ -14810,6 +15461,9 @@
         "ORGANIC",
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "TBD",
@@ -14887,6 +15541,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "67",
       "publisher_information": "Elsevier",
@@ -14933,6 +15590,9 @@
       "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2020.11.013",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Metabolic Engineering",
       "volume": "63",
@@ -14998,6 +15658,9 @@
         "lignin valorization",
         "tricin"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "9",
       "publisher_information": "American Chemical Society (ACS)",
@@ -15055,6 +15718,10 @@
         "Phenylpropanoid biosynthesis",
         "RNA interference",
         "Saccharifcation efciency"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "14",
@@ -15121,6 +15788,9 @@
         "lignin",
         "pyrolysis-molecular beam mass spectrometry",
         "thioacidolysis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "14",
@@ -15197,6 +15867,9 @@
         "quinary interactions",
         "x-ray crystallography"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Computational and Structural Biotechnology Journal",
       "volume": "19",
       "publisher_information": "Elsevier",
@@ -15263,6 +15936,10 @@
         "polygalacturonide transferase",
         "processivity",
         "protein complex"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "293",
@@ -15341,6 +16018,9 @@
         "plant sciences",
         "secondary cell wall"
       ],
+      "topic": [
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "12",
       "publisher_information": "Frontiers Media SA",
@@ -15398,6 +16078,9 @@
         "molecular structure",
         "peptides and proteins",
         "protein engineering"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "JACS Au",
       "volume": "1",
@@ -15504,6 +16187,9 @@
         "gene integration",
         "glucanase"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Journal of Industrial Microbiology and Biotechnology",
       "volume": "46",
       "publisher_information": "Oxford University Press",
@@ -15564,6 +16250,9 @@
         "global food security index",
         "national food security"
       ],
+      "topic": [
+        "Process Engineering"
+      ],
       "journal_name": "Food Security",
       "volume": "13",
       "publisher_information": "Springer Science + Business Media",
@@ -15617,6 +16306,9 @@
         "Reverse engineering",
         "Software product lines",
         "Synthetic biology"
+      ],
+      "topic": [
+        "Computational Biology & Modeling"
       ],
       "journal_name": "Empirical Software Engineering",
       "volume": "26",
@@ -15678,6 +16370,9 @@
       "issue": "18",
       "identifier": "https://www.osti.gov/biblio/1772833",
       "bibliographicCitation": "https://doi.org/10.1074/jbc.M117.777417",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "292",
       "publisher_information": "Elsevier",
@@ -15740,6 +16435,9 @@
         "Panicum virgatum",
         "climate adaptation",
         "switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Nature (London)",
       "volume": "590",
@@ -16050,6 +16748,9 @@
         "mitigation",
         "negative emissions"
       ],
+      "topic": [
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "Frontiers in Climate",
       "volume": "3",
       "publisher_information": "Frontiers Media SA",
@@ -16111,6 +16812,9 @@
         "pyrolysis",
         "random\r\nforest",
         "suberin"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "International Journal of Molecular Sciences (Online)",
       "volume": "22",
@@ -16176,6 +16880,10 @@
         "chloramphenicol acetyltransferase",
         "enzyme thermostability"
       ],
+      "topic": [
+        "Microbiology",
+        "Plant Biology"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "66",
       "publisher_information": "Elsevier",
@@ -16231,6 +16939,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1779370",
       "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2020.03.001",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "61",
       "publisher_information": "Elsevier",
@@ -16270,6 +16981,9 @@
       "bibliographicCitation": "https://doi.org/10.1038/s41467-020-15704-z",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Nature Communications",
       "volume": "11",
@@ -16324,6 +17038,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "BMC Genomics",
       "volume": "21",
       "publisher_information": "Springer Science + Business Media",
@@ -16358,6 +17075,9 @@
       "issue": "1",
       "identifier": "https://www.osti.gov/biblio/1781272",
       "bibliographicCitation": "https://doi.org/10.1111/nph.17383",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "New Phytologist",
       "volume": "231",
       "publisher_information": "Wiley-Blackwell",
@@ -16410,6 +17130,10 @@
         "carotenoid cleavage oxygenase",
         "lignin degradation",
         "lignostilbene"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "296",
@@ -16480,6 +17204,9 @@
       "keywords": [
         "36 MATERIALS SCIENCE"
       ],
+      "topic": [
+        "Materials Science & Bioproducts"
+      ],
       "journal_name": "Biomacromolecules",
       "volume": "22",
       "publisher_information": "American Chemical Society",
@@ -16536,6 +17263,10 @@
         "fermentation",
         "lignin",
         "structure elucidation"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "ChemSusChem",
       "volume": "13",
@@ -16632,6 +17363,10 @@
         "oxygen",
         "symbiosis"
       ],
+      "topic": [
+        "Microbiology",
+        "Computational Biology & Modeling"
+      ],
       "journal_name": "PLoS Computational Biology (Online)",
       "volume": "17",
       "publisher_information": "Public Library of Science (PLoS)",
@@ -16713,6 +17448,9 @@
         "xylanase",
         "\u00df-D-63 xylosidase"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "87",
       "publisher_information": "American Society for Microbiology",
@@ -16776,6 +17514,9 @@
         "intestinal microbiome",
         "non-starch polysaccharides",
         "plant cell wall"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Microorganisms",
       "volume": "8",
@@ -16860,6 +17601,9 @@
       "issue": "21",
       "identifier": "https://www.osti.gov/biblio/1787879",
       "bibliographicCitation": "https://doi.org/10.1128/MRA.00284-21",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Microbiology Resource Announcements",
       "volume": "10",
       "publisher_information": "American Society for Microbiology",
@@ -16936,6 +17680,9 @@
         "Protein",
         "Scanning electron microscopy",
         "Tetrahydrofuran"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels",
       "volume": "14",
@@ -17017,6 +17764,9 @@
         "59 BASIC BIOLOGICAL SCIENCES",
         "intracellular signalling peptides and proteins",
         "proteomics"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Horticulture Research",
       "volume": "8",
@@ -17104,6 +17854,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1797827",
       "bibliographicCitation": "https://doi.org/10.1016/j.cpb.2021.100210",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Current plant biology",
       "volume": "27",
       "publisher_information": "Elsevier",
@@ -17164,6 +17917,9 @@
         "glycosyltransferases",
         "plant cell wall",
         "sugar nucleotides"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Angewandte Chemie (International Edition)",
       "volume": "59",
@@ -17279,6 +18035,9 @@
         "signaling network",
         "woody plants"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "12",
       "publisher_information": "Frontiers Research Foundation",
@@ -17339,6 +18098,9 @@
         "lignin utilization",
         "phylogenetic occurrence",
         "transcription factor"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "12",
@@ -17404,6 +18166,9 @@
         "59 BASIC BIOLOGICAL SCIENCES",
         "Flowering",
         "Plant hybridization"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Horticulture Research",
       "volume": "8",
@@ -17498,6 +18263,9 @@
         "returns to land",
         "socially marginal"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Global Change Biology. Bioenergy",
       "volume": "13",
       "publisher_information": "Wiley-Blackwell",
@@ -17583,6 +18351,9 @@
         "<em>PtLecRLK1</em>",
         "ectomycorrhizal symbiosis",
         "switchgrass"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Biotechnology Journal",
       "volume": "19",
@@ -17677,6 +18448,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microbiology Resource Announcements",
       "volume": "9",
       "publisher_information": "SSPA - American Society for Microbiology",
@@ -17753,6 +18527,9 @@
         "signal integration",
         "signal transduction"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "International Journal of Molecular Sciences (Online)",
       "volume": "22",
       "publisher_information": "MDPI",
@@ -17810,6 +18587,9 @@
         "panicle",
         "remote sensing",
         "scoring card"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plants",
       "volume": "10",
@@ -17953,6 +18733,9 @@
         "lignocellulosic biomass",
         "lipids"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "23",
       "publisher_information": "Royal Society of Chemistry",
@@ -18022,6 +18805,9 @@
         "restriction modification system",
         "type I restriction enzymes"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "87",
       "publisher_information": "American Society for Microbiology",
@@ -18090,6 +18876,9 @@
         "root ecology",
         "root traits",
         "trait measurements"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "New Phytologist",
       "volume": "232",
@@ -18279,6 +19068,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Horticulture Research",
       "volume": "8",
       "publisher_information": "Oxford University Press",
@@ -18346,6 +19138,9 @@
         "ecosystems",
         "microbiome",
         "plants"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Phytobiomes Journal",
       "volume": "6",
@@ -18446,6 +19241,9 @@
         "organic polymers",
         "pyrolysis"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "8",
       "publisher_information": "American Chemical Society (ACS)",
@@ -18535,6 +19333,9 @@
         "switchgrass",
         "wide angle x-ray diffraction"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "5",
       "publisher_information": "American Chemical Society (ACS)",
@@ -18621,6 +19422,9 @@
         "root system architecture",
         "traits"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "AoB Plants",
       "volume": "13",
       "publisher_information": "Oxford University Press; Annals of Botany Company",
@@ -18682,6 +19486,9 @@
         "plants",
         "sensors",
         "transient gene expression"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "ACS Synthetic Biology",
       "volume": "10",
@@ -18761,6 +19568,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2021/9798714",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2021",
@@ -18852,6 +19662,11 @@
         "59 BASIC BIOLOGICAL SCIENCES",
         "60 APPLIED LIFE SCIENCES"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology",
+        "Plant Biology"
+      ],
       "journal_name": "Current Opinion in Microbiology",
       "volume": "66",
       "publisher_information": "Elsevier",
@@ -18897,6 +19712,9 @@
         "heterotrimeric G proteins",
         "plant sciences",
         "rice"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "12",
@@ -18971,6 +19789,9 @@
         "polymer",
         "adhesion"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Carbohydrate Polymers",
       "volume": "246",
       "publisher_information": "Applied Science Direct",
@@ -19043,6 +19864,9 @@
         "partial least squares",
         "principal component analysis"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "10",
       "publisher_information": "American Chemical Society (ACS)",
@@ -19107,6 +19931,9 @@
         "lignin",
         "wood"
       ],
+      "topic": [
+        "Materials Science & Bioproducts"
+      ],
       "journal_name": "Accounts of Materials Research",
       "volume": "2",
       "publisher_information": "American Chemical Society (ACS)",
@@ -19158,6 +19985,9 @@
         "Lignin valorization",
         "Rhodococcus opacus PD630",
         "bioconversion"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Bioresource Technology",
       "volume": "347",
@@ -19227,6 +20057,9 @@
       "bibliographicCitation": "https://doi.org/10.1002/ppj2.20028",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Plant Phenome Journal",
       "volume": "5",
@@ -19364,6 +20197,9 @@
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "24",
       "publisher_information": "Royal Society of Chemistry",
@@ -19424,6 +20260,9 @@
         "flow-through hydrothermal pretreatment",
         "lignin valorization"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "343",
       "publisher_information": "Elsevier",
@@ -19477,6 +20316,9 @@
         "polyurethane foam",
         "reactivity",
         "thermal insulation"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "23",
@@ -19533,6 +20375,9 @@
         "Lignin aggregation",
         "Small-angle neutron scattering",
         "Switchgrass"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "10",
@@ -19603,6 +20448,9 @@
         "PPi",
         "Ppdk",
         "Pyrophosphate"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "88",
@@ -19701,6 +20549,9 @@
         "pectin",
         "xylan"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
       "volume": "15",
       "publisher_information": "Springer Science + Business Media",
@@ -19798,6 +20649,9 @@
         "SAAT",
         "Soluble expression"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "69",
       "publisher_information": "Elsevier",
@@ -19836,6 +20690,9 @@
         "Agriculture",
         "Genetics & heredity",
         "Plant sciences"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Theoretical and Applied Genetics",
       "volume": "134",
@@ -19900,6 +20757,9 @@
         "Biotechnology & Applied Microbiology",
         "Engineering"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Chemical Engineering",
       "volume": "30",
       "publisher_information": "Elsevier",
@@ -19962,6 +20822,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "75",
       "publisher_information": "Elsevier",
@@ -20004,6 +20867,9 @@
         "Genome-scale metabolic model",
         "Metabolic modeling",
         "Parameter uncertainty"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Metabolic Engineering",
       "volume": "69",
@@ -20051,6 +20917,9 @@
         "high performance computing",
         "parallel algorithms",
         "vector similarity metrics"
+      ],
+      "topic": [
+        "Computational Biology & Modeling"
       ],
       "journal_name": "Parallel Computing",
       "volume": "84",
@@ -20115,6 +20984,9 @@
         "Multiobjective optimization",
         "Production modules"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "67",
       "publisher_information": "Elsevier",
@@ -20165,6 +21037,9 @@
         "n-butyl acetate",
         "solvent overlays"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Biotechnology and Bioengineering",
       "volume": "118",
       "publisher_information": "Wiley",
@@ -20213,6 +21088,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2022/9879610",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Phenomics",
       "volume": "2022",
@@ -20270,6 +21148,9 @@
         "phenylpropanoids",
         "systems biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "13",
       "publisher_information": "Frontiers Research Foundation",
@@ -20326,6 +21207,9 @@
       "bibliographicCitation": "https://doi.org/10.1126/sciadv.abm8145",
       "keywords": [
         "09 BIOMASS FUELS"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Science Advances",
       "volume": "8",
@@ -20407,6 +21291,9 @@
         "dockerin",
         "phenotypic heterogeneity",
         "scaffoldin"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "eLife",
       "volume": "11",
@@ -20497,6 +21384,9 @@
         "gene function",
         "transposon insertion sequencing"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "ACS Synthetic Biology",
       "volume": "11",
       "publisher_information": "American Chemical Society",
@@ -20539,6 +21429,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/plphys/kiac128",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "189",
@@ -20641,6 +21534,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Horticulture Research (online)",
       "volume": "9",
       "publisher_information": "Springer Nature - Nanjing Agricultural University",
@@ -20703,6 +21599,9 @@
         "recombinant cellulolytic strategy",
         "solvent tolerance"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Microbiology",
       "volume": "13",
       "publisher_information": "Frontiers Research Foundation",
@@ -20742,6 +21641,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/hr/uhac043",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Horticulture Research (online)",
       "volume": "9",
@@ -20813,6 +21715,9 @@
       "issue": "15",
       "identifier": "https://www.osti.gov/biblio/1874385",
       "bibliographicCitation": "https://doi.org/10.1039/D2CY00288D",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Catalysis Science and Technology",
       "volume": "12",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -20859,6 +21764,11 @@
         "polysaccharide biosynthesis",
         "xylan",
         "xylan synthase"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "ACS Materials Au",
       "volume": "2",
@@ -20956,6 +21866,9 @@
         "split-SpnCas9",
         "transient gene expression"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "ACS Synthetic Biology",
       "volume": "11",
       "publisher_information": "American Chemical Society",
@@ -21028,6 +21941,9 @@
         "high solids",
         "lignocellulose",
         "microbiomes"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Nature Communications",
       "volume": "13",
@@ -21105,6 +22021,9 @@
         "root phenomics",
         "root system architecture"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "The Plant Journal",
       "volume": "110",
       "publisher_information": "Society for Experimental Biology",
@@ -21181,6 +22100,9 @@
         "network biology",
         "random forest"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Computational and Structural Biotechnology Journal",
       "volume": "20",
       "publisher_information": "Elsevier",
@@ -21250,6 +22172,9 @@
         "plants",
         "precision genome editing",
         "prime editing"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Biotechnology Journal",
       "volume": "17",
@@ -21321,6 +22246,9 @@
         "Preservative",
         "n-Butanol"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Fuel Communications",
       "volume": "12",
       "publisher_information": "Elsevier",
@@ -21386,6 +22314,9 @@
         "multi-pass",
         "reductive catalytic fractionation",
         "solvent reduction"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Joule",
       "volume": "6",
@@ -21483,6 +22414,9 @@
         "plasticity",
         "storage"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "New Phytologist",
       "volume": "235",
       "publisher_information": "Wiley",
@@ -21554,6 +22488,9 @@
         "ethanol",
         "lanthanum",
         "olefins"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "10",
@@ -21627,6 +22564,9 @@
         "multiplexed CRISPR",
         "web tool"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Cells",
       "volume": "11",
       "publisher_information": "MDPI",
@@ -21683,6 +22623,9 @@
         "Peptides",
         "Targeted metaproteomics"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
       "volume": "15",
       "publisher_information": "BioMed Central",
@@ -21728,6 +22671,10 @@
         "AND ANALYTICAL CHEMISTRY",
         "lignin",
         "reductive catalytic fractionation"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
       ],
       "journal_name": "Reaction Chemistry & Engineering",
       "volume": "7",
@@ -21802,6 +22749,9 @@
       "bibliographicCitation": "https://doi.org/10.1094/pbiomes-02-22-0007-r",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Phytobiomes Journal",
       "volume": "6",
@@ -21891,6 +22841,9 @@
         "proteomics",
         "transcriptomics"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microorganisms",
       "volume": "10",
       "publisher_information": "MDPI AG",
@@ -21954,6 +22907,10 @@
         "collisionally activated dissociation",
         "energy-resolved mass sproctrometry",
         "lignin-derived compound characterization"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
       ],
       "journal_name": "ChemSusChem",
       "volume": "16",
@@ -22031,6 +22988,9 @@
         "biofuels",
         "biomass fractionation",
         "lignin valorization"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Energy & Environmental Science",
       "volume": "14",
@@ -22132,6 +23092,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2022/9863496",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2022",
@@ -22240,6 +23203,9 @@
         "lignin fragment uptake",
         "permeability"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "298",
       "publisher_information": "American Society for Biochemistry and Molecular Biology",
@@ -22300,6 +23266,9 @@
         "reactive oxygen species",
         "secondary cell wall"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Open Biology",
       "volume": "9",
       "publisher_information": "The Royal Society",
@@ -22345,6 +23314,9 @@
         "binding affinity",
         "human ACE2",
         "neural network"
+      ],
+      "topic": [
+        "Plant Biology"
       ],
       "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
       "volume": "118",
@@ -22444,6 +23416,9 @@
         "plant metabolic modeling",
         "poplar"
       ],
+      "topic": [
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "The Plant Journal",
       "volume": "103",
       "publisher_information": "Society for Experimental Biology",
@@ -22479,6 +23454,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/2020/8051764",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "2020",
@@ -22690,6 +23668,9 @@
         "phage integrase",
         "site-specific recombination"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Journal of Bacteriology",
       "volume": "205",
       "publisher_information": "American Society for Microbiology",
@@ -22757,6 +23738,10 @@
         "hydrogenase",
         "metabolic engineering"
       ],
+      "topic": [
+        "Process Engineering",
+        "Microbiology"
+      ],
       "journal_name": "Engineering Microbiology",
       "volume": "3",
       "publisher_information": "Elsevier",
@@ -22818,6 +23803,9 @@
       "issue": "24",
       "identifier": "https://www.osti.gov/biblio/1922258",
       "bibliographicCitation": "https://doi.org/10.1093/bioinformatics/bty446",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Bioinformatics",
       "volume": "34",
       "publisher_information": "Oxford University Press",
@@ -22873,6 +23861,9 @@
         "glutamate synthase",
         "malate shunt",
         "redoxcofactors"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "89",
@@ -22954,6 +23945,9 @@
         "plant-microbe interactions",
         "symbiosis"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Microbiology",
       "volume": "13",
       "publisher_information": "Frontiers Research Foundation",
@@ -23018,6 +24012,10 @@
         "cellobiohydrolases",
         "cellulose depolymerization",
         "molecular dynamics"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
       ],
       "journal_name": "Science Advances",
       "volume": "8",
@@ -23112,6 +24110,9 @@
         "reductive catalytic fractionation",
         "sustainable aviation fuels"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Joule",
       "volume": "6",
       "publisher_information": "Elsevier - Cell Press",
@@ -23194,6 +24195,9 @@
         "Biochemical assays",
         "Plant molecular biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Nature Plants (Online)",
       "volume": "8",
       "publisher_information": "Nature Publishing Group",
@@ -23268,6 +24272,9 @@
         "Life Cycle Assessment",
         "Network Analysis"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biofuels, Bioproducts & Biorefining",
       "volume": "17",
       "publisher_information": "Wiley",
@@ -23326,6 +24333,9 @@
       "bibliographicCitation": "https://doi.org/10.1126/sciadv.ade1285",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Science Advances",
       "volume": "9",
@@ -23414,6 +24424,9 @@
         "plant nutrients",
         "rapid phenotyping"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant and Soil",
       "volume": "495",
       "publisher_information": "Springer Nature",
@@ -23455,6 +24468,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/1969151",
       "bibliographicCitation": "https://doi.org/10.1016/j.tcsw.2023.100101",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "The Cell Surface",
       "volume": "9",
       "publisher_information": "Elsevier",
@@ -23494,6 +24510,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/plphys/kiac580",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "191",
@@ -23542,6 +24561,9 @@
         "ORGANIC",
         "PHYSICAL",
         "AND ANALYTICAL CHEMISTRY"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "RSC Advances",
       "volume": "13",
@@ -23609,6 +24631,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "192",
       "publisher_information": "Oxford University Press",
@@ -23671,6 +24696,9 @@
         "plant\u2013microbe interaction",
         "symbiosis"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Cells",
       "volume": "12",
       "publisher_information": "MDPI",
@@ -23728,6 +24756,9 @@
         "59 BASIC BIOLOGICAL SCIENCES",
         "Biochemistry & Molecular Biology",
         "Biotechnology & Applied Microbiology"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "New Biotechnology",
       "volume": "67",
@@ -23792,6 +24823,10 @@
         "lignin",
         "stereoinversion",
         "stereospecificity"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "89",
@@ -23870,6 +24905,9 @@
       "issue": "16",
       "identifier": "https://www.osti.gov/biblio/1984722",
       "bibliographicCitation": "https://doi.org/10.1039/D3SE00353A",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Sustainable Energy & Fuels",
       "volume": "7",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -23908,6 +24946,9 @@
         "gene expression",
         "genetic vectors",
         "molecular engineering in plants"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Communications Biology",
       "volume": "6",
@@ -23973,6 +25014,9 @@
       "keywords": [
         "74 ATOMIC AND MOLECULAR PHYSICS"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Science Advances",
       "volume": "9",
       "publisher_information": "AAAS",
@@ -24015,6 +25059,9 @@
         "confocal laser scanning microscopy",
         "live-cell imaging",
         "quartz crystal microbalance with dissipation"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology and Bioengineering",
       "volume": "120",
@@ -24083,6 +25130,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/nar/gkad616",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nucleic Acids Research",
       "volume": "51",
@@ -24379,6 +25429,9 @@
         "multi-omics",
         "transcription factor"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant Communications",
       "volume": "4",
       "publisher_information": "Cell Press",
@@ -24497,6 +25550,9 @@
         "plant signalling",
         "transcriptional regulatory elements"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Nature Communications",
       "volume": "14",
       "publisher_information": "Nature Publishing Group",
@@ -24573,6 +25629,9 @@
         "Biotechnology &amp; Applied Microbiology",
         "Energy &amp; Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Global Change Biology. Bioenergy",
       "volume": "15",
       "publisher_information": "Wiley-Blackwell",
@@ -24616,6 +25675,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/nar/gkad736",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nucleic Acids Research",
       "volume": "51",
@@ -24704,6 +25766,9 @@
         "root phenotyping",
         "soil"
       ],
+      "topic": [
+        "Plant Biology"
+      ],
       "journal_name": "Plant and Soil",
       "publisher_information": "Springer Science + Business Media",
       "country_publication_code": "Netherlands",
@@ -24791,6 +25856,9 @@
         "Stress",
         "Xylose"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Microbial Cell Factories",
       "volume": "22",
       "publisher_information": "Springer Science + Business Media",
@@ -24834,6 +25902,9 @@
         "Environmental science",
         "Microbial metabolism",
         "Science & Technology"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "iScience",
       "volume": "26",
@@ -24949,6 +26020,9 @@
         "oligomers",
         "organic polymers"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Central Science",
       "volume": "9",
       "publisher_information": "American Chemical Society",
@@ -25033,6 +26107,9 @@
       "keywords": [
         "09 BIOMASS FUELS"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "26",
       "publisher_information": "Royal Society of Chemistry",
@@ -25107,6 +26184,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/2280029",
       "bibliographicCitation": "https://doi.org/10.1016/j.enzmictec.2020.109645",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Enzyme and Microbial Technology",
       "volume": "141",
       "publisher_information": "Elsevier",
@@ -25156,6 +26236,9 @@
         "stress combination",
         "systemic signalling",
         "transpiration"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant, Cell and Environment",
       "volume": "47",
@@ -25221,6 +26304,10 @@
         "lignin valorization",
         "muconic acid",
         "reductive catalytic fractionation"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
       ],
       "journal_name": "Nature Communications",
       "volume": "15",
@@ -25329,6 +26416,9 @@
         "saccharification",
         "secondary cell walls"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
       "volume": "17",
       "publisher_information": "BioMed Central",
@@ -25399,6 +26489,9 @@
       "issue": "C",
       "identifier": "https://www.osti.gov/biblio/2305780",
       "bibliographicCitation": "https://doi.org/10.1016/j.tcsw.2024.100121",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "The Cell Surface",
       "volume": "11",
       "publisher_information": "Elsevier",
@@ -25497,6 +26590,10 @@
         "lignin-first biorefining",
         "reductive catalytic fractionation"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "26",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -25570,6 +26667,9 @@
         "Plant Sciences",
         "Science and Mathematics"
       ],
+      "topic": [
+        "Environmental Science & Sustainability"
+      ],
       "journal_name": "Plant Physiology (Bethesda)",
       "volume": "195",
       "publisher_information": "Oxford University Press",
@@ -25625,6 +26725,9 @@
         "environmental changes",
         "signaling transduction",
         "transporter"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Communications",
       "volume": "5",
@@ -25708,6 +26811,9 @@
         "Cell Biology",
         "Plant Sciences"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "The Plant Cell",
       "volume": "36",
       "publisher_information": "American Society of Plant Biologists (ASPB)",
@@ -25774,6 +26880,10 @@
         "Thermodynamics",
         "Zymomonas mobilis"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Metabolic Engineering",
       "volume": "80",
       "publisher_information": "Elsevier",
@@ -25837,6 +26947,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant Phenomics",
       "volume": "6",
       "publisher_information": "AAAS",
@@ -25899,6 +27012,9 @@
         "lignocellulose",
         "metabolic engineering"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Processes",
       "volume": "7",
       "publisher_information": "MDPI AG",
@@ -25945,6 +27061,9 @@
         "Agriculture",
         "Biotechnology &amp; Applied Microbiology",
         "Energy &amp; Fuels"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Bioresource Technology",
       "volume": "406",
@@ -25996,6 +27115,9 @@
         "Biotechnology &amp; Applied Microbiology",
         "Energy &amp; Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "406",
       "publisher_information": "Elsevier",
@@ -26037,6 +27159,9 @@
       "date": "2024-05-31",
       "identifier": "https://www.osti.gov/biblio/2376283",
       "bibliographicCitation": "https://doi.org/10.1016/j.mec.2024.e00243",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Metabolic Engineering Communications",
       "publisher_information": "Elsevier",
       "country_publication_code": "Netherlands",
@@ -26091,6 +27216,9 @@
         "computational biology",
         "genome-scale modeling",
         "systems biology"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Metabolites",
       "volume": "14",
@@ -26156,6 +27284,10 @@
         "cellulosic biofuels",
         "ethanol production",
         "ethanol tolerance"
+      ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
       ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "300",
@@ -26226,6 +27358,9 @@
         "genome-scale screening",
         "synthetic biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Journal of Industrial Microbiology and Biotechnology",
       "volume": "51",
       "publisher_information": "Oxford University Press",
@@ -26274,6 +27409,9 @@
         "Lignin",
         "Lignin Modification",
         "Trans-esterification"
+      ],
+      "topic": [
+        "Materials Science & Bioproducts"
       ],
       "journal_name": "Materials Advances",
       "publisher_information": "Royal Society of Chemistry (RSC)",
@@ -26331,6 +27469,9 @@
         "glycosynthase",
         "plant cell wall",
         "xylan biosynthesis"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Chemistry - A European Journal",
       "volume": "29",
@@ -26395,6 +27536,9 @@
         "antibody design",
         "computational protein design",
         "neutralizing antibodies"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Proteins",
       "volume": "91",
@@ -26474,6 +27618,10 @@
         "reductive catalytic fractionation",
         "sustainable aviation fuel"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
       "journal_name": "Annual Review of Plant Biology",
       "volume": "75",
       "publisher_information": "Annual Reviews",
@@ -26541,6 +27689,10 @@
         "solvent reduction",
         "solvents"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "12",
       "publisher_information": "American Chemical Society",
@@ -26596,6 +27748,9 @@
       "bibliographicCitation": "https://doi.org/10.1093/hr/uhae045",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Horticulture Research (online)",
       "volume": "11",
@@ -26703,6 +27858,9 @@
         "Plant cell wall polysaccharides",
         "Transgenic switch grass"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "11",
       "publisher_information": "American Chemical Society (ACS)",
@@ -26768,6 +27926,9 @@
         "phosphorus deficiency",
         "populus trichocarpa"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "15",
       "publisher_information": "Frontiers Research Foundation",
@@ -26831,6 +27992,9 @@
       "keywords": [
         "Science &amp; Technology - Other Topics"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "PLoS ONE",
       "volume": "19",
       "publisher_information": "Public Library of Science (PLoS)",
@@ -26890,6 +28054,9 @@
         "lignin valorization",
         "lignocellulose",
         "sustainable aviation fuel"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Green Energy & Environment",
       "volume": "10",
@@ -27045,6 +28212,9 @@
         "organic polymers",
         "plastics"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Biomacromolecules",
       "volume": "24",
       "publisher_information": "American Chemical Society",
@@ -27109,6 +28279,9 @@
         "growth-dormancy",
         "methylation",
         "phenology"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Frontiers in Plant Science",
       "volume": "10",
@@ -27183,6 +28356,9 @@
         "particle counting",
         "refractive index"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Journal of Chromatography",
       "volume": "1737",
       "publisher_information": "Elsevier",
@@ -27253,6 +28429,9 @@
         "APL corn stover",
         "lignin valorization",
         "microbial catabolism"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "26",
@@ -27348,6 +28527,9 @@
         "chromatin-remodeling complex",
         "functional motif",
         "salt stress"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "The Plant Journal",
       "volume": "120",
@@ -27462,6 +28644,10 @@
         "lignocellulose",
         "peptides and proteins"
       ],
+      "topic": [
+        "Chemistry",
+        "Microbiology"
+      ],
       "journal_name": "JACS Au",
       "volume": "4",
       "publisher_information": "American Chemical Society (ACS)",
@@ -27532,6 +28718,9 @@
         "lignin valorization",
         "sustainable aviation fuel (SAF)"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Nature Materials",
       "volume": "23",
       "country_publication_code": "US",
@@ -27598,6 +28787,9 @@
         "forest management",
         "forests",
         "physiology"
+      ],
+      "topic": [
+        "Environmental Science & Sustainability"
       ],
       "journal_name": "New Phytologist",
       "volume": "245",
@@ -27710,6 +28902,9 @@
         "molecular complexes",
         "olefin valorization"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "Applied Catalysis B: Environment and Energy",
       "volume": "365",
       "country_publication_code": "US",
@@ -27765,6 +28960,9 @@
         "Molecular factors",
         "Root",
         "Transformation"
+      ],
+      "topic": [
+        "Plant Biology"
       ],
       "journal_name": "Scientific Reports",
       "volume": "15",
@@ -27823,6 +29021,9 @@
       "bibliographicCitation": "https://doi.org/10.34133/plantphenomics.0251",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Phenomics",
       "volume": "6",
@@ -27902,6 +29103,9 @@
         "synthetic biology",
         "systems biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "BioDesign Research",
       "volume": "6",
       "publisher_information": "Elsevier",
@@ -27980,6 +29184,9 @@
         "monolignol",
         "passive diffusion"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "New Phytologist",
       "volume": "Early View",
       "publisher_information": "Wiley",
@@ -28047,6 +29254,9 @@
         "biofuels",
         "crop residues",
         "soil organic carbon"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Environmental Research Letters",
       "volume": "19",
@@ -28138,6 +29348,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "BioDesign Research",
       "volume": "5",
       "publisher_information": "Elsevier",
@@ -28213,6 +29426,9 @@
       "issue": "2",
       "identifier": "https://www.osti.gov/biblio/2519268",
       "bibliographicCitation": "https://doi.org/10.3390/pathogens14020194",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Pathogens",
       "volume": "14",
       "publisher_information": "MDPI AG",
@@ -28274,6 +29490,9 @@
         "Japanese cedar",
         "Sphingobium lignivorans SYK-6",
         "lignin"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Green Chemistry",
       "volume": "27",
@@ -28360,6 +29579,9 @@
         "One\u2011carbon recursive elongation pathway",
         "Organic wastes"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Biotechnology Advances",
       "volume": "81",
       "publisher_information": "Elsevier",
@@ -28403,6 +29625,9 @@
         "demethylation",
         "methyl esters",
         "\u03b1/\u03b2 hydrolase"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plants",
       "volume": "13",
@@ -28454,6 +29679,9 @@
         "Protein splicing",
         "Selectable marker"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Bio-Protocol",
       "volume": "15",
       "publisher_information": "Bio-protocol LLC",
@@ -28502,6 +29730,9 @@
         "lignin biosynthesis",
         "salicylic acid",
         "shikimate pathway"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Plant Direct",
       "volume": "9",
@@ -28561,6 +29792,9 @@
         "catalysis",
         "lignin depolymerization",
         "lignin valorization"
+      ],
+      "topic": [
+        "Chemistry"
       ],
       "journal_name": "Nature Reviews Chemistry",
       "volume": "8",
@@ -28633,6 +29867,9 @@
       "date": "2025-04-23",
       "identifier": "https://www.osti.gov/biblio/2562699",
       "bibliographicCitation": "https://doi.org/10.1093/gigascience/giaf028",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "GigaScience",
       "volume": "14",
       "publisher_information": "Oxford University Press",
@@ -28778,6 +30015,9 @@
         "renewable energy",
         "solid-state nuclear magnetic resonance"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
       "volume": "18",
       "publisher_information": "Springer Science + Business Media",
@@ -28839,6 +30079,9 @@
         "perennial",
         "transgene-free editing"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "New Phytologist",
       "volume": "247",
       "publisher_information": "Wiley",
@@ -28876,6 +30119,9 @@
         "nitrogen use efficiency",
         "pyrolysis-molecular beam mass spectrometry",
         "switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "BioEnergy Research",
       "volume": "18",
@@ -28948,6 +30194,9 @@
         "ethanol",
         "molecular dynamics"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "eLife",
       "volume": "13",
       "country_publication_code": "US",
@@ -29017,6 +30266,9 @@
         "Leaf Waxes",
         "Populus trichocarpa"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Tree Physiology (Online)",
       "publisher_information": "Oxford University Press",
       "country_publication_code": "US",
@@ -29059,6 +30311,9 @@
       "bibliographicCitation": "https://doi.org/10.1016/j.bidere.2025.100029",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "BioDesign Research",
       "volume": "7",
@@ -29113,6 +30368,9 @@
         "Sindora glabra",
         "autophagy protein",
         "terpene synthase"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "The Plant Journal",
       "volume": "122",
@@ -29173,6 +30431,9 @@
         "cis-regulatory elements",
         "modified/synthetic promoters",
         "multi-part constructs"
+      ],
+      "topic": [
+        "Plant Biology"
       ],
       "journal_name": "The Plant Journal",
       "volume": "123",
@@ -29242,6 +30503,9 @@
         "metabolic engineering",
         "reductase"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Journal of Biological Chemistry",
       "volume": "301",
       "publisher_information": "American Society for Biochemistry and Molecular Biology",
@@ -29307,6 +30571,9 @@
         "lignin valorization",
         "reductive catalytic fractionation lignocellulose",
         "sustainable aviation fuels"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Cell Reports Physical Science",
       "volume": "6",
@@ -29397,6 +30664,9 @@
         "Biotechnology &amp; Applied Microbiology",
         "Energy &amp; Fuels"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
       "volume": "17",
       "publisher_information": "BioMed Central",
@@ -29444,6 +30714,9 @@
       "bibliographicCitation": "https://doi.org/10.1038/s41586-025-09175-9",
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Nature (London)",
       "volume": "645",
@@ -29554,6 +30827,9 @@
         "transpiration",
         "water-use efficiency"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Plant, Cell and Environment",
       "volume": "48",
       "publisher_information": "Wiley",
@@ -29601,6 +30877,9 @@
         "cellulosic ethanol",
         "consolidated bioprocessing",
         "delivered feedstock cost"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Biofuels, Bioproducts & Biorefining",
       "volume": "19",
@@ -29658,6 +30937,9 @@
         "Stress biomarkers",
         "Untargeted metabolomics",
         "VNIR"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Environmental and Experimental Botany",
       "volume": "237",
@@ -29739,6 +31021,9 @@
         "PAA delignification",
         "Switchgrass solid residue"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "International Journal of Biological Macromolecules",
       "volume": "321",
       "publisher_information": "Elsevier BV",
@@ -29806,6 +31091,9 @@
         "Gene stacking",
         "Metabolic pathway engineering",
         "Synthetic biology"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Biotechnology Advances",
       "volume": "85",
@@ -29906,6 +31194,9 @@
         "molybdenum-containing MFI zeolite",
         "platform aromatics"
       ],
+      "topic": [
+        "Chemistry"
+      ],
       "journal_name": "ACS Catalysis",
       "volume": "15",
       "country_publication_code": "US",
@@ -29963,6 +31254,9 @@
         "metabolic flux",
         "proteomics",
         "thermodynamics"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "mBio",
       "volume": "16",
@@ -30038,6 +31332,9 @@
         "Novosphingobium",
         "lignin",
         "pinoresinol"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "mBio (Online)",
       "volume": "16",
@@ -30156,6 +31453,9 @@
         "vanillic acid",
         "wall-bound phenolics"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant Biotechnology Journal",
       "volume": "24",
       "publisher_information": "Wiley",
@@ -30245,6 +31545,9 @@
         "switchgrass",
         "yield stability"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Frontiers in Genetics",
       "volume": "16",
       "publisher_information": "Frontiers Media S.A.",
@@ -30310,6 +31613,9 @@
       "issue": "6",
       "identifier": "https://www.osti.gov/biblio/3002496",
       "bibliographicCitation": "https://doi.org/10.1038/s41477-025-02007-8",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Nature Plants (Online)",
       "volume": "11",
       "publisher_information": "Nature Publishing Group",
@@ -30421,6 +31727,9 @@
         "plant traits",
         "soil carbon"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Global Change Biology",
       "volume": "31",
       "publisher_information": "Wiley",
@@ -30507,6 +31816,9 @@
       "issue": "10",
       "identifier": "https://www.osti.gov/biblio/3002910",
       "bibliographicCitation": "https://doi.org/10.1039/D5SU00327J",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "RSC Sustainability",
       "volume": "3",
       "publisher_information": "Royal Society of Chemistry",
@@ -30590,6 +31902,9 @@
         "plant biomass",
         "polysaccharide",
         "solid-state NMR"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Cell Reports Physical Science",
       "volume": "6",
@@ -30675,6 +31990,9 @@
         "Rheology",
         "Solutions"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Bioresource Technology",
       "volume": "441",
       "publisher_information": "Elsevier",
@@ -30738,6 +32056,9 @@
       "issue": "12",
       "identifier": "https://www.osti.gov/biblio/3007193",
       "bibliographicCitation": "https://doi.org/10.1016/j.tibtech.2022.09.007",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Trends in Biotechnology",
       "volume": "40",
       "publisher_information": "Elsevier",
@@ -30786,6 +32107,9 @@
       "issue": "1",
       "identifier": "https://www.osti.gov/biblio/3009412",
       "bibliographicCitation": "https://doi.org/10.1038/s43247-025-02913-x",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Communications Earth & Environment",
       "volume": "6",
       "publisher_information": "Springer Nature",
@@ -30852,6 +32176,10 @@
         "Machine learning",
         "Performance-advantaged",
         "Synthetic biology"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Computational Biology & Modeling"
       ],
       "journal_name": "Biotechnology Advances",
       "volume": "87",
@@ -30977,6 +32305,9 @@
         "Stress relaxation",
         "Transesterification"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Industrial Crops and Products",
       "volume": "237",
       "publisher_information": "Elsevier",
@@ -31035,6 +32366,9 @@
         "Chitin",
         "Fungal mycelium",
         "Hydrogel reinforcement"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "International Journal of Biological Macromolecules",
       "volume": "339",
@@ -31108,6 +32442,9 @@
         "Plant anatomy",
         "Plant development",
         "Plant physiology"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "iScience",
       "volume": "28",
@@ -31222,6 +32559,9 @@
         "reductive catalytic fractionation",
         "techno-economic assessment"
       ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
       "journal_name": "Green Chemistry",
       "volume": "27",
       "publisher_information": "Royal Society of Chemistry",
@@ -31309,6 +32649,9 @@
         "thermophile",
         "thermostability",
         "translational reporter"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "ACS Synthetic Biology",
       "volume": "14",
@@ -31412,6 +32755,10 @@
         "lignin monomers",
         "lignin oligomer"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "Angewandte Chemie (International Edition)",
       "volume": "65",
       "publisher_information": "Wiley",
@@ -31477,6 +32824,9 @@
       "issue": "2",
       "identifier": "https://www.osti.gov/biblio/3020177",
       "bibliographicCitation": "https://doi.org/10.1002/bbb.70104",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biofuels, Bioproducts & Biorefining",
       "volume": "20",
       "publisher_information": "Wiley",
@@ -31520,6 +32870,9 @@
         "Populus",
         "Root functional traits",
         "Sky Islands"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Scientific Reports",
       "volume": "16",
@@ -31565,6 +32918,9 @@
       "keywords": [
         "Sphingomonas",
         "lignin"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Applied and Environmental Microbiology",
       "volume": "92",
@@ -31615,6 +32971,10 @@
         "quantification",
         "reductive catalytic fractionation",
         "reductive catalytic fractionation (RCF)"
+      ],
+      "topic": [
+        "Chemistry",
+        "Process Engineering"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "14",
@@ -31686,6 +33046,9 @@
         "membrane remodeling",
         "Clostridium thermocellum"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "mSystems",
       "volume": "11",
       "publisher_information": "American Society for Microbiology",
@@ -31751,6 +33114,9 @@
         "plant biotechnology",
         "synthetic biology"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Trends in Plant Science",
       "publisher_information": "Cell Press",
       "country_publication_code": "US",
@@ -31796,6 +33162,9 @@
       "date": "2026-05-31",
       "identifier": "https://www.osti.gov/biblio/3025251",
       "bibliographicCitation": "https://doi.org/10.1016/j.biombioe.2025.108885",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Biomass and Bioenergy",
       "volume": "209",
       "publisher_information": "Elsevier BV",
@@ -31872,6 +33241,9 @@
         "photosynthesis",
         "stomatal movement",
         "water-use efficiency"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "International Journal of Molecular Sciences (Online)",
       "volume": "27",
@@ -31977,6 +33349,9 @@
         "Process simulation",
         "Thermophilic bacteria"
       ],
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Renewable Energy",
       "volume": "259",
       "publisher_information": "Elsevier",
@@ -32037,6 +33412,9 @@
         "pretreatment",
         "wood",
         "wood density"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "ACS Sustainable Chemistry & Engineering",
       "volume": "14",
@@ -32162,6 +33540,9 @@
       "keywords": [
         "59 BASIC BIOLOGICAL SCIENCES"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "Plant, Cell & Environment",
       "country_publication_code": "US",
       "creator": [
@@ -32205,6 +33586,9 @@
       "date": "2025-11-30",
       "identifier": "https://www.osti.gov/biblio/3030350",
       "bibliographicCitation": "https://doi.org/10.1016/j.geoderma.2025.117620",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Geoderma",
       "volume": "464",
       "country_publication_code": "US",
@@ -32270,6 +33654,9 @@
         "Populus Trichocarpa",
         "Vegetation indices",
         "hyperspectral"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Plant Phenomics",
       "volume": "8",
@@ -32340,6 +33727,9 @@
       "issue": "22",
       "identifier": "https://www.osti.gov/biblio/3030399",
       "bibliographicCitation": "https://doi.org/10.3390/plants14223420",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Plants",
       "volume": "14",
       "country_publication_code": "US",
@@ -32397,6 +33787,9 @@
       "issue": "4",
       "identifier": "https://www.osti.gov/biblio/3030808",
       "bibliographicCitation": "https://doi.org/10.1093/g3journal/jkag023",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Genes|Genomes|Genetics",
       "volume": "16",
       "country_publication_code": "US",
@@ -32537,6 +33930,10 @@
         "carbon storage",
         "durability"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
       "journal_name": "Chemical Reviews",
       "volume": "126",
       "country_publication_code": "US",
@@ -32606,6 +34003,9 @@
         "polygenic trait stacking",
         "synthetic biology"
       ],
+      "topic": [
+        "Microbiology"
+      ],
       "journal_name": "The Plant Journal",
       "volume": "124",
       "publisher_information": "Society for Experimental Biology",
@@ -32638,6 +34038,9 @@
       "date": "2026-05-20",
       "identifier": "https://www.osti.gov/biblio/3364558",
       "bibliographicCitation": "https://doi.org/10.1039/D6GC00489J",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "Green Chemistry",
       "publisher_information": "Royal Society of Chemistry (RSC)",
       "country_publication_code": "US",
@@ -32728,6 +34131,9 @@
         "haplotype range",
         "phenotypic plasticity",
         "switchgrass"
+      ],
+      "topic": [
+        "Unknown"
       ],
       "journal_name": "Cell",
       "publisher_information": "Elsevier BV",
@@ -32877,6 +34283,10 @@
         "Near-infrared spectroscopy",
         "Switchgrass"
       ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Plant Biology"
+      ],
       "journal_name": "BioEnergy Research",
       "volume": "18",
       "publisher_information": "Springer Science and Business Media LLC",
@@ -32926,6 +34336,9 @@
       "issue": "6",
       "identifier": "https://www.osti.gov/biblio/3367069",
       "bibliographicCitation": "https://doi.org/10.1016/j.isci.2026.115956",
+      "topic": [
+        "Unknown"
+      ],
       "journal_name": "iScience",
       "volume": "29",
       "country_publication_code": "US",
@@ -33015,6 +34428,9 @@
         "Helitrons",
         "Long-read sequencing",
         "Wax biosynthesis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
       ],
       "journal_name": "Forestry Research",
       "volume": "6",
@@ -33131,6 +34547,9 @@
         "Adaptive Laboratory Evolution",
         "CBI",
         "Conversion"
+      ],
+      "topic": [
+        "Microbiology"
       ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "99",
