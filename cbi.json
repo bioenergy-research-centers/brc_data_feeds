@@ -6584,6 +6584,80 @@
     },
     {
       "brc": "CBI",
+      "title": "Genetic variation of biomass recalcitrance in a natural <em>Salix viminalis</em> (L.) population",
+      "description": "<p><strong>Background</p></strong><p><em>Salix</em> spp. are high-productivity crops potentially used for lignocellulosic biofuels such as bioethanol. In general, pretreatment is needed to facilitate the enzymatic depolymerization process. Biomass resistance to degradation, i.e., <em>biomass recalcitrance</em>, is a trait which can be assessed by measuring the sugar released after combined pretreatment and enzymatic hydrolysis. We have examined genetic parameters of enzymatic sugar release and other traits related to biorefinery use in a population of 286 natural <em>Salix viminalis</em> clones. Moreover, we have evaluated phenotypic and genetic correlations between these traits and performed a genomewide association mapping analysis using a set of 19,411 markers.</p><p><strong>Results</p></strong> <p>Sugar release (glucose and xylose) after pretreatment and enzymatic saccharification proved highly variable with large genetic and phenotypic variations, and chip heritability estimates (h<sup>2</sup>) of 0.23-0.29. Lignin syringyl/guaiacyl (S/G) ratio and wood density were the most heritable traits (h<sup>2</sup> = 0.42 and 0.59, respectively). Sugar release traits were positively correlated, phenotypically and genetically, with biomass yield and lignin S/G ratio. Association mapping revealed seven marker-trait associations below a suggestive significance threshold, including one marker associated with glucose release.</p> <p><strong>Conclusions</p></strong><p>We identified lignin S/G ratio and shoot diameter as heritable traits that could be relatively easily evaluated by breeders, making them suitable proxy traits for developing low-recalcitrance varieties. One marker below the implied threshold for marker associations was identified for sugar release, meriting further investigation while also highlighting the difficulties in employing genomewide association mapping for complex traits.</p>",
+      "abstract": "<p><strong>Background</p></strong><p><em>Salix</em> spp. are high-productivity crops potentially used for lignocellulosic biofuels such as bioethanol. In general, pretreatment is needed to facilitate the enzymatic depolymerization process. Biomass resistance to degradation, i.e., <em>biomass recalcitrance</em>, is a trait which can be assessed by measuring the sugar released after combined pretreatment and enzymatic hydrolysis. We have examined genetic parameters of enzymatic sugar release and other traits related to biorefinery use in a population of 286 natural <em>Salix viminalis</em> clones. Moreover, we have evaluated phenotypic and genetic correlations between these traits and performed a genomewide association mapping analysis using a set of 19,411 markers.</p><p><strong>Results</p></strong> <p>Sugar release (glucose and xylose) after pretreatment and enzymatic saccharification proved highly variable with large genetic and phenotypic variations, and chip heritability estimates (h<sup>2</sup>) of 0.23-0.29. Lignin syringyl/guaiacyl (S/G) ratio and wood density were the most heritable traits (h<sup>2</sup> = 0.42 and 0.59, respectively). Sugar release traits were positively correlated, phenotypically and genetically, with biomass yield and lignin S/G ratio. Association mapping revealed seven marker-trait associations below a suggestive significance threshold, including one marker associated with glucose release.</p> <p><strong>Conclusions</p></strong><p>We identified lignin S/G ratio and shoot diameter as heritable traits that could be relatively easily evaluated by breeders, making them suitable proxy traits for developing low-recalcitrance varieties. One marker below the implied threshold for marker associations was identified for sugar release, meriting further investigation while also highlighting the difficulties in employing genomewide association mapping for complex traits.</p>",
+      "date": "2019-06-02",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1542755",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-019-1479-7",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Salix viminalis",
+        "bioenergy crops",
+        "biomass recalcitrance",
+        "enzymatic saccharification",
+        "genetic parameters",
+        "genomewide association study",
+        "lignocellulosic biofuels",
+        "plant breeding"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "12",
+      "publisher_information": "BioMed Central",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Jonas A. [Swedish Univ. of Agricultural Sciences,Uppsala (Sweden)] Ohlsson",
+          "primaryContact": true
+        },
+        {
+          "name": "Henrik R. [Swedish Univ. of Agricultural Sciences,Uppsala (Sweden)] Hallingb\u00e4ck",
+          "primaryContact": false
+        },
+        {
+          "name": "Mohamed [Swedish Univ. of Agricultural Sciences,Uppsala (Sweden)] Jebrane",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Harman-Ware",
+          "primaryContact": false
+        },
+        {
+          "name": "Todd [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Shollenberger",
+          "primaryContact": false
+        },
+        {
+          "name": "Stephen R. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Decker",
+          "primaryContact": false
+        },
+        {
+          "name": "Mats [Swedish Univ. of Agricultural Sciences,Uppsala (Sweden)] Sandgren",
+          "primaryContact": false
+        },
+        {
+          "name": "Ann-Christin [Swedish Univ. of Agricultural Sciences,Uppsala (Sweden)] (ORCID:0000000252417161) R\u00f6nnberg-W\u00e4stljung",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23), Center for Bioenergy Innovation (CBI)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1542755",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2700-73918"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "Investigating the correlation of biomass recalcitrance with pyrolysis oil using poplar as the feedstock",
       "description": "Pyrolysis of five poplar samples with differing degrees of recalcitrance was performed; the correlations between the poplar enzymatic hydrolysis glucose yields and the physicochemical properties of pyrolysis product were studied in this work. Sugar release of five poplar samples varied from 48.1 to 112.3 mg/g for glucose, and 12.0 to 32.4 mg/g for xylose. The yield of pyrolysis products was calculated and the molecular weight distribution of pyrolysis oils was measured by GPC, ranging from 268 to 289 g/mol for its weight-average molecular weight. GC\u2013MS analysis of the bio-oil exhibited a strong correlation between biomass recalcitrance and guaiacyl-type structures in bio-oils. The correlation between biomass recalcitrance and the ratio of syringyl-to-guaiacyl-type-related structures was also assessed. The results from quantitative <sup>31</sup>P NMR indicated some correlation between biomass recalcitrance and the guaiacyl hydroxyl groups in bio-oils. These conclusions illustrate correlations and differences between converting biomass to biofuels via the biological and thermal platform.",
       "abstract": "Pyrolysis of five poplar samples with differing degrees of recalcitrance was performed; the correlations between the poplar enzymatic hydrolysis glucose yields and the physicochemical properties of pyrolysis product were studied in this work. Sugar release of five poplar samples varied from 48.1 to 112.3 mg/g for glucose, and 12.0 to 32.4 mg/g for xylose. The yield of pyrolysis products was calculated and the molecular weight distribution of pyrolysis oils was measured by GPC, ranging from 268 to 289 g/mol for its weight-average molecular weight. GC\u2013MS analysis of the bio-oil exhibited a strong correlation between biomass recalcitrance and guaiacyl-type structures in bio-oils. The correlation between biomass recalcitrance and the ratio of syringyl-to-guaiacyl-type-related structures was also assessed. The results from quantitative <sup>31</sup>P NMR indicated some correlation between biomass recalcitrance and the guaiacyl hydroxyl groups in bio-oils. These conclusions illustrate correlations and differences between converting biomass to biofuels via the biological and thermal platform.",
@@ -31163,6 +31237,90 @@
     },
     {
       "brc": "CBI",
+      "title": "Thermodynamics shapes the <em>in vivo</em> enzyme burden of glycolytic pathways",
+      "description": "Thermodynamically constrained reactions and pathways are hypothesized to impose greater protein demands on cells, requiring higher enzyme amounts to sustain a given flux compared to those with stronger thermodynamics. To test this, we quantified the absolute concentrations of glycolytic enzymes in three bacterial species\u2014<em>Zymomonas mobilis, Escherichia coli</em>, and <em>Clostridium thermocellum</em>\u2014which employ distinct glycolytic pathways with varying thermodynamic driving forces. By integrating enzyme concentration data with corresponding <em>in vivo</em> metabolic fluxes and \u0394G measurements, we found that the highly favorable Entner-Doudoroff pathway in <em>Z. mobilis</em> requires only one-fourth the amount of enzymatic protein to sustain the same flux as the thermodynamically constrained pyrophosphate-dependent glycolytic pathway in <em>C. thermocellum</em>, with the Embden-Meyerhof-Parnas pathway in <em>E. coli</em> exhibiting intermediate thermodynamic favorability and enzyme demand. Across all three pathways, early reactions with stronger thermodynamic driving forces generally required lower enzyme investment than later, less favorable steps. Additionally, reflecting differences in glycolytic strategies, the highly reversible ethanol fermentation pathway in <em>C. thermocellum</em> requires 10-fold more protein to maintain the same flux as the irreversible, forward-driven ethanol fermentation pathway in <em>Z. mobilis</em>. Thus, protein investment across glycolytic pathways reflects differences in their thermodynamic favorability.",
+      "abstract": "Thermodynamically constrained reactions and pathways are hypothesized to impose greater protein demands on cells, requiring higher enzyme amounts to sustain a given flux compared to those with stronger thermodynamics. To test this, we quantified the absolute concentrations of glycolytic enzymes in three bacterial species\u2014<em>Zymomonas mobilis, Escherichia coli</em>, and <em>Clostridium thermocellum</em>\u2014which employ distinct glycolytic pathways with varying thermodynamic driving forces. By integrating enzyme concentration data with corresponding <em>in vivo</em> metabolic fluxes and \u0394G measurements, we found that the highly favorable Entner-Doudoroff pathway in <em>Z. mobilis</em> requires only one-fourth the amount of enzymatic protein to sustain the same flux as the thermodynamically constrained pyrophosphate-dependent glycolytic pathway in <em>C. thermocellum</em>, with the Embden-Meyerhof-Parnas pathway in <em>E. coli</em> exhibiting intermediate thermodynamic favorability and enzyme demand. Across all three pathways, early reactions with stronger thermodynamic driving forces generally required lower enzyme investment than later, less favorable steps. Additionally, reflecting differences in glycolytic strategies, the highly reversible ethanol fermentation pathway in <em>C. thermocellum</em> requires 10-fold more protein to maintain the same flux as the irreversible, forward-driven ethanol fermentation pathway in <em>Z. mobilis</em>. Thus, protein investment across glycolytic pathways reflects differences in their thermodynamic favorability.",
+      "date": "2025-09-15",
+      "issue": "10",
+      "identifier": "https://www.osti.gov/biblio/2588573",
+      "bibliographicCitation": "https://doi.org/10.1128/mbio.01837-25",
+      "keywords": [
+        "Clostridium thermocellum",
+        "Zymomonas mobilis",
+        "acetivibrio thermocellus",
+        "enzyme burden",
+        "enzyme concentration",
+        "glycolysis",
+        "metabolic flux",
+        "proteomics",
+        "thermodynamics"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "mBio",
+      "volume": "16",
+      "publisher_information": "American Society for Microbiology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Daven B. [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States)] Khana",
+          "primaryContact": true
+        },
+        {
+          "name": "Annie [Univ. of Wisconsin,Madison,WI (United States)] Jen",
+          "primaryContact": false
+        },
+        {
+          "name": "Evgenia [Univ. of Wisconsin,Madison,WI (United States)] Shishkova",
+          "primaryContact": false
+        },
+        {
+          "name": "Kirsten [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000257712987) Fisher",
+          "primaryContact": false
+        },
+        {
+          "name": "Eashant [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] Thusoo",
+          "primaryContact": false
+        },
+        {
+          "name": "Jonathan [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States)] Williams",
+          "primaryContact": false
+        },
+        {
+          "name": "Alex [Univ. of Wisconsin,Madison,WI (United States)] Henkel",
+          "primaryContact": false
+        },
+        {
+          "name": "David M. [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States)] Stevenson",
+          "primaryContact": false
+        },
+        {
+          "name": "Joshua J. [Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States);  Univ. of Wisconsin,Madison,WI (United States);  Morgridge Institute for Research,Madison,WI (United States)] (ORCID:0000000200048253) Coon",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel [Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000235683070) Amador-Noguez",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Institutes of Health (NIH)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2588573",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Elucidation of a bacterial pathway for catabolism of the \u03b2\u2013\u03b2-linked dilignol pinoresinol",
       "description": "Monolignol-derived dimers containing \u03b2\u2013\u03b2 linkages are synthesized by vascular plants and can be released during lignin depolymerization. In this work, we isolated a bacterium, Novosphingobium rhizosphaerae LY, that grows with the \u03b2\u2013\u03b2 lignan (+)-pinoresinol as a sole growth substrate. Sequence analysis suggested that this strain encodes a broad range of pathways for assimilation of aromatic monomers as well as one enzyme implicated in pinoresinol catabolism but lacks other known pathways for aromatic dimer catabolism. We constructed a genome-wide barcoded transposon library and identified genes required for pinoresinol catabolism. Using feeding studies, compound isolation, targeted synthesis, and analysis of purified enzymes, we elucidated the biochemical intermediates and reaction pathway involved in pinoresinol catabolism. We demonstrated that the first enzymatic reaction is the reductive cleavage of a furan ring in (\u00b1)-pinoresinol with retention of configuration to yield lariciresinol. We additionally confirmed that the final pathway enzyme, PinU, is related to lignostilbene dioxygenases and oxidatively cleaves a diguaiacylbutadiene intermediate to yield vanillin and coniferaldehyde. Finally, based on the enzyme characterization, we demonstrated that the strain can grow with a second \u03b2\u2013\u03b2 lignan, (\u2013)-syringaresinol, as a sole growth substrate. In combination, these results demonstrate a new biocatalytic route for transforming a widely occurring group of plant phenylpropanoid natural products.",
       "abstract": "Monolignol-derived dimers containing \u03b2\u2013\u03b2 linkages are synthesized by vascular plants and can be released during lignin depolymerization. In this work, we isolated a bacterium, Novosphingobium rhizosphaerae LY, that grows with the \u03b2\u2013\u03b2 lignan (+)-pinoresinol as a sole growth substrate. Sequence analysis suggested that this strain encodes a broad range of pathways for assimilation of aromatic monomers as well as one enzyme implicated in pinoresinol catabolism but lacks other known pathways for aromatic dimer catabolism. We constructed a genome-wide barcoded transposon library and identified genes required for pinoresinol catabolism. Using feeding studies, compound isolation, targeted synthesis, and analysis of purified enzymes, we elucidated the biochemical intermediates and reaction pathway involved in pinoresinol catabolism. We demonstrated that the first enzymatic reaction is the reductive cleavage of a furan ring in (\u00b1)-pinoresinol with retention of configuration to yield lariciresinol. We additionally confirmed that the final pathway enzyme, PinU, is related to lignostilbene dioxygenases and oxidatively cleaves a diguaiacylbutadiene intermediate to yield vanillin and coniferaldehyde. Finally, based on the enzyme characterization, we demonstrated that the strain can grow with a second \u03b2\u2013\u03b2 lignan, (\u2013)-syringaresinol, as a sole growth substrate. In combination, these results demonstrate a new biocatalytic route for transforming a widely occurring group of plant phenylpropanoid natural products.",
@@ -32659,6 +32817,46 @@
     },
     {
       "brc": "CBI",
+      "title": "An overview of switchgrass phenotypes variability across diverse populations and their implications for conversion to fuels",
+      "description": "There have been substantial changes to the human lifestyle over the past two centuries, which are reflected in the amount of fuel we consume to power our day-to-day needs. The way we use these resources has indeed manifested in an overdependence on non-renewable energy sources, such as coal and petroleum, for generating electricity and powering our transportation needs. There is a pressing need to explore alternative ways of fueling our current lifestyle without impacting the environment. Biofuels have long been touted as a sustainable solution for use as drop-in fuels in aviation and maritime applications. Still, they have yet to establish themselves as a competitive commercial alternative, necessitating further research and development. Lignocellulosic biomass is an underutilized resource that is widely accessible for the commercial processing of renewable biofuels. Bioenergy crops, such as switchgrass (Panicum virgatum L.), which can be cultivated on marginal lands with minimal competition for agricultural land, are an ideal and promising candidate for bulk-scale biofuel synthesis. Over the past 30 years, significant progress has been made in breeding and genetically modifying these grasses to enhance their drought resilience and subsequent yields. However, discrepancies in biomass composition can lead to irregular feedstocks for downstream operations, which in turn affect overall production targets for biofuels. Here, this review examines the variability in switchgrass (P. virgatum L.) biomass phenotypes across diverse populations and plant components, and their implications for biofuel conversion. The study highlights significant variations in biomass yield, composition, and cell wall chemistry both between switchgrass genotypes and within individual cultivars. Key findings include differences in cellulose, hemicellulose, and lignin content between leaves and stems, which affect biomass digestibility and ethanol yield. The review also discusses the impact of lignin chemistry, particularly the syringyl/guaicyl (S/G) ratio, on the efficiency of biomass saccharification. Furthermore, it explores how these variations respond differently to various pretreatment techniques, affecting overall biofuel production. We conclude that understanding and quantifying this variability is crucial for optimizing switchgrass as a feedstock for commercial biofuel production, thereby potentially addressing the pressing need for sustainable energy sources in sectors such as aviation.",
+      "abstract": "There have been substantial changes to the human lifestyle over the past two centuries, which are reflected in the amount of fuel we consume to power our day-to-day needs. The way we use these resources has indeed manifested in an overdependence on non-renewable energy sources, such as coal and petroleum, for generating electricity and powering our transportation needs. There is a pressing need to explore alternative ways of fueling our current lifestyle without impacting the environment. Biofuels have long been touted as a sustainable solution for use as drop-in fuels in aviation and maritime applications. Still, they have yet to establish themselves as a competitive commercial alternative, necessitating further research and development. Lignocellulosic biomass is an underutilized resource that is widely accessible for the commercial processing of renewable biofuels. Bioenergy crops, such as switchgrass (Panicum virgatum L.), which can be cultivated on marginal lands with minimal competition for agricultural land, are an ideal and promising candidate for bulk-scale biofuel synthesis. Over the past 30 years, significant progress has been made in breeding and genetically modifying these grasses to enhance their drought resilience and subsequent yields. However, discrepancies in biomass composition can lead to irregular feedstocks for downstream operations, which in turn affect overall production targets for biofuels. Here, this review examines the variability in switchgrass (P. virgatum L.) biomass phenotypes across diverse populations and plant components, and their implications for biofuel conversion. The study highlights significant variations in biomass yield, composition, and cell wall chemistry both between switchgrass genotypes and within individual cultivars. Key findings include differences in cellulose, hemicellulose, and lignin content between leaves and stems, which affect biomass digestibility and ethanol yield. The review also discusses the impact of lignin chemistry, particularly the syringyl/guaicyl (S/G) ratio, on the efficiency of biomass saccharification. Furthermore, it explores how these variations respond differently to various pretreatment techniques, affecting overall biofuel production. We conclude that understanding and quantifying this variability is crucial for optimizing switchgrass as a feedstock for commercial biofuel production, thereby potentially addressing the pressing need for sustainable energy sources in sectors such as aviation.",
+      "date": "2025-12-17",
+      "issue": "2",
+      "identifier": "https://www.osti.gov/biblio/3020177",
+      "bibliographicCitation": "https://doi.org/10.1002/bbb.70104",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biofuels, Bioproducts & Biorefining",
+      "volume": "20",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Rohit [Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000214454404) Kousika",
+          "primaryContact": true
+        },
+        {
+          "name": "Yunqiao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. [Univ. of Tennessee,Knoxville,TN (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000023536554X) Ragauskas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3020177",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Climate change drives convergent evolution of root traits on Sky Island climate relicts",
       "description": "Roots are essential to the strategies plants use to survive in variable environments, yet we know little of how they vary within species. Experimental conditions demonstrate that intraspecific plant root traits respond strongly to variation in the environment; however, it is unclear when these responses can be characterized as evolution in response to selective pressures of climate change over many generations. Sky Islands are model, natural climate relict ecosystems to examine climate-change driven evolution. Utilizing a common garden with replicate genotypes of Populus angustifolia (Narrowleaf cottonwood) from six Sky Island (SI) populations and nine adjacent Mountain Chain (MC) populations across three genetic provenances, we hypothesized that SI root traits have diverged due to historical isolation in warmer, drier climates. When grown in common conditions, populations originating on SI\u2019s showed convergent evolution across three distinct genetic provenances, which was characterized by 44.16% decreased total root length, 42.64% decreased average root volume, 43.31% decreased root surface area, and significantly less root trait variation, relative to adjacent mountain chains. Convergent evolution of root traits from trees originating on SI\u2019s is correlated with changes in mean annual precipitation and potential evapotranspiration in the field over the past ~ 125 years. These results demonstrate a consistent pattern in root trait evolution at the landscape scale and the role of climate on the evolution of root traits in a genetic and geographic context relevant to climate change.",
       "abstract": "Roots are essential to the strategies plants use to survive in variable environments, yet we know little of how they vary within species. Experimental conditions demonstrate that intraspecific plant root traits respond strongly to variation in the environment; however, it is unclear when these responses can be characterized as evolution in response to selective pressures of climate change over many generations. Sky Islands are model, natural climate relict ecosystems to examine climate-change driven evolution. Utilizing a common garden with replicate genotypes of Populus angustifolia (Narrowleaf cottonwood) from six Sky Island (SI) populations and nine adjacent Mountain Chain (MC) populations across three genetic provenances, we hypothesized that SI root traits have diverged due to historical isolation in warmer, drier climates. When grown in common conditions, populations originating on SI\u2019s showed convergent evolution across three distinct genetic provenances, which was characterized by 44.16% decreased total root length, 42.64% decreased average root volume, 43.31% decreased root surface area, and significantly less root trait variation, relative to adjacent mountain chains. Convergent evolution of root traits from trees originating on SI\u2019s is correlated with changes in mean annual precipitation and potential evapotranspiration in the field over the past ~ 125 years. These results demonstrate a consistent pattern in root trait evolution at the landscape scale and the role of climate on the evolution of root traits in a genetic and geographic context relevant to climate change.",
@@ -32832,6 +33030,76 @@
     },
     {
       "brc": "CBI",
+      "title": "Genetic and metabolic drivers of membrane remodeling in <em>Clostridium thermocellum</em> under alcohol stress",
+      "description": "Clostridium thermocellum is a leading candidate for consolidated bioprocessing of lignocellulosic biomass into biofuels due to its native cellulolytic capabilities. Beyond ethanol, C. thermocellum is being developed as a platform for producing higher-chain alcohols such as isobutanol and n-butanol. However, its physiological adaptations to alcohol stress remain poorly understood. Here, we investigate how C. thermocellum remodels its membrane lipid composition in response to exogenous ethanol, n-butanol, isobutanol, and butyrate. Exposure to linear alcohols such as n-butanol or to organic acids like butyrate increased the proportion of straight-chain fatty acids in the membrane at the expense of branched-chain species, whereas exposure to the branched alcohol isobutanol produced the opposite effect. Isotope tracer experiments demonstrated that C. thermocellum directly incorporates the carbon backbones of exogenous alcohols and acids into fatty acids, providing a mechanistic basis for these contrasting shifts. We show that the bifunctional aldehyde/alcohol dehydrogenase AdhE is essential for the assimilation of exogenous alcohols into fatty acids, acting through its oxidative activity by first oxidizing alcohols to aldehydes and then converting them to acyl-CoA intermediates. Deletion of the pyruvate:ferredoxin oxidoreductase isozyme pfor4 abolished branched-chain fatty acid synthesis, but supplementation with isobutanol restored production, indicating that Pfor4 substitutes for the canonical branched-chain \u03b1-keto acid dehydrogenase complex. These findings reveal two distinct routes for branched-chain fatty acid production in C. thermocellum: a Pfor4-dependent pathway from \u03b1-keto acid intermediates derived from amino acid synthesis, and an AdhE-dependent salvage pathway that assimilates exogenous branched-chain alcohols.",
+      "abstract": "Clostridium thermocellum is a leading candidate for consolidated bioprocessing of lignocellulosic biomass into biofuels due to its native cellulolytic capabilities. Beyond ethanol, C. thermocellum is being developed as a platform for producing higher-chain alcohols such as isobutanol and n-butanol. However, its physiological adaptations to alcohol stress remain poorly understood. Here, we investigate how C. thermocellum remodels its membrane lipid composition in response to exogenous ethanol, n-butanol, isobutanol, and butyrate. Exposure to linear alcohols such as n-butanol or to organic acids like butyrate increased the proportion of straight-chain fatty acids in the membrane at the expense of branched-chain species, whereas exposure to the branched alcohol isobutanol produced the opposite effect. Isotope tracer experiments demonstrated that C. thermocellum directly incorporates the carbon backbones of exogenous alcohols and acids into fatty acids, providing a mechanistic basis for these contrasting shifts. We show that the bifunctional aldehyde/alcohol dehydrogenase AdhE is essential for the assimilation of exogenous alcohols into fatty acids, acting through its oxidative activity by first oxidizing alcohols to aldehydes and then converting them to acyl-CoA intermediates. Deletion of the pyruvate:ferredoxin oxidoreductase isozyme pfor4 abolished branched-chain fatty acid synthesis, but supplementation with isobutanol restored production, indicating that Pfor4 substitutes for the canonical branched-chain \u03b1-keto acid dehydrogenase complex. These findings reveal two distinct routes for branched-chain fatty acid production in C. thermocellum: a Pfor4-dependent pathway from \u03b1-keto acid intermediates derived from amino acid synthesis, and an AdhE-dependent salvage pathway that assimilates exogenous branched-chain alcohols.",
+      "date": "2026-03-04",
+      "issue": "3",
+      "identifier": "https://www.osti.gov/biblio/3024137",
+      "bibliographicCitation": "https://doi.org/10.1128/msystems.01345-25",
+      "keywords": [
+        "Acetivibrio thermocellus",
+        "CBI",
+        "branched-chain fatty acid synthesis",
+        "lipid membrane remodeling",
+        "mass spectrometry",
+        "membrane remodeling",
+        "Clostridium thermocellum"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "mSystems",
+      "volume": "11",
+      "publisher_information": "American Society for Microbiology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Eashant [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Univ. of Wisconsin,Madison,WI (United States)] (ORCID:0009000100884235) Thusoo",
+          "primaryContact": true
+        },
+        {
+          "name": "Tyler [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Univ. of Wisconsin,Madison,WI (United States)] Jacobson",
+          "primaryContact": false
+        },
+        {
+          "name": "Bishal D. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Dartmouth College,Hanover,NH (United States)] (ORCID:0000000283264444) Sharma",
+          "primaryContact": false
+        },
+        {
+          "name": "Isabella M. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Univ. of Wisconsin,Madison,WI (United States)] Col\u00f3n",
+          "primaryContact": false
+        },
+        {
+          "name": "Lee R. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Dartmouth College,Hanover,NH (United States)] Lynd",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel G. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Dartmouth College,Hanover,NH (United States)] (ORCID:0000000153936302) Olson",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI); Univ. of Wisconsin,Madison,WI (United States); Great Lakes Bioenergy Research Center (GLBRC),Madison,WI (United States)] (ORCID:0000000235683070) Amador-Noguez",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Science Foundation (NSF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3024137",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Construct design for precise DNA insertion in plants",
       "description": "Precise insertion of DNA sequences at targeted locations in plant genomes is pivotal for synthetic biology, genetics, and crop improvement. Construct design plays a critical role in achieving precise insertions, yet practical guidance remains limited. This review provides an in-depth overview of construct design principles and targeted DNA insertion (knock-in) strategies in plants. We assess the strengths, limitations, and construct requirements of current knock-in methods for specific applications, including short, large, and multifragment insertions. Additionally, we explore the potential of adopting advanced nonplant technologies to enhance knock-in efficiency and precision in plants. This review provides a valuable resource for facilitating the effective application of knock-in technologies to genetically improve crops with minimal off-target effects.",
       "abstract": "Precise insertion of DNA sequences at targeted locations in plant genomes is pivotal for synthetic biology, genetics, and crop improvement. Construct design plays a critical role in achieving precise insertions, yet practical guidance remains limited. This review provides an in-depth overview of construct design principles and targeted DNA insertion (knock-in) strategies in plants. We assess the strengths, limitations, and construct requirements of current knock-in methods for specific applications, including short, large, and multifragment insertions. Additionally, we explore the potential of adopting advanced nonplant technologies to enhance knock-in efficiency and precision in plants. This review provides a valuable resource for facilitating the effective application of knock-in technologies to genetically improve crops with minimal off-target effects.",
@@ -32951,6 +33219,119 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3025251",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Rhythmic Mechanisms Governing CAM Photosynthesis in <em>Kalanchoe fedtschenkoi</em>: High-Resolution Temporal Transcriptomics",
+      "description": "Crassulacean acid metabolism (CAM) is a specialized photosynthetic pathway that enhances water-use efficiency by temporally separating nocturnal CO<sub>2</sub> uptake from daytime decarboxylation and carbon fixation. To uncover the regulatory mechanisms coordinating these temporal dynamics, we generated high-resolution, 48 h time-course transcriptomes for the CAM model Kalanchoe fedtschenkoi under both 12 h/12 h light/dark (LD) cycles and continuous light (LL). A rhythmicity analysis revealed that diel light cues are the dominant driver of transcript oscillations: 16,810 genes (54.3% of annotated genes) exhibited rhythmic expression only under LD, whereas just 399 genes (1.3%) remained rhythmic under LL. A smaller set of 3009 genes (9.7%) oscillated in both conditions, indicating that the intrinsic circadian clock sustains rhythmicity for a limited subset of the transcriptome. A gene co-expression network analysis revealed extensive integration between circadian clock components, core CAM pathway enzymes, and stomatal regulators, defining regulatory modules that coordinate metabolic and physiological timing. Notably, key hub genes associated with post-translational and post-transcriptional regulation, including the E3 ubiquitin ligase HUB2 and several pentatricopeptide repeat (PPR) proteins, act as central nodes in CAM-associated networks. This discovery implicates epigenetic and organellar regulation as previously unrecognized critical tiers of control in CAM. Together, our results support a regulatory model in which CAM rhythmicity is governed by both external light/dark cues and the endogenous circadian clock through multi-level control spanning transcriptional and protein-level regulation. To support community exploration, we also provide an interactive eFP (electronic Fluorescent Pictograph) browser for visualizing time-resolved gene expression profiles.",
+      "abstract": "Crassulacean acid metabolism (CAM) is a specialized photosynthetic pathway that enhances water-use efficiency by temporally separating nocturnal CO<sub>2</sub> uptake from daytime decarboxylation and carbon fixation. To uncover the regulatory mechanisms coordinating these temporal dynamics, we generated high-resolution, 48 h time-course transcriptomes for the CAM model Kalanchoe fedtschenkoi under both 12 h/12 h light/dark (LD) cycles and continuous light (LL). A rhythmicity analysis revealed that diel light cues are the dominant driver of transcript oscillations: 16,810 genes (54.3% of annotated genes) exhibited rhythmic expression only under LD, whereas just 399 genes (1.3%) remained rhythmic under LL. A smaller set of 3009 genes (9.7%) oscillated in both conditions, indicating that the intrinsic circadian clock sustains rhythmicity for a limited subset of the transcriptome. A gene co-expression network analysis revealed extensive integration between circadian clock components, core CAM pathway enzymes, and stomatal regulators, defining regulatory modules that coordinate metabolic and physiological timing. Notably, key hub genes associated with post-translational and post-transcriptional regulation, including the E3 ubiquitin ligase HUB2 and several pentatricopeptide repeat (PPR) proteins, act as central nodes in CAM-associated networks. This discovery implicates epigenetic and organellar regulation as previously unrecognized critical tiers of control in CAM. Together, our results support a regulatory model in which CAM rhythmicity is governed by both external light/dark cues and the endogenous circadian clock through multi-level control spanning transcriptional and protein-level regulation. To support community exploration, we also provide an interactive eFP (electronic Fluorescent Pictograph) browser for visualizing time-resolved gene expression profiles.",
+      "date": "2026-01-28",
+      "issue": "3",
+      "identifier": "https://www.osti.gov/biblio/3027633",
+      "bibliographicCitation": "https://doi.org/10.3390/ijms27031342",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "CBI",
+        "Feedstock Development",
+        "circadian clock",
+        "crassulacean acid metabolism",
+        "drought stress",
+        "gene expression",
+        "photosynthesis",
+        "stomatal movement",
+        "water-use efficiency"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "International Journal of Molecular Sciences (Online)",
+      "volume": "27",
+      "publisher_information": "MDPI",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Rongbin [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000159216891) Hu",
+          "primaryContact": true
+        },
+        {
+          "name": "Sara [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000281235439) Jawdy",
+          "primaryContact": false
+        },
+        {
+          "name": "Avinash [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000173367012) Sreedasyam",
+          "primaryContact": false
+        },
+        {
+          "name": "Anna [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000322939329) Lipzen",
+          "primaryContact": false
+        },
+        {
+          "name": "Mei [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] Wang",
+          "primaryContact": false
+        },
+        {
+          "name": "Vivian [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000189416931) Ng",
+          "primaryContact": false
+        },
+        {
+          "name": "Christopher [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000338955892) Daum",
+          "primaryContact": false
+        },
+        {
+          "name": "Keykhosrow [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] Keymanesh",
+          "primaryContact": false
+        },
+        {
+          "name": "Degao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Texas Tech University,Lubbock,TX (United States)] Liu",
+          "primaryContact": false
+        },
+        {
+          "name": "Alex [Texas Tech University,Lubbock,TX (United States)] Hu",
+          "primaryContact": false
+        },
+        {
+          "name": "Asher [University of Toronto,ON (Canada)] (ORCID:0000000293150520) Pasha",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicholas J. [University of Toronto,ON (Canada)] (ORCID:0000000155517232) Provart",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne M. [Newcastle University,Newcastle upon Tyne (United Kingdom)] Borland",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States); USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000180629172) Schmutz",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiaohan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000152074210) Yang",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES). Scientific User Facilities (SUF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3027633",
       "active": false
     },
     {
@@ -33246,6 +33627,95 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3030350",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Unraveling plant phenotype to genotype associations with daily hyperspectral traits in <em>Populus trichocarpa</em>",
+      "description": "Hyperspectral remote sensing is a powerful, high-throughput phenotyping tool that quantifies physiologically and structurally relevant wavelengths across diverse genotypes and over varying temporal scales. In this study, we combined tower-based continuous hyperspectral sensing with genome-wide association studies to analyze 1423 wavebands (400-900 nm) and derivative vegetation indices across 505 genotypes and the genetic architecture of hyperspectral phenotypes over time in Populus trichocarpa Torr. &amp; Gray grown under field conditions. Wavelengths related to chlorophyll and carotenoid absorption spectra exhibited the strongest genetic variation resulting in 98 significant SNP associations. Notably, we found substantial overlap in genetic association between the blue and red spectral regions, indicative of carotenoids and chlorophyll, respectively, and identified more than 10 candidate genes associated with chloroplast function, underpinning photosynthetic activity. Furthermore, fluctuations in associations for vegetative indices, such as the chlorophyll:carotenoid index (CCI), across the growing season reveal a temporally dynamic genetic architecture of physiological traits associated with fall senescence of this temperate tree species. Finally, we also observed correlations (spearman rho = 0.3, p &lt; 1x10<sup>\u22128</sup>) between individual wavebands or vegetative indices and growth rate, assessed as the relative change of tree height over the growing season. The growth rate prediction was substantially improved by a regularization multivariate model (spearman rho&gt;0.5, p &lt; 1x10<sup>\u221216</sup>), reinforcing the value of hyperspectral measurements for predicting traits linked to tree productivity. These findings highlight the potential of high-throughput, rapid, hyperspectral genome wide association studies GWAS to uncover physiologically meaningful genetic variation and offer promising insights for future acceleration for plant breeding.",
+      "abstract": "Hyperspectral remote sensing is a powerful, high-throughput phenotyping tool that quantifies physiologically and structurally relevant wavelengths across diverse genotypes and over varying temporal scales. In this study, we combined tower-based continuous hyperspectral sensing with genome-wide association studies to analyze 1423 wavebands (400-900 nm) and derivative vegetation indices across 505 genotypes and the genetic architecture of hyperspectral phenotypes over time in Populus trichocarpa Torr. &amp; Gray grown under field conditions. Wavelengths related to chlorophyll and carotenoid absorption spectra exhibited the strongest genetic variation resulting in 98 significant SNP associations. Notably, we found substantial overlap in genetic association between the blue and red spectral regions, indicative of carotenoids and chlorophyll, respectively, and identified more than 10 candidate genes associated with chloroplast function, underpinning photosynthetic activity. Furthermore, fluctuations in associations for vegetative indices, such as the chlorophyll:carotenoid index (CCI), across the growing season reveal a temporally dynamic genetic architecture of physiological traits associated with fall senescence of this temperate tree species. Finally, we also observed correlations (spearman rho = 0.3, p &lt; 1x10<sup>\u22128</sup>) between individual wavebands or vegetative indices and growth rate, assessed as the relative change of tree height over the growing season. The growth rate prediction was substantially improved by a regularization multivariate model (spearman rho&gt;0.5, p &lt; 1x10<sup>\u221216</sup>), reinforcing the value of hyperspectral measurements for predicting traits linked to tree productivity. These findings highlight the potential of high-throughput, rapid, hyperspectral genome wide association studies GWAS to uncover physiologically meaningful genetic variation and offer promising insights for future acceleration for plant breeding.",
+      "date": "2026-03-26",
+      "issue": "2",
+      "identifier": "https://www.osti.gov/biblio/3030360",
+      "bibliographicCitation": "https://doi.org/10.1016/j.plaphe.2026.100174",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Carotenoids",
+        "Chlorophyll",
+        "Chloroplasts",
+        "Feedstock Development",
+        "CBI",
+        "Field-based",
+        "Genetic basis of hyperspectral traits",
+        "Heritability",
+        "Hyperspectral GWAS",
+        "Hyperspectral remote sensing",
+        "Poplar",
+        "Populus Trichocarpa",
+        "Vegetation indices",
+        "hyperspectral"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Plant Phenomics",
+      "volume": "8",
+      "publisher_information": "AAAS",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Marie C. [Univ. of California,Davis,CA (United States)] (ORCID:0009000341998970) Klein",
+          "primaryContact": true
+        },
+        {
+          "name": "Christopher YS. [Univ. of California,Davis,CA (United States); Univ. of New Brunswick,Fredericton NB (Canada)] Wong",
+          "primaryContact": false
+        },
+        {
+          "name": "J. Grey [Univ. of California,Davis,CA (United States)] Monroe",
+          "primaryContact": false
+        },
+        {
+          "name": "Jack [Univ. of California,Davis,CA (United States)] Bailey-Bale",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas N. [Univ. of California,Davis,CA (United States)] Buckley",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000217524201) Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Mengjun [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000263232664) Shu",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Troy S. [Univ. of California,Davis,CA (United States); Univ. of Montana,Missoula,MT (United States)] (ORCID:0000000290330024) Magney",
+          "primaryContact": false
+        },
+        {
+          "name": "Gail [Univ. of California,Davis,CA (United States); Univ. College London (United Kingdom)] (ORCID:0000000184706390) Taylor",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030360",
       "active": false
     },
     {
@@ -33939,6 +34409,131 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3367069",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Telomere-to-telomere assemblies of chromosome 10 reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in <i>Populus trichocarpa</i> likely driven by Helitrons",
+      "description": "The model woody plant Populus trichocarpa displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of 3-ketoacyl-CoA synthases (KCS), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of Potri.010G079500 in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of KCS copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each KCS gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating KCS tandem arrays. Long-read generated telomere-to-telomere assemblies of P. trichocarpa chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
+      "abstract": "The model woody plant Populus trichocarpa displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of 3-ketoacyl-CoA synthases (KCS), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of Potri.010G079500 in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of KCS copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each KCS gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating KCS tandem arrays. Long-read generated telomere-to-telomere assemblies of P. trichocarpa chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
+      "date": "2026-01-07",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3367327",
+      "bibliographicCitation": "https://doi.org/10.48130/forres-0026-0019",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Populus trichocarpa",
+        "Copy number variation",
+        "KCS genes",
+        "Helitrons",
+        "Long-read sequencing",
+        "Wax biosynthesis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Forestry Research",
+      "volume": "6",
+      "publisher_information": "Maximum Academic Press",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "David Kainer",
+          "primaryContact": true
+        },
+        {
+          "name": "Stanton Martin",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel Hopp",
+          "primaryContact": false
+        },
+        {
+          "name": "Sophie Mosher",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "P. Doug Hyatt",
+          "primaryContact": false
+        },
+        {
+          "name": "Madhavi Z. Martin",
+          "primaryContact": false
+        },
+        {
+          "name": "Jared M. LeBoldus",
+          "primaryContact": false
+        },
+        {
+          "name": "Kelsey L. S\u00f8ndreli",
+          "primaryContact": false
+        },
+        {
+          "name": "Posy E. Busby",
+          "primaryContact": false
+        },
+        {
+          "name": "Mengjun Shu",
+          "primaryContact": false
+        },
+        {
+          "name": "Kerrie Barry",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy Schmutz",
+          "primaryContact": false
+        },
+        {
+          "name": "Anna Furches",
+          "primaryContact": false
+        },
+        {
+          "name": "Nan Zhao",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel A. Jacobson",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Mirko Pavicic",
+          "primaryContact": false
+        },
+        {
+          "name": "Priya Ranjan",
+          "primaryContact": false
+        },
+        {
+          "name": "Wellington Muchero",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Michael R. Garvin",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3367327",
       "active": false
     },
     {
