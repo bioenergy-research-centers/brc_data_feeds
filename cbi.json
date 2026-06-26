@@ -33531,39 +33531,45 @@
     },
     {
       "brc": "CBI",
-      "title": "F-Box Protein-Mediated Proteolytic Regulation of Phenylpropanoid Metabolism in Response to Biotic and Abiotic Stresses",
-      "description": "Protein ubiquitination is a central regulatory mechanism governing plant growth, development and environmental adaptation. Ubiquitylomic studies have revealed that many enzymes in phenylpropanoid biosynthetic pathways are subject to ubiquitination. Increasing evidence indicates that specific F-box proteins target key enzymes in these pathways, including PAL, CCR, CAD, COMT and peroxidases in the lignin biosynthetic branch, and CHS in the flavonoid biosynthetic branch, thereby promoting their ubiquitination and selective degradation. These F-box proteins act in response to diverse developmental and environmental cues, including cellular carbon status, light quality and intensity, and biotic stresses (e.g., pathogen and insect attack). By regulating the stability and activity of both enzymes and regulatory proteins involved in phenylpropanoid biosynthesis, F-box proteins modulate the accumulation of simple phenolics and lignin polymers, ultimately contributing to plant resilience. This review summarizes recent advances in the characterization of F-box proteins involved in phenylpropanoid metabolism and their regulatory roles in response to biotic and abiotic stresses and identifies key knowledge gaps that limit mechanistic understanding of F-box protein-mediated proteolytic regulation of phenylpropanoid metabolism. Insights into ubiquitin-mediated proteolytic control of phenylpropanoid metabolism offer promising avenues for enhancing bioactive phenolic production, advancing biofuel feedstock engineering and improving crop stress tolerance.",
-      "abstract": "Protein ubiquitination is a central regulatory mechanism governing plant growth, development and environmental adaptation. Ubiquitylomic studies have revealed that many enzymes in phenylpropanoid biosynthetic pathways are subject to ubiquitination. Increasing evidence indicates that specific F-box proteins target key enzymes in these pathways, including PAL, CCR, CAD, COMT and peroxidases in the lignin biosynthetic branch, and CHS in the flavonoid biosynthetic branch, thereby promoting their ubiquitination and selective degradation. These F-box proteins act in response to diverse developmental and environmental cues, including cellular carbon status, light quality and intensity, and biotic stresses (e.g., pathogen and insect attack). By regulating the stability and activity of both enzymes and regulatory proteins involved in phenylpropanoid biosynthesis, F-box proteins modulate the accumulation of simple phenolics and lignin polymers, ultimately contributing to plant resilience. This review summarizes recent advances in the characterization of F-box proteins involved in phenylpropanoid metabolism and their regulatory roles in response to biotic and abiotic stresses and identifies key knowledge gaps that limit mechanistic understanding of F-box protein-mediated proteolytic regulation of phenylpropanoid metabolism. Insights into ubiquitin-mediated proteolytic control of phenylpropanoid metabolism offer promising avenues for enhancing bioactive phenolic production, advancing biofuel feedstock engineering and improving crop stress tolerance.",
+      "title": "F\u2010Box Protein\u2010Mediated Proteolytic Regulation of Phenylpropanoid Metabolism in Response to Biotic and Abiotic Stresses",
+      "description": "Protein ubiquitination is a central regulatory mechanism governing plant growth, development and environmental adaptation. Ubiquitylomic studies have revealed that many enzymes in phenylpropanoid biosynthetic pathways are subject to ubiquitination. Increasing evidence indicates that specific F-box proteins target key enzymes in these pathways, including PAL, CCR, CAD, COMT and peroxidases in the lignin biosynthetic branch, and CHS in the flavonoid biosynthetic branch, thereby promoting their ubiquitination and selective degradation. These F-box proteins act in response to diverse developmental and environmental cues, including cellular carbon status, light quality and intensity, and biotic stresses (e.g., pathogen and insect attack). By regulating the stability and activity of both enzymes and regulatory proteins involved in phenylpropanoid biosynthesis, F-box proteins modulate the accumulation of simple phenolics and lignin polymers, ultimately contributing to plant resilience. This review summarizes recent advances in the characterization of F-box proteins involved in phenylpropanoid metabolism and their regulatory roles in response to biotic and abiotic stresses and identifies key knowledge gaps that limit mechanistic understanding of F-box protein-mediated proteolytic regulation of phenylpropanoid metabolism. In conclusion, insights into ubiquitin-mediated proteolytic control of phenylpropanoid metabolism offer promising avenues for enhancing bioactive phenolic production, advancing biofuel feedstock engineering and improving crop stress tolerance.",
+      "abstract": "Protein ubiquitination is a central regulatory mechanism governing plant growth, development and environmental adaptation. Ubiquitylomic studies have revealed that many enzymes in phenylpropanoid biosynthetic pathways are subject to ubiquitination. Increasing evidence indicates that specific F-box proteins target key enzymes in these pathways, including PAL, CCR, CAD, COMT and peroxidases in the lignin biosynthetic branch, and CHS in the flavonoid biosynthetic branch, thereby promoting their ubiquitination and selective degradation. These F-box proteins act in response to diverse developmental and environmental cues, including cellular carbon status, light quality and intensity, and biotic stresses (e.g., pathogen and insect attack). By regulating the stability and activity of both enzymes and regulatory proteins involved in phenylpropanoid biosynthesis, F-box proteins modulate the accumulation of simple phenolics and lignin polymers, ultimately contributing to plant resilience. This review summarizes recent advances in the characterization of F-box proteins involved in phenylpropanoid metabolism and their regulatory roles in response to biotic and abiotic stresses and identifies key knowledge gaps that limit mechanistic understanding of F-box protein-mediated proteolytic regulation of phenylpropanoid metabolism. In conclusion, insights into ubiquitin-mediated proteolytic control of phenylpropanoid metabolism offer promising avenues for enhancing bioactive phenolic production, advancing biofuel feedstock engineering and improving crop stress tolerance.",
       "date": "2026-02-14",
+      "issue": "6",
       "identifier": "https://www.osti.gov/biblio/3030184",
       "bibliographicCitation": "https://doi.org/10.1111/pce.70445",
       "keywords": [
-        "59 BASIC BIOLOGICAL SCIENCES"
+        "(A)biotic stress",
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "F-box proteins",
+        "Flavonoids",
+        "Lignin",
+        "Phenylpropanoids",
+        "Phytopathogen",
+        "Sugar signaling",
+        "Ubiquitination"
       ],
       "topic": [
         "Microbiology"
       ],
-      "journal_name": "Plant, Cell & Environment",
+      "journal_name": "Plant, Cell and Environment",
+      "volume": "49",
+      "publisher_information": "Wiley",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Guoqian Yang",
+          "name": "Guoqian [Brookhaven National Laboratory (BNL),Upton,NY (United States)] (ORCID:0000000210454562) Yang",
           "primaryContact": true
         },
         {
-          "name": "Chang-Jun (ORCID:0000000161898756) Liu",
+          "name": "Chang\u2010Jun [Brookhaven National Laboratory (BNL),Upton,NY (United States)] (ORCID:0000000161898756) Liu",
           "primaryContact": false
         }
       ],
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "Brookhaven National Lab"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES)"
+            "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES). Chemical Sciences, Geosciences & Biosciences Division (CSGB)"
           }
         },
         {
