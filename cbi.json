@@ -15532,6 +15532,56 @@
     },
     {
       "brc": "CBI",
+      "title": "Building kinetic models for metabolic engineering",
+      "description": "Kinetic formalisms of metabolism link metabolic fluxes to enzyme levels, metabolite concentrations and their allosteric regulatory interactions. Though they require the identification of physiologically relevant values for numerous parameters, kinetic formalisms uniquely establish a mechanistic link across heterogeneous omics datasets and provide an overarching vantage point to effectively inform metabolic engineering strategies. Advances in computational power, gene annotation coverage, and formalism standardization have led to significant progress over the past few years. However, careful interpretation of model predictions, limited metabolic flux datasets, and assessment of parameter sensitivity remain as challenges. In this study we highlight fundamental considerations which influence model quality and prediction, advances in methodologies, and success stories of deploying kinetic models to guide metabolic engineering.",
+      "abstract": "Kinetic formalisms of metabolism link metabolic fluxes to enzyme levels, metabolite concentrations and their allosteric regulatory interactions. Though they require the identification of physiologically relevant values for numerous parameters, kinetic formalisms uniquely establish a mechanistic link across heterogeneous omics datasets and provide an overarching vantage point to effectively inform metabolic engineering strategies. Advances in computational power, gene annotation coverage, and formalism standardization have led to significant progress over the past few years. However, careful interpretation of model predictions, limited metabolic flux datasets, and assessment of parameter sensitivity remain as challenges. In this study we highlight fundamental considerations which influence model quality and prediction, advances in methodologies, and success stories of deploying kinetic models to guide metabolic engineering.",
+      "date": "2020-12-23",
+      "identifier": "https://www.osti.gov/biblio/1764394",
+      "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2020.11.010",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Current Opinion in Biotechnology",
+      "volume": "67",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Charles J. [Pennsylvania State Univ.,University Park,PA (United States); Penn State] (ORCID:0000000314944566) Foster",
+          "primaryContact": true
+        },
+        {
+          "name": "Lin [Pennsylvania State Univ.,University Park,PA (United States)] (ORCID:0000000294555570) Wang",
+          "primaryContact": false
+        },
+        {
+          "name": "Hoang V. [Pennsylvania State Univ.,University Park,PA (United States)] (ORCID:000000023861357X) Dinh",
+          "primaryContact": false
+        },
+        {
+          "name": "Patrick F. [Pennsylvania State Univ.,University Park,PA (United States)] (ORCID:0000000255609986) Suthers",
+          "primaryContact": false
+        },
+        {
+          "name": "Costas D. [Pennsylvania State Univ.,University Park,PA (United States)] Maranas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1764394",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Recent advances in constraint and machine learning-based metabolic modeling by leveraging stoichiometric balances, thermodynamic feasibility and kinetic law formalisms",
       "description": "Understanding the governing principles behind organisms\u2019 metabolism and growth underpins their effective deployment as bioproduction chassis. A central objective of metabolic modeling is predicting how metabolism and growth are affected by both external environmental factors and internal genotypic perturbations. The fundamental concepts of reaction stoichiometry, thermodynamics, and mass action kinetics have emerged as the foundational principles of many modeling frameworks designed to describe how and why organisms allocate resources towards both growth and bioproduction. Furthermore, this review focuses on the latest algorithmic advancements that have integrated these foundational principles into increasingly sophisticated quantitative frameworks.",
       "abstract": "Understanding the governing principles behind organisms\u2019 metabolism and growth underpins their effective deployment as bioproduction chassis. A central objective of metabolic modeling is predicting how metabolism and growth are affected by both external environmental factors and internal genotypic perturbations. The fundamental concepts of reaction stoichiometry, thermodynamics, and mass action kinetics have emerged as the foundational principles of many modeling frameworks designed to describe how and why organisms allocate resources towards both growth and bioproduction. Furthermore, this review focuses on the latest algorithmic advancements that have integrated these foundational principles into increasingly sophisticated quantitative frameworks.",
