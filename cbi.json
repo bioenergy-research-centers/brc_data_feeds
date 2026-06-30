@@ -21708,42 +21708,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Relationship between ZSM-5 pore modifications and gallium proximity and liquid hydrocarbon number distribution from ethanol oligomerization",
-      "description": "<p>Effect of ZSM-5 pore modification and gallium ions proximity inside the zeolite channels on ethanol conversion to liquid hydrocarbon yields.</p>",
-      "abstract": "<p>Effect of ZSM-5 pore modification and gallium ions proximity inside the zeolite channels on ethanol conversion to liquid hydrocarbon yields.</p>",
-      "date": "2022-07-31",
-      "issue": "15",
-      "identifier": "https://www.osti.gov/biblio/1874385",
-      "bibliographicCitation": "https://doi.org/10.1039/D2CY00288D",
-      "topic": [
-        "Unknown"
-      ],
-      "journal_name": "Catalysis Science and Technology",
-      "volume": "12",
-      "publisher_information": "Royal Society of Chemistry (RSC)",
-      "country_publication_code": "GB",
-      "creator": [
-        {
-          "name": "Bhogeswararao [Center for Environmental Research Technology,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA] (ORCID:0000000223200975) Seemala",
-          "primaryContact": true
-        },
-        {
-          "name": "Charles E. [Center for Environmental Research Technology,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA,Department of Chemical and Environmental Engineering,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA] (ORCID:0000000279852841) Wyman",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/1874385",
-      "active": false
-    },
-    {
-      "brc": "CBI",
       "title": "Enzymatic Synthesis of Xylan Microparticles with Tunable Morphologies",
       "description": "Not Available",
       "abstract": "Not Available",
@@ -33587,48 +33551,58 @@
     {
       "brc": "CBI",
       "title": "Depth-dependent links between microbial taxa and nitrous oxide emissions in a long-term cotton cropping system employing soil health practices",
-      "description": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N2O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N2O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N2O emissions. Among the management practices, N fertilization \u2013 a known driver of N2O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N2O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N2O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N2O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N2O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N2O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N2O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
-      "abstract": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N2O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N2O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N2O emissions. Among the management practices, N fertilization \u2013 a known driver of N2O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N2O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N2O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N2O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N2O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N2O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N2O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
-      "date": "2025-11-30",
+      "description": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N<sub>2</sub>O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N<sub>2</sub>O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N<sub>2</sub>O emissions. Among the management practices, N fertilization \u2013 a known driver of N<sub>2</sub>O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N<sub>2</sub>O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N<sub>2</sub>O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N<sub>2</sub>O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N<sub>2</sub>O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N<sub>2</sub>O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N<sub>2</sub>O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
+      "abstract": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N<sub>2</sub>O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N<sub>2</sub>O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N<sub>2</sub>O emissions. Among the management practices, N fertilization \u2013 a known driver of N<sub>2</sub>O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N<sub>2</sub>O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N<sub>2</sub>O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N<sub>2</sub>O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N<sub>2</sub>O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N<sub>2</sub>O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N<sub>2</sub>O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
+      "date": "2025-12-02",
       "identifier": "https://www.osti.gov/biblio/3030350",
       "bibliographicCitation": "https://doi.org/10.1016/j.geoderma.2025.117620",
+      "keywords": [
+        "16S rRNA gene sequencing",
+        "Depth-specific microbial responses",
+        "Greenhouse gas",
+        "Long-term fertilization",
+        "Metabarcoding",
+        "Soil health practices",
+        "Soil microbial communities"
+      ],
       "topic": [
         "Unknown"
       ],
       "journal_name": "Geoderma",
       "volume": "464",
+      "publisher_information": "Elsevier",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Facundo [University of Tennessee,Knoxville (UTK)] Lussich",
+          "name": "Facundo [University of Tennessee,Knoxville,TN (United States)] Lussich",
           "primaryContact": true
         },
         {
-          "name": "Jashanjeet [University of Tennessee,Knoxville (UTK)] Kaur dhaliwal",
+          "name": "Jashanjeet Kaur [University of Tennessee,Knoxville,TN (United States)] (ORCID:000000023527033X) Dhaliwal",
           "primaryContact": false
         },
         {
-          "name": "Shawn [University of Memphis] Brown",
+          "name": "Shawn P. [University of Memphis,TN (United States)] Brown",
           "primaryContact": false
         },
         {
-          "name": "Melissa   [ORNL] (ORCID:000000018329366X) Cregger",
+          "name": "Melissa A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000018329366X) Cregger",
           "primaryContact": false
         },
         {
-          "name": "Debasish [University of Tennessee,Knoxville (UTK)] Saha",
+          "name": "Debasish [University of Tennessee,Knoxville,TN (United States)] (ORCID:000000019425675X) Saha",
           "primaryContact": false
         }
       ],
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "USDOE"
+            "organizationName": "USDA"
           }
         },
         {
           "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
           }
         }
       ],
