@@ -33739,55 +33739,58 @@
       "title": "Woody Plant Transformation: Current Status, Challenges, and Future Perspectives",
       "description": "Woody plants, comprising forest and fruit tree species, provide essential ecological and economic benefits to society. Their genetic improvement is challenging due to long generation intervals and high heterozygosity. Genetic transformation, which combines targeted DNA delivery with plant regeneration from transformed cells, offers a powerful alternative to accelerating their domestication and improvement. Agrobacterium tumefaciens, Rhizobium rhizogenes, and particle bombardment have been widely used for DNA delivery into a wide variety of explants, including leaves, stems, hypocotyls, roots, and embryos, with regeneration occurring via direct organogenesis, callus-mediated organogenesis, somatic embryogenesis, or hairy root formation. Despite successes, conventional approaches are hampered by low efficiency, genotype dependency, and a reliance on challenging tissue culture. This review provides a critical analysis of the current landscape in woody plant transformation, moving beyond a simple summary of techniques to evaluate the co-evolution of established platforms with disruptive technologies. Key advances among these include the use of developmental regulators to engineer regeneration, the rise in in planta systems to bypass tissue culture, and the imperative for DNA-free genome editing to meet regulatory and public expectations. By examining species-specific breakthroughs in key genera, including Populus, Malus, Citrus, and Pinus, this review highlights a paradigm shift from empirical optimization towards rational, predictable engineering of woody plants for a sustainable future.",
       "abstract": "Woody plants, comprising forest and fruit tree species, provide essential ecological and economic benefits to society. Their genetic improvement is challenging due to long generation intervals and high heterozygosity. Genetic transformation, which combines targeted DNA delivery with plant regeneration from transformed cells, offers a powerful alternative to accelerating their domestication and improvement. Agrobacterium tumefaciens, Rhizobium rhizogenes, and particle bombardment have been widely used for DNA delivery into a wide variety of explants, including leaves, stems, hypocotyls, roots, and embryos, with regeneration occurring via direct organogenesis, callus-mediated organogenesis, somatic embryogenesis, or hairy root formation. Despite successes, conventional approaches are hampered by low efficiency, genotype dependency, and a reliance on challenging tissue culture. This review provides a critical analysis of the current landscape in woody plant transformation, moving beyond a simple summary of techniques to evaluate the co-evolution of established platforms with disruptive technologies. Key advances among these include the use of developmental regulators to engineer regeneration, the rise in in planta systems to bypass tissue culture, and the imperative for DNA-free genome editing to meet regulatory and public expectations. By examining species-specific breakthroughs in key genera, including Populus, Malus, Citrus, and Pinus, this review highlights a paradigm shift from empirical optimization towards rational, predictable engineering of woody plants for a sustainable future.",
-      "date": "2025-10-31",
+      "date": "2025-11-07",
       "issue": "22",
       "identifier": "https://www.osti.gov/biblio/3030399",
       "bibliographicCitation": "https://doi.org/10.3390/plants14223420",
+      "keywords": [
+        "Agrobacterium tumefaciens",
+        "Rhizobium rhizogenes",
+        "developmental regulators",
+        "hairy root",
+        "in planta transformation"
+      ],
       "topic": [
         "Unknown"
       ],
       "journal_name": "Plants",
       "volume": "14",
+      "publisher_information": "MDPI",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Bal   [ORNL] Maharjan",
+          "name": "Bal Krishna [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000027166837X) Maharjan",
           "primaryContact": true
         },
         {
-          "name": "Torikul   [ORNL] (ORCID:0000000175092411) Islam",
+          "name": "Md Torikul [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000175092411) Islam",
           "primaryContact": false
         },
         {
-          "name": "Adnan   [ORNL] (ORCID:0000000297920211) Muzaffar",
+          "name": "Adnan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000297920211) Muzaffar",
           "primaryContact": false
         },
         {
-          "name": "Timothy   [ORNL] (ORCID:0000000295406622) Tschaplinski",
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000295406622) Tschaplinski",
           "primaryContact": false
         },
         {
-          "name": "Gerald   [ORNL] (ORCID:0000000301061289) Tuskan",
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000301061289) Tuskan",
           "primaryContact": false
         },
         {
-          "name": "Jay   [ORNL] (ORCID:0000000217524201) Chen",
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000217524201) Chen",
           "primaryContact": false
         },
         {
-          "name": "Xiaohan   [ORNL] (ORCID:0000000152074210) Yang",
+          "name": "Xiaohan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000152074210) Yang",
           "primaryContact": false
         }
       ],
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "USDOE"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
           }
         }
       ],
