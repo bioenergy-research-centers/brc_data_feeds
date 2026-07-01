@@ -21708,6 +21708,42 @@
     },
     {
       "brc": "CBI",
+      "title": "Relationship between ZSM-5 pore modifications and gallium proximity and liquid hydrocarbon number distribution from ethanol oligomerization",
+      "description": "<p>Effect of ZSM-5 pore modification and gallium ions proximity inside the zeolite channels on ethanol conversion to liquid hydrocarbon yields.</p>",
+      "abstract": "<p>Effect of ZSM-5 pore modification and gallium ions proximity inside the zeolite channels on ethanol conversion to liquid hydrocarbon yields.</p>",
+      "date": "2022-07-31",
+      "issue": "15",
+      "identifier": "https://www.osti.gov/biblio/1874385",
+      "bibliographicCitation": "https://doi.org/10.1039/D2CY00288D",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Catalysis Science and Technology",
+      "volume": "12",
+      "publisher_information": "Royal Society of Chemistry (RSC)",
+      "country_publication_code": "GB",
+      "creator": [
+        {
+          "name": "Bhogeswararao [Center for Environmental Research Technology,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA] (ORCID:0000000223200975) Seemala",
+          "primaryContact": true
+        },
+        {
+          "name": "Charles E. [Center for Environmental Research Technology,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA,Department of Chemical and Environmental Engineering,Bourns College of Engineering,University of California Riverside,Riverside,California,92507,USA] (ORCID:0000000279852841) Wyman",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1874385",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Enzymatic Synthesis of Xylan Microparticles with Tunable Morphologies",
       "description": "Not Available",
       "abstract": "Not Available",
