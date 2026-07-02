@@ -27835,6 +27835,153 @@
     },
     {
       "brc": "CBI",
+      "title": "Evidence for Lignin\u2013Carbohydrate Complexes from Studies of Transgenic Switchgrass and a Model Lignin\u2013Pectin Composite",
+      "description": "Lignin\u2013carbohydrate complexes (LCCs) form through interactions of lignin with plant cell wall polysaccharides and are thought to be a significant source of biomass recalcitrance. In this work, we investigated LCCs formed between lignin and pectin homogalacturonan (HG). The structural changes in HG deficient transgenic switchgrass (GAUT4-knockdown, GAUT4-KD) after hot water pretreatment were compared to wild-type plants using small-angle neutron scattering (SANS), which showed that there were ~2.2-fold more lignin aggregates in GAUT4-KD biomass compared to the wild type. This demonstrated that decreased pectin resulted in more lignin redistribution and suggested that interactions between lignin and HG restrict lignin mobility in plant cell walls. To better understand the types of interactions between lignin and pectin, a model composite was prepared by polymerizing either protiated or partially deuterated coniferyl alcohol to form a dehydrogenation polymer (DHP) in the presence of HG. Small-angle X-ray scattering (SAXS) showed that the DHP and HG form a highly interconnected network structure that is not observed in a physical mixture of the individual polymers. Contrast matching SANS revealed the structure of DHP and HG in the composite and showed that the HG forms a swollen interconnected polymer network (power-law exponent, P = 1.5) interspersed with DHP particles (radius of gyration, Rg, 264 \u00c5) that are composed of solvent-accessible DHP polymers (P = 2.3). Fourier transform infrared spectroscopy showed a unique ester absorption band in the DHP/HG composites. Solid-state nuclear magnetic resonance (NMR) analysis also supports interactions between DHP and HG. Overall, this study provides new insights into the relationship between primary and secondary cell wall polymers during cell wall synthesis and how LCCs formed between pectin and lignin could represent a previously unrecognized source of biomass recalcitrance. This knowledge may help develop new approaches to modulate cell wall properties to improve biofuel and bioproduct production.",
+      "abstract": "Lignin\u2013carbohydrate complexes (LCCs) form through interactions of lignin with plant cell wall polysaccharides and are thought to be a significant source of biomass recalcitrance. In this work, we investigated LCCs formed between lignin and pectin homogalacturonan (HG). The structural changes in HG deficient transgenic switchgrass (GAUT4-knockdown, GAUT4-KD) after hot water pretreatment were compared to wild-type plants using small-angle neutron scattering (SANS), which showed that there were ~2.2-fold more lignin aggregates in GAUT4-KD biomass compared to the wild type. This demonstrated that decreased pectin resulted in more lignin redistribution and suggested that interactions between lignin and HG restrict lignin mobility in plant cell walls. To better understand the types of interactions between lignin and pectin, a model composite was prepared by polymerizing either protiated or partially deuterated coniferyl alcohol to form a dehydrogenation polymer (DHP) in the presence of HG. Small-angle X-ray scattering (SAXS) showed that the DHP and HG form a highly interconnected network structure that is not observed in a physical mixture of the individual polymers. Contrast matching SANS revealed the structure of DHP and HG in the composite and showed that the HG forms a swollen interconnected polymer network (power-law exponent, P = 1.5) interspersed with DHP particles (radius of gyration, Rg, 264 \u00c5) that are composed of solvent-accessible DHP polymers (P = 2.3). Fourier transform infrared spectroscopy showed a unique ester absorption band in the DHP/HG composites. Solid-state nuclear magnetic resonance (NMR) analysis also supports interactions between DHP and HG. Overall, this study provides new insights into the relationship between primary and secondary cell wall polymers during cell wall synthesis and how LCCs formed between pectin and lignin could represent a previously unrecognized source of biomass recalcitrance. This knowledge may help develop new approaches to modulate cell wall properties to improve biofuel and bioproduct production.",
+      "date": "2023-10-22",
+      "issue": "44",
+      "identifier": "https://www.osti.gov/biblio/2438835",
+      "bibliographicCitation": "https://doi.org/10.1021/acssuschemeng.3c04322",
+      "keywords": [
+        "37 INORGANIC",
+        "ORGANIC",
+        "PHYSICAL",
+        "AND ANALYTICAL CHEMISTRY",
+        "Biopolymers",
+        "Carbohydrates",
+        "Cells",
+        "Composites",
+        "Lignin-carbohydrate complexes",
+        "Neutron scattering",
+        "Organic polymers",
+        "Pectin-lignin composite",
+        "Plant cell wall polysaccharides",
+        "Transgenic switch grass"
+      ],
+      "topic": [
+        "Chemistry"
+      ],
+      "journal_name": "ACS Sustainable Chemistry & Engineering",
+      "volume": "11",
+      "publisher_information": "American Chemical Society (ACS)",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Riddhi S. [Univ. of Tennessee,Knoxville,TN (United States). Bredesen Center for Interdisciplinary Research and Graduate Education; Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Shah",
+          "primaryContact": true
+        },
+        {
+          "name": "Manjula [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000231390625) Senanayake",
+          "primaryContact": false
+        },
+        {
+          "name": "Hong-Hai [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Nanophase Materials Sciences (CNMS)] (ORCID:0000000314138847) Zhang",
+          "primaryContact": false
+        },
+        {
+          "name": "Yunqiao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000325541447) Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Ajaya K. [Univ. of Georgia,Athens,GA (United States)] Biswal",
+          "primaryContact": false
+        },
+        {
+          "name": "Sai Venkatesh [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000179614176) Pingali",
+          "primaryContact": false
+        },
+        {
+          "name": "Brian [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000274083609) Davison",
+          "primaryContact": false
+        },
+        {
+          "name": "Hugh [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000329665527) O\u2019Neill",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2438835",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "A multi-omic survey of black cottonwood tissues highlights coordinated transcriptomic and metabolomic mechanisms for plant adaptation to phosphorus deficiency",
+      "description": "Phosphorus (P) deficiency in plants creates a variety of metabolic perturbations that decrease photosynthesis and growth. Phosphorus deficiency is especially challenging for the production of bioenergy feedstock plantation species, such as poplars (Populus spp.), where fertilization may not be practically or economically feasible. While the phenotypic effects of P deficiency are well known, the molecular mechanisms underlying whole-plant and tissue-specific responses to P deficiency, and in particular the responses of commercially valuable hardwoods, are less studied.  We used a multi-tissue and multi-omics approach using transcriptomic, proteomic, and metabolomic analyses of the leaves and roots of black cottonwood (Populus trichocarpa) seedlings grown under P-deficient (5 \u00b5M P) and replete (100 \u00b5M P) conditions to assess this knowledge gap and to identify potential gene targets for selection for P efficiency.  In comparison to seedlings grown at 100 \u00b5M P, P-deficient seedlings exhibited reduced dry biomass, altered chlorophyll fluorescence, and reduced tissue P concentrations. In line with these observations, growth, C metabolism, and photosynthesis pathways were downregulated in the transcriptome of the P-deficient plants. Additionally, we found evidence of strong lipid remodeling in the leaves. Metabolomic data showed that the roots of P-deficient plants had a greater relative abundance of phosphate ion, which may reflect extensive degradation of P-rich metabolites in plants exposed to long-term P-deficiency. With the notable exception of the KEGG pathway for Starch and Sucrose Metabolism (map00500), the responses of the transcriptome and the metabolome to P deficiency were consistent with one another. No significant changes in the proteome were detected in response to P deficiency. Collectively, our multi-omic and multi-tissue approach enabled the identification of important metabolic and regulatory pathways regulated across tissues at the molecular level that will be important avenues to further evaluate for P efficiency. These included stress-mediating systems associated with reactive oxygen species maintenance, lipid remodeling within tissues, and systems involved in P scavenging from the rhizosphere.",
+      "abstract": "Phosphorus (P) deficiency in plants creates a variety of metabolic perturbations that decrease photosynthesis and growth. Phosphorus deficiency is especially challenging for the production of bioenergy feedstock plantation species, such as poplars (Populus spp.), where fertilization may not be practically or economically feasible. While the phenotypic effects of P deficiency are well known, the molecular mechanisms underlying whole-plant and tissue-specific responses to P deficiency, and in particular the responses of commercially valuable hardwoods, are less studied.  We used a multi-tissue and multi-omics approach using transcriptomic, proteomic, and metabolomic analyses of the leaves and roots of black cottonwood (Populus trichocarpa) seedlings grown under P-deficient (5 \u00b5M P) and replete (100 \u00b5M P) conditions to assess this knowledge gap and to identify potential gene targets for selection for P efficiency.  In comparison to seedlings grown at 100 \u00b5M P, P-deficient seedlings exhibited reduced dry biomass, altered chlorophyll fluorescence, and reduced tissue P concentrations. In line with these observations, growth, C metabolism, and photosynthesis pathways were downregulated in the transcriptome of the P-deficient plants. Additionally, we found evidence of strong lipid remodeling in the leaves. Metabolomic data showed that the roots of P-deficient plants had a greater relative abundance of phosphate ion, which may reflect extensive degradation of P-rich metabolites in plants exposed to long-term P-deficiency. With the notable exception of the KEGG pathway for Starch and Sucrose Metabolism (map00500), the responses of the transcriptome and the metabolome to P deficiency were consistent with one another. No significant changes in the proteome were detected in response to P deficiency. Collectively, our multi-omic and multi-tissue approach enabled the identification of important metabolic and regulatory pathways regulated across tissues at the molecular level that will be important avenues to further evaluate for P efficiency. These included stress-mediating systems associated with reactive oxygen species maintenance, lipid remodeling within tissues, and systems involved in P scavenging from the rhizosphere.",
+      "date": "2024-04-03",
+      "identifier": "https://www.osti.gov/biblio/2440510",
+      "bibliographicCitation": "https://doi.org/10.3389/fpls.2024.1324608",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "abiotic stress",
+        "carbon\r\nmetabolism",
+        "cottonwood metabolome",
+        "cottonwood transcriptome",
+        "phosphorus deficiency",
+        "populus trichocarpa"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Frontiers in Plant Science",
+      "volume": "15",
+      "publisher_information": "Frontiers Research Foundation",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Emel [West Virginia Univ.,Morgantown,WV (United States)] (ORCID:0000000264541469) Kangi",
+          "primaryContact": true
+        },
+        {
+          "name": "Edward R. [West Virginia Univ.,Morgantown,WV (United States)] Brzostek",
+          "primaryContact": false
+        },
+        {
+          "name": "Robert J. [Willamette University,Salem,OR (United States)] Bills",
+          "primaryContact": false
+        },
+        {
+          "name": "Stephen J. [Pacific Northwest National Laboratory (PNNL),Richland,WA (United States)] Callister",
+          "primaryContact": false
+        },
+        {
+          "name": "Erika M. [Pacific Northwest National Laboratory (PNNL),Richland,WA (United States)] Zink",
+          "primaryContact": false
+        },
+        {
+          "name": "Young-Mo [Pacific Northwest National Laboratory (PNNL),Richland,WA (United States)] (ORCID:0000000289727593) Kim",
+          "primaryContact": false
+        },
+        {
+          "name": "Peter E. [Loyola University Chicago,Maywood,IL (United States)] Larsen",
+          "primaryContact": false
+        },
+        {
+          "name": "Jonathan R. [University of Maryland Eastern Shore,Princess Anne,MD (United States)] Cumming",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2440510",
+      "active": false,
+      "has_related_ids": [
+        "PNNL-SA--190730"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "MultiGreen: A multiplexing architecture for GreenGate cloning",
       "description": "<p>\n Genetic modification of plants fundamentally relies upon customized vector designs. The ever-increasing complexity of transgenic constructs has led to increased adoption of modular cloning systems for their ease of use, cost effectiveness, and rapid prototyping. GreenGate is a modular cloning system catered specifically to designing bespoke, single transcriptional unit vectors for plant transformation\u2014which is also its greatest flaw. MultiGreen seeks to address GreenGate\u2019s limitations while maintaining the syntax of the original GreenGate kit. The primary limitations MultiGreen addresses are 1) multiplexing in series, 2) multiplexing in parallel, and 3) repeated cycling of transcriptional unit assembly through binary intermediates. MultiGreen efficiently concatenates bespoke transcriptional units using an additional suite of level 1acceptor vectors which serve as an assembly point for individual transcriptional units prior to final, level 2, condensation of multiple transcriptional units. Assembly with MultiGreen level 1 vectors scales at a maximal rate of 2*\u2308\n <italic>log</italic>\n <sub>6</sub>\n <italic>n</italic>\n \u2309+3 days per assembly, where\n <italic>n</italic>\n represents the number of transcriptional units. Further, MultiGreen level 1 acceptor vectors are binary vectors and can be used directly for plant transformation to further maximize prototyping speed. MultiGreen is a 1:1 expansion of the original GreenGate architecture\u2019s grammar and has been demonstrated to efficiently assemble plasmids with multiple transcriptional units. MultiGreen has been validated by using a truncated violacein operon from\n <italic>Chromobacterium violaceum</italic>\n in bacteria and by deconstructing the RUBY reporter for\n <italic>in planta</italic>\n functional validation. MultiGreen currently supports many of our in-house multi transcriptional unit assemblies and will be a valuable strategy for more complex cloning projects.\n </p>",
       "abstract": "<p>\n Genetic modification of plants fundamentally relies upon customized vector designs. The ever-increasing complexity of transgenic constructs has led to increased adoption of modular cloning systems for their ease of use, cost effectiveness, and rapid prototyping. GreenGate is a modular cloning system catered specifically to designing bespoke, single transcriptional unit vectors for plant transformation\u2014which is also its greatest flaw. MultiGreen seeks to address GreenGate\u2019s limitations while maintaining the syntax of the original GreenGate kit. The primary limitations MultiGreen addresses are 1) multiplexing in series, 2) multiplexing in parallel, and 3) repeated cycling of transcriptional unit assembly through binary intermediates. MultiGreen efficiently concatenates bespoke transcriptional units using an additional suite of level 1acceptor vectors which serve as an assembly point for individual transcriptional units prior to final, level 2, condensation of multiple transcriptional units. Assembly with MultiGreen level 1 vectors scales at a maximal rate of 2*\u2308\n <italic>log</italic>\n <sub>6</sub>\n <italic>n</italic>\n \u2309+3 days per assembly, where\n <italic>n</italic>\n represents the number of transcriptional units. Further, MultiGreen level 1 acceptor vectors are binary vectors and can be used directly for plant transformation to further maximize prototyping speed. MultiGreen is a 1:1 expansion of the original GreenGate architecture\u2019s grammar and has been demonstrated to efficiently assemble plasmids with multiple transcriptional units. MultiGreen has been validated by using a truncated violacein operon from\n <italic>Chromobacterium violaceum</italic>\n in bacteria and by deconstructing the RUBY reporter for\n <italic>in planta</italic>\n functional validation. MultiGreen currently supports many of our in-house multi transcriptional unit assemblies and will be a valuable strategy for more complex cloning projects.\n </p>",
