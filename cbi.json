@@ -34623,6 +34623,138 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3367793",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Lignin to Adipic Acid in a High-Yield Chemical and Biological Redox Process",
+      "description": "Viable manufacturing pathways to produce bio-based chemicals from renewable feedstocks, such as lignin derived from plant biomass, are needed to decarbonize the chemicals manufacturing sector. Converting the recalcitrant lignin polymer to valuable bioproducts remains a longstanding challenge in biorefining, with the highest reported single-product yield from lignin currently around 20 wt% (refs. 1,2,3,4). Most existing lignin depolymerization strategies target aryl-ether bond cleavage, which can produce aromatic monomers in yields of only about 30 wt%, and still as complex mixtures with C-C-linked dimers and oligomers5,6. The recalcitrance of these C-C linkages between aromatic moieties fundamentally limits single-product yields from lignin, prompting the development of strategies to efficiently cleave these C-C bonds3,7,8,9. Here we show how reductive processing of lignin from poplar accesses a hydrocarbon mixture of alkyl-aromatic monomers and oligomers that is privileged for oxidative conversion to monomeric aromatic carboxylic acids, comprising mostly benzoic acid and phthalic acid isomers in up to 73 wt% monomer yields, using a Co/Mn/Br catalyst. The soil bacterium Pseudomonas putida KT2440 was engineered to convert this mixture of aromatic carboxylic acids to muconolactone, a precursor to bio-based nylons, enabling final adipic acid yields up to 26 wt% (gram adipic acid per gram lignin) with a maximum theoretical yield of 57 wt%. This pairing of reductive and oxidative steps with lignin resembles processes in petrochemical refining and shows how lignin may be converted into a single, valuable bioproduct in high yields.",
+      "abstract": "Viable manufacturing pathways to produce bio-based chemicals from renewable feedstocks, such as lignin derived from plant biomass, are needed to decarbonize the chemicals manufacturing sector. Converting the recalcitrant lignin polymer to valuable bioproducts remains a longstanding challenge in biorefining, with the highest reported single-product yield from lignin currently around 20 wt% (refs. 1,2,3,4). Most existing lignin depolymerization strategies target aryl-ether bond cleavage, which can produce aromatic monomers in yields of only about 30 wt%, and still as complex mixtures with C-C-linked dimers and oligomers5,6. The recalcitrance of these C-C linkages between aromatic moieties fundamentally limits single-product yields from lignin, prompting the development of strategies to efficiently cleave these C-C bonds3,7,8,9. Here we show how reductive processing of lignin from poplar accesses a hydrocarbon mixture of alkyl-aromatic monomers and oligomers that is privileged for oxidative conversion to monomeric aromatic carboxylic acids, comprising mostly benzoic acid and phthalic acid isomers in up to 73 wt% monomer yields, using a Co/Mn/Br catalyst. The soil bacterium Pseudomonas putida KT2440 was engineered to convert this mixture of aromatic carboxylic acids to muconolactone, a precursor to bio-based nylons, enabling final adipic acid yields up to 26 wt% (gram adipic acid per gram lignin) with a maximum theoretical yield of 57 wt%. This pairing of reductive and oxidative steps with lignin resembles processes in petrochemical refining and shows how lignin may be converted into a single, valuable bioproduct in high yields.",
+      "date": "2026-06-09",
+      "identifier": "https://www.osti.gov/biblio/3376125",
+      "bibliographicCitation": "https://doi.org/10.1038/s41586-026-10580-x",
+      "keywords": [
+        "37 INORGANIC",
+        "ORGANIC",
+        "PHYSICAL",
+        "AND ANALYTICAL CHEMISTRY",
+        "aromatic carboxylic acid",
+        "biological redox",
+        "muconolactone",
+        "nylon"
+      ],
+      "topic": [
+        "Chemistry"
+      ],
+      "journal_name": "Nature",
+      "volume": "654",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Kathryn [National Laboratory of the Rockies,Golden,CO (United States)] Mains",
+          "primaryContact": true
+        },
+        {
+          "name": "Chad [National Laboratory of the Rockies,Golden,CO (United States)] Palumbo",
+          "primaryContact": false
+        },
+        {
+          "name": "Davide [National Laboratory of the Rockies,Golden,CO (United States)] Rigo",
+          "primaryContact": false
+        },
+        {
+          "name": "Matthew [National Laboratory of the Rockies,Golden,CO (United States)] Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Gloria [National Laboratory of the Rockies,Golden,CO (United States)] Rosetto",
+          "primaryContact": false
+        },
+        {
+          "name": "Austin [Oak Ridge National Laboratory] Carroll",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicolette [National Laboratory of the Rockies,Golden,CO (United States)] Meyer",
+          "primaryContact": false
+        },
+        {
+          "name": "Alexander [National Laboratory of the Rockies,Golden,CO (United States)] Benson",
+          "primaryContact": false
+        },
+        {
+          "name": "Brett [National Laboratory of the Rockies,Golden,CO (United States)] Boyle",
+          "primaryContact": false
+        },
+        {
+          "name": "Stefan [National Laboratory of the Rockies,Golden,CO (United States)] Haugen",
+          "primaryContact": false
+        },
+        {
+          "name": "Morgan [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000273504862) Ingraham",
+          "primaryContact": false
+        },
+        {
+          "name": "William [Oak Ridge National Laboratory] Alexander",
+          "primaryContact": false
+        },
+        {
+          "name": "Miriam [Oak Ridge National Laboratory] Silberman",
+          "primaryContact": false
+        },
+        {
+          "name": "Logan [National Laboratory of the Rockies,Golden,CO (United States)] Myers",
+          "primaryContact": false
+        },
+        {
+          "name": "Kelsey [National Laboratory of the Rockies,Golden,CO (United States)] Ramirez",
+          "primaryContact": false
+        },
+        {
+          "name": "Kevin [National Laboratory of the Rockies,Golden,CO (United States)] Sullivan",
+          "primaryContact": false
+        },
+        {
+          "name": "Adam [Oak Ridge National Laboratory] Guss",
+          "primaryContact": false
+        },
+        {
+          "name": "Davinia [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:000000030799061X) Salvachua",
+          "primaryContact": false
+        },
+        {
+          "name": "Yuriy [Massachusetts Institute of Technology] Roman-Leshkov",
+          "primaryContact": false
+        },
+        {
+          "name": "Shannon [University of Wisconsin-Madison] Stahl",
+          "primaryContact": false
+        },
+        {
+          "name": "Allison [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000171472863) Werner",
+          "primaryContact": false
+        },
+        {
+          "name": "Gregg [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:000000023480212X) Beckham",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Transportation Office. Bioenergy Technologies Office"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3376125",
+      "active": false,
+      "has_related_ids": [
+        "NLR/JA-2A00-96426"
+      ]
     }
   ]
 }
