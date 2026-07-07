@@ -33799,130 +33799,137 @@
     },
     {
       "brc": "CBI",
-      "title": "A haplotype-resolved, chromosome-scale genome assembly for the southern live oak, Quercus virginiana",
-      "description": "Abstract: \n\n                  Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
-      "abstract": "Abstract: \n\n                  Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
-      "date": "2026-03-31",
+      "title": "A haplotype-resolved, chromosome-scale genome assembly for the southern live oak, <em>Quercus virginiana</em>",
+      "description": "Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "abstract": "Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "date": "2026-02-01",
       "issue": "4",
       "identifier": "https://www.osti.gov/biblio/3030808",
       "bibliographicCitation": "https://doi.org/10.1093/g3journal/jkag023",
+      "keywords": [
+        "Quercus virginiana",
+        "genome assembly",
+        "live oak",
+        "syngameon"
+      ],
       "topic": [
         "Unknown"
       ],
-      "journal_name": "Genes|Genomes|Genetics",
+      "journal_name": "G3",
       "volume": "16",
+      "publisher_information": "Genetics Society of America",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Laramie Ak\u00f6zbek",
+          "name": "Laramie [Auburn Univ.,AL (United States); HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000333413509) Ak\u00f6zbek",
           "primaryContact": true
         },
         {
-          "name": "Zachary Meharg",
+          "name": "Zachary [Auburn Univ.,AL (United States); HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Meharg",
           "primaryContact": false
         },
         {
-          "name": "Jillian Abendroth-McGhee",
+          "name": "Jillian [Auburn Univ.,AL (United States)] Abendroth-McGhee",
           "primaryContact": false
         },
         {
-          "name": "Tosin Akinsipe",
+          "name": "Tosin [Auburn Univ.,AL (United States)] Akinsipe",
           "primaryContact": false
         },
         {
-          "name": "Rijan Dhakal",
+          "name": "Rijan [Univ. of Alabama,Huntsville,AL (United States)] Dhakal",
           "primaryContact": false
         },
         {
-          "name": "Nicholas Gladstone",
+          "name": "Nicholas [Auburn Univ.,AL (United States)] Gladstone",
           "primaryContact": false
         },
         {
-          "name": "Zahida Pervaiz",
+          "name": "Zahida [Alabama Department of Agriculture and Industries (AGI),Montgomery,AL (United States)] Pervaiz",
           "primaryContact": false
         },
         {
-          "name": "Sejal Patel",
+          "name": "Sejal [Auburn Univ.,AL (United States)] Patel",
           "primaryContact": false
         },
         {
-          "name": "Giovani Rossi",
+          "name": "Giovani [Auburn Univ.,AL (United States)] Rossi",
           "primaryContact": false
         },
         {
-          "name": "Claudia Ann Rutland",
+          "name": "Claudia Ann [Savannah River National Laboratory (SRNL),Aiken,SC (United States)] Rutland",
           "primaryContact": false
         },
         {
-          "name": "Caroline Bendickson",
+          "name": "Caroline [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States); Univ. of Alabama,Huntsville,AL (United States)] Bendickson",
           "primaryContact": false
         },
         {
-          "name": "Adam Kranz",
+          "name": "Adam [Univ. of New Mexico,Albuquerque,NM (United States)] Kranz",
           "primaryContact": false
         },
         {
-          "name": "Ellen O Martinson",
+          "name": "Ellen O. [Univ. of New Mexico,Albuquerque,NM (United States)] Martinson",
           "primaryContact": false
         },
         {
-          "name": "Scott P Egan",
+          "name": "Scott P. [Rice Univ.,Houston,TX (United States)] Egan",
           "primaryContact": false
         },
         {
-          "name": "F Alex Feltus",
+          "name": "F. Alex [Praxis AI LLC,Clemson,SC (United States)] Feltus",
           "primaryContact": false
         },
         {
-          "name": "David J Clarke",
+          "name": "David J. [Praxis AI LLC,Clemson,SC (United States)] Clarke",
           "primaryContact": false
         },
         {
-          "name": "John T Lovell",
+          "name": "John T. [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000289381166) Lovell",
           "primaryContact": false
         },
         {
-          "name": "Jenell Webber",
+          "name": "Jenell [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Webber",
           "primaryContact": false
         },
         {
-          "name": "Lori Beth Boston",
+          "name": "Lori Beth [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Boston",
           "primaryContact": false
         },
         {
-          "name": "Haley Hale",
+          "name": "Haley [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Hale",
           "primaryContact": false
         },
         {
-          "name": "Hannah McCoy",
+          "name": "Hannah [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] McCoy",
           "primaryContact": false
         },
         {
-          "name": "Jane Grimwood",
+          "name": "Jane [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States); USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000283568325) Grimwood",
           "primaryContact": false
         },
         {
-          "name": "Sarah B Carey",
+          "name": "Sarah B. [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Carey",
           "primaryContact": false
         },
         {
-          "name": "Leslie Goertzen",
+          "name": "Leslie [Univ. of Alabama,Huntsville,AL (United States)] Goertzen",
           "primaryContact": false
         },
         {
-          "name": "Alex Harkess",
+          "name": "Alex [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000220350871) Harkess",
           "primaryContact": false
         }
       ],
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "US Department of Energy"
+            "organizationName": "National Science Foundation (NSF)"
           }
         },
         {
           "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23), Biological Systems Science Division (SC-23.2 )"
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER). Biological Systems Science (BSS)"
           }
         }
       ],
