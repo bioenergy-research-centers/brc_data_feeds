@@ -15774,6 +15774,79 @@
     },
     {
       "brc": "CBI",
+      "title": "Comparison of methodologies used to determine aromatic lignin unit ratios in lignocellulosic biomass",
+      "description": "<title>Abstract</title>\n <sec>\n <title>Background</title>\n <p>Multiple analytical methods have been developed to determine the ratios of aromatic lignin units, particularly the syringyl/guaiacyl (S/G) ratio, of lignin biopolymers in plant cell walls. Chemical degradation methods such as thioacidolysis produce aromatic lignin units that are released from certain linkages and may induce chemical changes rendering it difficult to distinguish and determine the source of specific aromatic lignin units released, as is the case with nitrobenzene oxidation methodology. NMR methods provide powerful tools used to analyze cell walls for lignin composition and linkage information. Pyrolysis-mass spectrometry methods are also widely used, particularly as high-throughput methodologies. However, the different techniques used to analyze aromatic lignin unit ratios frequently yield different results within and across particular studies, making it difficult to interpret and compare results. This also makes it difficult to obtain meaningful insights relating these measurements to other characteristics of plant cell walls that may impact biomass sustainability and conversion metrics for the production of bio-derived fuels and chemicals.</p>\n </sec>\n <sec>\n <title>Results</title>\n <p>The authors compared the S/G lignin unit ratios obtained from thioacidolysis, pyrolysis-molecular beam mass spectrometry (py-MBMS), HSQC liquid-state NMR and solid-state (ss) NMR methodologies of pine, several genotypes of poplar, and corn stover biomass. An underutilized approach to deconvolute ssNMR spectra was implemented to derive S/G ratios. The S/G ratios obtained for the samples did not agree across the different methods, but trends were similar with the most agreement among the py-MBMS, HSQC NMR and deconvoluted ssNMR methods. The relationship between S/G, thioacidolysis yields, and linkage analysis determined by HSQC is also addressed.</p>\n </sec>\n <sec>\n <title>Conclusions</title>\n <p>This work demonstrates that different methods using chemical, thermal, and non-destructive NMR techniques to determine native lignin S/G ratios in plant cell walls may yield different results depending on species and linkage abundances. Spectral deconvolution can be applied to many hardwoods with lignin dominated by S and G units, but the results may not be reliable for some woody and grassy species of more diverse lignin composition. HSQC may be a better method for analyzing lignin in those species given the wealth of information provided on additional aromatic moieties and bond linkages. Additionally, trends or correlations in lignin characteristics such as S/G ratios and lignin linkages within the same species such as poplar may not necessarily exhibit the same trends or correlations made across different biomass types. Careful consideration is required when choosing a method to measure S/G ratios and the benefits and shortcomings of each method discussed here are summarized.</p>\n </sec>",
+      "abstract": "<title>Abstract</title>\n <sec>\n <title>Background</title>\n <p>Multiple analytical methods have been developed to determine the ratios of aromatic lignin units, particularly the syringyl/guaiacyl (S/G) ratio, of lignin biopolymers in plant cell walls. Chemical degradation methods such as thioacidolysis produce aromatic lignin units that are released from certain linkages and may induce chemical changes rendering it difficult to distinguish and determine the source of specific aromatic lignin units released, as is the case with nitrobenzene oxidation methodology. NMR methods provide powerful tools used to analyze cell walls for lignin composition and linkage information. Pyrolysis-mass spectrometry methods are also widely used, particularly as high-throughput methodologies. However, the different techniques used to analyze aromatic lignin unit ratios frequently yield different results within and across particular studies, making it difficult to interpret and compare results. This also makes it difficult to obtain meaningful insights relating these measurements to other characteristics of plant cell walls that may impact biomass sustainability and conversion metrics for the production of bio-derived fuels and chemicals.</p>\n </sec>\n <sec>\n <title>Results</title>\n <p>The authors compared the S/G lignin unit ratios obtained from thioacidolysis, pyrolysis-molecular beam mass spectrometry (py-MBMS), HSQC liquid-state NMR and solid-state (ss) NMR methodologies of pine, several genotypes of poplar, and corn stover biomass. An underutilized approach to deconvolute ssNMR spectra was implemented to derive S/G ratios. The S/G ratios obtained for the samples did not agree across the different methods, but trends were similar with the most agreement among the py-MBMS, HSQC NMR and deconvoluted ssNMR methods. The relationship between S/G, thioacidolysis yields, and linkage analysis determined by HSQC is also addressed.</p>\n </sec>\n <sec>\n <title>Conclusions</title>\n <p>This work demonstrates that different methods using chemical, thermal, and non-destructive NMR techniques to determine native lignin S/G ratios in plant cell walls may yield different results depending on species and linkage abundances. Spectral deconvolution can be applied to many hardwoods with lignin dominated by S and G units, but the results may not be reliable for some woody and grassy species of more diverse lignin composition. HSQC may be a better method for analyzing lignin in those species given the wealth of information provided on additional aromatic moieties and bond linkages. Additionally, trends or correlations in lignin characteristics such as S/G ratios and lignin linkages within the same species such as poplar may not necessarily exhibit the same trends or correlations made across different biomass types. Careful consideration is required when choosing a method to measure S/G ratios and the benefits and shortcomings of each method discussed here are summarized.</p>\n </sec>",
+      "date": "2021-03-05",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1769475",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-021-01897-y",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "NMR",
+        "S/G ratio",
+        "lignin",
+        "pyrolysis-molecular beam mass spectrometry",
+        "thioacidolysis"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "14",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Renee M. Happs",
+          "primaryContact": true
+        },
+        {
+          "name": "Bennett Addison",
+          "primaryContact": false
+        },
+        {
+          "name": "Crissa Doeppke",
+          "primaryContact": false
+        },
+        {
+          "name": "Bryon S. Donohoe",
+          "primaryContact": false
+        },
+        {
+          "name": "Mark F. Davis",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. (ORCID:0000000279279424) Harman-Ware",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Transportation Office. Bioenergy Technologies Office"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1769475",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2800-77717"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "Advances in integrative structural biology: Towards understanding protein complexes in their cellular context",
       "description": "Not Available",
       "abstract": "Not Available",
