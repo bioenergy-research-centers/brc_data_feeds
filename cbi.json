@@ -32832,6 +32832,64 @@
     },
     {
       "brc": "CBI",
+      "title": "Construct design for precise DNA insertion in plants",
+      "description": "Precise insertion of DNA sequences at targeted locations in plant genomes is pivotal for synthetic biology, genetics, and crop improvement. Construct design plays a critical role in achieving precise insertions, yet practical guidance remains limited. This review provides an in-depth overview of construct design principles and targeted DNA insertion (knock-in) strategies in plants. We assess the strengths, limitations, and construct requirements of current knock-in methods for specific applications, including short, large, and multifragment insertions. Additionally, we explore the potential of adopting advanced nonplant technologies to enhance knock-in efficiency and precision in plants. This review provides a valuable resource for facilitating the effective application of knock-in technologies to genetically improve crops with minimal off-target effects.",
+      "abstract": "Precise insertion of DNA sequences at targeted locations in plant genomes is pivotal for synthetic biology, genetics, and crop improvement. Construct design plays a critical role in achieving precise insertions, yet practical guidance remains limited. This review provides an in-depth overview of construct design principles and targeted DNA insertion (knock-in) strategies in plants. We assess the strengths, limitations, and construct requirements of current knock-in methods for specific applications, including short, large, and multifragment insertions. Additionally, we explore the potential of adopting advanced nonplant technologies to enhance knock-in efficiency and precision in plants. This review provides a valuable resource for facilitating the effective application of knock-in technologies to genetically improve crops with minimal off-target effects.",
+      "date": "2026-03-17",
+      "identifier": "https://www.osti.gov/biblio/3024784",
+      "bibliographicCitation": "https://doi.org/10.1016/j.tplants.2026.01.005",
+      "keywords": [
+        "DNA construct",
+        "genome editing",
+        "high-precision engineering",
+        "knock-in",
+        "plant biotechnology",
+        "synthetic biology"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Trends in Plant Science",
+      "publisher_information": "Cell Press",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Adnan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000297920211) Muzaffar",
+          "primaryContact": true
+        },
+        {
+          "name": "Md Torikul [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000175092411) Islam",
+          "primaryContact": false
+        },
+        {
+          "name": "Adam M. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000158235329) Guss",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000217524201) Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiaohan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000152074210) Yang",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3024784",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Selection and multi-environment yield stability analysis in a switchgrass (Panicum virgatum L.) half-sib panel",
       "date": "2026-06-01",
       "identifier": "https://www.osti.gov/biblio/3025251",
