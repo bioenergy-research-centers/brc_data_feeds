@@ -33667,6 +33667,546 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3364558",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Harnessing citizen science to contextualize adaptation mechanism discovery",
+      "description": "Species occupying broad geographic regions have evolved multiple mechanisms to regulate phenological characteristics, enabling adaptations to diverse native habitats. By developing computer vision AI to process citizen science observations across native habitats over North America, we uncovered a consistent latitudinal trend of earlier flowering at higher latitudes in warm-season perennial grasses. To explore the underlying mechanisms of adaptation, we conducted common garden experiments with one species (switchgrass) and discovered the opposite latitudinal flowering-time trend. Integration of differential plasticity of GI-Hd1-FTL1 haplotypes of flowering time regulatory genes, haplotype range, and local environmental profiles found that observations from native habitats capture only part of the genotype-environment-phenotype spectrum established in common garden experiments, therefore reconciling the discrepancy. Two mechanisms emerged as key forces shaping current haplotype ranges and influencing future shifts. Our study highlights the power of combining citizen science observations with designed experiments to uncover mechanisms of adaptation across spatiotemporal scales.",
+      "abstract": "Species occupying broad geographic regions have evolved multiple mechanisms to regulate phenological characteristics, enabling adaptations to diverse native habitats. By developing computer vision AI to process citizen science observations across native habitats over North America, we uncovered a consistent latitudinal trend of earlier flowering at higher latitudes in warm-season perennial grasses. To explore the underlying mechanisms of adaptation, we conducted common garden experiments with one species (switchgrass) and discovered the opposite latitudinal flowering-time trend. Integration of differential plasticity of GI-Hd1-FTL1 haplotypes of flowering time regulatory genes, haplotype range, and local environmental profiles found that observations from native habitats capture only part of the genotype-environment-phenotype spectrum established in common garden experiments, therefore reconciling the discrepancy. Two mechanisms emerged as key forces shaping current haplotype ranges and influencing future shifts. Our study highlights the power of combining citizen science observations with designed experiments to uncover mechanisms of adaptation across spatiotemporal scales.",
+      "date": "2026-05-01",
+      "identifier": "https://www.osti.gov/biblio/3364589",
+      "bibliographicCitation": "https://doi.org/10.1016/j.cell.2026.04.039",
+      "keywords": [
+        "FTL1",
+        "GI",
+        "Hd1",
+        "adaptation",
+        "citizen science",
+        "common garden experiment",
+        "flowering time",
+        "haplotype range",
+        "phenotypic plasticity",
+        "switchgrass"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Cell",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Laura E. [USDA-ARS Wheat Health,Pullman,WA (United States); USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Tibbs-Cortes",
+          "primaryContact": true
+        },
+        {
+          "name": "Linqian [Washington State University,Pullman,WA (United States)] Han",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy B. [Washington State University,Pullman,WA (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Jewell",
+          "primaryContact": false
+        },
+        {
+          "name": "Puranjit [University of Delaware,Newark,DE (United States)] Singh",
+          "primaryContact": false
+        },
+        {
+          "name": "Haiyan [Washington State University,Pullman,WA (United States)] Huang",
+          "primaryContact": false
+        },
+        {
+          "name": "Ryan [USDA-ARS Wheat Health,Pullman,WA (United States)] Benke",
+          "primaryContact": false
+        },
+        {
+          "name": "Tony [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Trieu",
+          "primaryContact": false
+        },
+        {
+          "name": "Zhou [Washington State University,Pullman,WA (United States)] Tang",
+          "primaryContact": false
+        },
+        {
+          "name": "Soyeon [University of Georgia,Athens,GA (United States); Stanford University,CA (United States)] Choi",
+          "primaryContact": false
+        },
+        {
+          "name": "Jianxin [University of Georgia,Athens,GA (United States)] Zhao",
+          "primaryContact": false
+        },
+        {
+          "name": "Eudald Illa [University of Georgia,Athens,GA (United States)] Berenguer",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas H. [University of Georgia,Athens,GA (United States)] Pendergast",
+          "primaryContact": false
+        },
+        {
+          "name": "Bing [University of Georgia,Athens,GA (United States)] Liu",
+          "primaryContact": false
+        },
+        {
+          "name": "Tina [Washington State University,Pullman,WA (United States)] Le",
+          "primaryContact": false
+        },
+        {
+          "name": "Kankshita [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Swaminathan",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiaoyu [University of Texas,Austin,TX (United States)] Weng",
+          "primaryContact": false
+        },
+        {
+          "name": "Carson [USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Andorf",
+          "primaryContact": false
+        },
+        {
+          "name": "Michelle A. [USDA-ARS Corn Insects and Crop Research Unit,Ames,IA (United States)] Graham",
+          "primaryContact": false
+        },
+        {
+          "name": "Karen [Washington State University,Pullman,WA (United States); South Dakota State University,Brookings,SD (United States)] Sanguinet",
+          "primaryContact": false
+        },
+        {
+          "name": "Zhiwu [Washington State University,Pullman,WA (United States)] Zhang",
+          "primaryContact": false
+        },
+        {
+          "name": "Laura E. [Washington State University,Pullman,WA (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Bartley",
+          "primaryContact": false
+        },
+        {
+          "name": "Yin [University of Delaware,Newark,DE (United States)] Bao",
+          "primaryContact": false
+        },
+        {
+          "name": "Wayne [University of Georgia,Athens,GA (United States)] Parrott",
+          "primaryContact": false
+        },
+        {
+          "name": "Katrien M. [University of Georgia,Athens,GA (United States)] Devos",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas [University of Texas,Austin,TX (United States)] Juenger",
+          "primaryContact": false
+        },
+        {
+          "name": "Jianming [Iowa State University,Ames,IA (United States)] Yu",
+          "primaryContact": false
+        },
+        {
+          "name": "Xianran [USDA-ARS Wheat Health,Pullman,WA (United States); Washington State University,Pullman,WA (United States)] Li",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDA-ARS"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364589",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Multi-site Milling Strategy Reveals Significant Variation in Biomass Composition of Switchgrass (<em>Panicum virgatum</em>) Grown at Ten Locations",
+      "description": "Cell wall composition influences biomass use as a forage and as a feedstock for biofuel and chemical conversion. To examine the influence of environment on composition of switchgrass (Panicum virgatum L.), we utilized a multi-environment experiment consisting of clones of switchgrass genotypes grown at up to ten locations in the continental US. We tested the influence of different milling treatments on biomass composition trait predictions via near-infrared reflectance spectroscopy (NIRS). We found that most compositional trait predictions (29/34) were significantly different (P &lt; 0.05) when a single lot of biomass was subjected to disparate milling treatments, i.e., knife milling vs. knife milling with an additional cyclone milling. Further, depending on the plant material tested, three to eight compositional trait predictions vary (P &lt; 0.05) when identical biomass was knife milled at different sites followed by cyclone milling at a single site, including for traits such as Klason lignin, nitrogen, and carbon. In some cases, variation due to milling site exceeded environmentally induced compositional variation of a single switchgrass genotype grown at different sites. From these observations, we recommend a protocol with two sequential millings that decouples growth environment from a particular mill. Utilizing this approach, we found that 46/46 biomass composition traits from the warm season herbaceous forage and switchgrass bioethanol NIRS equations vary significantly (P &lt; 0.001) in clones of a switchgrass genotype (WBC) grown at ten sites, with the growth site representing the largest average source of variation (41%). This multi-site milling approach can be used to examine environmental and gene-by-environment influences on composition with the goal of optimizing cell wall composition in different environments for biomass utilization.",
+      "abstract": "Cell wall composition influences biomass use as a forage and as a feedstock for biofuel and chemical conversion. To examine the influence of environment on composition of switchgrass (Panicum virgatum L.), we utilized a multi-environment experiment consisting of clones of switchgrass genotypes grown at up to ten locations in the continental US. We tested the influence of different milling treatments on biomass composition trait predictions via near-infrared reflectance spectroscopy (NIRS). We found that most compositional trait predictions (29/34) were significantly different (P &lt; 0.05) when a single lot of biomass was subjected to disparate milling treatments, i.e., knife milling vs. knife milling with an additional cyclone milling. Further, depending on the plant material tested, three to eight compositional trait predictions vary (P &lt; 0.05) when identical biomass was knife milled at different sites followed by cyclone milling at a single site, including for traits such as Klason lignin, nitrogen, and carbon. In some cases, variation due to milling site exceeded environmentally induced compositional variation of a single switchgrass genotype grown at different sites. From these observations, we recommend a protocol with two sequential millings that decouples growth environment from a particular mill. Utilizing this approach, we found that 46/46 biomass composition traits from the warm season herbaceous forage and switchgrass bioethanol NIRS equations vary significantly (P &lt; 0.001) in clones of a switchgrass genotype (WBC) grown at ten sites, with the growth site representing the largest average source of variation (41%). This multi-site milling approach can be used to examine environmental and gene-by-environment influences on composition with the goal of optimizing cell wall composition in different environments for biomass utilization.",
+      "date": "2025-11-21",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3364779",
+      "bibliographicCitation": "https://doi.org/10.1007/s12155-025-10897-x",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "60 APPLIED LIFE SCIENCES",
+        "Bioenergy",
+        "Composition",
+        "Milling",
+        "Multi-environment trial",
+        "NIRS",
+        "Near-infrared spectroscopy",
+        "Switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Plant Biology"
+      ],
+      "journal_name": "BioEnergy Research",
+      "volume": "18",
+      "publisher_information": "Springer Science and Business Media LLC",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "David J. [University of Oklahoma,Norman,OK (United States); Washington State University,Pullman,WA (United States)] (ORCID:0000000194430527) Thomas",
+          "primaryContact": true
+        },
+        {
+          "name": "Jason [The University of Texas,Austin,TX (United States)] (ORCID:0000000318358409) Bonnette",
+          "primaryContact": false
+        },
+        {
+          "name": "Steven D. [United States Department of Agriculture,Lincoln,NE (United States)] (ORCID:0009000939709862) Masterson",
+          "primaryContact": false
+        },
+        {
+          "name": "Robert B. [United States Department of Agriculture,Lincoln,NE (United States)] (ORCID:0000000345252335) Mitchell",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas E. [The University of Texas,Austin,TX (United States)] (ORCID:0000000195509288) Juenger",
+          "primaryContact": false
+        },
+        {
+          "name": "Laura E. [Washington State University,Pullman,WA (United States)] (ORCID:0000000186107551) Bartley",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364779",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Biomass carbon removal can help sustainable aviation fuels achieve on-time arrival",
+      "description": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
+      "abstract": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
+      "date": "2026-05-01",
+      "issue": "6",
+      "identifier": "https://www.osti.gov/biblio/3367069",
+      "bibliographicCitation": "https://doi.org/10.1016/j.isci.2026.115956",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "iScience",
+      "volume": "29",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Matthew H [ORNL] (ORCID:0000000281537154) Langholtz",
+          "primaryContact": true
+        },
+        {
+          "name": "Joe [North Carolina State University] Sagues",
+          "primaryContact": false
+        },
+        {
+          "name": "Charlotte [Carbon180] Levy",
+          "primaryContact": false
+        },
+        {
+          "name": "John   [ORNL] (ORCID:0000000344518947) Field",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel [Lawrence Livermore National Laboratory (LLNL)] Sanchez",
+          "primaryContact": false
+        },
+        {
+          "name": "Pete [Loamist] Christensen",
+          "primaryContact": false
+        },
+        {
+          "name": "Lawrence [Clemson University] Murdoch",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel   [ORNL] (ORCID:0000000238350458) De La Torre Ugarte",
+          "primaryContact": false
+        },
+        {
+          "name": "Ryan   [ORNL] (ORCID:0000000329209695) Jacobson",
+          "primaryContact": false
+        },
+        {
+          "name": "Ning [University of Maryland] Zeng",
+          "primaryContact": false
+        },
+        {
+          "name": "Damon [Idaho National Laboratory (INL)] Hartley",
+          "primaryContact": false
+        },
+        {
+          "name": "Emily [University of Illinois at Urbana-Champaign] Heaton",
+          "primaryContact": false
+        },
+        {
+          "name": "Charles W. [Massachusetts Institute of Technology (MIT)] Forsberg",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3367069",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Advancing specialized biofoundries via automated adaptive laboratory evolution",
+      "date": "2026-06-01",
+      "identifier": "https://www.osti.gov/biblio/3367793",
+      "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2026.103496",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Adaptive Laboratory Evolution",
+        "CBI",
+        "Conversion"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Current Opinion in Biotechnology",
+      "volume": "99",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Adam M (ORCID:0000000286304800) Feist",
+          "primaryContact": true
+        },
+        {
+          "name": "Sunghwa Woo",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Lawrence Berkeley National Laboratory"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Novo Nordisk Fonden"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Novo Nordisk Haemophilia & Haemoglobinopathies Foundation"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Science"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "U.S. Department of Energy"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "US Department of Energy Biological and Environmental Research"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3367793",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Lignin to Adipic Acid in a High-Yield Chemical and Biological Redox Process",
+      "description": "Viable manufacturing pathways to produce bio-based chemicals from renewable feedstocks, such as lignin derived from plant biomass, are needed to decarbonize the chemicals manufacturing sector. Converting the recalcitrant lignin polymer to valuable bioproducts remains a longstanding challenge in biorefining, with the highest reported single-product yield from lignin currently around 20 wt% (refs. 1,2,3,4). Most existing lignin depolymerization strategies target aryl-ether bond cleavage, which can produce aromatic monomers in yields of only about 30 wt%, and still as complex mixtures with C-C-linked dimers and oligomers5,6. The recalcitrance of these C-C linkages between aromatic moieties fundamentally limits single-product yields from lignin, prompting the development of strategies to efficiently cleave these C-C bonds3,7,8,9. Here we show how reductive processing of lignin from poplar accesses a hydrocarbon mixture of alkyl-aromatic monomers and oligomers that is privileged for oxidative conversion to monomeric aromatic carboxylic acids, comprising mostly benzoic acid and phthalic acid isomers in up to 73 wt% monomer yields, using a Co/Mn/Br catalyst. The soil bacterium Pseudomonas putida KT2440 was engineered to convert this mixture of aromatic carboxylic acids to muconolactone, a precursor to bio-based nylons, enabling final adipic acid yields up to 26 wt% (gram adipic acid per gram lignin) with a maximum theoretical yield of 57 wt%. This pairing of reductive and oxidative steps with lignin resembles processes in petrochemical refining and shows how lignin may be converted into a single, valuable bioproduct in high yields.",
+      "abstract": "Viable manufacturing pathways to produce bio-based chemicals from renewable feedstocks, such as lignin derived from plant biomass, are needed to decarbonize the chemicals manufacturing sector. Converting the recalcitrant lignin polymer to valuable bioproducts remains a longstanding challenge in biorefining, with the highest reported single-product yield from lignin currently around 20 wt% (refs. 1,2,3,4). Most existing lignin depolymerization strategies target aryl-ether bond cleavage, which can produce aromatic monomers in yields of only about 30 wt%, and still as complex mixtures with C-C-linked dimers and oligomers5,6. The recalcitrance of these C-C linkages between aromatic moieties fundamentally limits single-product yields from lignin, prompting the development of strategies to efficiently cleave these C-C bonds3,7,8,9. Here we show how reductive processing of lignin from poplar accesses a hydrocarbon mixture of alkyl-aromatic monomers and oligomers that is privileged for oxidative conversion to monomeric aromatic carboxylic acids, comprising mostly benzoic acid and phthalic acid isomers in up to 73 wt% monomer yields, using a Co/Mn/Br catalyst. The soil bacterium Pseudomonas putida KT2440 was engineered to convert this mixture of aromatic carboxylic acids to muconolactone, a precursor to bio-based nylons, enabling final adipic acid yields up to 26 wt% (gram adipic acid per gram lignin) with a maximum theoretical yield of 57 wt%. This pairing of reductive and oxidative steps with lignin resembles processes in petrochemical refining and shows how lignin may be converted into a single, valuable bioproduct in high yields.",
+      "date": "2026-06-10",
+      "identifier": "https://www.osti.gov/biblio/3376125",
+      "bibliographicCitation": "https://doi.org/10.1038/s41586-026-10580-x",
+      "keywords": [
+        "37 INORGANIC",
+        "ORGANIC",
+        "PHYSICAL",
+        "AND ANALYTICAL CHEMISTRY",
+        "aromatic carboxylic acid",
+        "biological redox",
+        "muconolactone",
+        "nylon"
+      ],
+      "topic": [
+        "Chemistry"
+      ],
+      "journal_name": "Nature",
+      "volume": "654",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Kathryn [National Laboratory of the Rockies,Golden,CO (United States)] Mains",
+          "primaryContact": true
+        },
+        {
+          "name": "Chad [National Laboratory of the Rockies,Golden,CO (United States)] Palumbo",
+          "primaryContact": false
+        },
+        {
+          "name": "Davide [National Laboratory of the Rockies,Golden,CO (United States)] Rigo",
+          "primaryContact": false
+        },
+        {
+          "name": "Matthew [National Laboratory of the Rockies,Golden,CO (United States)] Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Gloria [National Laboratory of the Rockies,Golden,CO (United States)] Rosetto",
+          "primaryContact": false
+        },
+        {
+          "name": "Austin [Oak Ridge National Laboratory] Carroll",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicolette [National Laboratory of the Rockies,Golden,CO (United States)] Meyer",
+          "primaryContact": false
+        },
+        {
+          "name": "Alexander [National Laboratory of the Rockies,Golden,CO (United States)] Benson",
+          "primaryContact": false
+        },
+        {
+          "name": "Brett [National Laboratory of the Rockies,Golden,CO (United States)] Boyle",
+          "primaryContact": false
+        },
+        {
+          "name": "Stefan [National Laboratory of the Rockies,Golden,CO (United States)] Haugen",
+          "primaryContact": false
+        },
+        {
+          "name": "Morgan [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000273504862) Ingraham",
+          "primaryContact": false
+        },
+        {
+          "name": "William [Oak Ridge National Laboratory] Alexander",
+          "primaryContact": false
+        },
+        {
+          "name": "Miriam [Oak Ridge National Laboratory] Silberman",
+          "primaryContact": false
+        },
+        {
+          "name": "Logan [National Laboratory of the Rockies,Golden,CO (United States)] Myers",
+          "primaryContact": false
+        },
+        {
+          "name": "Kelsey [National Laboratory of the Rockies,Golden,CO (United States)] Ramirez",
+          "primaryContact": false
+        },
+        {
+          "name": "Kevin [National Laboratory of the Rockies,Golden,CO (United States)] Sullivan",
+          "primaryContact": false
+        },
+        {
+          "name": "Adam [Oak Ridge National Laboratory] Guss",
+          "primaryContact": false
+        },
+        {
+          "name": "Davinia [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:000000030799061X) Salvachua",
+          "primaryContact": false
+        },
+        {
+          "name": "Yuriy [Massachusetts Institute of Technology] Roman-Leshkov",
+          "primaryContact": false
+        },
+        {
+          "name": "Shannon [University of Wisconsin-Madison] Stahl",
+          "primaryContact": false
+        },
+        {
+          "name": "Allison [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000171472863) Werner",
+          "primaryContact": false
+        },
+        {
+          "name": "Gregg [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:000000023480212X) Beckham",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Transportation Office. Bioenergy Technologies Office"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3376125",
+      "active": false,
+      "has_related_ids": [
+        "NLR/JA-2A00-96426"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Transformative Impacts of Laser-Induced Breakdown Spectroscopy on Environmental and Biological Research at Oak Ridge National Laboratory",
+      "description": "This manuscript will present an advancement of transformative research that has been conducted at Oak Ridge National Laboratory (ORNL) over a 25-year period (2000\u20132025) on a variety of environmental and biological matrices. These investigations derived a fundamental understanding of how elemental detection and analysis of these matrices led to the knowledge and discovery of natural processes in plants and the environment. Each project led to the initiation of a new research area which unearthed awesome and novel breakthroughs. Highlights are listed below: 1. The preliminary research at ORNL centered on the detection of aerosols utilizing Laser-induced Breakdown Spectroscopy (LIBS) technology. The Clean Air Act Amendment (CAAA) of 1990 highlighted the importance of identifying hazardous air pollutants (HAPs) due to their impact on environmental and human health, thereby underscoring the need to detect various toxic elements. Research in aerosol chemistry aimed to identify these harmful elements released by factories during periods of increased emissions in their manufacturing processes. LIBS emerged as the most effective method for real-time, in situ measurements of metal species in both gaseous and aerosol phases. 2. An understanding of the presence of total carbon in soils gives perspective on how to develop carbon sequestration strategies. The recognition that carbon sinks can evolve back to carbon sources to emit back to the atmosphere was an important consideration. Also, the concentration of carbon in soil indicates the health of land areas for growing crops successfully. 3. The direct detection of most of the elements in a wood sample in a single emission spectrum, without sample preparation, encouraged the research to use the LIBS technique for preservative treated wood coupled with use of multivariate statistical methodology. Additionally, it encouraged the researchers to try to differentiate natural woods from different parts of the country, and it was successfully demonstrated that LIBS coupled with MVA analysis could differentiate wood of different species from each other and of similar species grown in different environments based on their elemental spectra. This was a breakthrough since it revealed a systematic approach to connect elemental scarcity and abundance to either drought or typical rainfall conditions for the hardwood trees grown in specific areas. 4. Furthermore, the research progressed to reveal physiological and developmental processes contributing to biomass production such that the variation in leaf elemental composition increases our understanding of terrestrial nutrient cycles, as well as tracking the transfer of toxic elements from soils to living organisms. 5. Recently another breakthrough viz., ionomics initiated the correlation of elements to specific genes, uncovering the function that the element performed in the plant. More recently, this has been extended from plants to fungi as well as fungi growing in symbiotic relations with plants.",
+      "abstract": "This manuscript will present an advancement of transformative research that has been conducted at Oak Ridge National Laboratory (ORNL) over a 25-year period (2000\u20132025) on a variety of environmental and biological matrices. These investigations derived a fundamental understanding of how elemental detection and analysis of these matrices led to the knowledge and discovery of natural processes in plants and the environment. Each project led to the initiation of a new research area which unearthed awesome and novel breakthroughs. Highlights are listed below: 1. The preliminary research at ORNL centered on the detection of aerosols utilizing Laser-induced Breakdown Spectroscopy (LIBS) technology. The Clean Air Act Amendment (CAAA) of 1990 highlighted the importance of identifying hazardous air pollutants (HAPs) due to their impact on environmental and human health, thereby underscoring the need to detect various toxic elements. Research in aerosol chemistry aimed to identify these harmful elements released by factories during periods of increased emissions in their manufacturing processes. LIBS emerged as the most effective method for real-time, in situ measurements of metal species in both gaseous and aerosol phases. 2. An understanding of the presence of total carbon in soils gives perspective on how to develop carbon sequestration strategies. The recognition that carbon sinks can evolve back to carbon sources to emit back to the atmosphere was an important consideration. Also, the concentration of carbon in soil indicates the health of land areas for growing crops successfully. 3. The direct detection of most of the elements in a wood sample in a single emission spectrum, without sample preparation, encouraged the research to use the LIBS technique for preservative treated wood coupled with use of multivariate statistical methodology. Additionally, it encouraged the researchers to try to differentiate natural woods from different parts of the country, and it was successfully demonstrated that LIBS coupled with MVA analysis could differentiate wood of different species from each other and of similar species grown in different environments based on their elemental spectra. This was a breakthrough since it revealed a systematic approach to connect elemental scarcity and abundance to either drought or typical rainfall conditions for the hardwood trees grown in specific areas. 4. Furthermore, the research progressed to reveal physiological and developmental processes contributing to biomass production such that the variation in leaf elemental composition increases our understanding of terrestrial nutrient cycles, as well as tracking the transfer of toxic elements from soils to living organisms. 5. Recently another breakthrough viz., ionomics initiated the correlation of elements to specific genes, uncovering the function that the element performed in the plant. More recently, this has been extended from plants to fungi as well as fungi growing in symbiotic relations with plants.",
+      "date": "2026-06-26",
+      "issue": "7",
+      "identifier": "https://www.osti.gov/biblio/3377187",
+      "bibliographicCitation": "https://doi.org/10.3390/chemosensors14070146",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "CBI",
+        "Feedstock DEvelopment LIBS",
+        "biological samples",
+        "elemental characterization",
+        "environmental"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Chemosensors",
+      "volume": "14",
+      "publisher_information": "MDPI AG",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Madhavi [Biosciences Division,Oak Ridge National Laboratory,Oak Ridge,TN 37831,USA] (ORCID:0000000266772180) Martin",
+          "primaryContact": true
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "US Department of Energy"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3377187",
+      "active": false
     }
   ]
 }
