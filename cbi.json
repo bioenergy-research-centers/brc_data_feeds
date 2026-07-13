@@ -30812,6 +30812,59 @@
     },
     {
       "brc": "CBI",
+      "title": "Stomatal Parameters in a Changing Environment",
+      "description": "Here, we recommend that stomatal slope parameters (g<sub>1</sub>) be inferred by inversion so that variations in g<sub>1</sub> may be attributed to variations physiological and environmental conditions. Understanding <sub>g1</sub> will advance predictions of plant gas exchange and performance under global climate.",
+      "abstract": "Here, we recommend that stomatal slope parameters (g<sub>1</sub>) be inferred by inversion so that variations in g<sub>1</sub> may be attributed to variations physiological and environmental conditions. Understanding <sub>g1</sub> will advance predictions of plant gas exchange and performance under global climate.",
+      "date": "2024-12-11",
+      "issue": "5",
+      "identifier": "https://www.osti.gov/biblio/2584450",
+      "bibliographicCitation": "https://doi.org/10.1111/pce.15293",
+      "keywords": [
+        "Stomatal conductance modeling",
+        "marginal carbon profit of water",
+        "photosynthesis",
+        "stomatal optimization",
+        "transpiration",
+        "water-use efficiency"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Plant, Cell and Environment",
+      "volume": "48",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Aaron [University of Minnesota,Twin Cities,Minneapolis,MN (United States)] (ORCID:0000000331012701) Potkay",
+          "primaryContact": true
+        },
+        {
+          "name": "Brandon [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000316304271) Sloan",
+          "primaryContact": false
+        },
+        {
+          "name": "Xue [University of Minnesota,Twin Cities,Minneapolis,MN (United States)] (ORCID:0000000313813118) Feng",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Science Foundation Faculty Early Career Development (CAREER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2584450",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Scale sensitivity of ethanol production via consolidated bioprocessing with consideration of&nbsp;feedstock cost",
       "description": "We examine feedstock cost and minimum selling price for ethanol production from corn stover as a function of scale, stover yield, participation rate, and price incentives for two conversion technologies: a conventional base case featuring thermochemical pretreatment with added cellulase, and an advanced case featuring consolidated bioprocessing with cotreatment (C-CBP). Delivered feedstock cost ranged from $\\$85$ Mg<sup>\u22121</sup> at small (10 million gallons year<sup>\u22121</sup> or ~38 million L year<sup>\u22121</sup>) scale with high yield and participation rates to $\\$124$ Mg<sup>\u22121</sup> at large scale (60 million gallons year<sup>\u22121</sup> or 227 million L year<sup>\u22121</sup>) and low yield and participation rates. The minimum ethanol selling price (MESP) was approximately twofold lower for the advanced case compared with the base case. The payback period was several times lower for the advanced case compared with the base case, with increasing disparity at smaller scales, and was highly sensitive to ethanol price supports. For both C-CBP and the conventional processing paradigm, MESP decreased with increasing scale, indicating that the cost penalty due to higher feedstock transport distances was more than outweighed by lower capital costs. However, the cost penalty for operation at small scale, expressed in $ gallon<sup>\u22121</sup> ethanol, is lower for C-CBP than for the conventional paradigm by roughly twofold. Particularly for initial applications of C-CBP, we speculate that this cost penalty will likely be modest compared with the anticipated benefits of small-scale operation such as increased opportunity to use existing infrastructure, easier plant siting and supply chain establishment, and lower total investment required.",
       "abstract": "We examine feedstock cost and minimum selling price for ethanol production from corn stover as a function of scale, stover yield, participation rate, and price incentives for two conversion technologies: a conventional base case featuring thermochemical pretreatment with added cellulase, and an advanced case featuring consolidated bioprocessing with cotreatment (C-CBP). Delivered feedstock cost ranged from $\\$85$ Mg<sup>\u22121</sup> at small (10 million gallons year<sup>\u22121</sup> or ~38 million L year<sup>\u22121</sup>) scale with high yield and participation rates to $\\$124$ Mg<sup>\u22121</sup> at large scale (60 million gallons year<sup>\u22121</sup> or 227 million L year<sup>\u22121</sup>) and low yield and participation rates. The minimum ethanol selling price (MESP) was approximately twofold lower for the advanced case compared with the base case. The payback period was several times lower for the advanced case compared with the base case, with increasing disparity at smaller scales, and was highly sensitive to ethanol price supports. For both C-CBP and the conventional processing paradigm, MESP decreased with increasing scale, indicating that the cost penalty due to higher feedstock transport distances was more than outweighed by lower capital costs. However, the cost penalty for operation at small scale, expressed in $ gallon<sup>\u22121</sup> ethanol, is lower for C-CBP than for the conventional paradigm by roughly twofold. Particularly for initial applications of C-CBP, we speculate that this cost penalty will likely be modest compared with the anticipated benefits of small-scale operation such as increased opportunity to use existing infrastructure, easier plant siting and supply chain establishment, and lower total investment required.",
