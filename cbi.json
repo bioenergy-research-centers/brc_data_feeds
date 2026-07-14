@@ -5431,119 +5431,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Glycosylation Is Vital for Industrial Performance of Hyperactive Cellulases",
-      "description": "In the terrestrial biosphere, biomass deconstruction is conducted by microbes employing a variety of complementary strategies, many of which remain to be discovered. Moreover, the biofuels industry seeks more efficient (and less costly) cellulase formulations upon which to launch the nascent sustainable bioenergy economy. The glycan decoration of fungal cellulases has been shown to protect these enzymes from protease action and to enhance binding to cellulose. We show here that thermal tolerant bacterial cellulases are glycosylated as well, although the types and extents of decoration differ from their Eukaryotic counterparts. Our major findings are that glycosylation of CelA is uniform across its three linker peptides and composed of mainly galactose disaccharides (which is unique) and that this glycosylation dramatically impacts the hydrolysis of insoluble substrates, proteolytic and thermal stability, and substrate binding and changes the dynamics of the enzyme. This study suggests that the glycosylation of CelA is crucial for its exceptionally high cellulolytic activity on biomass and provides the robustness needed for this enzyme to function in harsh environments including industrial settings.",
-      "abstract": "In the terrestrial biosphere, biomass deconstruction is conducted by microbes employing a variety of complementary strategies, many of which remain to be discovered. Moreover, the biofuels industry seeks more efficient (and less costly) cellulase formulations upon which to launch the nascent sustainable bioenergy economy. The glycan decoration of fungal cellulases has been shown to protect these enzymes from protease action and to enhance binding to cellulose. We show here that thermal tolerant bacterial cellulases are glycosylated as well, although the types and extents of decoration differ from their Eukaryotic counterparts. Our major findings are that glycosylation of CelA is uniform across its three linker peptides and composed of mainly galactose disaccharides (which is unique) and that this glycosylation dramatically impacts the hydrolysis of insoluble substrates, proteolytic and thermal stability, and substrate binding and changes the dynamics of the enzyme. This study suggests that the glycosylation of CelA is crucial for its exceptionally high cellulolytic activity on biomass and provides the robustness needed for this enzyme to function in harsh environments including industrial settings.",
-      "date": "2019-01-31",
-      "issue": "5",
-      "identifier": "https://www.osti.gov/biblio/1497985",
-      "bibliographicCitation": "https://doi.org/10.1021/acssuschemeng.8b05049",
-      "keywords": [
-        "09 BIOMASS FUELS",
-        "CAZymes",
-        "Caldicellulosiruptor bescii",
-        "biofuels",
-        "cellulolytic anaerobes",
-        "enzyme stability",
-        "galactose",
-        "glycosylation"
-      ],
-      "topic": [
-        "Biomass & Feedstock"
-      ],
-      "journal_name": "ACS Sustainable Chemistry & Engineering",
-      "volume": "7",
-      "publisher_information": "American Chemical Society (ACS)",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Daehwan [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Chung",
-          "primaryContact": true
-        },
-        {
-          "name": "Nicholas S. [National Renewable Energy Lab. (NREL),Golden,CO (United States); California Inst. of Technology (CalTech),Pasadena,CA (United States)] Sarai",
-          "primaryContact": false
-        },
-        {
-          "name": "Brandon C. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Knott",
-          "primaryContact": false
-        },
-        {
-          "name": "Neal [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Hengge",
-          "primaryContact": false
-        },
-        {
-          "name": "Jordan F. [Univ. of Georgia,Athens,GA (United States)] Russell",
-          "primaryContact": false
-        },
-        {
-          "name": "John M. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Yarbrough",
-          "primaryContact": false
-        },
-        {
-          "name": "Roman [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Brunecky",
-          "primaryContact": false
-        },
-        {
-          "name": "Jenna [Univ. of Georgia,Athens,GA (United States)] Young",
-          "primaryContact": false
-        },
-        {
-          "name": "Nitin [Univ. of Georgia,Athens,GA (United States)] Supekar",
-          "primaryContact": false
-        },
-        {
-          "name": "Todd [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Vander Wall",
-          "primaryContact": false
-        },
-        {
-          "name": "Deanne W. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] (ORCID:0000000259111309) Sammond",
-          "primaryContact": false
-        },
-        {
-          "name": "Michael F. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] (ORCID:0000000151639398) Crowley",
-          "primaryContact": false
-        },
-        {
-          "name": "Christine M. [Univ. of Georgia,Athens,GA (United States)] Szymanski",
-          "primaryContact": false
-        },
-        {
-          "name": "Lance [Univ. of Georgia,Athens,GA (United States)] Wells",
-          "primaryContact": false
-        },
-        {
-          "name": "Parastoo [Univ. of Georgia,Athens,GA (United States)] Azadi",
-          "primaryContact": false
-        },
-        {
-          "name": "Janet [Univ. of Georgia,Athens,GA (United States)] Westpheling",
-          "primaryContact": false
-        },
-        {
-          "name": "Michael E. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Himmel",
-          "primaryContact": false
-        },
-        {
-          "name": "Yannick J. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] (ORCID:0000000176248000) Bomble",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES) (SC-22)"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/1497985",
-      "active": false,
-      "has_related_ids": [
-        "NREL/JA--2700-73100"
-      ]
-    },
-    {
-      "brc": "CBI",
       "title": "Creation of a functional hyperthermostable designer cellulosome",
       "description": "Renewable energy has become a field of high interest over the past decade, and production of biofuels from cellulosic substrates has a particularly high potential as an alternative source of energy. Industrial deconstruction of biomass, however, is an onerous, exothermic process, the cost of which could be decreased significantly by use of hyperthermophilic enzymes. An efficient way of breaking down cellulosic substrates can also be achieved by highly efficient enzymatic complexes called cellulosomes. The modular architecture of these multi-enzyme complexes results in substrate targeting and proximity-based synergy among the resident enzymes. However, cellulosomes have not been observed in hyperthermophilic bacteria. Here, we report the design and function of a novel hyperthermostable \u201cdesigner cellulosome\u201d system, which is stable and active at 75 \u00b0C. Enzymes from Caldicellulosiruptor bescii, a highly cellulolytic hyperthermophilic anaerobic bacterium, were selected and successfully converted to the cellulosomal mode by grafting onto them divergent dockerin modules that can be inserted in a precise manner into a thermostable chimaeric scaffoldin by virtue of their matching cohesins. Three pairs of cohesins and dockerins, selected from thermophilic microbes, were examined for their stability at extreme temperatures and were determined stable at 75 \u00b0C for at least 72 h. The resultant hyperthermostable cellulosome complex exhibited the highest levels of enzymatic activity on microcrystalline cellulose at 75 \u00b0C, compared to those of previously reported designer cellulosome systems and the native cellulosome from Clostridium thermocellum. The functional hyperthermophilic platform fulfills the appropriate physico-chemical properties required for exothermic processes. This system can thus be adapted for other types of thermostable enzyme systems and could serve as a basis for a variety of cellulolytic and non-cellulolytic industrial objectives at high temperatures.",
       "abstract": "Renewable energy has become a field of high interest over the past decade, and production of biofuels from cellulosic substrates has a particularly high potential as an alternative source of energy. Industrial deconstruction of biomass, however, is an onerous, exothermic process, the cost of which could be decreased significantly by use of hyperthermophilic enzymes. An efficient way of breaking down cellulosic substrates can also be achieved by highly efficient enzymatic complexes called cellulosomes. The modular architecture of these multi-enzyme complexes results in substrate targeting and proximity-based synergy among the resident enzymes. However, cellulosomes have not been observed in hyperthermophilic bacteria. Here, we report the design and function of a novel hyperthermostable \u201cdesigner cellulosome\u201d system, which is stable and active at 75 \u00b0C. Enzymes from Caldicellulosiruptor bescii, a highly cellulolytic hyperthermophilic anaerobic bacterium, were selected and successfully converted to the cellulosomal mode by grafting onto them divergent dockerin modules that can be inserted in a precise manner into a thermostable chimaeric scaffoldin by virtue of their matching cohesins. Three pairs of cohesins and dockerins, selected from thermophilic microbes, were examined for their stability at extreme temperatures and were determined stable at 75 \u00b0C for at least 72 h. The resultant hyperthermostable cellulosome complex exhibited the highest levels of enzymatic activity on microcrystalline cellulose at 75 \u00b0C, compared to those of previously reported designer cellulosome systems and the native cellulosome from Clostridium thermocellum. The functional hyperthermophilic platform fulfills the appropriate physico-chemical properties required for exothermic processes. This system can thus be adapted for other types of thermostable enzyme systems and could serve as a basis for a variety of cellulolytic and non-cellulolytic industrial objectives at high temperatures.",
@@ -33878,42 +33765,53 @@
       ],
       "journal_name": "Chemical Reviews",
       "volume": "126",
+      "publisher_information": "American Chemical Society",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Sinead [Carbon Containment Lab] Crotty",
+          "name": "Sin\u00e9ad M. [Carbon Containment Lab (CC Lab),New Haven,CT (United States)] (ORCID:0000000326899395) Crotty",
           "primaryContact": true
         },
         {
-          "name": "Peter [University of Arizona] Reiners",
+          "name": "Peter W. [Univ. of Arizona,Tucson,AZ (United States)] Reiners",
           "primaryContact": false
         },
         {
-          "name": "Leah [Carbon Containment Lab] Clayton",
+          "name": "Leah K. [Carbon Containment Lab (CC Lab),New Haven,CT (United States)] (ORCID:0000000274938101) Clayton",
           "primaryContact": false
         },
         {
-          "name": "Edward [Charm Industrial] Young",
+          "name": "Edward [Charm Industrial,San Francisco,CA (United States)] Young",
           "primaryContact": false
         },
         {
-          "name": "Andrew [Carba Inc.] Jones",
+          "name": "Andrew [Carba,Inc.,Eden Prairie,MN (United States)] Jones",
           "primaryContact": false
         },
         {
-          "name": "Melissa [Oak Ridge National Laboratory] Cregger",
+          "name": "Melissa A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Cregger",
           "primaryContact": false
         },
         {
-          "name": "Anne [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000292042050) Starace",
+          "name": "Anne K. [National Laboratory of the Rockies (NLR),Golden,CO (United States)] (ORCID:0000000292042050) Starace",
           "primaryContact": false
         },
         {
-          "name": "Anne [National Laboratory of the Rockies,Golden,CO (United States)] (ORCID:0000000279279424) Harman-Ware",
+          "name": "Anne E. [National Laboratory of the Rockies (NLR),Golden,CO (United States)] (ORCID:0000000279279424) Harman-Ware",
           "primaryContact": false
         }
       ],
       "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Hydrocarbons and Geothermal Energy Office (HGEO)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Technology Commercialization (OTC)"
+          }
+        },
         {
           "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
