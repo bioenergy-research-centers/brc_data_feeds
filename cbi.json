@@ -26482,6 +26482,90 @@
     },
     {
       "brc": "CBI",
+      "title": "Top five unanswered questions in plant cell surface research",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2024-05-31",
+      "issue": "C",
+      "identifier": "https://www.osti.gov/biblio/2305780",
+      "bibliographicCitation": "https://doi.org/10.1016/j.tcsw.2024.100121",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "The Cell Surface",
+      "volume": "11",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Wout Boerjan",
+          "primaryContact": true
+        },
+        {
+          "name": "Vincent Burlat",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel J. Cosgrove",
+          "primaryContact": false
+        },
+        {
+          "name": "Christophe Dunand",
+          "primaryContact": false
+        },
+        {
+          "name": "Paul Dupree",
+          "primaryContact": false
+        },
+        {
+          "name": "Kalina T. Haas",
+          "primaryContact": false
+        },
+        {
+          "name": "Gwyneth Ingram",
+          "primaryContact": false
+        },
+        {
+          "name": "Elisabeth Jamet",
+          "primaryContact": false
+        },
+        {
+          "name": "Debra (ORCID:000000015249635X) Mohnen",
+          "primaryContact": false
+        },
+        {
+          "name": "Steven Moussu",
+          "primaryContact": false
+        },
+        {
+          "name": "Alexis Peaucelle",
+          "primaryContact": false
+        },
+        {
+          "name": "Staffan Persson",
+          "primaryContact": false
+        },
+        {
+          "name": "C\u0103t\u0103lin Voiniciuc",
+          "primaryContact": false
+        },
+        {
+          "name": "Herman (ORCID:000000025728146X) H\u00f6fte",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2305780",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Counter-current chromatography for lignin monomer\u2013monomer and monomer\u2013oligomer separations from reductive catalytic fractionation oil",
       "description": "<p>Counter-current chromatography is an effective unit operation for simultaneous aromatic monomer\u2013monomer and monomer\u2013oligomer separations from oil derived from reductive catalytic fractionation of lignocellulosic biomass.</p>",
       "abstract": "<p>Counter-current chromatography is an effective unit operation for simultaneous aromatic monomer\u2013monomer and monomer\u2013oligomer separations from oil derived from reductive catalytic fractionation of lignocellulosic biomass.</p>",
