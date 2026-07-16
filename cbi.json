@@ -26997,6 +26997,59 @@
     },
     {
       "brc": "CBI",
+      "title": "Modular Engineering of Biomass Degradation Pathways",
+      "description": "<p>Production of fuels and chemicals from renewable lignocellulosic feedstocks is a promising alternative to petroleum-derived compounds. Due to the complexity of lignocellulosic feedstocks, microbial conversion of all potential substrates will require substantial metabolic engineering. Non-model microbes offer desirable physiological traits, but also increase the difficulty of heterologous pathway engineering and optimization. The development of modular design principles that allow metabolic pathways to be used in a variety of novel microbes with minimal strain-specific optimization will enable the rapid construction of microbes for commercial production of biofuels and bioproducts. In this review, we discuss variability of lignocellulosic feedstocks, pathways for catabolism of lignocellulose-derived compounds, challenges to heterologous engineering of catabolic pathways, and opportunities to apply modular pathway design. Implementation of these approaches will simplify the process of modifying non-model microbes to convert diverse lignocellulosic feedstocks.</p>",
+      "abstract": "<p>Production of fuels and chemicals from renewable lignocellulosic feedstocks is a promising alternative to petroleum-derived compounds. Due to the complexity of lignocellulosic feedstocks, microbial conversion of all potential substrates will require substantial metabolic engineering. Non-model microbes offer desirable physiological traits, but also increase the difficulty of heterologous pathway engineering and optimization. The development of modular design principles that allow metabolic pathways to be used in a variety of novel microbes with minimal strain-specific optimization will enable the rapid construction of microbes for commercial production of biofuels and bioproducts. In this review, we discuss variability of lignocellulosic feedstocks, pathways for catabolism of lignocellulose-derived compounds, challenges to heterologous engineering of catabolic pathways, and opportunities to apply modular pathway design. Implementation of these approaches will simplify the process of modifying non-model microbes to convert diverse lignocellulosic feedstocks.</p>",
+      "date": "2019-04-22",
+      "issue": "4",
+      "identifier": "https://www.osti.gov/biblio/2373198",
+      "bibliographicCitation": "https://doi.org/10.3390/pr7040230",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "biofuels",
+        "hemicellulose",
+        "lignin valorization",
+        "lignocellulose",
+        "metabolic engineering"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Processes",
+      "volume": "7",
+      "publisher_information": "MDPI AG",
+      "country_publication_code": "Switzerland",
+      "creator": [
+        {
+          "name": "Julie E. Chaves",
+          "primaryContact": true
+        },
+        {
+          "name": "Gerald N. (ORCID:0000000255067419) Presley",
+          "primaryContact": false
+        },
+        {
+          "name": "Joshua K. (ORCID:0000000323028180) Michener",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2373198",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Solubilization of sugarcane bagasse by mono and cocultures of thermophilic anaerobes with and without cotreatment",
       "description": "Not Available",
       "abstract": "Not Available",
