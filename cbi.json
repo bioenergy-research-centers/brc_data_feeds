@@ -5291,6 +5291,74 @@
     },
     {
       "brc": "CBI",
+      "title": "Automated Transformation of Lignin Topologies into Atomic Structures with LigninBuilder",
+      "description": "Lignin is an abundant aromatic heteropolymer found in secondary plant cell walls and is a potential feedstock for conversion into bioderived fuels and chemicals. Lignin chemical diversity complicates traditional structural studies, and so, relatively little experimental evidence exists for how lignin structure exists in aqueous solution or how lignin polymers respond to changes in their chemical environment. Molecular modeling can address these concerns; however, prior computational structural lignin models typically did not capture lignin heterogeneity, as only a few polymers were considered. LigninBuilder creates a framework for building structural libraries for lignin from existing topological libraries, permitting significantly greater diversity of lignin structures to be sampled at atomic detail. As a demonstration of its capabilities, LigninBuilder was applied to three libraries of lignin from hardwood, softwood, and grass, and the resulting polymer structures were simulated in an aqueous environment. The lignins adopted compact globular structures, as would be expected for polymers in poor solvents. The differences between the libraries were largest when quantifying the packing of nonadjacent aromatic residues, with greater branching within the polymer resulting in poorer aromatic packing. Individual lignin polymers were also found to undergo rapid conformational changes, with the dwell time within a state growing as the square of the molecular weight. This first application of LigninBuilder demonstrates the potential for atomic-level insight into lignin interactions. LigninBuilder is distributed as a plugin to the visualization software VMD, lowering the barrier for modeling lignin structure in diverse environments.",
+      "abstract": "Lignin is an abundant aromatic heteropolymer found in secondary plant cell walls and is a potential feedstock for conversion into bioderived fuels and chemicals. Lignin chemical diversity complicates traditional structural studies, and so, relatively little experimental evidence exists for how lignin structure exists in aqueous solution or how lignin polymers respond to changes in their chemical environment. Molecular modeling can address these concerns; however, prior computational structural lignin models typically did not capture lignin heterogeneity, as only a few polymers were considered. LigninBuilder creates a framework for building structural libraries for lignin from existing topological libraries, permitting significantly greater diversity of lignin structures to be sampled at atomic detail. As a demonstration of its capabilities, LigninBuilder was applied to three libraries of lignin from hardwood, softwood, and grass, and the resulting polymer structures were simulated in an aqueous environment. The lignins adopted compact globular structures, as would be expected for polymers in poor solvents. The differences between the libraries were largest when quantifying the packing of nonadjacent aromatic residues, with greater branching within the polymer resulting in poorer aromatic packing. Individual lignin polymers were also found to undergo rapid conformational changes, with the dwell time within a state growing as the square of the molecular weight. This first application of LigninBuilder demonstrates the potential for atomic-level insight into lignin interactions. LigninBuilder is distributed as a plugin to the visualization software VMD, lowering the barrier for modeling lignin structure in diverse environments.",
+      "date": "2018-12-10",
+      "issue": "3",
+      "identifier": "https://www.osti.gov/biblio/1494729",
+      "bibliographicCitation": "https://doi.org/10.1021/acssuschemeng.8b05665",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "37 INORGANIC",
+        "ORGANIC",
+        "PHYSICAL",
+        "AND ANALYTICAL CHEMISTRY",
+        "atomic structure",
+        "lignin modeling",
+        "molecular dynamics",
+        "polymer power laws"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
+      "journal_name": "ACS Sustainable Chemistry & Engineering",
+      "volume": "7",
+      "publisher_information": "American Chemical Society (ACS)",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Josh V. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Vermaas",
+          "primaryContact": true
+        },
+        {
+          "name": "Lauren D. [Northwestern Univ.,Evanston,IL (United States)] Dellon",
+          "primaryContact": false
+        },
+        {
+          "name": "Linda J. [Northwestern Univ.,Evanston,IL (United States)] Broadbelt",
+          "primaryContact": false
+        },
+        {
+          "name": "Gregg T. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Beckham",
+          "primaryContact": false
+        },
+        {
+          "name": "Michael F. [National Renewable Energy Lab. (NREL),Golden,CO (United States)] Crowley",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Bioenergy Technologies Office (EE-3B)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1494729",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2700-72983"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "Systematic Parameterization of Lignin for the CHARMM Force Field",
       "description": "Lignin is an abundant aromatic biopolymer within plant cell walls formed through radical coupling chemistry, whose composition and topology can vary greatly depending on the biomass source. Computational modeling provides a complementary approach to traditional experimental techniques to probe lignin interactions, lignin structure, and lignin material properties. However, current modeling approaches are limited based on the subset of lignin chemistries covered by existing lignin force fields. To fill the gap, we developed a comprehensive lignin force field that accounts for more lignin-lignin and lignin-carbohydrate interlinkages than existing lignin force fields, and also greatly expands the lignin monomer chemistries that can be modeled beyond simple alcohols and into the rich mixture of natural lignin varieties. The development of this force field utilizes recent developments in parameterization methodology, and synthesizes them into a workflow that combines target data from multiple molecules simultaneously into a single consistent and comprehensive parameter set. The parameter set represents a significant improvement to alternatives for atomic modeling of diverse lignin topologies, more accurately reproducing experimental observables while also significantly reducing the error relative to quantum calculations. The improved energetics, as well as the rigid adherence to CHARMM parameterization philosophy, enables simulation of lignin within its biological context with greater accuracy than was previously possible. The lignin force field presented here is therefore a crucial first step towards modeling lignin structure across a broad range of environments, including within plant cell walls where lignin is complexed with carbohydrates and deconstructed by bacterial or fungal enzymes, or as it exists within industrial solvent mixtures. Future simulations enabled by this updated lignin force field will thus lead to better chemical and structural understanding of lignin, providing new insight into its role in biomass recalcitrance or probing the potential for lignin to be used within industrial processes.",
       "abstract": "Lignin is an abundant aromatic biopolymer within plant cell walls formed through radical coupling chemistry, whose composition and topology can vary greatly depending on the biomass source. Computational modeling provides a complementary approach to traditional experimental techniques to probe lignin interactions, lignin structure, and lignin material properties. However, current modeling approaches are limited based on the subset of lignin chemistries covered by existing lignin force fields. To fill the gap, we developed a comprehensive lignin force field that accounts for more lignin-lignin and lignin-carbohydrate interlinkages than existing lignin force fields, and also greatly expands the lignin monomer chemistries that can be modeled beyond simple alcohols and into the rich mixture of natural lignin varieties. The development of this force field utilizes recent developments in parameterization methodology, and synthesizes them into a workflow that combines target data from multiple molecules simultaneously into a single consistent and comprehensive parameter set. The parameter set represents a significant improvement to alternatives for atomic modeling of diverse lignin topologies, more accurately reproducing experimental observables while also significantly reducing the error relative to quantum calculations. The improved energetics, as well as the rigid adherence to CHARMM parameterization philosophy, enables simulation of lignin within its biological context with greater accuracy than was previously possible. The lignin force field presented here is therefore a crucial first step towards modeling lignin structure across a broad range of environments, including within plant cell walls where lignin is complexed with carbohydrates and deconstructed by bacterial or fungal enzymes, or as it exists within industrial solvent mixtures. Future simulations enabled by this updated lignin force field will thus lead to better chemical and structural understanding of lignin, providing new insight into its role in biomass recalcitrance or probing the potential for lignin to be used within industrial processes.",
@@ -9022,6 +9090,83 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1606789",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Structural changes of lignins in natural Populus variants during different pretreatments",
+      "description": "In the present study, three leading pretreatment technologies including dilute acid (DA), liquid hot water (LHW), and organosolv pretreatments (OS) were applied on two Populus natural variants with different recalcitrance. The structural features of the isolated lignins were analyzed accordingly. All the studied pretreatments reduced the molecular weights of the lignins. Aliphatic OH was reduced while phenolic OH was increased in all pretreated lignins. HSQC analysis revealed that pretreatment influenced the lignin composition and relative distribution of inter-unit linkages. The lignin S/G ratio was found to increase during DA pretreatment, while it was decreased after LHW and OS pretreatment. LHW pretreatment also resulted in much less cleavage of \u03b2-O-4 linkage than the other two pretreatments. These results could offer guidelines on appropriate selection of biomass and pretreatment technology in the future biorefinery process.",
+      "abstract": "In the present study, three leading pretreatment technologies including dilute acid (DA), liquid hot water (LHW), and organosolv pretreatments (OS) were applied on two Populus natural variants with different recalcitrance. The structural features of the isolated lignins were analyzed accordingly. All the studied pretreatments reduced the molecular weights of the lignins. Aliphatic OH was reduced while phenolic OH was increased in all pretreated lignins. HSQC analysis revealed that pretreatment influenced the lignin composition and relative distribution of inter-unit linkages. The lignin S/G ratio was found to increase during DA pretreatment, while it was decreased after LHW and OS pretreatment. LHW pretreatment also resulted in much less cleavage of \u03b2-O-4 linkage than the other two pretreatments. These results could offer guidelines on appropriate selection of biomass and pretreatment technology in the future biorefinery process.",
+      "date": "2019-12-31",
+      "issue": "C",
+      "identifier": "https://www.osti.gov/biblio/1606831",
+      "bibliographicCitation": "https://doi.org/10.1016/j.biortech.2019.122240",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Lignin",
+        "Natural Populus variants",
+        "Pretreatment",
+        "Recalcitrance",
+        "S/G ratio"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Bioresource Technology",
+      "volume": "295",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Haitao [Hubei Univ. of Technology,Wuhan (China). Hubei Provincial Key Lab. of Green Materials for Light Industry; Hubei Univ. of Technology,Wuhan (China).  Collaborative Innovation Center of Green Light-weight Materials and Processing] Yang",
+          "primaryContact": true
+        },
+        {
+          "name": "Chang Geun [State Univ. of New York (SUNY),Albany,NY (United States)] Yoo",
+          "primaryContact": false
+        },
+        {
+          "name": "Xianzhi [Univ. of Tennessee,Knoxville,TN (United States)] Meng",
+          "primaryContact": false
+        },
+        {
+          "name": "Yunqiao Joseph [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States). BioEnergy Science Center (BESC)] (ORCID:0000000325541447) Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Wellington [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States). BioEnergy Science Center (BESC)] (ORCID:0000000202009856) Muchero",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States). BioEnergy Science Center (BESC)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States). BioEnergy Science Center (BESC)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States). BioEnergy Science Center (BESC)] (ORCID:000000023536554X) Ragauskas",
+          "primaryContact": false
+        },
+        {
+          "name": "Lan [Univ. of Tennessee,Knoxville,TN (United States)] Yao",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1606831",
       "active": false
     },
     {
@@ -29847,6 +29992,264 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/2562699",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Solid-state NMR at natural isotopic abundance for bioenergy applications",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2025-04-27",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/2563006",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-025-02648-z",
+      "keywords": [
+        "BIOMASS FUELS",
+        "bioenergy",
+        "biomass",
+        "carbon management",
+        "cellulose",
+        "lignin",
+        "lignocellulose",
+        "magic angle spinning",
+        "natural abundance",
+        "renewable energy",
+        "solid-state nuclear magnetic resonance"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biotechnology for Biofuels and Bioproducts",
+      "volume": "18",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "GB",
+      "creator": [
+        {
+          "name": "Bennett Addison",
+          "primaryContact": true
+        },
+        {
+          "name": "Malitha C. Dickwella Widange",
+          "primaryContact": false
+        },
+        {
+          "name": "Yunqiao Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. Ragauskas",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. Harman-Ware",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2563006",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA-2800-93171"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Crash\u2013and\u2013dash: a new era in tree genome editing",
+      "description": "In less than a decade since the first demonstrations of CRISPR genome editing of agronomic genes in several tree species (Zhou et al., 2015; Jia et al., 2016; Ren et al., 2016), this disruptive technology has been deployed for a growing number of traits in both basic and applied research. The precision and efficiency of CRISPR editing allow for the recovery of null mutants in the first generation (Zhou et al., 2015; Elorriaga et al., 2018; Muhr et al., 2018), which is a significant benefit for perennial trees with long generation times. The stability of editing outcomes over multiple years or clonal propagation cycles (Bewg et al., 2022; Chen et al., 2023; Goralogia et al., 2024) is another key advantage since most woody perennials are vegetatively propagated in commercial operations. However, in many countries, gene-edited trees with stably integrated T-DNA face the same regulatory hurdles as traditional transgenics, slowing field trial characterization and the integration of transgenesis with conventional breeding (Boerjan &amp; Strauss, 2024). In an article recently published in New Phytologist, Hoengenaert et al. (2025; doi: 10.1111/nph.20415) demonstrate transgene-free editing in poplar (Populus tremula \u00d7 alba) that shows promise for wide adoption. The CRISPR-edited, transgene-free canker-resistant citrus (Citrus sinensis) trees (Su et al., 2023) have recently been approved by USDA-APHIS and are exempt from regulation by the US Environmental Protection Agency (EPA) for commercial production. The work by Hoengenaert et al. (2025) suggests a similar path could be followed for purpose-grown plantations for bioenergy, bioproducts, and biomaterials.",
+      "abstract": "In less than a decade since the first demonstrations of CRISPR genome editing of agronomic genes in several tree species (Zhou et al., 2015; Jia et al., 2016; Ren et al., 2016), this disruptive technology has been deployed for a growing number of traits in both basic and applied research. The precision and efficiency of CRISPR editing allow for the recovery of null mutants in the first generation (Zhou et al., 2015; Elorriaga et al., 2018; Muhr et al., 2018), which is a significant benefit for perennial trees with long generation times. The stability of editing outcomes over multiple years or clonal propagation cycles (Bewg et al., 2022; Chen et al., 2023; Goralogia et al., 2024) is another key advantage since most woody perennials are vegetatively propagated in commercial operations. However, in many countries, gene-edited trees with stably integrated T-DNA face the same regulatory hurdles as traditional transgenics, slowing field trial characterization and the integration of transgenesis with conventional breeding (Boerjan &amp; Strauss, 2024). In an article recently published in New Phytologist, Hoengenaert et al. (2025; doi: 10.1111/nph.20415) demonstrate transgene-free editing in poplar (Populus tremula \u00d7 alba) that shows promise for wide adoption. The CRISPR-edited, transgene-free canker-resistant citrus (Citrus sinensis) trees (Su et al., 2023) have recently been approved by USDA-APHIS and are exempt from regulation by the US Environmental Protection Agency (EPA) for commercial production. The work by Hoengenaert et al. (2025) suggests a similar path could be followed for purpose-grown plantations for bioenergy, bioproducts, and biomaterials.",
+      "date": "2025-03-31",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/2566735",
+      "bibliographicCitation": "https://doi.org/10.1111/nph.70118",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "CRISPR",
+        "Populus",
+        "base editing",
+        "perennial",
+        "transgene-free editing"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "New Phytologist",
+      "volume": "247",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Chung\u2010Jui [University of Georgia,Athens,GA (United States)] (ORCID:0000000292827704) Tsai",
+          "primaryContact": true
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2566735",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Variation in Biomass Yield and Cell Wall Composition in Switchgrass Natural Variants Under Two Nitrogen Regimes",
+      "description": "Switchgrass (Panicum virgatum) is a promising lignocellulosic biofuel crop for which biomass and processing quality are important. Inherent plant variability across genotypes and environments challenges uniformity and product quality. In this study, the impact of nitrogen (N) application on switchgrass yield and quality was examined under field conditions using a highly diverse switchgrass panel over a 4-year period at Knoxville, TN. Overall, biomass production was correlated between low (0 kg of added N/ha) and moderate (135 kg of added N/ha) nitrogen treatments, suggesting that the N impact is largely uniform across the genotypes. Nonetheless, high biomass genotypes were identified with high nitrogen-use efficiency ; biomass was congruent or even higher (up to 9-fold) in the low N treatment. Genotypes were also identified with up to 94% nitrogen-remobilization efficiency. Furthermore, nitrogen application appeared to impact lignin content in whole tillers but was neutral to lignin monomer syringyl-to-guaiacyl (S/G) ratio. The same panel grown under natural conditions in Watkinsville, GA, produced significantly more biomass than the Tennessee panel in the first 3 years, but biomass was similar across both sites and treatments in year 4. Top performing genotypes overlapped between sites by 20-37%. There were low correlations in lignin content in whole tillers across the two field sites, but moderate correlations were observed for S/G ratios. The high yielding genotypes from the low N plot identified in this study can be used in breeding programs and management strategies in switchgrass to evade adverse environmental and economic effects.",
+      "abstract": "Switchgrass (Panicum virgatum) is a promising lignocellulosic biofuel crop for which biomass and processing quality are important. Inherent plant variability across genotypes and environments challenges uniformity and product quality. In this study, the impact of nitrogen (N) application on switchgrass yield and quality was examined under field conditions using a highly diverse switchgrass panel over a 4-year period at Knoxville, TN. Overall, biomass production was correlated between low (0 kg of added N/ha) and moderate (135 kg of added N/ha) nitrogen treatments, suggesting that the N impact is largely uniform across the genotypes. Nonetheless, high biomass genotypes were identified with high nitrogen-use efficiency ; biomass was congruent or even higher (up to 9-fold) in the low N treatment. Genotypes were also identified with up to 94% nitrogen-remobilization efficiency. Furthermore, nitrogen application appeared to impact lignin content in whole tillers but was neutral to lignin monomer syringyl-to-guaiacyl (S/G) ratio. The same panel grown under natural conditions in Watkinsville, GA, produced significantly more biomass than the Tennessee panel in the first 3 years, but biomass was similar across both sites and treatments in year 4. Top performing genotypes overlapped between sites by 20-37%. There were low correlations in lignin content in whole tillers across the two field sites, but moderate correlations were observed for S/G ratios. The high yielding genotypes from the low N plot identified in this study can be used in breeding programs and management strategies in switchgrass to evade adverse environmental and economic effects.",
+      "date": "2025-04-28",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/2566770",
+      "bibliographicCitation": "https://doi.org/10.1007/s12155-025-10838-8",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "BIOMASS FUELS",
+        "cell wall composition",
+        "lignocellulosic biomass",
+        "nitrogen use efficiency",
+        "pyrolysis-molecular beam mass spectrometry",
+        "switchgrass"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "BioEnergy Research",
+      "volume": "18",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Mitra [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Mazarei",
+          "primaryContact": true
+        },
+        {
+          "name": "Anne [National Renewable Energy Lab.,Golden,CO (United States)] (ORCID:0000000279279424) Harman-Ware",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas [Oak Ridge National Laboratory; University of Georgia] Pendergast IV",
+          "primaryContact": false
+        },
+        {
+          "name": "Vivek [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Shrestha",
+          "primaryContact": false
+        },
+        {
+          "name": "Yaping [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Xu",
+          "primaryContact": false
+        },
+        {
+          "name": "Cristiano [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Piasecki",
+          "primaryContact": false
+        },
+        {
+          "name": "Reginald [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Milwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Katrien [Oak Ridge National Laboratory; University of Georgia] Devos",
+          "primaryContact": false
+        },
+        {
+          "name": "C. Neal [Oak Ridge National Laboratory; University of Tennessee at Knoxville] Stewart Jr.",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2566770",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA-2800-91809"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Structural Characterization and Dynamics of AdhE Ultrastructures from Clostridium thermocellum Show a Containment Strategy for Toxic Intermediates",
+      "description": "Clostridium thermocellum, a cellulolytic thermophilic anaerobe, is considered by many to be a prime candidate for the realization of consolidated bioprocessing (CBP) and is known as an industry standard for biofuel production. C. thermocellum is among the best biomass degraders identified to date in nature and produces ethanol as one of its main products. Many studies have helped increase ethanol titers in this microbe; however, ethanol production using C. thermocellum is still not economically viable. Therefore, a better understanding of its ethanol synthesis pathway is required. The main pathway for ethanol production in C. thermocellum involves the bifunctional aldehyde-alcohol dehydrogenase (AdhE). To better understand the function of the C. thermocellum AdhE, we used cryo-electron microscopy (cryo-EM) to obtain a 3.28 A structure of the AdhE complex. This high-resolution structure, in combination with molecular dynamics simulations, provides insight into the substrate channeling of the toxic intermediate acetaldehyde, indicates the potential role of C. thermocellum AdhE to regulate activity and cofactor pools, and establishes a basis for future engineering studies. The containment strategy found in this enzyme offers a template that could be replicated in other systems where toxic intermediates need to be sequestered to increase the production of valuable biochemicals.",
+      "abstract": "Clostridium thermocellum, a cellulolytic thermophilic anaerobe, is considered by many to be a prime candidate for the realization of consolidated bioprocessing (CBP) and is known as an industry standard for biofuel production. C. thermocellum is among the best biomass degraders identified to date in nature and produces ethanol as one of its main products. Many studies have helped increase ethanol titers in this microbe; however, ethanol production using C. thermocellum is still not economically viable. Therefore, a better understanding of its ethanol synthesis pathway is required. The main pathway for ethanol production in C. thermocellum involves the bifunctional aldehyde-alcohol dehydrogenase (AdhE). To better understand the function of the C. thermocellum AdhE, we used cryo-electron microscopy (cryo-EM) to obtain a 3.28 A structure of the AdhE complex. This high-resolution structure, in combination with molecular dynamics simulations, provides insight into the substrate channeling of the toxic intermediate acetaldehyde, indicates the potential role of C. thermocellum AdhE to regulate activity and cofactor pools, and establishes a basis for future engineering studies. The containment strategy found in this enzyme offers a template that could be replicated in other systems where toxic intermediates need to be sequestered to increase the production of valuable biochemicals.",
+      "date": "2024-05-23",
+      "identifier": "https://www.osti.gov/biblio/2568050",
+      "bibliographicCitation": "https://doi.org/10.7554/eLife.96966.3",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "BIOMASS FUELS",
+        "Cryo-EM",
+        "biofuel",
+        "consolidated bio-processing",
+        "ethanol",
+        "molecular dynamics"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "eLife",
+      "volume": "13",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Samantha [National Renewable Energy Lab.,Golden,CO (United States)] Ziegler",
+          "primaryContact": true
+        },
+        {
+          "name": "Brandon [National Renewable Energy Lab.,Golden,CO (United States)] Knott",
+          "primaryContact": false
+        },
+        {
+          "name": "Josephine [National Renewable Energy Lab.,Golden,CO (United States)] Gruber",
+          "primaryContact": false
+        },
+        {
+          "name": "Neal [National Renewable Energy Lab.,Golden,CO (United States)] Hengge",
+          "primaryContact": false
+        },
+        {
+          "name": "Qi [National Renewable Energy Lab.,Golden,CO (United States)] Xu",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel [Dartmouth College] Olson",
+          "primaryContact": false
+        },
+        {
+          "name": "Eduardo [University of Colorado Anschutz Medical Campus] Romero",
+          "primaryContact": false
+        },
+        {
+          "name": "Lydia [SLAC National Accelerator Laboratory] Joubert",
+          "primaryContact": false
+        },
+        {
+          "name": "Yannick [National Renewable Energy Lab.,Golden,CO (United States)] Bomble",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2568050",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA-2700-87838"
+      ]
     },
     {
       "brc": "CBI",
