@@ -7752,6 +7752,104 @@
     },
     {
       "brc": "CBI",
+      "title": "Horizontal transfer of a pathway for coumarate catabolism unexpectedly inhibits purine nucleotide biosynthesis",
+      "description": "A microbe\u2019s ecological niche and biotechnological utility are confirmed by its specific set of co-evolved metabolic pathways. The acquisition of new pathways, through horizontal gene transfer or genetic engineering, can have unpredictable consequences. In this work, we show that two different pathways for coumarate catabolism failed to function when initially transferred into <em>Escherichia coli</em>. Using laboratory evolution, we elucidated the factors limiting activity of the newly acquired pathways and the modifications required to overcome these limitations. Both pathways required host mutations to enable effective growth with coumarate, but the necessary mutations differed. In one case, a pathway intermediate inhibited purine nucleotide biosynthesis, and this inhibition was relieved by single amino acid replacements in IMP dehydrogenase. A strain that natively contains this coumarate catabolism pathway, <em>Acinetobacter baumannii</em>, is resistant to inhibition by the relevant intermediate, indicating that natural pathway transfers have faced and overcome similar challenges. Molecular dynamics simulation of the wild type and a representative single-residue mutant provide insight into the structural and dynamic changes that relieve inhibition. These results reflect how deleterious interactions can limit pathway transfer, that these interactions can be traced to specific molecular interactions between host and pathway, and how evolution or engineering can alleviate these limitations.",
+      "abstract": "A microbe\u2019s ecological niche and biotechnological utility are confirmed by its specific set of co-evolved metabolic pathways. The acquisition of new pathways, through horizontal gene transfer or genetic engineering, can have unpredictable consequences. In this work, we show that two different pathways for coumarate catabolism failed to function when initially transferred into <em>Escherichia coli</em>. Using laboratory evolution, we elucidated the factors limiting activity of the newly acquired pathways and the modifications required to overcome these limitations. Both pathways required host mutations to enable effective growth with coumarate, but the necessary mutations differed. In one case, a pathway intermediate inhibited purine nucleotide biosynthesis, and this inhibition was relieved by single amino acid replacements in IMP dehydrogenase. A strain that natively contains this coumarate catabolism pathway, <em>Acinetobacter baumannii</em>, is resistant to inhibition by the relevant intermediate, indicating that natural pathway transfers have faced and overcome similar challenges. Molecular dynamics simulation of the wild type and a representative single-residue mutant provide insight into the structural and dynamic changes that relieve inhibition. These results reflect how deleterious interactions can limit pathway transfer, that these interactions can be traced to specific molecular interactions between host and pathway, and how evolution or engineering can alleviate these limitations.",
+      "date": "2019-09-17",
+      "issue": "6",
+      "identifier": "https://www.osti.gov/biblio/1570140",
+      "bibliographicCitation": "https://doi.org/10.1111/MMI.14393",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "IMPDH",
+        "biosystem design",
+        "lignin catabolism",
+        "molecular dynamics",
+        "pathway optimization"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Molecular Microbiology",
+      "volume": "112",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Dan [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000347904448) Close",
+          "primaryContact": true
+        },
+        {
+          "name": "Conner J. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States); Univ. of Tennessee,Knoxville,TN (United States)] Cooper",
+          "primaryContact": false
+        },
+        {
+          "name": "Xingyou [Brandeis Univ.,Waltham,MA (United States)] Wang",
+          "primaryContact": false
+        },
+        {
+          "name": "Payal [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States); Univ. of Tennessee,Knoxville,TN (United States)] Chirania",
+          "primaryContact": false
+        },
+        {
+          "name": "Madhulika [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] Gupta",
+          "primaryContact": false
+        },
+        {
+          "name": "John R. [Univ. of Tennessee,Knoxville,TN (United States)] Ossyra",
+          "primaryContact": false
+        },
+        {
+          "name": "Richard J. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000185510138) Giannone",
+          "primaryContact": false
+        },
+        {
+          "name": "Nancy L. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000302907987) Engle",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy C. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States); Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000229783227) Smith",
+          "primaryContact": false
+        },
+        {
+          "name": "Lizbeth [Brandeis Univ.,Waltham,MA (United States)] Hedstrom",
+          "primaryContact": false
+        },
+        {
+          "name": "Jerry M. [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States); Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000231039333) Parks",
+          "primaryContact": false
+        },
+        {
+          "name": "Josh [Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000323028180) Michener",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Science Foundation (NSF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1570140",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Near-equilibrium glycolysis supports metabolic homeostasis and energy yield",
       "description": "Glycolysis plays a central role in producing ATP and biomass. Its control principles, however, remain incompletely understood. In this work, we create a method that combines <sup>2</sup>H and <sup>13</sup>C tracers to determine glycolytic thermodynamics. With this method, we show that, in conditions and organisms with relatively slow fluxes, multiple steps in glycolysis are near to equilibrium, reflecting spare enzyme capacity. In Escherichia coli, nitrogen or phosphorus upshift rapidly increases the thermodynamic driving force, deploying the spare enzyme capacity to increase flux. Similarly, respiration inhibition in mammalian cells rapidly increases both glycolytic flux and the thermodynamic driving force. The thermodynamic shift allows flux to increase with only small metabolite concentration changes. Finally, we find that the cellulose-degrading anaerobe Clostridium cellulolyticum exhibits slow, near-equilibrium glycolysis due to the use of pyrophosphate rather than ATP for fructose-bisphosphate production, resulting in enhanced per-glucose ATP yield. Thus, near-equilibrium steps of glycolysis promote both rapid flux adaptation and energy efficiency.",
       "abstract": "Glycolysis plays a central role in producing ATP and biomass. Its control principles, however, remain incompletely understood. In this work, we create a method that combines <sup>2</sup>H and <sup>13</sup>C tracers to determine glycolytic thermodynamics. With this method, we show that, in conditions and organisms with relatively slow fluxes, multiple steps in glycolysis are near to equilibrium, reflecting spare enzyme capacity. In Escherichia coli, nitrogen or phosphorus upshift rapidly increases the thermodynamic driving force, deploying the spare enzyme capacity to increase flux. Similarly, respiration inhibition in mammalian cells rapidly increases both glycolytic flux and the thermodynamic driving force. The thermodynamic shift allows flux to increase with only small metabolite concentration changes. Finally, we find that the cellulose-degrading anaerobe Clostridium cellulolyticum exhibits slow, near-equilibrium glycolysis due to the use of pyrophosphate rather than ATP for fructose-bisphosphate production, resulting in enhanced per-glucose ATP yield. Thus, near-equilibrium steps of glycolysis promote both rapid flux adaptation and energy efficiency.",
