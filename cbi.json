@@ -34287,67 +34287,74 @@
       "title": "Biomass carbon removal can help sustainable aviation fuels achieve on-time arrival",
       "description": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
       "abstract": "Biofuels, including sustainable aviation and marine fuels, and biomass carbon removal and storage (BiCRS) are often viewed as potentially competing pathways for advancing climate and energy goals. Their comparative economic, environmental, and temporal advantages remain debated. Rather than identifying a \u201cbest-use\u201d for biomass, we show that the relative economic advantages of BiCRS versus biofuels exist along a continuum shaped by energy- and decarbonization-focused market conditions. These pathways need not be adversarial: BiCRS can enable, rather than displace, future biofuel deployment. While the lignocellulosic biofuel sector continues to face barriers associated with underdeveloped supply chains and technologies that have not yet been commercialized at scale, emerging BiCRS approaches are comparatively feedstock-flexible, rapidly deployable, and responsive to carbon removal markets. Early BiCRS deployment can help establish reliable biomass supply chains, reducing investment risk for future lignocellulosic biorefineries. By easing initial supply chain constraints, BiCRS can serve as a practical stepping stone toward meeting both near-term carbon removal needs and long-term sustainable fuel objectives under uncertain future market and policy conditions.",
-      "date": "2026-04-30",
+      "date": "2026-05-21",
       "issue": "6",
       "identifier": "https://www.osti.gov/biblio/3367069",
       "bibliographicCitation": "https://doi.org/10.1016/j.isci.2026.115956",
+      "keywords": [
+        "bioenvironmental engineering",
+        "biomass",
+        "bioresources",
+        "environmental science"
+      ],
       "topic": [
         "Unknown"
       ],
       "journal_name": "iScience",
       "volume": "29",
+      "publisher_information": "Elsevier",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Matthew H [ORNL] (ORCID:0000000281537154) Langholtz",
+          "name": "Matthew [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000281537154) Langholtz",
           "primaryContact": true
         },
         {
-          "name": "Joe [North Carolina State University] Sagues",
+          "name": "Charlotte [Carbon180,Washington,DC (United States)] Levy",
           "primaryContact": false
         },
         {
-          "name": "Charlotte [Carbon180] Levy",
+          "name": "John [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Field",
           "primaryContact": false
         },
         {
-          "name": "John   [ORNL] (ORCID:0000000344518947) Field",
+          "name": "Daniel L. [University of California,Berkeley,CA (United States)] Sanchez",
           "primaryContact": false
         },
         {
-          "name": "Daniel [Lawrence Livermore National Laboratory (LLNL)] Sanchez",
+          "name": "Pete [Loamist Co.,Berkeley,CA (United States)] Christensen",
           "primaryContact": false
         },
         {
-          "name": "Pete [Loamist] Christensen",
+          "name": "Lawrence [Clemson University,SC (United States)] Murdoch",
           "primaryContact": false
         },
         {
-          "name": "Lawrence [Clemson University] Murdoch",
+          "name": "Daniel de la Torre [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Ugarte",
           "primaryContact": false
         },
         {
-          "name": "Daniel   [ORNL] (ORCID:0000000238350458) De La Torre Ugarte",
+          "name": "Oluwafemi [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Oyedeji",
           "primaryContact": false
         },
         {
-          "name": "Ryan   [ORNL] (ORCID:0000000329209695) Jacobson",
+          "name": "Ryan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Jacobson",
           "primaryContact": false
         },
         {
-          "name": "Ning [University of Maryland] Zeng",
+          "name": "Ning [University of Maryland,College Park,MD (United States)] Zeng",
           "primaryContact": false
         },
         {
-          "name": "Damon [Idaho National Laboratory (INL)] Hartley",
+          "name": "Emily A. [University of Illinois Urbana-Champaign,IL (United States)] Heaton",
           "primaryContact": false
         },
         {
-          "name": "Emily [University of Illinois at Urbana-Champaign] Heaton",
+          "name": "Charles [Massachusetts Institute of Technology,Cambridge,MA (United States)] Forsberg",
           "primaryContact": false
         },
         {
-          "name": "Charles W. [Massachusetts Institute of Technology (MIT)] Forsberg",
+          "name": "William Joe [North Carolina State University,Raleigh,NC (United States)] (ORCID:0000000180369120) Sagues",
           "primaryContact": false
         }
       ],
@@ -34355,11 +34362,6 @@
         {
           "fundingOrganization": {
             "organizationName": "USDOE"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE)"
           }
         }
       ],
