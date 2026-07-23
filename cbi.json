@@ -34370,20 +34370,20 @@
     },
     {
       "brc": "CBI",
-      "title": "Telomere-to-telomere assemblies of chromosome 10 reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in <i>Populus trichocarpa</i> likely driven by Helitrons",
-      "description": "The model woody plant Populus trichocarpa displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of 3-ketoacyl-CoA synthases (KCS), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of Potri.010G079500 in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of KCS copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each KCS gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating KCS tandem arrays. Long-read generated telomere-to-telomere assemblies of P. trichocarpa chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
-      "abstract": "The model woody plant Populus trichocarpa displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of 3-ketoacyl-CoA synthases (KCS), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of Potri.010G079500 in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of KCS copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each KCS gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating KCS tandem arrays. Long-read generated telomere-to-telomere assemblies of P. trichocarpa chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
-      "date": "2026-01-07",
+      "title": "Telomere-to-telomere assemblies of chromosome 10 reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in <em>Populus trichocarpa</em> likely driven by Helitrons",
+      "description": "The model woody plant <em>Populus trichocarpa</em> displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of <em>3-ketoacyl-CoA synthases</em> (<em>KCS</em>), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of <em>Potri.010G079500</em> in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of <em>KCS</em> copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each <em>KCS</em> gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating <em>KCS</em> tandem arrays. Long-read generated telomere-to-telomere assemblies of <em>P. trichocarpa</em> chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
+      "abstract": "The model woody plant <em>Populus trichocarpa</em> displays an atypical alkene-diverse wax cuticle likely driven by copy number variation (CNV) of <em>3-ketoacyl-CoA synthases</em> (<em>KCS</em>), which has been difficult to confirm with short-read assemblies. Long-read sequencing enables the development of telomere-to-telomere resources to detect cryptic variation, including CNVs, which are currently missed. Integrating this information can improve genomic prediction for breeding and provide insights into the evolutionary basis of important traits. Our analysis of 78 long-read haplotypes from chromosome 10 identified more than twice as many KCS genes as previously reported, and numerous intragenic non-synonymous substitutions. Random Forest predictive models highlighted the importance of <em>Potri.010G079500</em> in producing very long chain alkenes; however, its absence did not predict previously reported alkene-deficient phenotypes. Instead, alkene levels are best predicted by the combinations of <em>KCS</em> copies. Additionally, amino acid substitutions clustered around ligand and donor binding pockets, suggesting they contribute to differing wax cuticle composition. Finally, each <em>KCS</em> gene and copy was linked to a Helitron transposon. A phylogenetic analysis suggests Helitrons are the evolutionary mechanism for generating <em>KCS</em> tandem arrays. Long-read generated telomere-to-telomere assemblies of <em>P. trichocarpa</em> chromosome 10 revealed large-effect loci critical to genetic studies that are unattainable from short-reads. This new resource produced novel insights into genome structure and function, and a novel mechanism for generating tandem gene duplication. Our results highlight that, given current challenges in annotation and assembly, detailed and focused long-read sequences are key to interpreting complex genomic regions that contain tandem copy number variants.",
+      "date": "2026-06-07",
       "issue": "1",
       "identifier": "https://www.osti.gov/biblio/3367327",
       "bibliographicCitation": "https://doi.org/10.48130/forres-0026-0019",
       "keywords": [
         "09 BIOMASS FUELS",
-        "Populus trichocarpa",
         "Copy number variation",
-        "KCS genes",
         "Helitrons",
+        "KCS genes",
         "Long-read sequencing",
+        "Populus trichocarpa",
         "Wax biosynthesis"
       ],
       "topic": [
@@ -34395,95 +34395,100 @@
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "David Kainer",
+          "name": "David [Univ. of Queensland,Brisbane,QLD (Australia); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Kainer",
           "primaryContact": true
         },
         {
-          "name": "Stanton Martin",
+          "name": "Stanton [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Martin",
           "primaryContact": false
         },
         {
-          "name": "Daniel Hopp",
+          "name": "Daniel [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Hopp",
           "primaryContact": false
         },
         {
-          "name": "Sophie Mosher",
+          "name": "Sophie [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Mosher",
           "primaryContact": false
         },
         {
-          "name": "Timothy J. Tschaplinski",
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Tschaplinski",
           "primaryContact": false
         },
         {
-          "name": "P. Doug Hyatt",
+          "name": "P. Doug [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Hyatt",
           "primaryContact": false
         },
         {
-          "name": "Madhavi Z. Martin",
+          "name": "Madhavi Z. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Martin",
           "primaryContact": false
         },
         {
-          "name": "Jared M. LeBoldus",
+          "name": "Jared M. [Oregon State Univ.,Corvallis,OR (United States)] LeBoldus",
           "primaryContact": false
         },
         {
-          "name": "Kelsey L. S\u00f8ndreli",
+          "name": "Kelsey L. [Oregon State Univ.,Corvallis,OR (United States)] S\u00f8ndreli",
           "primaryContact": false
         },
         {
-          "name": "Posy E. Busby",
+          "name": "Posy E. [Oregon State Univ.,Corvallis,OR (United States)] Busby",
           "primaryContact": false
         },
         {
-          "name": "Mengjun Shu",
+          "name": "Mengjun [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Shu",
           "primaryContact": false
         },
         {
-          "name": "Kerrie Barry",
+          "name": "Kerrie [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States)] Barry",
           "primaryContact": false
         },
         {
-          "name": "Jeremy Schmutz",
+          "name": "Jeremy [USDOE Joint Genome Institute (JGI),Berkeley,CA (United States)] Schmutz",
           "primaryContact": false
         },
         {
-          "name": "Anna Furches",
+          "name": "Anna [Univ. of Tennessee,Knoxville,TN (United States)] Furches",
           "primaryContact": false
         },
         {
-          "name": "Nan Zhao",
+          "name": "Nan [Southeast Univ.,Nanjing (China)] Zhao",
           "primaryContact": false
         },
         {
-          "name": "Daniel A. Jacobson",
+          "name": "Daniel A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Jacobson",
           "primaryContact": false
         },
         {
-          "name": "Jin-Gui Chen",
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Chen",
           "primaryContact": false
         },
         {
-          "name": "Mirko Pavicic",
+          "name": "Mirko [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Pavicic",
           "primaryContact": false
         },
         {
-          "name": "Priya Ranjan",
+          "name": "Priya [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Ranjan",
           "primaryContact": false
         },
         {
-          "name": "Wellington Muchero",
+          "name": "Wellington [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Muchero",
           "primaryContact": false
         },
         {
-          "name": "Gerald A. Tuskan",
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Tuskan",
           "primaryContact": false
         },
         {
-          "name": "Michael R. Garvin",
+          "name": "Michael R. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of New Mexico,Albuquerque,NM (United States)] Garvin",
           "primaryContact": false
         }
       ],
       "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Joint Genome Institute (JGI)"
+          }
+        },
         {
           "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
