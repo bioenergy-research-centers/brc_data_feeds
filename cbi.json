@@ -34501,7 +34501,9 @@
     {
       "brc": "CBI",
       "title": "Advancing specialized biofoundries via automated adaptive laboratory evolution",
-      "date": "2026-05-31",
+      "description": "Adaptive laboratory evolution (ALE) is a powerful strategy for improving microbial phenotypes by harnessing natural selection under defined environmental conditions. Through applying selection regimes, beneficial mutations accumulate, enabling the generation of strains with enhanced properties. However, conventional ALE is labor-intensive and difficult to scale, limiting reproducibility and broader discovery of evolutionary principles. Recent advances in robotics, automation, and computational infrastructure are transforming ALE into a scalable, data-rich experimental paradigm. Automated platforms enable standardized and complex protocols, real-time monitoring, and highly parallel evolution campaigns, improving consistency while generating longitudinal datasets that reveal convergent adaptive mechanisms. Here, we discuss the role of specialized biofoundries in advancing automated ALE and enabling large-scale evolutionary engineering. We review major automated ALE formats and outline key design principles for effective ALE biofoundries, highlighting how automated ALE can support autonomous experimentation and AI-guided strain engineering.",
+      "abstract": "Adaptive laboratory evolution (ALE) is a powerful strategy for improving microbial phenotypes by harnessing natural selection under defined environmental conditions. Through applying selection regimes, beneficial mutations accumulate, enabling the generation of strains with enhanced properties. However, conventional ALE is labor-intensive and difficult to scale, limiting reproducibility and broader discovery of evolutionary principles. Recent advances in robotics, automation, and computational infrastructure are transforming ALE into a scalable, data-rich experimental paradigm. Automated platforms enable standardized and complex protocols, real-time monitoring, and highly parallel evolution campaigns, improving consistency while generating longitudinal datasets that reveal convergent adaptive mechanisms. Here, we discuss the role of specialized biofoundries in advancing automated ALE and enabling large-scale evolutionary engineering. We review major automated ALE formats and outline key design principles for effective ALE biofoundries, highlighting how automated ALE can support autonomous experimentation and AI-guided strain engineering.",
+      "date": "2026-04-16",
       "identifier": "https://www.osti.gov/biblio/3367793",
       "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2026.103496",
       "keywords": [
@@ -34515,49 +34517,19 @@
       ],
       "journal_name": "Current Opinion in Biotechnology",
       "volume": "99",
-      "publisher_information": "Elsevier BV",
+      "publisher_information": "Elsevier",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Adam M (ORCID:0000000286304800) Feist",
+          "name": "Adam M. [Univ. of California,San Diego,CA (United States); Joint BioEnergy Institute (JBEI),Emeryville,CA (United States); Technical Univ. of Denmark,Lyngby (Denmark)] (ORCID:0000000286304800) Feist",
           "primaryContact": true
         },
         {
-          "name": "Sunghwa Woo",
+          "name": "Sunghwa [Univ. of California,San Diego,CA (United States); Joint BioEnergy Institute (JBEI),Emeryville,CA (United States)] Woo",
           "primaryContact": false
         }
       ],
       "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "Lawrence Berkeley National Laboratory"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Novo Nordisk Fonden"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Novo Nordisk Haemophilia & Haemoglobinopathies Foundation"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Office of Science"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "U.S. Department of Energy"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "US Department of Energy Biological and Environmental Research"
-          }
-        },
         {
           "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
