@@ -12385,62 +12385,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Comprehensive characterization of non-cellulosic recalcitrant cell wall carbohydrates in unhydrolyzed solids from AFEX-pretreated corn stover",
-      "description": "Inefficient carbohydrate conversion has been an unsolved problem for various lignocellulosic biomass pretreatment technologies, including AFEX, dilute acid, and ionic liquid pretreatments. Previous work has shown 22% of total carbohydrates are typically unconverted, remaining as soluble or insoluble oligomers after hydrolysis (72 h) with excess commercial enzyme loading (20 mg enzymes/g biomass). Nearly one third (7 out of 22%) of these total unconverted carbohydrates are present in unhydrolyzed solid (UHS) residues. The presence of these unconverted carbohydrates leads to a considerable sugar yield loss, which negatively impacts the overall economics of the biorefinery. Current commercial enzyme cocktails are not effective to digest specific cross-linkages in plant cell wall glycans, especially some of those present in hemicelluloses and pectins. Thus, obtaining information about the most recalcitrant non-cellulosic glycan cross-linkages becomes a key study to rationally improve commercial enzyme cocktails, by supplementing the required enzyme activities for hydrolyzing those unconverted glycans.",
-      "abstract": "Inefficient carbohydrate conversion has been an unsolved problem for various lignocellulosic biomass pretreatment technologies, including AFEX, dilute acid, and ionic liquid pretreatments. Previous work has shown 22% of total carbohydrates are typically unconverted, remaining as soluble or insoluble oligomers after hydrolysis (72 h) with excess commercial enzyme loading (20 mg enzymes/g biomass). Nearly one third (7 out of 22%) of these total unconverted carbohydrates are present in unhydrolyzed solid (UHS) residues. The presence of these unconverted carbohydrates leads to a considerable sugar yield loss, which negatively impacts the overall economics of the biorefinery. Current commercial enzyme cocktails are not effective to digest specific cross-linkages in plant cell wall glycans, especially some of those present in hemicelluloses and pectins. Thus, obtaining information about the most recalcitrant non-cellulosic glycan cross-linkages becomes a key study to rationally improve commercial enzyme cocktails, by supplementing the required enzyme activities for hydrolyzing those unconverted glycans.",
-      "date": "2017-03-28",
-      "issue": "1",
-      "identifier": "https://www.osti.gov/biblio/1626982",
-      "bibliographicCitation": "https://doi.org/10.1186/s13068-017-0757-5",
-      "keywords": [
-        "Biotechnology & Applied Microbiology",
-        "Energy & Fuels"
-      ],
-      "topic": [
-        "Unknown"
-      ],
-      "journal_name": "Biotechnology for Biofuels",
-      "volume": "10",
-      "publisher_information": "BioMed Central",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Christa [Michigan State Univ.,East Lansing,MI (United States),Biomass Conversion Research Lab (BCRL),Chemical Engineering and Materials Science; Michigan State Univ.,East Lansing,MI (United States),DOE Great Lakes Bioenergy Research Center (GLBRC); DOE/OSTI] Gunawan",
-          "primaryContact": true
-        },
-        {
-          "name": "Saisi [Michigan State Univ.,East Lansing,MI (United States),Biomass Conversion Research Lab (BCRL),Chemical Engineering and Materials Science; Michigan State Univ.,East Lansing,MI (United States),DOE Great Lakes Bioenergy Research Center (GLBRC)] Xue",
-          "primaryContact": false
-        },
-        {
-          "name": "Sivakumar [Univ. of Georgia,Athens,GA (United States),Complex Carbohydrate Research Center; Oak Ridge National Lab. (ORNL),Oak Ridge,TN (US).Biosciences Division,BioEnergy Science Center (BESC)] Pattathil",
-          "primaryContact": false
-        },
-        {
-          "name": "Leonardo [Michigan State Univ.,East Lansing,MI (United States),Biomass Conversion Research Lab (BCRL),Chemical Engineering and Materials Science; Michigan State Univ.,East Lansing,MI (United States),DOE Great Lakes Bioenergy Research Center (GLBRC)] da Costa Sousa",
-          "primaryContact": false
-        },
-        {
-          "name": "Bruce E. [Michigan State Univ.,East Lansing,MI (United States),Biomass Conversion Research Lab (BCRL),Chemical Engineering and Materials Science; Michigan State Univ.,East Lansing,MI (United States),DOE Great Lakes Bioenergy Research Center (GLBRC)] Dale",
-          "primaryContact": false
-        },
-        {
-          "name": "Venkatesh [Michigan State Univ.,East Lansing,MI (United States),Biomass Conversion Research Lab (BCRL),Chemical Engineering and Materials Science; Michigan State Univ.,East Lansing,MI (United States),DOE Great Lakes Bioenergy Research Center (GLBRC)] Balan",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/1626982",
-      "active": false
-    },
-    {
-      "brc": "CBI",
       "title": "Designer biomass for next-generation biorefineries: leveraging recent insights into xylan structure and biosynthesis",
       "description": "Xylans are the most abundant noncellulosic polysaccharides in lignified secondary cell walls of woody dicots and in both primary and secondary cell walls of grasses. These polysaccharides, which comprise 20\u201335% of terrestrial biomass, present major challenges for the efficient microbial bioconversion of lignocellulosic feedstocks to fuels and other value-added products. Xylans play a significant role in the recalcitrance of biomass to degradation, and their bioconversion requires metabolic pathways that are distinct from those used to metabolize cellulose. In this review, we discuss the key differences in the structural features of xylans across diverse plant species, how these features affect their interactions with cellulose and lignin, and recent developments in understanding their biosynthesis. In particular, we focus on how the combined structural and biosynthetic knowledge can be used as a basis for biomass engineering aimed at developing crops that are better suited as feedstocks for the bioconversion industry.",
       "abstract": "Xylans are the most abundant noncellulosic polysaccharides in lignified secondary cell walls of woody dicots and in both primary and secondary cell walls of grasses. These polysaccharides, which comprise 20\u201335% of terrestrial biomass, present major challenges for the efficient microbial bioconversion of lignocellulosic feedstocks to fuels and other value-added products. Xylans play a significant role in the recalcitrance of biomass to degradation, and their bioconversion requires metabolic pathways that are distinct from those used to metabolize cellulose. In this review, we discuss the key differences in the structural features of xylans across diverse plant species, how these features affect their interactions with cellulose and lignin, and recent developments in understanding their biosynthesis. In particular, we focus on how the combined structural and biosynthetic knowledge can be used as a basis for biomass engineering aimed at developing crops that are better suited as feedstocks for the bioconversion industry.",
