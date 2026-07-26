@@ -34710,6 +34710,155 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3377187",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Coupling of high-resolution mass spectrometer and photosynthesis system for comprehensive leaf volatile metabolite profiling",
+      "description": "Background: Leaf-level biogenic volatile organic compounds (BVOCs) emissions represent a major source of organic gases in the atmosphere, influencing both climate and air quality. These emissions are strongly driven by environmental perturbations, which affect individual plant- to ecosystem-level processes. Uncovering all the BVOCs and understanding how their emissions respond to altered environmental conditions provide critical insights into vegetation-driven changes in atmospheric chemistry. We developed a tandem instrumentation setup that integrates a proton transfer reaction time-of-flight mass spectrometer (PTR-ToF-MS) with parts-per-trillion detection limits and a photosynthetic infrared gas exchange system for the untargeted survey of all the BVOCs. This novel system enables simultaneous, real-time monitoring of BVOC emissions and photosynthetic parameters at the leaf level, offering new opportunities to disentangle the physiological and environmental drivers of VOC release. Furthermore, we established the VOC Analysis and Processing Optimization Resource (VAPOR), an open-access software tool designed for rapid data post-processing and the analysis of the variability of hundreds of BVOCs. We assessed the performance of the tandem system under varying background conditions, using standard gas mixtures and a range of environmental factors. \nResults: Blank emissions were substantially lower for major BVOCs (e.g., isoprene) compared to those observed in plant emissions. Despite this, the observation of background-level VOCs highlights the importance of routinely acquiring and accounting for blank measurements in analyses using the coupled instrumentation. Introduction of known VOC concentrations to the system demonstrated a linear response across different compounds with varying molecular compositions, indicating minimal gas loss regardless of chemical moieties within the coupled instrumentation. We applied the optimized system to investigate the physiological mechanisms driving BVOC emissions across different genotypes of poplar and pennycress. The high mass resolution capabilities of the PTR-ToF-MS, coupled with comprehensive VAPOR-driven data analysis, enabled the identification of several important BVOCs, including methanol and methanethiol; these BVOCs displayed substantial variation across pennycress genotypes and showed concentrations ~100\u2013350% higher than the blank. Moreover, isoprene emissions varied significantly among poplar genotypes grown in different potting media. \nConclusions: Tandem instrumentation offers a powerful tool for profiling volatile molecular markers and elucidating their genetic and environmental underpinnings. This approach enhances our ability to predict BVOC emissions in response to genotype by environmental interactions and contributes to a deeper understanding of vegetation responses to environmental changes.",
+      "abstract": "Background: Leaf-level biogenic volatile organic compounds (BVOCs) emissions represent a major source of organic gases in the atmosphere, influencing both climate and air quality. These emissions are strongly driven by environmental perturbations, which affect individual plant- to ecosystem-level processes. Uncovering all the BVOCs and understanding how their emissions respond to altered environmental conditions provide critical insights into vegetation-driven changes in atmospheric chemistry. We developed a tandem instrumentation setup that integrates a proton transfer reaction time-of-flight mass spectrometer (PTR-ToF-MS) with parts-per-trillion detection limits and a photosynthetic infrared gas exchange system for the untargeted survey of all the BVOCs. This novel system enables simultaneous, real-time monitoring of BVOC emissions and photosynthetic parameters at the leaf level, offering new opportunities to disentangle the physiological and environmental drivers of VOC release. Furthermore, we established the VOC Analysis and Processing Optimization Resource (VAPOR), an open-access software tool designed for rapid data post-processing and the analysis of the variability of hundreds of BVOCs. We assessed the performance of the tandem system under varying background conditions, using standard gas mixtures and a range of environmental factors. \nResults: Blank emissions were substantially lower for major BVOCs (e.g., isoprene) compared to those observed in plant emissions. Despite this, the observation of background-level VOCs highlights the importance of routinely acquiring and accounting for blank measurements in analyses using the coupled instrumentation. Introduction of known VOC concentrations to the system demonstrated a linear response across different compounds with varying molecular compositions, indicating minimal gas loss regardless of chemical moieties within the coupled instrumentation. We applied the optimized system to investigate the physiological mechanisms driving BVOC emissions across different genotypes of poplar and pennycress. The high mass resolution capabilities of the PTR-ToF-MS, coupled with comprehensive VAPOR-driven data analysis, enabled the identification of several important BVOCs, including methanol and methanethiol; these BVOCs displayed substantial variation across pennycress genotypes and showed concentrations ~100\u2013350% higher than the blank. Moreover, isoprene emissions varied significantly among poplar genotypes grown in different potting media. \nConclusions: Tandem instrumentation offers a powerful tool for profiling volatile molecular markers and elucidating their genetic and environmental underpinnings. This approach enhances our ability to predict BVOC emissions in response to genotype by environmental interactions and contributes to a deeper understanding of vegetation responses to environmental changes.",
+      "date": "2026-04-30",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3384934",
+      "bibliographicCitation": "https://doi.org/10.1186/s13007-026-01531-8",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Plant Methods",
+      "volume": "22",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Kelsey   [ORNL] (ORCID:0000000183276413) Carter",
+          "primaryContact": true
+        },
+        {
+          "name": "Christian   [ORNL] (ORCID:0000000283287777) Salvador",
+          "primaryContact": false
+        },
+        {
+          "name": "Savana   [ORNL] Colegate",
+          "primaryContact": false
+        },
+        {
+          "name": "Alyssa   [ORNL] (ORCID:0000000311424709) Carrell",
+          "primaryContact": false
+        },
+        {
+          "name": "Jun   [ORNL] (ORCID:0000000271377169) Lee",
+          "primaryContact": false
+        },
+        {
+          "name": "Robert   [ORNL] (ORCID:0000000260581025) Smith",
+          "primaryContact": false
+        },
+        {
+          "name": "Marshall   [ORNL] (ORCID:0000000237132117) McDonnell",
+          "primaryContact": false
+        },
+        {
+          "name": "Sara   [ORNL] (ORCID:0000000281235439) Jawdy",
+          "primaryContact": false
+        },
+        {
+          "name": "Mac   [ORNL] (ORCID:0000000218742614) McLennan",
+          "primaryContact": false
+        },
+        {
+          "name": "Tyler   [ORNL] Hackworth",
+          "primaryContact": false
+        },
+        {
+          "name": "Lianhong   [ORNL] (ORCID:0000000157568738) Gu",
+          "primaryContact": false
+        },
+        {
+          "name": "Melanie A [ORNL] (ORCID:0000000163689210) Mayes",
+          "primaryContact": false
+        },
+        {
+          "name": "Udaya C [ORNL] (ORCID:0000000259638370) Kalluri",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas [Michigan State University] Sharkey",
+          "primaryContact": false
+        },
+        {
+          "name": "David   [ORNL] (ORCID:0000000247949913) Weston",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3384934",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Improved nylon polymerization using amide diads",
+      "description": "Nylons, a major class of synthetic polyamides, are widely used due to their excellent mechanical strength, thermal stability, and chemical resistance. Conventional nylon production relies on the polymerization of lactams or stoichiometric nylon salts. However, applying these approaches to unconventional precursors such as bio-derived glutaric acid produces polymers with low molecular weight and limited applications. To address these challenges, we demonstrated that chemically-synthesized nylon diads enable the production of higher-molecular-weight polyamides compared with traditional salts. We then identified a biosynthetic approach using amide synthetases to convert unprotected bifunctional substrates into nylon-relevant diads. Using a cofactor regeneration system, enzymatic diad synthesis was scaled to produce sufficient material for laboratory-scale characterization and solid-state polymerization. Amide synthetases demonstrated broad substrate scope, catalyzing the regioselective assembly of diverse nylon-relevant diacids, diamines, and \u03c9-amino acids. This strategy offers a novel route to synthesize challenging nylon monomers and advances production of bioderived nylons.",
+      "abstract": "Nylons, a major class of synthetic polyamides, are widely used due to their excellent mechanical strength, thermal stability, and chemical resistance. Conventional nylon production relies on the polymerization of lactams or stoichiometric nylon salts. However, applying these approaches to unconventional precursors such as bio-derived glutaric acid produces polymers with low molecular weight and limited applications. To address these challenges, we demonstrated that chemically-synthesized nylon diads enable the production of higher-molecular-weight polyamides compared with traditional salts. We then identified a biosynthetic approach using amide synthetases to convert unprotected bifunctional substrates into nylon-relevant diads. Using a cofactor regeneration system, enzymatic diad synthesis was scaled to produce sufficient material for laboratory-scale characterization and solid-state polymerization. Amide synthetases demonstrated broad substrate scope, catalyzing the regioselective assembly of diverse nylon-relevant diacids, diamines, and \u03c9-amino acids. This strategy offers a novel route to synthesize challenging nylon monomers and advances production of bioderived nylons.",
+      "date": "2023-05-31",
+      "identifier": "https://www.osti.gov/biblio/3385030",
+      "bibliographicCitation": "https://doi.org/10.1039/d6gc00885b",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Green Chemistry",
+      "volume": "28",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Liangyu   [ORNL] (ORCID:0009000212029938) Qian",
+          "primaryContact": true
+        },
+        {
+          "name": "Isaiah   [ORNL] (ORCID:0000000273339182) Dishner",
+          "primaryContact": false
+        },
+        {
+          "name": "Dana Lynn   [ORNL] (ORCID:0000000247588054) Carper",
+          "primaryContact": false
+        },
+        {
+          "name": "Vilmos   [ORNL] (ORCID:0000000301865797) Kertesz",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicholas   [ORNL] Zolnierczuk",
+          "primaryContact": false
+        },
+        {
+          "name": "Nikki   [ORNL] (ORCID:0000000333010849) Thiele",
+          "primaryContact": false
+        },
+        {
+          "name": "John F [ORNL] (ORCID:0000000298664010) Cahill",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeff   [ORNL] (ORCID:0000000290978680) Foster",
+          "primaryContact": false
+        },
+        {
+          "name": "Josh   [ORNL] (ORCID:0000000323028180) Michener",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3385030",
+      "active": false
     }
   ]
 }
