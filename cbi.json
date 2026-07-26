@@ -1405,6 +1405,50 @@
     },
     {
       "brc": "CBI",
+      "title": "Overcoming factors limiting high-solids fermentation of lignocellulosic biomass to ethanol",
+      "description": "<title>Significance</title>\n <p>Future production of renewable transportation fuels such as ethanol must rely on abundant nonfood plant sources also known as lignocellulosic biomass. However, a major historical barrier to low-cost production of ethanol from biomass is the low ethanol yields and titers that result from fermentation of biomass solids at high solids when compared with simple sugar fermentations. Here, we show that combining a cosolvent-enhanced lignocellulosic fractionation (CELF) pretreatment process with subsequent simultaneous saccharification and fermentation (SSF) can achieve similar high ethanol yields and titers that match that of separate pure glucose fermentations. We demonstrate a strategy whereby direct fermentation of biomass to ethanol is now limited by the microbe rather than by the process.</p>",
+      "abstract": "<title>Significance</title>\n <p>Future production of renewable transportation fuels such as ethanol must rely on abundant nonfood plant sources also known as lignocellulosic biomass. However, a major historical barrier to low-cost production of ethanol from biomass is the low ethanol yields and titers that result from fermentation of biomass solids at high solids when compared with simple sugar fermentations. Here, we show that combining a cosolvent-enhanced lignocellulosic fractionation (CELF) pretreatment process with subsequent simultaneous saccharification and fermentation (SSF) can achieve similar high ethanol yields and titers that match that of separate pure glucose fermentations. We demonstrate a strategy whereby direct fermentation of biomass to ethanol is now limited by the microbe rather than by the process.</p>",
+      "date": "2017-10-15",
+      "issue": "44",
+      "identifier": "https://www.osti.gov/biblio/1399640",
+      "bibliographicCitation": "https://doi.org/10.1073/pnas.1704652114",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Proceedings of the National Academy of Sciences of the United States of America",
+      "volume": "114",
+      "publisher_information": "Proceedings of the National Academy of Sciences",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Thanh Yen [Department of Bioengineering,Bourns College of Engineering,University of California,Riverside,CA 92507,,Center for Environmental Research and Technology (CE-CERT),Bourns College of Engineering,University of California,Riverside,CA 92507,] Nguyen",
+          "primaryContact": true
+        },
+        {
+          "name": "Charles M. [Center for Environmental Research and Technology (CE-CERT),Bourns College of Engineering,University of California,Riverside,CA 92507,,Department of Chemical and Environmental Engineering,Bourns College of Engineering,University of California,Riverside,CA 92507,,BioEnergy Science Center (BESC),Oak Ridge National Laboratory,Oak Ridge,TN 37831] (ORCID:0000000250470815) Cai",
+          "primaryContact": false
+        },
+        {
+          "name": "Rajeev [Center for Environmental Research and Technology (CE-CERT),Bourns College of Engineering,University of California,Riverside,CA 92507,,BioEnergy Science Center (BESC),Oak Ridge National Laboratory,Oak Ridge,TN 37831] Kumar",
+          "primaryContact": false
+        },
+        {
+          "name": "Charles E. [Department of Bioengineering,Bourns College of Engineering,University of California,Riverside,CA 92507,,Center for Environmental Research and Technology (CE-CERT),Bourns College of Engineering,University of California,Riverside,CA 92507,,Department of Chemical and Environmental Engineering,Bourns College of Engineering,University of California,Riverside,CA 92507,,BioEnergy Science Center (BESC),Oak Ridge National Laboratory,Oak Ridge,TN 37831] Wyman",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1399640",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Strengths, challenges, and opportunities for hydrothermal pretreatment in lignocellulosic biorefineries",
       "description": "Pretreatment prior to or during biological conversion is required to achieve high sugar yields essential to economic production of fuels and chemicals from low cost, abundant lignocellulosic biomass. Aqueous thermochemical pretreatments achieve this performance objective from pretreatment coupled with subsequent enzymatic hydrolysis, but chemical pretreatment can also suffer from additional costs for exotic materials of construction, the need to recover or neutralize the chemicals, introduction of compounds that inhibit downstream operations, and waste disposal, as well as for the chemicals themselves. The simplicity of hydrothermal pretreatment with just hot water offers the potential to greatly improve the cost of the entire conversion process if sugar degradation during pretreatment, production of un-fermentable oligomers, and the amount of expensive enzymes needed to obtain satisfactory yields from hydrothermally pretreated solids can be reduced. Biorefinery economics would also benefit if value could be generated from lignin and other components that are currently fated to be burned for power. However, achieving these goals will no doubt require development of advanced hydrothermal pretreatment configurations. For example, passing water through a stationary bed of lignocellulosic biomass in a flowthrough configuration achieves very high yields of hemicellulose sugars, removes more than 75% of the lignin for potential valorization, and improves sugar release from the pretreated solids with lower enzyme loadings. Unfortunately, the large quantities of water needed to achieve this performance result in very dilute sugars, high energy costs for pretreatment and product recover, and large amounts of oligomers. Furthermore, improving our understanding of hydrothermal pretreatment fundamentals is needed to gain insights into R&D opportunities to improve performance, and help identify novel configurations that lower capital and operating costs and achieve higher yields.",
       "abstract": "Pretreatment prior to or during biological conversion is required to achieve high sugar yields essential to economic production of fuels and chemicals from low cost, abundant lignocellulosic biomass. Aqueous thermochemical pretreatments achieve this performance objective from pretreatment coupled with subsequent enzymatic hydrolysis, but chemical pretreatment can also suffer from additional costs for exotic materials of construction, the need to recover or neutralize the chemicals, introduction of compounds that inhibit downstream operations, and waste disposal, as well as for the chemicals themselves. The simplicity of hydrothermal pretreatment with just hot water offers the potential to greatly improve the cost of the entire conversion process if sugar degradation during pretreatment, production of un-fermentable oligomers, and the amount of expensive enzymes needed to obtain satisfactory yields from hydrothermally pretreated solids can be reduced. Biorefinery economics would also benefit if value could be generated from lignin and other components that are currently fated to be burned for power. However, achieving these goals will no doubt require development of advanced hydrothermal pretreatment configurations. For example, passing water through a stationary bed of lignocellulosic biomass in a flowthrough configuration achieves very high yields of hemicellulose sugars, removes more than 75% of the lignin for potential valorization, and improves sugar release from the pretreated solids with lower enzyme loadings. Unfortunately, the large quantities of water needed to achieve this performance result in very dilute sugars, high energy costs for pretreatment and product recover, and large amounts of oligomers. Furthermore, improving our understanding of hydrothermal pretreatment fundamentals is needed to gain insights into R&D opportunities to improve performance, and help identify novel configurations that lower capital and operating costs and achieve higher yields.",
@@ -8200,6 +8244,72 @@
     },
     {
       "brc": "CBI",
+      "title": "Catalytic Mechanism of Aryl-Ether Bond Cleavage in Lignin by LigF and LigG",
+      "description": "Given the abundance of lignin in nature, multiple enzyme systems have been discovered to cleave the \u03b2-O-4 bonds, the most prevalent intermonomer linkage. In particular, stereospecific cleavage of lignin oligomers by glutathione S-transferases (GSTs) has been reported in several sphingomonads. Here in this paper, we apply quantum mechanics/molecular mechanics simulations to study the mechanism of two glutathione-dependent enzymes in the \u03b2-aryl ether catabolic pathway of <em>Sphingomonas sp.</em> SYK-6, namely, LigF, a \u03b2-etherase, and LigG, a lyase. For LigF, the free-energy landscape supports a SN2 reaction mechanism, with the monoaromatic leaving group being promptly neutralized upon release. Specific interactions with conserved residues are responsible for stereoselectivity and for activation of the cofactor as a nucleophile. A glutathione conjugate is also released by LigF and serves the substrate of LigG, undergoing a S<sub>N</sub>2-like reaction, in which Cys15 acts as the nucleophile, to yield the second monoaromatic product. The simulations suggest that the electron-donating substituent at the para-position found in lignin-derived aromatics and the interaction with Tyr217 are essential for reactivity in LigG. Overall, this work deepens the understanding of the stereospecific enzymatic mechanisms in the \u03b2-aryl ether cleavage pathway and reveals key structural features underpinning the ligninolytic activity detected in several sphingomonad GSTs.",
+      "abstract": "Given the abundance of lignin in nature, multiple enzyme systems have been discovered to cleave the \u03b2-O-4 bonds, the most prevalent intermonomer linkage. In particular, stereospecific cleavage of lignin oligomers by glutathione S-transferases (GSTs) has been reported in several sphingomonads. Here in this paper, we apply quantum mechanics/molecular mechanics simulations to study the mechanism of two glutathione-dependent enzymes in the \u03b2-aryl ether catabolic pathway of <em>Sphingomonas sp.</em> SYK-6, namely, LigF, a \u03b2-etherase, and LigG, a lyase. For LigF, the free-energy landscape supports a SN2 reaction mechanism, with the monoaromatic leaving group being promptly neutralized upon release. Specific interactions with conserved residues are responsible for stereoselectivity and for activation of the cofactor as a nucleophile. A glutathione conjugate is also released by LigF and serves the substrate of LigG, undergoing a S<sub>N</sub>2-like reaction, in which Cys15 acts as the nucleophile, to yield the second monoaromatic product. The simulations suggest that the electron-donating substituent at the para-position found in lignin-derived aromatics and the interaction with Tyr217 are essential for reactivity in LigG. Overall, this work deepens the understanding of the stereospecific enzymatic mechanisms in the \u03b2-aryl ether cleavage pathway and reveals key structural features underpinning the ligninolytic activity detected in several sphingomonad GSTs.",
+      "date": "2019-11-04",
+      "issue": "48",
+      "identifier": "https://www.osti.gov/biblio/1578254",
+      "bibliographicCitation": "https://doi.org/10.1021/acs.jpcb.9b06243",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "BCPL",
+        "enzyme",
+        "lignin",
+        "mechanism",
+        "molecular modeling",
+        "qmmm"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Journal of Physical Chemistry. B",
+      "volume": "123",
+      "publisher_information": "American Chemical Society",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Erica Teixeira [National Renewable Energy Lab. (NREL),Golden,CO (United States). National Bioenergy Center; Univ. of Campinas (UNICAMP),Sao Paulo (Brazil). Inst. of Chemistry and Center for Computing in Engineering and Sciences] Prates",
+          "primaryContact": true
+        },
+        {
+          "name": "Michael F. [National Renewable Energy Lab. (NREL),Golden,CO (United States). Biosciences Center] (ORCID:0000000151639398) Crowley",
+          "primaryContact": false
+        },
+        {
+          "name": "Munir S. [Univ. of Campinas (UNICAMP),Sao Paulo (Brazil). Inst. of Chemistry and Center for Computing in Engineering and Sciences] (ORCID:0000000174851228) Skaf",
+          "primaryContact": false
+        },
+        {
+          "name": "Gregg T. [National Renewable Energy Lab. (NREL),Golden,CO (United States). National Bioenergy Center] (ORCID:000000023480212X) Beckham",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "S\u00e3o Paulo Research Foundation (FAPESP)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Energy Efficiency and Renewable Energy (EERE), Bioenergy Technologies Office (EE-3B)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1578254",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2700-75435"
+      ]
+    },
+    {
+      "brc": "CBI",
       "title": "Synthetic fungal multifunctional cellulases for enhanced biomass conversion",
       "description": "<p>Synthetic multifunctional enzymes exhibit superior performance to their non-multifunctional enzyme components and exhibit novel cellulose deconstruction mechanisms.</p>",
       "abstract": "<p>Synthetic multifunctional enzymes exhibit superior performance to their non-multifunctional enzyme components and exhibit novel cellulose deconstruction mechanisms.</p>",
@@ -9759,6 +9869,199 @@
       "active": false,
       "has_related_ids": [
         "NREL/JA--2700-70636"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Comprehensive characterization of toxicity of fermentative metabolites on microbial growth",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2017-11-29",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1618692",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-017-0952-4",
+      "keywords": [
+        "Biotechnology & Applied Microbiology",
+        "Energy & Fuels"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "10",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Brandon Wilbanks",
+          "primaryContact": true
+        },
+        {
+          "name": "Cong T. (ORCID:000000028362725X) Trinh",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER), BioEnergy Science Center"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1618692",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Natural diversity of glycoside hydrolase family 48 exoglucanases: insights from structure",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2017-11-29",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1618693",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-017-0951-5",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "GH48",
+        "cellulase",
+        "circular dichroism",
+        "molecular modeling",
+        "x-ray crystallography"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "10",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Roman Brunecky",
+          "primaryContact": true
+        },
+        {
+          "name": "Markus Alahuhta",
+          "primaryContact": false
+        },
+        {
+          "name": "Deanne W. Sammond",
+          "primaryContact": false
+        },
+        {
+          "name": "Qi Xu",
+          "primaryContact": false
+        },
+        {
+          "name": "Mo Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "David B. Wilson",
+          "primaryContact": false
+        },
+        {
+          "name": "John W. Brady",
+          "primaryContact": false
+        },
+        {
+          "name": "Michael E. Himmel",
+          "primaryContact": false
+        },
+        {
+          "name": "Yannick J. (ORCID:0000000176248000) Bomble",
+          "primaryContact": false
+        },
+        {
+          "name": "Vladimir V. Lunin",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1618693",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2700-70442"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Visualizing chemical functionality in plant cell walls",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2017-11-29",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/1618694",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-017-0953-3",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "atomic force microscopy",
+        "bioenergy",
+        "biomass recalcitrance",
+        "cell wall imaging",
+        "fluorescence",
+        "fluorescence lifetime imaging microscopy",
+        "lignocellulosic biomass",
+        "plant cell wall",
+        "stimulated raman scattering"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Microbiology"
+      ],
+      "journal_name": "Biotechnology for Biofuels",
+      "volume": "10",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Yining (ORCID:0000000202022479) Zeng",
+          "primaryContact": true
+        },
+        {
+          "name": "Michael E. Himmel",
+          "primaryContact": false
+        },
+        {
+          "name": "Shi-You Ding",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1618694",
+      "active": false,
+      "has_related_ids": [
+        "NREL/JA--2700-70484"
       ]
     },
     {
@@ -25359,6 +25662,175 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/2004594",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Quantum biological insights into CRISPR-Cas9 sgRNA efficiency from explainable-AI driven feature engineering",
+      "description": "<title>Abstract</title>\n <p>CRISPR-Cas9 tools have transformed genetic manipulation capabilities in the laboratory. Empirical rules-of-thumb have been developed for only a narrow range of model organisms, and mechanistic underpinnings for sgRNA efficiency remain poorly understood. This work establishes a novel feature set and new public resource, produced with quantum chemical tensors, for interpreting and predicting sgRNA efficiency. Feature engineering for sgRNA efficiency is performed using an explainable-artificial intelligence model: iterative Random Forest (iRF). By encoding quantitative attributes of position-specific sequences for Escherichia coli sgRNAs, we identify important traits for sgRNA design in bacterial species. Additionally, we show that expanding positional encoding to quantum descriptors of base-pair, dimer, trimer, and tetramer sequences captures intricate interactions in local and neighboring nucleotides of the target DNA. These features highlight variation in CRISPR-Cas9 sgRNA dynamics between E. coli and H. sapiens genomes. These novel encodings of sgRNAs enhance our understanding of the elaborate quantum biological processes involved in CRISPR-Cas9 machinery.</p>",
+      "abstract": "<title>Abstract</title>\n <p>CRISPR-Cas9 tools have transformed genetic manipulation capabilities in the laboratory. Empirical rules-of-thumb have been developed for only a narrow range of model organisms, and mechanistic underpinnings for sgRNA efficiency remain poorly understood. This work establishes a novel feature set and new public resource, produced with quantum chemical tensors, for interpreting and predicting sgRNA efficiency. Feature engineering for sgRNA efficiency is performed using an explainable-artificial intelligence model: iterative Random Forest (iRF). By encoding quantitative attributes of position-specific sequences for Escherichia coli sgRNAs, we identify important traits for sgRNA design in bacterial species. Additionally, we show that expanding positional encoding to quantum descriptors of base-pair, dimer, trimer, and tetramer sequences captures intricate interactions in local and neighboring nucleotides of the target DNA. These features highlight variation in CRISPR-Cas9 sgRNA dynamics between E. coli and H. sapiens genomes. These novel encodings of sgRNAs enhance our understanding of the elaborate quantum biological processes involved in CRISPR-Cas9 machinery.</p>",
+      "date": "2023-09-19",
+      "issue": "19",
+      "identifier": "https://www.osti.gov/biblio/2004638",
+      "bibliographicCitation": "https://doi.org/10.1093/nar/gkad736",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Nucleic Acids Research",
+      "volume": "51",
+      "publisher_information": "Oxford University Press",
+      "country_publication_code": "GB",
+      "creator": [
+        {
+          "name": "Jaclyn M. (ORCID:000000027438193X) Noshay",
+          "primaryContact": true
+        },
+        {
+          "name": "Tyler Walker",
+          "primaryContact": false
+        },
+        {
+          "name": "William G. Alexander",
+          "primaryContact": false
+        },
+        {
+          "name": "Dawn M. Klingeman",
+          "primaryContact": false
+        },
+        {
+          "name": "Jonathon Romero",
+          "primaryContact": false
+        },
+        {
+          "name": "Angelica M. Walker",
+          "primaryContact": false
+        },
+        {
+          "name": "Erica Prates",
+          "primaryContact": false
+        },
+        {
+          "name": "Carrie Eckert",
+          "primaryContact": false
+        },
+        {
+          "name": "Stephan Irle",
+          "primaryContact": false
+        },
+        {
+          "name": "David (ORCID:0000000172714676) Kainer",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel A. (ORCID:0000000298228251) Jacobson",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Laboratory Directed Research and Development (LDRD) Program"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2004638",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Root phenotypes for improved nitrogen capture",
+      "description": "<title>Abstract</title>\n <sec>\n <title>Background</title>\n <p>Suboptimal nitrogen availability is a primary constraint for crop production in low-input agroecosystems, while nitrogen fertilization is a primary contributor to the energy, economic, and environmental costs of crop production in high-input agroecosystems. In this article we consider avenues to develop crops with improved nitrogen capture and reduced requirement for nitrogen fertilizer.</p>\n </sec>\n <sec>\n <title>Scope</title>\n <p>Intraspecific variation for an array of root phenotypes has been associated with improved nitrogen capture in cereal crops, including architectural phenotypes that colocalize root foraging with nitrogen availability in the soil; anatomical phenotypes that reduce the metabolic costs of soil exploration, improve penetration of hard soil, and exploit the rhizosphere; subcellular phenotypes that reduce the nitrogen requirement of plant tissue; molecular phenotypes exhibiting optimized nitrate uptake kinetics; and rhizosphere phenotypes that optimize associations with the rhizosphere microbiome. For each of these topics we provide examples of root phenotypes which merit attention as potential selection targets for crop improvement. Several cross-cutting issues are addressed including the importance of soil hydrology and impedance, phenotypic plasticity, integrated phenotypes, in silico modeling, and breeding strategies using high throughput phenotyping for co-optimization of multiple phenes.</p>\n </sec>\n <sec>\n <title>Conclusions</title>\n <p>Substantial phenotypic variation exists in crop germplasm for an array of root phenotypes that improve nitrogen capture. Although this topic merits greater research attention than it currently receives, we have adequate understanding and tools to develop crops with improved nitrogen capture. Root phenotypes are underutilized yet attractive breeding targets for the development of the nitrogen efficient crops urgently needed in global agriculture.</p>\n </sec>",
+      "abstract": "<title>Abstract</title>\n <sec>\n <title>Background</title>\n <p>Suboptimal nitrogen availability is a primary constraint for crop production in low-input agroecosystems, while nitrogen fertilization is a primary contributor to the energy, economic, and environmental costs of crop production in high-input agroecosystems. In this article we consider avenues to develop crops with improved nitrogen capture and reduced requirement for nitrogen fertilizer.</p>\n </sec>\n <sec>\n <title>Scope</title>\n <p>Intraspecific variation for an array of root phenotypes has been associated with improved nitrogen capture in cereal crops, including architectural phenotypes that colocalize root foraging with nitrogen availability in the soil; anatomical phenotypes that reduce the metabolic costs of soil exploration, improve penetration of hard soil, and exploit the rhizosphere; subcellular phenotypes that reduce the nitrogen requirement of plant tissue; molecular phenotypes exhibiting optimized nitrate uptake kinetics; and rhizosphere phenotypes that optimize associations with the rhizosphere microbiome. For each of these topics we provide examples of root phenotypes which merit attention as potential selection targets for crop improvement. Several cross-cutting issues are addressed including the importance of soil hydrology and impedance, phenotypic plasticity, integrated phenotypes, in silico modeling, and breeding strategies using high throughput phenotyping for co-optimization of multiple phenes.</p>\n </sec>\n <sec>\n <title>Conclusions</title>\n <p>Substantial phenotypic variation exists in crop germplasm for an array of root phenotypes that improve nitrogen capture. Although this topic merits greater research attention than it currently receives, we have adequate understanding and tools to develop crops with improved nitrogen capture. Root phenotypes are underutilized yet attractive breeding targets for the development of the nitrogen efficient crops urgently needed in global agriculture.</p>\n </sec>",
+      "date": "2023-10-03",
+      "identifier": "https://www.osti.gov/biblio/2007556",
+      "bibliographicCitation": "https://doi.org/10.1007/s11104-023-06301-2",
+      "keywords": [
+        "60 APPLIED LIFE SCIENCES",
+        "anatomy",
+        "architecture",
+        "crop breeding",
+        "modeling",
+        "nitrogen",
+        "physiology",
+        "plasticity",
+        "rhizosphere",
+        "root",
+        "root phenotyping",
+        "soil"
+      ],
+      "topic": [
+        "Plant Biology"
+      ],
+      "journal_name": "Plant and Soil",
+      "publisher_information": "Springer Science + Business Media",
+      "country_publication_code": "Netherlands",
+      "creator": [
+        {
+          "name": "Jonathan P. (ORCID:0000000272659790) Lynch",
+          "primaryContact": true
+        },
+        {
+          "name": "Tania (ORCID:0000000168534162) Galindo-Casta\u00f1eda",
+          "primaryContact": false
+        },
+        {
+          "name": "Hannah M. (ORCID:0000000346556250) Schneider",
+          "primaryContact": false
+        },
+        {
+          "name": "Jagdeep Singh (ORCID:0000000246723701) Sidhu",
+          "primaryContact": false
+        },
+        {
+          "name": "Harini (ORCID:0000000245759251) Rangarajan",
+          "primaryContact": false
+        },
+        {
+          "name": "Larry M. (ORCID:0000000219959479) York",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "European Commission (EC)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Foundation for Food and Agriculture"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Swiss National Science Foundation (SNSF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDA"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/2007556",
       "active": false
     },
     {
