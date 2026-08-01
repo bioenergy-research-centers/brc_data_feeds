@@ -20623,6 +20623,128 @@
     },
     {
       "brc": "CBI",
+      "title": "Controlling selectivity of modular microbial biosynthesis of butyryl-CoA-derived designer esters",
+      "description": "Short-chain esters have broad utility as flavors, fragrances, solvents, and biofuels. Controlling selectivity of ester microbial biosynthesis has been an outstanding metabolic engineering problem. In this study, we enabled the de novo fermentative microbial biosynthesis of butyryl-CoA-derived designer esters (e.g., butyl acetate, ethyl butyrate, butyl butyrate) in Escherichia coli with controllable selectivity. Using the modular design principles, we generated the butyryl-CoA-derived ester pathways as exchangeable production modules compatible with an engineered chassis cell for anaerobic production of designer esters. We designed these modules derived from an acyl-CoA submodule (e.g., acetyl-CoA, butyryl-CoA), an alcohol submodule (e.g., ethanol, butanol), a cofactor regeneration submodule (e.g., NADH), and an alcohol acetyltransferase (AAT) submodule (e.g., ATF1, SAAT) for rapid module construction and optimization by manipulating replication (e.g., plasmid copy number), transcription (e.g., promoters), translation (e.g., codon optimization), pathway enzymes, and pathway induction conditions. To further enhance production of designer esters with high selectivity, we systematically screened various strategies of protein solubilization using protein fusion tags and chaperones to improve the soluble expression of multiple pathway enzymes. Finally, our engineered ester-producing strains could achieve 19-fold increase in butyl acetate production (0.64 g/L, 96% selectivity), 6-fold increase in ethyl butyrate production (0.41 g/L, 86% selectivity), and 13-fold increase in butyl butyrate production (0.45 g/L, 54% selectivity) as compared to the initial strains. Altogether, this study presented a generalizable framework to engineer modular microbial platforms for anaerobic production of butyryl-CoA-derived designer esters from renewable feedstocks.",
+      "abstract": "Short-chain esters have broad utility as flavors, fragrances, solvents, and biofuels. Controlling selectivity of ester microbial biosynthesis has been an outstanding metabolic engineering problem. In this study, we enabled the de novo fermentative microbial biosynthesis of butyryl-CoA-derived designer esters (e.g., butyl acetate, ethyl butyrate, butyl butyrate) in Escherichia coli with controllable selectivity. Using the modular design principles, we generated the butyryl-CoA-derived ester pathways as exchangeable production modules compatible with an engineered chassis cell for anaerobic production of designer esters. We designed these modules derived from an acyl-CoA submodule (e.g., acetyl-CoA, butyryl-CoA), an alcohol submodule (e.g., ethanol, butanol), a cofactor regeneration submodule (e.g., NADH), and an alcohol acetyltransferase (AAT) submodule (e.g., ATF1, SAAT) for rapid module construction and optimization by manipulating replication (e.g., plasmid copy number), transcription (e.g., promoters), translation (e.g., codon optimization), pathway enzymes, and pathway induction conditions. To further enhance production of designer esters with high selectivity, we systematically screened various strategies of protein solubilization using protein fusion tags and chaperones to improve the soluble expression of multiple pathway enzymes. Finally, our engineered ester-producing strains could achieve 19-fold increase in butyl acetate production (0.64 g/L, 96% selectivity), 6-fold increase in ethyl butyrate production (0.41 g/L, 86% selectivity), and 13-fold increase in butyl butyrate production (0.45 g/L, 54% selectivity) as compared to the initial strains. Altogether, this study presented a generalizable framework to engineer modular microbial platforms for anaerobic production of butyryl-CoA-derived designer esters from renewable feedstocks.",
+      "date": "2021-12-05",
+      "identifier": "https://www.osti.gov/biblio/1847495",
+      "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2021.12.001",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "AAT",
+        "ATF1",
+        "Alcohol acyltransferase",
+        "Butyl acetate",
+        "Butyl butyrate",
+        "Chaperones",
+        "Codon optimization",
+        "Enzyme solubilization",
+        "Escherichia coli",
+        "Esters",
+        "Ethyl butyrate",
+        "Fusion partners",
+        "Modular cell",
+        "Modular design",
+        "Modular pathway design",
+        "SAAT",
+        "Soluble expression"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Metabolic Engineering",
+      "volume": "69",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Jong-Won [Univ. of Tennessee,Knoxville,TN (United States); Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] Lee",
+          "primaryContact": true
+        },
+        {
+          "name": "Cong T. [Univ. of Tennessee,Knoxville,TN (United States); Oak Ridge National Lab. (ORNL),Oak Ridge,TN (United States)] (ORCID:000000028362725X) Trinh",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1847495",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Quantitative trait locus mapping combined with variant and transcriptome analyses identifies a cluster of gene candidates underlying the variation in leaf wax between upland and lowland switchgrass ecotypes",
+      "description": "Switchgrass (Panicum virgatum L.) is a promising warm-season candidate energy crop. It occurs in two ecotypes, upland and lowland, which vary in a number of phenotypic traits, including leaf glaucousness. To initiate trait mapping, two F<sub>2</sub> mapping populations were developed by crossing two different F<sub>1</sub> sibs derived from a cross between the tetraploid lowland genotype AP13 and the tetraploid upland genotype VS16, and high-density linkage maps were generated. Quantitative trait locus (QTL) analyses of visually scored leaf glaucousness and of hydrophobicity of the abaxial leaf surface measured using a drop shape analyzer identified highly significant colocalizing QTL on chromosome 7K (Chr07K). Using a multipronged approach, we identified a cluster of genes including Pavir.7KG077009, which encodes a Type III polyketide synthase-like protein, and Pavir.7KG013754 and Pavir.7KG030500, two highly similar genes that encode putative acyl-acyl carrier protein (ACP) thioesterases, as strong candidates underlying the QTL. The lack of homoeologs for any of the three genes on Chr07N, the relatively low level of identity with other switchgrass KCS proteins and thioesterases, as well as the organization of the surrounding region suggest that Pavir.7KG077009 and Pavir.7KG013754/Pavir.7KG030500 were duplicated into a fast-evolving chromosome region, which led to their neofunctionalization. Furthermore, sequence analyses showed all three genes to be absent in the two upland compared to the two lowland accessions analyzed. This study provides an example of and practical guide for trait mapping and candidate gene identification in a complex genetic system by combining QTL mapping, transcriptomics and variant analysis.",
+      "abstract": "Switchgrass (Panicum virgatum L.) is a promising warm-season candidate energy crop. It occurs in two ecotypes, upland and lowland, which vary in a number of phenotypic traits, including leaf glaucousness. To initiate trait mapping, two F<sub>2</sub> mapping populations were developed by crossing two different F<sub>1</sub> sibs derived from a cross between the tetraploid lowland genotype AP13 and the tetraploid upland genotype VS16, and high-density linkage maps were generated. Quantitative trait locus (QTL) analyses of visually scored leaf glaucousness and of hydrophobicity of the abaxial leaf surface measured using a drop shape analyzer identified highly significant colocalizing QTL on chromosome 7K (Chr07K). Using a multipronged approach, we identified a cluster of genes including Pavir.7KG077009, which encodes a Type III polyketide synthase-like protein, and Pavir.7KG013754 and Pavir.7KG030500, two highly similar genes that encode putative acyl-acyl carrier protein (ACP) thioesterases, as strong candidates underlying the QTL. The lack of homoeologs for any of the three genes on Chr07N, the relatively low level of identity with other switchgrass KCS proteins and thioesterases, as well as the organization of the surrounding region suggest that Pavir.7KG077009 and Pavir.7KG013754/Pavir.7KG030500 were duplicated into a fast-evolving chromosome region, which led to their neofunctionalization. Furthermore, sequence analyses showed all three genes to be absent in the two upland compared to the two lowland accessions analyzed. This study provides an example of and practical guide for trait mapping and candidate gene identification in a complex genetic system by combining QTL mapping, transcriptomics and variant analysis.",
+      "date": "2021-03-23",
+      "issue": "7",
+      "identifier": "https://www.osti.gov/biblio/1851432",
+      "bibliographicCitation": "https://doi.org/10.1007/s00122-021-03798-y",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Agriculture",
+        "Genetics & heredity",
+        "Plant sciences"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Theoretical and Applied Genetics",
+      "volume": "134",
+      "publisher_information": "Springer Nature",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Peng [Univ. of Georgia,Athens,GA (United States); OSTI] (ORCID:0000000167055637) Qi",
+          "primaryContact": true
+        },
+        {
+          "name": "Thomas H. [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000156819662) Pendergast",
+          "primaryContact": false
+        },
+        {
+          "name": "Alex [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000240901765) Johnson",
+          "primaryContact": false
+        },
+        {
+          "name": "Bochra A. [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000159055880) Bahri",
+          "primaryContact": false
+        },
+        {
+          "name": "Soyeon [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000234497698) Choi",
+          "primaryContact": false
+        },
+        {
+          "name": "Ali [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000317101142) Missaoui",
+          "primaryContact": false
+        },
+        {
+          "name": "Katrien M. [Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000203583278) Devos",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1851432",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Metabolic flux analysis reaching genome wide coverage: lessons learned and future perspectives",
       "description": "<sup>13</sup>C-MFA is currently the only technique capable of elucidating intracellular metabolic fluxes. Generally, in <sup>13</sup>C-MFA studies the reactions that can carry flux are mostly pre-specified by only considering canonical pathways and ignoring alternate ones. This may bias flux elucidation and cause labeling data to erroneously confirm implied assumptions. Here, by expanding the scope of the metabolic mapping models to match known genome-scale metabolism such estimation biases can be eliminated. However, this model expansion to genome-scale requires the construction of expanded atom mapping models, more efficient flux estimation algorithms, and formal estimation of confidence levels. Even though significant progress has been made in this direction, a number of challenges remain before widespread adoption by the community.",
       "abstract": "<sup>13</sup>C-MFA is currently the only technique capable of elucidating intracellular metabolic fluxes. Generally, in <sup>13</sup>C-MFA studies the reactions that can carry flux are mostly pre-specified by only considering canonical pathways and ignoring alternate ones. This may bias flux elucidation and cause labeling data to erroneously confirm implied assumptions. Here, by expanding the scope of the metabolic mapping models to match known genome-scale metabolism such estimation biases can be eliminated. However, this model expansion to genome-scale requires the construction of expanded atom mapping models, more efficient flux estimation algorithms, and formal estimation of confidence levels. Even though significant progress has been made in this direction, a number of challenges remain before widespread adoption by the community.",
@@ -32613,6 +32735,133 @@
     },
     {
       "brc": "CBI",
+      "title": "An overview of switchgrass phenotypes variability across diverse populations and their implications for conversion to fuels",
+      "description": "There have been substantial changes to the human lifestyle over the past two centuries, which are reflected in the amount of fuel we consume to power our day-to-day needs. The way we use these resources has indeed manifested in an overdependence on non-renewable energy sources, such as coal and petroleum, for generating electricity and powering our transportation needs. There is a pressing need to explore alternative ways of fueling our current lifestyle without impacting the environment. Biofuels have long been touted as a sustainable solution for use as drop-in fuels in aviation and maritime applications. Still, they have yet to establish themselves as a competitive commercial alternative, necessitating further research and development. Lignocellulosic biomass is an underutilized resource that is widely accessible for the commercial processing of renewable biofuels. Bioenergy crops, such as switchgrass (Panicum virgatum L.), which can be cultivated on marginal lands with minimal competition for agricultural land, are an ideal and promising candidate for bulk-scale biofuel synthesis. Over the past 30 years, significant progress has been made in breeding and genetically modifying these grasses to enhance their drought resilience and subsequent yields. However, discrepancies in biomass composition can lead to irregular feedstocks for downstream operations, which in turn affect overall production targets for biofuels. Here, this review examines the variability in switchgrass (P. virgatum L.) biomass phenotypes across diverse populations and plant components, and their implications for biofuel conversion. The study highlights significant variations in biomass yield, composition, and cell wall chemistry both between switchgrass genotypes and within individual cultivars. Key findings include differences in cellulose, hemicellulose, and lignin content between leaves and stems, which affect biomass digestibility and ethanol yield. The review also discusses the impact of lignin chemistry, particularly the syringyl/guaicyl (S/G) ratio, on the efficiency of biomass saccharification. Furthermore, it explores how these variations respond differently to various pretreatment techniques, affecting overall biofuel production. We conclude that understanding and quantifying this variability is crucial for optimizing switchgrass as a feedstock for commercial biofuel production, thereby potentially addressing the pressing need for sustainable energy sources in sectors such as aviation.",
+      "abstract": "There have been substantial changes to the human lifestyle over the past two centuries, which are reflected in the amount of fuel we consume to power our day-to-day needs. The way we use these resources has indeed manifested in an overdependence on non-renewable energy sources, such as coal and petroleum, for generating electricity and powering our transportation needs. There is a pressing need to explore alternative ways of fueling our current lifestyle without impacting the environment. Biofuels have long been touted as a sustainable solution for use as drop-in fuels in aviation and maritime applications. Still, they have yet to establish themselves as a competitive commercial alternative, necessitating further research and development. Lignocellulosic biomass is an underutilized resource that is widely accessible for the commercial processing of renewable biofuels. Bioenergy crops, such as switchgrass (Panicum virgatum L.), which can be cultivated on marginal lands with minimal competition for agricultural land, are an ideal and promising candidate for bulk-scale biofuel synthesis. Over the past 30 years, significant progress has been made in breeding and genetically modifying these grasses to enhance their drought resilience and subsequent yields. However, discrepancies in biomass composition can lead to irregular feedstocks for downstream operations, which in turn affect overall production targets for biofuels. Here, this review examines the variability in switchgrass (P. virgatum L.) biomass phenotypes across diverse populations and plant components, and their implications for biofuel conversion. The study highlights significant variations in biomass yield, composition, and cell wall chemistry both between switchgrass genotypes and within individual cultivars. Key findings include differences in cellulose, hemicellulose, and lignin content between leaves and stems, which affect biomass digestibility and ethanol yield. The review also discusses the impact of lignin chemistry, particularly the syringyl/guaicyl (S/G) ratio, on the efficiency of biomass saccharification. Furthermore, it explores how these variations respond differently to various pretreatment techniques, affecting overall biofuel production. We conclude that understanding and quantifying this variability is crucial for optimizing switchgrass as a feedstock for commercial biofuel production, thereby potentially addressing the pressing need for sustainable energy sources in sectors such as aviation.",
+      "date": "2025-12-17",
+      "issue": "2",
+      "identifier": "https://www.osti.gov/biblio/3020177",
+      "bibliographicCitation": "https://doi.org/10.1002/bbb.70104",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biofuels, Bioproducts & Biorefining",
+      "volume": "20",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Rohit [Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000214454404) Kousika",
+          "primaryContact": true
+        },
+        {
+          "name": "Yunqiao [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Pu",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. [Univ. of Tennessee,Knoxville,TN (United States); Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000023536554X) Ragauskas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3020177",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Climate change drives convergent evolution of root traits on Sky Island climate relicts",
+      "description": "Roots are essential to the strategies plants use to survive in variable environments, yet we know little of how they vary within species. Experimental conditions demonstrate that intraspecific plant root traits respond strongly to variation in the environment; however, it is unclear when these responses can be characterized as evolution in response to selective pressures of climate change over many generations. Sky Islands are model, natural climate relict ecosystems to examine climate-change driven evolution. Utilizing a common garden with replicate genotypes of Populus angustifolia (Narrowleaf cottonwood) from six Sky Island (SI) populations and nine adjacent Mountain Chain (MC) populations across three genetic provenances, we hypothesized that SI root traits have diverged due to historical isolation in warmer, drier climates. When grown in common conditions, populations originating on SI\u2019s showed convergent evolution across three distinct genetic provenances, which was characterized by 44.16% decreased total root length, 42.64% decreased average root volume, 43.31% decreased root surface area, and significantly less root trait variation, relative to adjacent mountain chains. Convergent evolution of root traits from trees originating on SI\u2019s is correlated with changes in mean annual precipitation and potential evapotranspiration in the field over the past ~ 125 years. These results demonstrate a consistent pattern in root trait evolution at the landscape scale and the role of climate on the evolution of root traits in a genetic and geographic context relevant to climate change.",
+      "abstract": "Roots are essential to the strategies plants use to survive in variable environments, yet we know little of how they vary within species. Experimental conditions demonstrate that intraspecific plant root traits respond strongly to variation in the environment; however, it is unclear when these responses can be characterized as evolution in response to selective pressures of climate change over many generations. Sky Islands are model, natural climate relict ecosystems to examine climate-change driven evolution. Utilizing a common garden with replicate genotypes of Populus angustifolia (Narrowleaf cottonwood) from six Sky Island (SI) populations and nine adjacent Mountain Chain (MC) populations across three genetic provenances, we hypothesized that SI root traits have diverged due to historical isolation in warmer, drier climates. When grown in common conditions, populations originating on SI\u2019s showed convergent evolution across three distinct genetic provenances, which was characterized by 44.16% decreased total root length, 42.64% decreased average root volume, 43.31% decreased root surface area, and significantly less root trait variation, relative to adjacent mountain chains. Convergent evolution of root traits from trees originating on SI\u2019s is correlated with changes in mean annual precipitation and potential evapotranspiration in the field over the past ~ 125 years. These results demonstrate a consistent pattern in root trait evolution at the landscape scale and the role of climate on the evolution of root traits in a genetic and geographic context relevant to climate change.",
+      "date": "2026-02-06",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3020882",
+      "bibliographicCitation": "https://doi.org/10.1038/s41598-025-31134-7",
+      "keywords": [
+        "Convergent evolution",
+        "Local adaptation",
+        "Populus",
+        "Root functional traits",
+        "Sky Islands"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Scientific Reports",
+      "volume": "16",
+      "publisher_information": "Nature Publishing Group",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Lorren E. [Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000292896232) Politano",
+          "primaryContact": true
+        },
+        {
+          "name": "Larry M. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000219959479) York",
+          "primaryContact": false
+        },
+        {
+          "name": "Joseph K. [Univ. of Tennessee,Knoxville,TN (United States)] Bailey",
+          "primaryContact": false
+        },
+        {
+          "name": "Jennifer A. [Univ. of Tennessee,Knoxville,TN (United States)] Schweitzer",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3020882",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Biochemical parallels between catabolic pathways for lignin-associated aromatic dimers",
+      "description": "Lignin is one of the most common biopolymers on Earth. In nature, lignin is primarily deconstructed by fungi into mixtures of aromatic compounds that are then assimilated by bacteria and fungi. Industrially, lignin is primarily generated as a byproduct of pulp and paper production and burned for process heat. However, if the appropriate assimilatory pathways were identified, deconstructed lignin could be funneled into value-added products using engineered bacteria. Foundational work has described pathways for assimilation of diverse monomeric aromatic compounds such as protocatechuate, ferulate, and syringate, as well as select dimers including those with \u03b2-O-4 and 5-5 interunit linkages. Recent advances have elucidated additional pathways for dimer assimilation, including pathways for new substrates as well as parallel pathways for previously characterized substrates. Comparing these dimer assimilation pathways can illuminate the underlying biochemical logic of assimilation for lignin-associated aromatic dimers and provide opportunities for metabolic engineering to enhance lignin valorization.",
+      "abstract": "Lignin is one of the most common biopolymers on Earth. In nature, lignin is primarily deconstructed by fungi into mixtures of aromatic compounds that are then assimilated by bacteria and fungi. Industrially, lignin is primarily generated as a byproduct of pulp and paper production and burned for process heat. However, if the appropriate assimilatory pathways were identified, deconstructed lignin could be funneled into value-added products using engineered bacteria. Foundational work has described pathways for assimilation of diverse monomeric aromatic compounds such as protocatechuate, ferulate, and syringate, as well as select dimers including those with \u03b2-O-4 and 5-5 interunit linkages. Recent advances have elucidated additional pathways for dimer assimilation, including pathways for new substrates as well as parallel pathways for previously characterized substrates. Comparing these dimer assimilation pathways can illuminate the underlying biochemical logic of assimilation for lignin-associated aromatic dimers and provide opportunities for metabolic engineering to enhance lignin valorization.",
+      "date": "2026-02-17",
+      "issue": "3",
+      "identifier": "https://www.osti.gov/biblio/3020917",
+      "bibliographicCitation": "https://doi.org/10.1128/aem.00276-25",
+      "keywords": [
+        "Sphingomonas",
+        "lignin"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Applied and Environmental Microbiology",
+      "volume": "92",
+      "publisher_information": "American Society for Microbiology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Joshua K. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000323028180) Michener",
+          "primaryContact": true
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3020917",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "<sup>1</sup>H NMR Quantification of Aromatic Monomers from Reductive Catalytic Fractionation",
       "description": "Reductive catalytic fractionation (RCF) can produce high yields of aromatic monomers from lignin in native biomass. Quantification of these aromatic monomers is a well-known but demanding task, in part due to the lack of commercially available standards. Here, we demonstrate <sup>1</sup>H NMR spectroscopy as a complementary method to rapidly quantify aromatic monomer concentrations in RCF oils. The method exhibited good agreement with measurements from ultrahigh pressure liquid chromatography (UHPLC) for 96 RCF oils with varying monomer selectivity, with average absolute deviations of individual monomer yields between 0.5 and 1.1 wt % (relative 11\u201317%) and R<sup>2</sup> values above 0.9 compared to conventional UHPLC quantification. Quantification of S-type monomers, including for 4-ethylsyringol and 4-propenylsyringol, was generally reliable. The validity of G-type monomer quantifications depended on reaction selectivity due to overlap between peaks of 4-ethylguaiacol and 4-(3-hydroxypropyl)-guaiacol. The method could be applied on crude RCF oils without needing to perform the liquid\u2013liquid extraction typically done for RCF reactions, thereby providing a convenient way to quantify lignin extraction and aromatic monomer yield. Overall, <sup>1</sup>H NMR spectroscopy can serve as a rapid primary quantification or secondary validation method for RCF monomer yield and selectivity measurements.",
       "abstract": "Reductive catalytic fractionation (RCF) can produce high yields of aromatic monomers from lignin in native biomass. Quantification of these aromatic monomers is a well-known but demanding task, in part due to the lack of commercially available standards. Here, we demonstrate <sup>1</sup>H NMR spectroscopy as a complementary method to rapidly quantify aromatic monomer concentrations in RCF oils. The method exhibited good agreement with measurements from ultrahigh pressure liquid chromatography (UHPLC) for 96 RCF oils with varying monomer selectivity, with average absolute deviations of individual monomer yields between 0.5 and 1.1 wt % (relative 11\u201317%) and R<sup>2</sup> values above 0.9 compared to conventional UHPLC quantification. Quantification of S-type monomers, including for 4-ethylsyringol and 4-propenylsyringol, was generally reliable. The validity of G-type monomer quantifications depended on reaction selectivity due to overlap between peaks of 4-ethylguaiacol and 4-(3-hydroxypropyl)-guaiacol. The method could be applied on crude RCF oils without needing to perform the liquid\u2013liquid extraction typically done for RCF reactions, thereby providing a convenient way to quantify lignin extraction and aromatic monomer yield. Overall, <sup>1</sup>H NMR spectroscopy can serve as a rapid primary quantification or secondary validation method for RCF monomer yield and selectivity measurements.",
@@ -32823,71 +33072,6 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3024784",
-      "active": false
-    },
-    {
-      "brc": "CBI",
-      "title": "Selection and multi-environment yield stability analysis in a switchgrass (Panicum virgatum L.) half-sib panel",
-      "date": "2026-05-31",
-      "identifier": "https://www.osti.gov/biblio/3025251",
-      "bibliographicCitation": "https://doi.org/10.1016/j.biombioe.2025.108885",
-      "topic": [
-        "Unknown"
-      ],
-      "journal_name": "Biomass and Bioenergy",
-      "volume": "209",
-      "publisher_information": "Elsevier BV",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Jazib Ali (ORCID:0000000229121979) Irfan",
-          "primaryContact": true
-        },
-        {
-          "name": "Shiva Om (ORCID:0000000212288174) Makaju",
-          "primaryContact": false
-        },
-        {
-          "name": "Mitra (ORCID:0000000261167758) Mazarei",
-          "primaryContact": false
-        },
-        {
-          "name": "Charles Neal Stewart",
-          "primaryContact": false
-        },
-        {
-          "name": "Ali Mekki (ORCID:0000000317101142) Missaoui",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "Biological and Environmental Research"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Center for Bioenergy Innovation"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Oak Ridge National Laboratory"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "Office of Science"
-          }
-        },
-        {
-          "fundingOrganization": {
-            "organizationName": "U.S. Department of Energy"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/3025251",
       "active": false
     },
     {
