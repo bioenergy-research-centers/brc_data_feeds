@@ -30253,57 +30253,6 @@
     },
     {
       "brc": "CBI",
-      "title": "Elucidating the drought-responsive changes in Poplar cuticular waxes: A GWAS analysis of genes involved in fatty acid biosynthesis",
-      "description": "Drought and episodic drought events are major impending impacts of climate change, limiting the productivity of plants and especially trees due to their inherent high transpiration rates. One common mechanism used by plants to cope with drought stress is to change the composition of their leaf cuticular waxes. Cuticular waxes are essential for controlling non-stomatal water loss and are typically composed of a homologous series of very-long-chain fatty acid-derived compounds, as well as flavonoids, tocopherols, triterpenoids, and phytosterols. In this study, we compared the cuticular waxes of 339 natural accessions of Populus trichocarpa (black cottonwood) grown under control and drought conditions in a common garden. A Genome-Wide Association Study (GWAS) was then used to identify candidate genes associated with cuticular wax biosynthesis and/or its regulation. Although no major differences were observed in total wax load when subject to drought conditions, the amounts of the individual wax constituents were indeed responsive to drought. Specifically, changes in alkenes, alcohols, esters, and aldehydes were evident, and suggest that they contribute to the drought response/tolerance in poplar. GWAS uncovered several genes linked to fatty acid biosynthesis, including CER1, CER3, CER4, FATB, FAB1, FAR3, FAR4, KCS, and a homolog of SOH1, as well as other candidate genes that may be involved in coordinating the drought responses in poplar trees. Our findings provide new evidence that genotype-specific shifts in wax composition, rather than total wax accumulation, contribute to drought adaptation in poplar. Additionally, we show that genetic variation in key wax biosynthetic genes drives cuticular wax plasticity in P. trichocarpa under drought, identifying putative molecular targets for improving stress resilience in trees. This study expands our understanding of the adaptative mechanisms of the cuticle and their potential for enhancing drought tolerance in poplar species.",
-      "abstract": "Drought and episodic drought events are major impending impacts of climate change, limiting the productivity of plants and especially trees due to their inherent high transpiration rates. One common mechanism used by plants to cope with drought stress is to change the composition of their leaf cuticular waxes. Cuticular waxes are essential for controlling non-stomatal water loss and are typically composed of a homologous series of very-long-chain fatty acid-derived compounds, as well as flavonoids, tocopherols, triterpenoids, and phytosterols. In this study, we compared the cuticular waxes of 339 natural accessions of Populus trichocarpa (black cottonwood) grown under control and drought conditions in a common garden. A Genome-Wide Association Study (GWAS) was then used to identify candidate genes associated with cuticular wax biosynthesis and/or its regulation. Although no major differences were observed in total wax load when subject to drought conditions, the amounts of the individual wax constituents were indeed responsive to drought. Specifically, changes in alkenes, alcohols, esters, and aldehydes were evident, and suggest that they contribute to the drought response/tolerance in poplar. GWAS uncovered several genes linked to fatty acid biosynthesis, including CER1, CER3, CER4, FATB, FAB1, FAR3, FAR4, KCS, and a homolog of SOH1, as well as other candidate genes that may be involved in coordinating the drought responses in poplar trees. Our findings provide new evidence that genotype-specific shifts in wax composition, rather than total wax accumulation, contribute to drought adaptation in poplar. Additionally, we show that genetic variation in key wax biosynthetic genes drives cuticular wax plasticity in P. trichocarpa under drought, identifying putative molecular targets for improving stress resilience in trees. This study expands our understanding of the adaptative mechanisms of the cuticle and their potential for enhancing drought tolerance in poplar species.",
-      "date": "2025-05-13",
-      "issue": "13",
-      "identifier": "https://www.osti.gov/biblio/2569829",
-      "bibliographicCitation": "https://doi.org/10.1093/treephys/tpaf060",
-      "keywords": [
-        "Alkanes",
-        "Alkenes",
-        "Drought stress",
-        "Leaf Waxes",
-        "Populus trichocarpa"
-      ],
-      "topic": [
-        "Unknown"
-      ],
-      "journal_name": "Tree Physiology (Online)",
-      "volume": "45",
-      "publisher_information": "Oxford University Press",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Melike [University of British Columbia,Vancouver,BC (Canada)] Karaca-Bulut",
-          "primaryContact": true
-        },
-        {
-          "name": "Eliana [University of Toronto Scarborough,Toronto,ON (Canada)] Gonzales-Vigil",
-          "primaryContact": false
-        },
-        {
-          "name": "Wellington [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Muchero",
-          "primaryContact": false
-        },
-        {
-          "name": "Shawn D. [University of British Columbia,Vancouver,BC (Canada)] Mansfield",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/2569829",
-      "active": false
-    },
-    {
-      "brc": "CBI",
       "title": "A framework for challenges and solutions in biodesign research",
       "description": "The bioeconomy represents an advanced economic paradigm that builds upon previous agricultural, industrial, and digital economic models. It seeks to tackle critical global challenges such as resource scarcity, escalating healthcare demands, and environmental degradation. At the heart of the bioeconomy is biomanufacturing, which uses natural or engineered enzymes or cell factories built from \u200bbiological components like promoters, terminators, regulatory sequences, reporters, and functional genes into various chassis hosts (including animal, microbial, plant, and de novo systems) to create products such as food, energy, medicine, materials, chemicals, and engineered tissue/organs. An enabler of biomanufacturing is biodesign \u2013 also known as biosystems design and closely related to synthetic biology or engineering biology. This interdisciplinary field aims to understand and predictably modify existing life forms or create entirely new biological entities/systems using rational engineering strategies and automated design tools. Through these capabilities, biodesign supports the discovery, optimization, and creation of efficient platforms for biomanufacturing.",
       "abstract": "The bioeconomy represents an advanced economic paradigm that builds upon previous agricultural, industrial, and digital economic models. It seeks to tackle critical global challenges such as resource scarcity, escalating healthcare demands, and environmental degradation. At the heart of the bioeconomy is biomanufacturing, which uses natural or engineered enzymes or cell factories built from \u200bbiological components like promoters, terminators, regulatory sequences, reporters, and functional genes into various chassis hosts (including animal, microbial, plant, and de novo systems) to create products such as food, energy, medicine, materials, chemicals, and engineered tissue/organs. An enabler of biomanufacturing is biodesign \u2013 also known as biosystems design and closely related to synthetic biology or engineering biology. This interdisciplinary field aims to understand and predictably modify existing life forms or create entirely new biological entities/systems using rational engineering strategies and automated design tools. Through these capabilities, biodesign supports the discovery, optimization, and creation of efficient platforms for biomanufacturing.",
