@@ -33076,6 +33076,71 @@
     },
     {
       "brc": "CBI",
+      "title": "Selection and multi-environment yield stability analysis in a switchgrass (Panicum virgatum L.) half-sib panel",
+      "date": "2026-05-31",
+      "identifier": "https://www.osti.gov/biblio/3025251",
+      "bibliographicCitation": "https://doi.org/10.1016/j.biombioe.2025.108885",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biomass and Bioenergy",
+      "volume": "209",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Jazib Ali (ORCID:0000000229121979) Irfan",
+          "primaryContact": true
+        },
+        {
+          "name": "Shiva Om (ORCID:0000000212288174) Makaju",
+          "primaryContact": false
+        },
+        {
+          "name": "Mitra (ORCID:0000000261167758) Mazarei",
+          "primaryContact": false
+        },
+        {
+          "name": "Charles Neal Stewart",
+          "primaryContact": false
+        },
+        {
+          "name": "Ali Mekki (ORCID:0000000317101142) Missaoui",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Biological and Environmental Research"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Center for Bioenergy Innovation"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Oak Ridge National Laboratory"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Science"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "U.S. Department of Energy"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3025251",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Rhythmic Mechanisms Governing CAM Photosynthesis in <em>Kalanchoe fedtschenkoi</em>: High-Resolution Temporal Transcriptomics",
       "description": "Crassulacean acid metabolism (CAM) is a specialized photosynthetic pathway that enhances water-use efficiency by temporally separating nocturnal CO<sub>2</sub> uptake from daytime decarboxylation and carbon fixation. To uncover the regulatory mechanisms coordinating these temporal dynamics, we generated high-resolution, 48 h time-course transcriptomes for the CAM model Kalanchoe fedtschenkoi under both 12 h/12 h light/dark (LD) cycles and continuous light (LL). A rhythmicity analysis revealed that diel light cues are the dominant driver of transcript oscillations: 16,810 genes (54.3% of annotated genes) exhibited rhythmic expression only under LD, whereas just 399 genes (1.3%) remained rhythmic under LL. A smaller set of 3009 genes (9.7%) oscillated in both conditions, indicating that the intrinsic circadian clock sustains rhythmicity for a limited subset of the transcriptome. A gene co-expression network analysis revealed extensive integration between circadian clock components, core CAM pathway enzymes, and stomatal regulators, defining regulatory modules that coordinate metabolic and physiological timing. Notably, key hub genes associated with post-translational and post-transcriptional regulation, including the E3 ubiquitin ligase HUB2 and several pentatricopeptide repeat (PPR) proteins, act as central nodes in CAM-associated networks. This discovery implicates epigenetic and organellar regulation as previously unrecognized critical tiers of control in CAM. Together, our results support a regulatory model in which CAM rhythmicity is governed by both external light/dark cues and the endogenous circadian clock through multi-level control spanning transcriptional and protein-level regulation. To support community exploration, we also provide an interactive eFP (electronic Fluorescent Pictograph) browser for visualizing time-resolved gene expression profiles.",
       "abstract": "Crassulacean acid metabolism (CAM) is a specialized photosynthetic pathway that enhances water-use efficiency by temporally separating nocturnal CO<sub>2</sub> uptake from daytime decarboxylation and carbon fixation. To uncover the regulatory mechanisms coordinating these temporal dynamics, we generated high-resolution, 48 h time-course transcriptomes for the CAM model Kalanchoe fedtschenkoi under both 12 h/12 h light/dark (LD) cycles and continuous light (LL). A rhythmicity analysis revealed that diel light cues are the dominant driver of transcript oscillations: 16,810 genes (54.3% of annotated genes) exhibited rhythmic expression only under LD, whereas just 399 genes (1.3%) remained rhythmic under LL. A smaller set of 3009 genes (9.7%) oscillated in both conditions, indicating that the intrinsic circadian clock sustains rhythmicity for a limited subset of the transcriptome. A gene co-expression network analysis revealed extensive integration between circadian clock components, core CAM pathway enzymes, and stomatal regulators, defining regulatory modules that coordinate metabolic and physiological timing. Notably, key hub genes associated with post-translational and post-transcriptional regulation, including the E3 ubiquitin ligase HUB2 and several pentatricopeptide repeat (PPR) proteins, act as central nodes in CAM-associated networks. This discovery implicates epigenetic and organellar regulation as previously unrecognized critical tiers of control in CAM. Together, our results support a regulatory model in which CAM rhythmicity is governed by both external light/dark cues and the endogenous circadian clock through multi-level control spanning transcriptional and protein-level regulation. To support community exploration, we also provide an interactive eFP (electronic Fluorescent Pictograph) browser for visualizing time-resolved gene expression profiles.",
