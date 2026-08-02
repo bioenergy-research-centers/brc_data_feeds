@@ -34869,6 +34869,61 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3385030",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Linking Plant and Microbial Traits to Soil Carbon for Reliable and Resilient Bioenergy Systems",
+      "description": "Bioenergy systems in the United States offer a dual opportunity to supply renewable feedstocks while enhancing ecosystem services such as hydrologic regulation, erosion control, and soil carbon (C) storage. National assessments highlight the potential for perennial energy crops on marginal and under-utilized lands to improve soil function and ecosystem resilience. Realizing this potential requires understanding the ecological mechanisms that govern how C is added, transformed, and stabilized in soils. Plant traits determine the quantity, depth, and chemistry of organic inputs, while microbial processes\u2014including carbon use efficiency, necromass formation, and trophic interactions\u2014mediate their transformation and persistence. These biological pathways are shaped by soil physical and chemical properties, including aggregation, texture, and mineralogy, and by environmental drivers such as temperature, moisture, and disturbance. Management practices that diversify feedstocks, minimize disturbance, and maintain soil cover promote both biomass production and soil C retention, while microbial amendments and rhizosphere engineering offer emerging tools to optimize plant\u2013microbe interactions. Advances in monitoring, verification, and modeling\u2014spanning precision agriculture, remote sensing, and biosensing\u2014are improving predictive capacity through microbial-explicit process models and model\u2013experiment (ModEx) frameworks. By connecting soil, plant, and microbial processes with advances in modeling and biosensing, this review outlines research priorities focused on trait-based parameterization, ModEx integration, and scalable C monitoring. These priorities will accelerate the design of reliable, resilient bioenergy systems that enhance both renewable energy production and ecosystem sustainability.",
+      "abstract": "Bioenergy systems in the United States offer a dual opportunity to supply renewable feedstocks while enhancing ecosystem services such as hydrologic regulation, erosion control, and soil carbon (C) storage. National assessments highlight the potential for perennial energy crops on marginal and under-utilized lands to improve soil function and ecosystem resilience. Realizing this potential requires understanding the ecological mechanisms that govern how C is added, transformed, and stabilized in soils. Plant traits determine the quantity, depth, and chemistry of organic inputs, while microbial processes\u2014including carbon use efficiency, necromass formation, and trophic interactions\u2014mediate their transformation and persistence. These biological pathways are shaped by soil physical and chemical properties, including aggregation, texture, and mineralogy, and by environmental drivers such as temperature, moisture, and disturbance. Management practices that diversify feedstocks, minimize disturbance, and maintain soil cover promote both biomass production and soil C retention, while microbial amendments and rhizosphere engineering offer emerging tools to optimize plant\u2013microbe interactions. Advances in monitoring, verification, and modeling\u2014spanning precision agriculture, remote sensing, and biosensing\u2014are improving predictive capacity through microbial-explicit process models and model\u2013experiment (ModEx) frameworks. By connecting soil, plant, and microbial processes with advances in modeling and biosensing, this review outlines research priorities focused on trait-based parameterization, ModEx integration, and scalable C monitoring. These priorities will accelerate the design of reliable, resilient bioenergy systems that enhance both renewable energy production and ecosystem sustainability.",
+      "date": "2026-06-30",
+      "issue": "7",
+      "identifier": "https://www.osti.gov/biblio/3395431",
+      "bibliographicCitation": "https://doi.org/10.1111/gcbb.70122",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Global Change Biology Bioenergy",
+      "volume": "18",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Aubrey   [ORNL] (ORCID:0000000193128369) Fine",
+          "primaryContact": true
+        },
+        {
+          "name": "Anis   [ORNL] (ORCID:0000000234941015) Khokon",
+          "primaryContact": false
+        },
+        {
+          "name": "Ilenne   [ORNL] (ORCID:0000000204832141) Del Valle Kessra",
+          "primaryContact": false
+        },
+        {
+          "name": "John   [ORNL] (ORCID:0000000344518947) Field",
+          "primaryContact": false
+        },
+        {
+          "name": "Laura E [Washington State University,Pullman,WA] Bartley",
+          "primaryContact": false
+        },
+        {
+          "name": "Larry   [ORNL] (ORCID:0000000219959479) York",
+          "primaryContact": false
+        },
+        {
+          "name": "Melissa   [ORNL] (ORCID:000000018329366X) Cregger",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3395431",
+      "active": false
     }
   ]
 }
