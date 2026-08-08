@@ -5641,6 +5641,58 @@
     },
     {
       "brc": "CBI",
+      "title": "High\u2010density linkage map reveals QTL underlying growth traits in AP13\u00d7VS16 biparental population of switchgrass",
+      "description": "<title>Abstract</title>\n <p>\n Switchgrass (\n <italic>Panicum virgatum</italic>\n L.), a native warm\u2010season perennial grass, is being considered as a feedstock for biofuel production in the United States. To expedite its genetic improvement and enhance genetic gain per selection cycle, application of marker\u2010assisted selection is indispensable. A high\u2010density linkage map was constructed in a pseudo\u2010F\n <sub>1</sub>\n testcross mapping population of AP13\u00d7VS16, consisting of 349 progenies. A total of 8,757 single nucleotide polymorphism (SNP) markers generated through genotype\u2010by\u2010sequencing (GBS) were used to construct the linkage map. The total map length spans up to 2,540.2\u00a0cM with the marker density of one marker in every 0.25\u20130.34\u00a0cM. Spring green\u2010up (SG), days to flowering (FL), and the vegetative growth period (VP) data were analyzed and used for quantitative trait loci (QTL) mapping. The population showed significant variations and exhibited transgressive segregation for SG, FL, and VP. QTL analyses were performed using trait mean of each year and location along with BLUP (best linear unbiased prediction) values of the traits. A total of 35, 37, and 34 QTL for SG, FL, and VP, respectively, were identified. Phenotypic variability explained by each QTL ranged from 11.29% to 27.85%. The additive genetic effects of individual QTL ranged from \u22121.81 to 2.40, \u22126.12 to 7.58, and \u221216.01 to 6.38 for SG, FL, and VP, respectively. Comparing major QTL regions in the switchgrass genome, 20 candidate genes were identified which were reported to be involved in growth\u2010, development\u2010, and flowering\u2010related traits in switchgrass.\n </p>",
+      "abstract": "<title>Abstract</title>\n <p>\n Switchgrass (\n <italic>Panicum virgatum</italic>\n L.), a native warm\u2010season perennial grass, is being considered as a feedstock for biofuel production in the United States. To expedite its genetic improvement and enhance genetic gain per selection cycle, application of marker\u2010assisted selection is indispensable. A high\u2010density linkage map was constructed in a pseudo\u2010F\n <sub>1</sub>\n testcross mapping population of AP13\u00d7VS16, consisting of 349 progenies. A total of 8,757 single nucleotide polymorphism (SNP) markers generated through genotype\u2010by\u2010sequencing (GBS) were used to construct the linkage map. The total map length spans up to 2,540.2\u00a0cM with the marker density of one marker in every 0.25\u20130.34\u00a0cM. Spring green\u2010up (SG), days to flowering (FL), and the vegetative growth period (VP) data were analyzed and used for quantitative trait loci (QTL) mapping. The population showed significant variations and exhibited transgressive segregation for SG, FL, and VP. QTL analyses were performed using trait mean of each year and location along with BLUP (best linear unbiased prediction) values of the traits. A total of 35, 37, and 34 QTL for SG, FL, and VP, respectively, were identified. Phenotypic variability explained by each QTL ranged from 11.29% to 27.85%. The additive genetic effects of individual QTL ranged from \u22121.81 to 2.40, \u22126.12 to 7.58, and \u221216.01 to 6.38 for SG, FL, and VP, respectively. Comparing major QTL regions in the switchgrass genome, 20 candidate genes were identified which were reported to be involved in growth\u2010, development\u2010, and flowering\u2010related traits in switchgrass.\n </p>",
+      "date": "2019-01-28",
+      "issue": "5",
+      "identifier": "https://www.osti.gov/biblio/1504288",
+      "bibliographicCitation": "https://doi.org/10.1111/gcbb.12592",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Global Change Biology. Bioenergy",
+      "volume": "11",
+      "publisher_information": "Wiley-Blackwell",
+      "country_publication_code": "GB",
+      "creator": [
+        {
+          "name": "Shahjahan [Noble Research Institute,LLC. Ardmore Oklahoma] Ali",
+          "primaryContact": true
+        },
+        {
+          "name": "Desalegn D. [Kansas State University,AG Research Centers\u2010Hays Hays Kansas] Serba",
+          "primaryContact": false
+        },
+        {
+          "name": "Jerry [Hudson Alpha Institute for Biotechnology Huntsville Alabama] Jenkins",
+          "primaryContact": false
+        },
+        {
+          "name": "Soonil [Noble Research Institute,LLC. Ardmore Oklahoma] Kwon",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy [Department of Energy Joint Genome Institute Walnut Creek California] Schmutz",
+          "primaryContact": false
+        },
+        {
+          "name": "Malay C. [Noble Research Institute,LLC. Ardmore Oklahoma] (ORCID:0000000344422320) Saha",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1504288",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Automated glycan assembly of galactosylated xyloglucan oligosaccharides and their recognition by plant cell wall glycan-directed antibodies",
       "description": "We report the automated glycan assembly of oligosaccharides related to the plant cell wall hemicellulosic polysaccharide xyloglucan. The synthesis of galactosylated xyloglucan oligosaccharides was enabled by introducing p-methoxybenzyl (PMB) as a temporary protecting group for automated glycan assembly. The generated oligosaccharides were printed as microarrays, and the binding of a collection of xyloglucan-directed monoclonal antibodies (mAbs) to the oligosaccharides was assessed. We also demonstrated that the printed glycans can be further enzymatically modified while appended to the microarray surface by Arabidopsis thaliana xyloglucan xylosyltransferase 2 (AtXXT2).",
       "abstract": "We report the automated glycan assembly of oligosaccharides related to the plant cell wall hemicellulosic polysaccharide xyloglucan. The synthesis of galactosylated xyloglucan oligosaccharides was enabled by introducing p-methoxybenzyl (PMB) as a temporary protecting group for automated glycan assembly. The generated oligosaccharides were printed as microarrays, and the binding of a collection of xyloglucan-directed monoclonal antibodies (mAbs) to the oligosaccharides was assessed. We also demonstrated that the printed glycans can be further enzymatically modified while appended to the microarray surface by Arabidopsis thaliana xyloglucan xylosyltransferase 2 (AtXXT2).",
@@ -30123,80 +30175,6 @@
       "active": false,
       "has_related_ids": [
         "NREL/JA-2800-91809"
-      ]
-    },
-    {
-      "brc": "CBI",
-      "title": "Structural Characterization and Dynamics of AdhE Ultrastructures from Clostridium thermocellum Show a Containment Strategy for Toxic Intermediates",
-      "description": "Clostridium thermocellum, a cellulolytic thermophilic anaerobe, is considered by many to be a prime candidate for the realization of consolidated bioprocessing (CBP) and is known as an industry standard for biofuel production. C. thermocellum is among the best biomass degraders identified to date in nature and produces ethanol as one of its main products. Many studies have helped increase ethanol titers in this microbe; however, ethanol production using C. thermocellum is still not economically viable. Therefore, a better understanding of its ethanol synthesis pathway is required. The main pathway for ethanol production in C. thermocellum involves the bifunctional aldehyde-alcohol dehydrogenase (AdhE). To better understand the function of the C. thermocellum AdhE, we used cryo-electron microscopy (cryo-EM) to obtain a 3.28 A structure of the AdhE complex. This high-resolution structure, in combination with molecular dynamics simulations, provides insight into the substrate channeling of the toxic intermediate acetaldehyde, indicates the potential role of C. thermocellum AdhE to regulate activity and cofactor pools, and establishes a basis for future engineering studies. The containment strategy found in this enzyme offers a template that could be replicated in other systems where toxic intermediates need to be sequestered to increase the production of valuable biochemicals.",
-      "abstract": "Clostridium thermocellum, a cellulolytic thermophilic anaerobe, is considered by many to be a prime candidate for the realization of consolidated bioprocessing (CBP) and is known as an industry standard for biofuel production. C. thermocellum is among the best biomass degraders identified to date in nature and produces ethanol as one of its main products. Many studies have helped increase ethanol titers in this microbe; however, ethanol production using C. thermocellum is still not economically viable. Therefore, a better understanding of its ethanol synthesis pathway is required. The main pathway for ethanol production in C. thermocellum involves the bifunctional aldehyde-alcohol dehydrogenase (AdhE). To better understand the function of the C. thermocellum AdhE, we used cryo-electron microscopy (cryo-EM) to obtain a 3.28 A structure of the AdhE complex. This high-resolution structure, in combination with molecular dynamics simulations, provides insight into the substrate channeling of the toxic intermediate acetaldehyde, indicates the potential role of C. thermocellum AdhE to regulate activity and cofactor pools, and establishes a basis for future engineering studies. The containment strategy found in this enzyme offers a template that could be replicated in other systems where toxic intermediates need to be sequestered to increase the production of valuable biochemicals.",
-      "date": "2024-05-23",
-      "identifier": "https://www.osti.gov/biblio/2568050",
-      "bibliographicCitation": "https://doi.org/10.7554/eLife.96966.3",
-      "keywords": [
-        "09 BIOMASS FUELS",
-        "BIOMASS FUELS",
-        "Cryo-EM",
-        "biofuel",
-        "consolidated bio-processing",
-        "ethanol",
-        "molecular dynamics"
-      ],
-      "topic": [
-        "Biomass & Feedstock"
-      ],
-      "journal_name": "eLife",
-      "volume": "13",
-      "country_publication_code": "US",
-      "creator": [
-        {
-          "name": "Samantha [National Renewable Energy Lab.,Golden,CO (United States)] Ziegler",
-          "primaryContact": true
-        },
-        {
-          "name": "Brandon [National Renewable Energy Lab.,Golden,CO (United States)] Knott",
-          "primaryContact": false
-        },
-        {
-          "name": "Josephine [National Renewable Energy Lab.,Golden,CO (United States)] Gruber",
-          "primaryContact": false
-        },
-        {
-          "name": "Neal [National Renewable Energy Lab.,Golden,CO (United States)] Hengge",
-          "primaryContact": false
-        },
-        {
-          "name": "Qi [National Renewable Energy Lab.,Golden,CO (United States)] Xu",
-          "primaryContact": false
-        },
-        {
-          "name": "Daniel [Dartmouth College] Olson",
-          "primaryContact": false
-        },
-        {
-          "name": "Eduardo [University of Colorado Anschutz Medical Campus] Romero",
-          "primaryContact": false
-        },
-        {
-          "name": "Lydia [SLAC National Accelerator Laboratory] Joubert",
-          "primaryContact": false
-        },
-        {
-          "name": "Yannick [National Renewable Energy Lab.,Golden,CO (United States)] Bomble",
-          "primaryContact": false
-        }
-      ],
-      "funding": [
-        {
-          "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
-          }
-        }
-      ],
-      "dataset_url": "https://www.osti.gov/biblio/2568050",
-      "active": false,
-      "has_related_ids": [
-        "NREL/JA-2700-87838"
       ]
     },
     {
