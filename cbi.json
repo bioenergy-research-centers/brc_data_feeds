@@ -6332,6 +6332,94 @@
     },
     {
       "brc": "CBI",
+      "title": "Predicting the Longitudinally and Radially Varying Gut Microbiota Composition Using Multi-Scale Microbial Metabolic Modeling",
+      "description": "<p>Background: The gut microbiota is a heterogeneous group of microbes that is spatially distributed along various sections of the intestines and across the mucosa and lumen in each section. Understanding the dynamics between the spatially differential microbial populations and the driving forces for the observed spatial organization will provide valuable insights into important questions such as the nature of colonization of the infant gut and different types of inflammatory bowel disease localized in different regions of the intestines. However, in most studies, the microbiota is sampled only at a single site (often feces) or from a particular anatomical site of the intestines. Differential oxygen availability is putatively a key factor shaping the spatial organization. Results: To test this hypothesis, we constructed a community genome-scale metabolic model consisting of representative organisms for the major phyla present in the human gut microbiome. By solving step-wise optimization problems embedded in a dynamic framework to predict community metabolism and integrate the mucosally-adherent with the luminal microbiome between consecutive sections along the intestines, we were able to capture (i) the essential features of the spatially differential composition of obligate anaerobes vs. facultative anaerobes and aerobes determined experimentally, and (ii) the accumulation of microbial biomass in the lumen. Sensitivity analysis suggests that the spatial organization depends primarily on the oxygen-per-microbe availability in each region. Oxygen availability is reduced relative to the ~100-fold increase in mucosal microbial density along the intestines, causing the switch between aerobes and anaerobes. Conclusion: The proposed integrated dynamic framework is able to predict spatially differential gut microbiota composition using microbial genome-scale metabolic models and test hypotheses regarding the dynamics of the gut microbiota. It can potentially become a valuable tool for exploring therapeutic strategies for site-specific perturbation of the gut microbiota and the associated metabolic activities.</p>",
+      "abstract": "<p>Background: The gut microbiota is a heterogeneous group of microbes that is spatially distributed along various sections of the intestines and across the mucosa and lumen in each section. Understanding the dynamics between the spatially differential microbial populations and the driving forces for the observed spatial organization will provide valuable insights into important questions such as the nature of colonization of the infant gut and different types of inflammatory bowel disease localized in different regions of the intestines. However, in most studies, the microbiota is sampled only at a single site (often feces) or from a particular anatomical site of the intestines. Differential oxygen availability is putatively a key factor shaping the spatial organization. Results: To test this hypothesis, we constructed a community genome-scale metabolic model consisting of representative organisms for the major phyla present in the human gut microbiome. By solving step-wise optimization problems embedded in a dynamic framework to predict community metabolism and integrate the mucosally-adherent with the luminal microbiome between consecutive sections along the intestines, we were able to capture (i) the essential features of the spatially differential composition of obligate anaerobes vs. facultative anaerobes and aerobes determined experimentally, and (ii) the accumulation of microbial biomass in the lumen. Sensitivity analysis suggests that the spatial organization depends primarily on the oxygen-per-microbe availability in each region. Oxygen availability is reduced relative to the ~100-fold increase in mucosal microbial density along the intestines, causing the switch between aerobes and anaerobes. Conclusion: The proposed integrated dynamic framework is able to predict spatially differential gut microbiota composition using microbial genome-scale metabolic models and test hypotheses regarding the dynamics of the gut microbiota. It can potentially become a valuable tool for exploring therapeutic strategies for site-specific perturbation of the gut microbiota and the associated metabolic activities.</p>",
+      "date": "2019-06-25",
+      "issue": "7",
+      "identifier": "https://www.osti.gov/biblio/1529648",
+      "bibliographicCitation": "https://doi.org/10.3390/pr7070394",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "Engineering",
+        "genome-scale metabolic model",
+        "gut microbiome",
+        "multi-scale modeling",
+        "spatial heterogeneity"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Processes",
+      "volume": "7",
+      "publisher_information": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "country_publication_code": "Switzerland",
+      "creator": [
+        {
+          "name": "Chan",
+          "primaryContact": true
+        },
+        {
+          "name": "Friedman",
+          "primaryContact": false
+        },
+        {
+          "name": "Wu",
+          "primaryContact": false
+        },
+        {
+          "name": "Maranas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1529648",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Comparison of Multi-Objective Evolutionary Algorithms to Solve the Modular Cell Design Problem for Novel Biocatalysis",
+      "description": "<p>A large space of chemicals with broad industrial and consumer applications could be synthesized by engineered microbial biocatalysts. However, the current strain optimization process is prohibitively laborious and costly to produce one target chemical and often requires new engineering efforts to produce new molecules. To tackle this challenge, modular cell design based on a chassis strain that can be combined with different product synthesis pathway modules has recently been proposed. This approach seeks to minimize unexpected failure and avoid task repetition, leading to a more robust and faster strain engineering process. In our previous study, we mathematically formulated the modular cell design problem based on the multi-objective optimization framework. In this study, we evaluated a library of state-of-the-art multi-objective evolutionary algorithms (MOEAs) to identify the most effective method to solve the modular cell design problem. Using the best MOEA, we found better solutions for modular cells compatible with many product synthesis modules. Furthermore, the best performing algorithm could provide better and more diverse design options that might help increase the likelihood of successful experimental implementation. We identified key parameter configurations to overcome the difficulty associated with multi-objective optimization problems with many competing design objectives. Interestingly, we found that MOEA performance with a real application problem, e.g., the modular strain design problem, does not always correlate with artificial benchmarks. Overall, MOEAs provide powerful tools to solve the modular cell design problem for novel biocatalysis.</p>",
+      "abstract": "<p>A large space of chemicals with broad industrial and consumer applications could be synthesized by engineered microbial biocatalysts. However, the current strain optimization process is prohibitively laborious and costly to produce one target chemical and often requires new engineering efforts to produce new molecules. To tackle this challenge, modular cell design based on a chassis strain that can be combined with different product synthesis pathway modules has recently been proposed. This approach seeks to minimize unexpected failure and avoid task repetition, leading to a more robust and faster strain engineering process. In our previous study, we mathematically formulated the modular cell design problem based on the multi-objective optimization framework. In this study, we evaluated a library of state-of-the-art multi-objective evolutionary algorithms (MOEAs) to identify the most effective method to solve the modular cell design problem. Using the best MOEA, we found better solutions for modular cells compatible with many product synthesis modules. Furthermore, the best performing algorithm could provide better and more diverse design options that might help increase the likelihood of successful experimental implementation. We identified key parameter configurations to overcome the difficulty associated with multi-objective optimization problems with many competing design objectives. Interestingly, we found that MOEA performance with a real application problem, e.g., the modular strain design problem, does not always correlate with artificial benchmarks. Overall, MOEAs provide powerful tools to solve the modular cell design problem for novel biocatalysis.</p>",
+      "date": "2019-06-10",
+      "issue": "6",
+      "identifier": "https://www.osti.gov/biblio/1529693",
+      "bibliographicCitation": "https://doi.org/10.3390/pr7060361",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Processes",
+      "volume": "7",
+      "publisher_information": "MDPI AG",
+      "country_publication_code": "Switzerland",
+      "creator": [
+        {
+          "name": "Sergio (ORCID:000000023998986X) Garcia",
+          "primaryContact": true
+        },
+        {
+          "name": "Cong T. (ORCID:000000028362725X) Trinh",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1529693",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "The unexpected malleability of lignin",
       "description": "Here, Curcumin, an aromatic diarylheptanoid, is a principal component of turmeric (<em>Curcuma longa</em>), commonly used in Asian cooking, giving curry its orange colour. Introducing two enzymes into <em>Arabidopsis thaliana</em> caused incorporation of curcumin into its lignin polymer, enhancing sugar release from the cell wall and turning it yellow.",
       "abstract": "Here, Curcumin, an aromatic diarylheptanoid, is a principal component of turmeric (<em>Curcuma longa</em>), commonly used in Asian cooking, giving curry its orange colour. Introducing two enzymes into <em>Arabidopsis thaliana</em> caused incorporation of curcumin into its lignin polymer, enhancing sugar release from the cell wall and turning it yellow.",
