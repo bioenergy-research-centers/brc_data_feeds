@@ -15396,6 +15396,59 @@
     },
     {
       "brc": "CBI",
+      "title": "Computational biophysical characterization of the SARS-CoV-2 spike protein binding with the ACE2 receptor and implications for infectivity",
+      "description": "Not Available",
+      "abstract": "Not Available",
+      "date": "2019-12-31",
+      "issue": "C",
+      "identifier": "https://www.osti.gov/biblio/1762536",
+      "bibliographicCitation": "https://doi.org/10.1016/j.csbj.2020.09.019",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "ATR1",
+        "Biophysics",
+        "COVID 19",
+        "Human ACE2",
+        "SARS CoV-2"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "Computational and Structural Biotechnology Journal",
+      "volume": "18",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "Sweden",
+      "creator": [
+        {
+          "name": "Ratul Chowdhury",
+          "primaryContact": true
+        },
+        {
+          "name": "Veda Sheersh Boorla",
+          "primaryContact": false
+        },
+        {
+          "name": "Costas D. Maranas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/1762536",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Double bonus: surfactant-assisted biomass pelleting benefits both the pelleting process and subsequent enzymatic saccharification of the pretreated pellets",
       "description": "Pelleting overcomes the utilization limitation of lignocellulosic biomass due to its low density and related processing costs. Efficiently combining biomass pelleting and enzymatic saccharification is a challenge for applying biomass with low density in a biorefinery. In this study, we propose a novel biomass processing approach involving the addition of surfactant during pelleting and using the pellets for pretreatment and enzymatic saccharification. Here, we investigated the effects of polyethylene glycol (PEG) 6000 assisted pelleting on pelleting specific energy consumption and friction, and on subsequent pretreatment as well as on enzymatic saccharification of the pretreated pellets. The results showed that PEG 6000 assisted pelleting decreased the total pelleting specific energy consumption by about 14% for wheat straw and 18% for pine, and reduced the maximum friction during ejection of pellets by about 34% for wheat straw and 29% for pine. PEG 6000 assisted pelleting enhanced subsequent enzymatic sugar yield effectively for both acid and alkaline pretreated wheat straw and pine, especially for acid-treated pine pellets, where a 256% increase in glucose yield was obtained. The results suggest that PEG 6000 decreases the cleavage of \u03b2-O-4' linkages during pretreatment and thus hinders the formation of phenolic hydroxyl groups, contributing to the enhanced sugar yield in enzymatic saccharification. As surfactants were found to have beneficial effects on both biomass pelleting and the sugar yield obtained from the enzymatic saccharification of the pretreated pellets, it would be advantageous to add surfactants during pelletizing when the pellets are intended for application in a biorefinery.",
       "abstract": "Pelleting overcomes the utilization limitation of lignocellulosic biomass due to its low density and related processing costs. Efficiently combining biomass pelleting and enzymatic saccharification is a challenge for applying biomass with low density in a biorefinery. In this study, we propose a novel biomass processing approach involving the addition of surfactant during pelleting and using the pellets for pretreatment and enzymatic saccharification. Here, we investigated the effects of polyethylene glycol (PEG) 6000 assisted pelleting on pelleting specific energy consumption and friction, and on subsequent pretreatment as well as on enzymatic saccharification of the pretreated pellets. The results showed that PEG 6000 assisted pelleting decreased the total pelleting specific energy consumption by about 14% for wheat straw and 18% for pine, and reduced the maximum friction during ejection of pellets by about 34% for wheat straw and 29% for pine. PEG 6000 assisted pelleting enhanced subsequent enzymatic sugar yield effectively for both acid and alkaline pretreated wheat straw and pine, especially for acid-treated pine pellets, where a 256% increase in glucose yield was obtained. The results suggest that PEG 6000 decreases the cleavage of \u03b2-O-4' linkages during pretreatment and thus hinders the formation of phenolic hydroxyl groups, contributing to the enhanced sugar yield in enzymatic saccharification. As surfactants were found to have beneficial effects on both biomass pelleting and the sugar yield obtained from the enzymatic saccharification of the pretreated pellets, it would be advantageous to add surfactants during pelletizing when the pellets are intended for application in a biorefinery.",
@@ -33448,6 +33501,494 @@
       "has_related_ids": [
         "BNL-229524-2026-JAAM"
       ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Depth-dependent links between microbial taxa and nitrous oxide emissions in a long-term cotton cropping system employing soil health practices",
+      "description": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N<sub>2</sub>O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N<sub>2</sub>O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N<sub>2</sub>O emissions. Among the management practices, N fertilization \u2013 a known driver of N<sub>2</sub>O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N<sub>2</sub>O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N<sub>2</sub>O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N<sub>2</sub>O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N<sub>2</sub>O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N<sub>2</sub>O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N<sub>2</sub>O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
+      "abstract": "Long-term management practices can shape soil microbial communities in ways that influence nitrogen (N) dynamics and nitrous oxide (N<sub>2</sub>O) emissions. We leverage a 41-year continuous cotton cropping experiment with contrasting tillage, cover cropping, and N fertilization regimes to investigate how these long-term strategies influence soil microbial communities and their associations with N<sub>2</sub>O fluxes during the cotton growing season. Using 16S rRNA gene metabarcoding, we assessed microbial composition in surface and subsurface soils and evaluated its relationship with temporal N<sub>2</sub>O emissions. Among the management practices, N fertilization \u2013 a known driver of N<sub>2</sub>O emissions \u2013 had the strongest effect on microbial community composition and was linked to a greater number of taxa correlated to N<sub>2</sub>O emissions, particularly in surface soils. Soil pH emerged as a key variable influencing microbial structure across depth and was negatively associated with both N<sub>2</sub>O emissions and microbial composition in the surface layers of fertilized soils. In total, 57 archaeal/bacterial taxa were correlated with N<sub>2</sub>O fluxes, but only seven were shared across depths, suggesting distinct microbial contributors in surface and subsurface soils. Several of these taxa have been previously reported to be associated with N and C cycling processes such as nitrate respiration or carbon turnover, indicating functional context to their correlation with N<sub>2</sub>O fluxes. Temporal shifts in the abundance of key taxa aligned with seasonal peaks in N<sub>2</sub>O emissions, notably in early and late August, and were most pronounced under conventional tillage, hairy vetch cover cropping, and N fertilization. While 16S-based associations cannot confirm functional gene presence or activity, these findings demonstrate that long-term fertilization and associated soil acidification are dominant drivers of microbial shifts linked to N<sub>2</sub>O emissions and highlight the importance of accounting for depth-specific and seasonal microbial dynamics when evaluating management impacts on greenhouse gas emissions.",
+      "date": "2025-12-02",
+      "identifier": "https://www.osti.gov/biblio/3030350",
+      "bibliographicCitation": "https://doi.org/10.1016/j.geoderma.2025.117620",
+      "keywords": [
+        "16S rRNA gene sequencing",
+        "Depth-specific microbial responses",
+        "Greenhouse gas",
+        "Long-term fertilization",
+        "Metabarcoding",
+        "Soil health practices",
+        "Soil microbial communities"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Geoderma",
+      "volume": "464",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Facundo [University of Tennessee,Knoxville,TN (United States)] Lussich",
+          "primaryContact": true
+        },
+        {
+          "name": "Jashanjeet Kaur [University of Tennessee,Knoxville,TN (United States)] (ORCID:000000023527033X) Dhaliwal",
+          "primaryContact": false
+        },
+        {
+          "name": "Shawn P. [University of Memphis,TN (United States)] Brown",
+          "primaryContact": false
+        },
+        {
+          "name": "Melissa A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000018329366X) Cregger",
+          "primaryContact": false
+        },
+        {
+          "name": "Debasish [University of Tennessee,Knoxville,TN (United States)] (ORCID:000000019425675X) Saha",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDA"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030350",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Unraveling plant phenotype to genotype associations with daily hyperspectral traits in <em>Populus trichocarpa</em>",
+      "description": "Hyperspectral remote sensing is a powerful, high-throughput phenotyping tool that quantifies physiologically and structurally relevant wavelengths across diverse genotypes and over varying temporal scales. In this study, we combined tower-based continuous hyperspectral sensing with genome-wide association studies to analyze 1423 wavebands (400-900 nm) and derivative vegetation indices across 505 genotypes and the genetic architecture of hyperspectral phenotypes over time in Populus trichocarpa Torr. &amp; Gray grown under field conditions. Wavelengths related to chlorophyll and carotenoid absorption spectra exhibited the strongest genetic variation resulting in 98 significant SNP associations. Notably, we found substantial overlap in genetic association between the blue and red spectral regions, indicative of carotenoids and chlorophyll, respectively, and identified more than 10 candidate genes associated with chloroplast function, underpinning photosynthetic activity. Furthermore, fluctuations in associations for vegetative indices, such as the chlorophyll:carotenoid index (CCI), across the growing season reveal a temporally dynamic genetic architecture of physiological traits associated with fall senescence of this temperate tree species. Finally, we also observed correlations (spearman rho = 0.3, p &lt; 1x10<sup>\u22128</sup>) between individual wavebands or vegetative indices and growth rate, assessed as the relative change of tree height over the growing season. The growth rate prediction was substantially improved by a regularization multivariate model (spearman rho&gt;0.5, p &lt; 1x10<sup>\u221216</sup>), reinforcing the value of hyperspectral measurements for predicting traits linked to tree productivity. These findings highlight the potential of high-throughput, rapid, hyperspectral genome wide association studies GWAS to uncover physiologically meaningful genetic variation and offer promising insights for future acceleration for plant breeding.",
+      "abstract": "Hyperspectral remote sensing is a powerful, high-throughput phenotyping tool that quantifies physiologically and structurally relevant wavelengths across diverse genotypes and over varying temporal scales. In this study, we combined tower-based continuous hyperspectral sensing with genome-wide association studies to analyze 1423 wavebands (400-900 nm) and derivative vegetation indices across 505 genotypes and the genetic architecture of hyperspectral phenotypes over time in Populus trichocarpa Torr. &amp; Gray grown under field conditions. Wavelengths related to chlorophyll and carotenoid absorption spectra exhibited the strongest genetic variation resulting in 98 significant SNP associations. Notably, we found substantial overlap in genetic association between the blue and red spectral regions, indicative of carotenoids and chlorophyll, respectively, and identified more than 10 candidate genes associated with chloroplast function, underpinning photosynthetic activity. Furthermore, fluctuations in associations for vegetative indices, such as the chlorophyll:carotenoid index (CCI), across the growing season reveal a temporally dynamic genetic architecture of physiological traits associated with fall senescence of this temperate tree species. Finally, we also observed correlations (spearman rho = 0.3, p &lt; 1x10<sup>\u22128</sup>) between individual wavebands or vegetative indices and growth rate, assessed as the relative change of tree height over the growing season. The growth rate prediction was substantially improved by a regularization multivariate model (spearman rho&gt;0.5, p &lt; 1x10<sup>\u221216</sup>), reinforcing the value of hyperspectral measurements for predicting traits linked to tree productivity. These findings highlight the potential of high-throughput, rapid, hyperspectral genome wide association studies GWAS to uncover physiologically meaningful genetic variation and offer promising insights for future acceleration for plant breeding.",
+      "date": "2026-03-26",
+      "issue": "2",
+      "identifier": "https://www.osti.gov/biblio/3030360",
+      "bibliographicCitation": "https://doi.org/10.1016/j.plaphe.2026.100174",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Carotenoids",
+        "Chlorophyll",
+        "Chloroplasts",
+        "Feedstock Development",
+        "CBI",
+        "Field-based",
+        "Genetic basis of hyperspectral traits",
+        "Heritability",
+        "Hyperspectral GWAS",
+        "Hyperspectral remote sensing",
+        "Poplar",
+        "Populus Trichocarpa",
+        "Vegetation indices",
+        "hyperspectral"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Plant Phenomics",
+      "volume": "8",
+      "publisher_information": "AAAS",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Marie C. [Univ. of California,Davis,CA (United States)] (ORCID:0009000341998970) Klein",
+          "primaryContact": true
+        },
+        {
+          "name": "Christopher YS. [Univ. of California,Davis,CA (United States); Univ. of New Brunswick,Fredericton NB (Canada)] Wong",
+          "primaryContact": false
+        },
+        {
+          "name": "J. Grey [Univ. of California,Davis,CA (United States)] Monroe",
+          "primaryContact": false
+        },
+        {
+          "name": "Jack [Univ. of California,Davis,CA (United States)] Bailey-Bale",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas N. [Univ. of California,Davis,CA (United States)] Buckley",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000217524201) Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Mengjun [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000263232664) Shu",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Troy S. [Univ. of California,Davis,CA (United States); Univ. of Montana,Missoula,MT (United States)] (ORCID:0000000290330024) Magney",
+          "primaryContact": false
+        },
+        {
+          "name": "Gail [Univ. of California,Davis,CA (United States); Univ. College London (United Kingdom)] (ORCID:0000000184706390) Taylor",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030360",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Woody Plant Transformation: Current Status, Challenges, and Future Perspectives",
+      "description": "Woody plants, comprising forest and fruit tree species, provide essential ecological and economic benefits to society. Their genetic improvement is challenging due to long generation intervals and high heterozygosity. Genetic transformation, which combines targeted DNA delivery with plant regeneration from transformed cells, offers a powerful alternative to accelerating their domestication and improvement. Agrobacterium tumefaciens, Rhizobium rhizogenes, and particle bombardment have been widely used for DNA delivery into a wide variety of explants, including leaves, stems, hypocotyls, roots, and embryos, with regeneration occurring via direct organogenesis, callus-mediated organogenesis, somatic embryogenesis, or hairy root formation. Despite successes, conventional approaches are hampered by low efficiency, genotype dependency, and a reliance on challenging tissue culture. This review provides a critical analysis of the current landscape in woody plant transformation, moving beyond a simple summary of techniques to evaluate the co-evolution of established platforms with disruptive technologies. Key advances among these include the use of developmental regulators to engineer regeneration, the rise in in planta systems to bypass tissue culture, and the imperative for DNA-free genome editing to meet regulatory and public expectations. By examining species-specific breakthroughs in key genera, including Populus, Malus, Citrus, and Pinus, this review highlights a paradigm shift from empirical optimization towards rational, predictable engineering of woody plants for a sustainable future.",
+      "abstract": "Woody plants, comprising forest and fruit tree species, provide essential ecological and economic benefits to society. Their genetic improvement is challenging due to long generation intervals and high heterozygosity. Genetic transformation, which combines targeted DNA delivery with plant regeneration from transformed cells, offers a powerful alternative to accelerating their domestication and improvement. Agrobacterium tumefaciens, Rhizobium rhizogenes, and particle bombardment have been widely used for DNA delivery into a wide variety of explants, including leaves, stems, hypocotyls, roots, and embryos, with regeneration occurring via direct organogenesis, callus-mediated organogenesis, somatic embryogenesis, or hairy root formation. Despite successes, conventional approaches are hampered by low efficiency, genotype dependency, and a reliance on challenging tissue culture. This review provides a critical analysis of the current landscape in woody plant transformation, moving beyond a simple summary of techniques to evaluate the co-evolution of established platforms with disruptive technologies. Key advances among these include the use of developmental regulators to engineer regeneration, the rise in in planta systems to bypass tissue culture, and the imperative for DNA-free genome editing to meet regulatory and public expectations. By examining species-specific breakthroughs in key genera, including Populus, Malus, Citrus, and Pinus, this review highlights a paradigm shift from empirical optimization towards rational, predictable engineering of woody plants for a sustainable future.",
+      "date": "2025-11-07",
+      "issue": "22",
+      "identifier": "https://www.osti.gov/biblio/3030399",
+      "bibliographicCitation": "https://doi.org/10.3390/plants14223420",
+      "keywords": [
+        "Agrobacterium tumefaciens",
+        "Rhizobium rhizogenes",
+        "developmental regulators",
+        "hairy root",
+        "in planta transformation"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Plants",
+      "volume": "14",
+      "publisher_information": "MDPI",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Bal Krishna [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000027166837X) Maharjan",
+          "primaryContact": true
+        },
+        {
+          "name": "Md Torikul [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000175092411) Islam",
+          "primaryContact": false
+        },
+        {
+          "name": "Adnan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000297920211) Muzaffar",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000217524201) Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Xiaohan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000152074210) Yang",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030399",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "A haplotype-resolved, chromosome-scale genome assembly for the southern live oak, <em>Quercus virginiana</em>",
+      "description": "Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "abstract": "Hybridization is a major force driving diversification, migration, and adaptation in Quercus species. While population genetics and phylogenetics have traditionally been used for studying these processes, advances in sequencing technology now enable us to incorporate comparative and pan-genomic approaches as well. Here, we present a highly contiguous, chromosome-scale and haplotype-resolved genome assembly for the southern live oak, Quercus virginiana, the first reference genome for section Virentes, as part of the American Campus Tree Genomes program. Originating from a clone of Auburn University's historic \u201cToomer's Oak,\u201d this assembly contributes to the pool of genomic resources for investigating recombination, haplotype variation, and structural genomic changes influencing hybridization potential in this clade and across Quercus. It also provides insights into the architecture of the putative centromeric regions within the genus. Alongside other oak references, the Q. virginiana genome will support research into the evolution and adaptation of the Quercus genus.",
+      "date": "2026-02-01",
+      "issue": "4",
+      "identifier": "https://www.osti.gov/biblio/3030808",
+      "bibliographicCitation": "https://doi.org/10.1093/g3journal/jkag023",
+      "keywords": [
+        "Quercus virginiana",
+        "genome assembly",
+        "live oak",
+        "syngameon"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "G3",
+      "volume": "16",
+      "publisher_information": "Genetics Society of America",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Laramie [Auburn Univ.,AL (United States); HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000333413509) Ak\u00f6zbek",
+          "primaryContact": true
+        },
+        {
+          "name": "Zachary [Auburn Univ.,AL (United States); HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Meharg",
+          "primaryContact": false
+        },
+        {
+          "name": "Jillian [Auburn Univ.,AL (United States)] Abendroth-McGhee",
+          "primaryContact": false
+        },
+        {
+          "name": "Tosin [Auburn Univ.,AL (United States)] Akinsipe",
+          "primaryContact": false
+        },
+        {
+          "name": "Rijan [Univ. of Alabama,Huntsville,AL (United States)] Dhakal",
+          "primaryContact": false
+        },
+        {
+          "name": "Nicholas [Auburn Univ.,AL (United States)] Gladstone",
+          "primaryContact": false
+        },
+        {
+          "name": "Zahida [Alabama Department of Agriculture and Industries (AGI),Montgomery,AL (United States)] Pervaiz",
+          "primaryContact": false
+        },
+        {
+          "name": "Sejal [Auburn Univ.,AL (United States)] Patel",
+          "primaryContact": false
+        },
+        {
+          "name": "Giovani [Auburn Univ.,AL (United States)] Rossi",
+          "primaryContact": false
+        },
+        {
+          "name": "Claudia Ann [Savannah River National Laboratory (SRNL),Aiken,SC (United States)] Rutland",
+          "primaryContact": false
+        },
+        {
+          "name": "Caroline [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States); Univ. of Alabama,Huntsville,AL (United States)] Bendickson",
+          "primaryContact": false
+        },
+        {
+          "name": "Adam [Univ. of New Mexico,Albuquerque,NM (United States)] Kranz",
+          "primaryContact": false
+        },
+        {
+          "name": "Ellen O. [Univ. of New Mexico,Albuquerque,NM (United States)] Martinson",
+          "primaryContact": false
+        },
+        {
+          "name": "Scott P. [Rice Univ.,Houston,TX (United States)] Egan",
+          "primaryContact": false
+        },
+        {
+          "name": "F. Alex [Praxis AI LLC,Clemson,SC (United States)] Feltus",
+          "primaryContact": false
+        },
+        {
+          "name": "David J. [Praxis AI LLC,Clemson,SC (United States)] Clarke",
+          "primaryContact": false
+        },
+        {
+          "name": "John T. [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000289381166) Lovell",
+          "primaryContact": false
+        },
+        {
+          "name": "Jenell [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Lori Beth [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Boston",
+          "primaryContact": false
+        },
+        {
+          "name": "Haley [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Hale",
+          "primaryContact": false
+        },
+        {
+          "name": "Hannah [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] McCoy",
+          "primaryContact": false
+        },
+        {
+          "name": "Jane [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States); USDOE Joint Genome Institute (JGI),Berkeley,CA (United States); Lawrence Berkeley National Laboratory (LBNL),Berkeley,CA (United States)] (ORCID:0000000283568325) Grimwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Sarah B. [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] Carey",
+          "primaryContact": false
+        },
+        {
+          "name": "Leslie [Univ. of Alabama,Huntsville,AL (United States)] Goertzen",
+          "primaryContact": false
+        },
+        {
+          "name": "Alex [HudsonAlpha Institute for Biotechnology,Huntsville,AL (United States)] (ORCID:0000000220350871) Harkess",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Science Foundation (NSF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER). Biological Systems Science (BSS)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3030808",
+      "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Nonenergy Biomass Carbon Removal and Storage (BiCRS): Assessing Durability of Nongaseous Carbon Products Across Terrestrial Storage Fates",
+      "description": "Biomass Carbon Removal and Storage, or BiCRS, pathways use plants or algae that remove carbon dioxide from the atmosphere through photosynthesis and store it underground or in long-lived products. While some BiCRS approaches generate an energy product, all BiCRS approaches generate a carbon product. A new subset of BiCRS approaches focus on the storage of these raw or converted carbon products for generation of carbon credits. However, the durability of these approaches is highly variable as carbon products vary widely in their \u201cform\u201d and the conditions of their \u201cfate.\u201d We organize our thinking about carbon products and their durability around these two primary axes. The durability of carbon product \u201cforms\u201d is mediated by chemical recalcitrance and ranges substantially across agricultural residues, municipal solid waste, woody biomass, and nongaseous products of thermochemical conversion (e.g., biochars and bio-oils). Meanwhile, terrestrial storage \u201cfates\u201d vary in the mechanism employed to stall decay, including surface storage, dry storage, shallow anoxic storage, and deep or geologic anoxic storage (or injection). Each mechanism has different implications for suitability with different feedstock forms as well as long-term risks. We present a framework for assessing durability of solid or liquid raw and conversion carbon products under terrestrial storage fates, highlighting knowns, unknowns, and research priorities moving forward.",
+      "abstract": "Biomass Carbon Removal and Storage, or BiCRS, pathways use plants or algae that remove carbon dioxide from the atmosphere through photosynthesis and store it underground or in long-lived products. While some BiCRS approaches generate an energy product, all BiCRS approaches generate a carbon product. A new subset of BiCRS approaches focus on the storage of these raw or converted carbon products for generation of carbon credits. However, the durability of these approaches is highly variable as carbon products vary widely in their \u201cform\u201d and the conditions of their \u201cfate.\u201d We organize our thinking about carbon products and their durability around these two primary axes. The durability of carbon product \u201cforms\u201d is mediated by chemical recalcitrance and ranges substantially across agricultural residues, municipal solid waste, woody biomass, and nongaseous products of thermochemical conversion (e.g., biochars and bio-oils). Meanwhile, terrestrial storage \u201cfates\u201d vary in the mechanism employed to stall decay, including surface storage, dry storage, shallow anoxic storage, and deep or geologic anoxic storage (or injection). Each mechanism has different implications for suitability with different feedstock forms as well as long-term risks. We present a framework for assessing durability of solid or liquid raw and conversion carbon products under terrestrial storage fates, highlighting knowns, unknowns, and research priorities moving forward.",
+      "date": "2026-04-09",
+      "issue": "8",
+      "identifier": "https://www.osti.gov/biblio/3363067",
+      "bibliographicCitation": "https://doi.org/10.1021/acs.chemrev.5c00618",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "37 INORGANIC",
+        "ORGANIC",
+        "PHYSICAL",
+        "AND ANALYTICAL CHEMISTRY",
+        "biomass",
+        "carbon removal",
+        "carbon storage",
+        "durability"
+      ],
+      "topic": [
+        "Biomass & Feedstock",
+        "Chemistry"
+      ],
+      "journal_name": "Chemical Reviews",
+      "volume": "126",
+      "publisher_information": "American Chemical Society",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Sin\u00e9ad M. [Carbon Containment Lab (CC Lab),New Haven,CT (United States)] (ORCID:0000000326899395) Crotty",
+          "primaryContact": true
+        },
+        {
+          "name": "Peter W. [Univ. of Arizona,Tucson,AZ (United States)] Reiners",
+          "primaryContact": false
+        },
+        {
+          "name": "Leah K. [Carbon Containment Lab (CC Lab),New Haven,CT (United States)] (ORCID:0000000274938101) Clayton",
+          "primaryContact": false
+        },
+        {
+          "name": "Edward [Charm Industrial,San Francisco,CA (United States)] Young",
+          "primaryContact": false
+        },
+        {
+          "name": "Andrew [Carba,Inc.,Eden Prairie,MN (United States)] Jones",
+          "primaryContact": false
+        },
+        {
+          "name": "Melissa A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:000000018329366X) Cregger",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne K. [National Laboratory of the Rockies (NLR),Golden,CO (United States)] (ORCID:0000000292042050) Starace",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. [National Laboratory of the Rockies (NLR),Golden,CO (United States)] (ORCID:0000000279279424) Harman-Ware",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Hydrocarbons and Geothermal Energy Office (HGEO)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Technology Commercialization (OTC)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3363067",
+      "active": false,
+      "has_related_ids": [
+        "NLR/JA-2700-95725"
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Turbo\u2010charging crop improvement: harnessing multiplex editing for polygenic trait engineering and beyond",
+      "description": "Multiplex CRISPR editing has emerged as a transformative platform for plant genome engineering, enabling the simultaneous targeting of multiple genes, regulatory elements, or chromosomal regions. This approach is effective for dissecting gene family functions, addressing genetic redundancy, engineering polygenic traits, and accelerating trait stacking and de novo domestication. Its applications now extend beyond standard gene knockouts to include epigenetic and transcriptional regulation, chromosomal engineering, and transgene\u2010free editing. These capabilities are advancing crop improvement not only in annual species but also in more complex systems such as polyploids, undomesticated wild relatives, and species with long generation times. At the same time, multiplex editing presents technical challenges, including complex construct design and the need for robust, scalable mutation detection. We discuss current toolkits and recent innovations in vector architecture, such as promoter and scaffold engineering, that streamline workflows and enhance editing efficiency. High\u2010throughput sequencing technologies, including long\u2010read platforms, are improving the resolution of complex editing outcomes such as structural rearrangements\u2014often missed by standard genotyping\u2014when targeting repetitive or tandemly spaced loci. To fully realize the potential of multiplex genome engineering, there is growing demand for user\u2010friendly, synthetic biology\u2010compatible, and scalable computational workflows for gRNA design, construct assembly, and mutation analysis. Experimentally validated inducible or tissue\u2010specific promoters are also highly desirable for achieving spatiotemporal control. As these tools continue to evolve, multiplex CRISPR editing is poised to become a foundational technology of next\u2010generation crop improvement to address challenges in agriculture, sustainability, and climate resilience.",
+      "abstract": "Multiplex CRISPR editing has emerged as a transformative platform for plant genome engineering, enabling the simultaneous targeting of multiple genes, regulatory elements, or chromosomal regions. This approach is effective for dissecting gene family functions, addressing genetic redundancy, engineering polygenic traits, and accelerating trait stacking and de novo domestication. Its applications now extend beyond standard gene knockouts to include epigenetic and transcriptional regulation, chromosomal engineering, and transgene\u2010free editing. These capabilities are advancing crop improvement not only in annual species but also in more complex systems such as polyploids, undomesticated wild relatives, and species with long generation times. At the same time, multiplex editing presents technical challenges, including complex construct design and the need for robust, scalable mutation detection. We discuss current toolkits and recent innovations in vector architecture, such as promoter and scaffold engineering, that streamline workflows and enhance editing efficiency. High\u2010throughput sequencing technologies, including long\u2010read platforms, are improving the resolution of complex editing outcomes such as structural rearrangements\u2014often missed by standard genotyping\u2014when targeting repetitive or tandemly spaced loci. To fully realize the potential of multiplex genome engineering, there is growing demand for user\u2010friendly, synthetic biology\u2010compatible, and scalable computational workflows for gRNA design, construct assembly, and mutation analysis. Experimentally validated inducible or tissue\u2010specific promoters are also highly desirable for achieving spatiotemporal control. As these tools continue to evolve, multiplex CRISPR editing is poised to become a foundational technology of next\u2010generation crop improvement to address challenges in agriculture, sustainability, and climate resilience.",
+      "date": "2025-10-14",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3364122",
+      "bibliographicCitation": "https://doi.org/10.1111/tpj.70527",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "CRISPR-Cas",
+        "chromosomal engineering",
+        "combinatorial mutagenesis",
+        "de novo domestication",
+        "multiplex genome editing",
+        "polygenic trait stacking",
+        "synthetic biology"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "The Plant Journal",
+      "volume": "124",
+      "publisher_information": "Society for Experimental Biology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Kangquan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000246276585) Yin",
+          "primaryContact": true
+        },
+        {
+          "name": "Chung\u2010Jui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000292827704) Tsai",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364122",
+      "active": false
     },
     {
       "brc": "CBI",
