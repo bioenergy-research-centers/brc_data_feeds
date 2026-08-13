@@ -33085,8 +33085,12 @@
       "date": "2026-05-31",
       "identifier": "https://www.osti.gov/biblio/3025251",
       "bibliographicCitation": "https://doi.org/10.1016/j.biombioe.2025.108885",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Feedstock Development"
+      ],
       "topic": [
-        "Unknown"
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biomass and Bioenergy",
       "volume": "209",
