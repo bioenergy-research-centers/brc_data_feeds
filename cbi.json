@@ -31732,6 +31732,83 @@
     },
     {
       "brc": "CBI",
+      "title": "Effects of chemical composition and physicochemical properties of poplar biomass on the performance of 3D printed poplar-reinforced PLA materials",
+      "description": "Lignocellulosic biomass has been well-acknowledged as a filler for making 3D printed composites. The technical performances of composites were influenced by the characteristics of the components. The correlations between poplar biomass properties and the mechanical and thermal performances of the 3D printed poplar-plastic composites were investigated. The characteristics of poplar were modified by different pretreatment methods, including using hot water, dilute acid, and organic solvent (organosolv), and each treated poplar biomass was applied as a filler in a polylactic acid (PLA) polymer matrix to produce eco-friendly materials. These solvent pretreatments increased the hydrophobicity and surface area of poplar. Organosolv treated poplar showed the highest cellulose content and significantly increased Young's modulus of its biocomposites. Principal component analysis revealed that the specific surface area and water contact angle of biomass contributed to the thermal stability of biocomposites. Additionally, the degree of polymerization of cellulose and xylan content within the biomass correlated with the biocomposites' break stress. Notably, the crystallinity of biocomposites impacted the modulus of these materials. The reported relationships between biomass characteristics and 3D printed composite behaviors provide guidance for optimizing biomass processing in biocomposite applications.",
+      "abstract": "Lignocellulosic biomass has been well-acknowledged as a filler for making 3D printed composites. The technical performances of composites were influenced by the characteristics of the components. The correlations between poplar biomass properties and the mechanical and thermal performances of the 3D printed poplar-plastic composites were investigated. The characteristics of poplar were modified by different pretreatment methods, including using hot water, dilute acid, and organic solvent (organosolv), and each treated poplar biomass was applied as a filler in a polylactic acid (PLA) polymer matrix to produce eco-friendly materials. These solvent pretreatments increased the hydrophobicity and surface area of poplar. Organosolv treated poplar showed the highest cellulose content and significantly increased Young's modulus of its biocomposites. Principal component analysis revealed that the specific surface area and water contact angle of biomass contributed to the thermal stability of biocomposites. Additionally, the degree of polymerization of cellulose and xylan content within the biomass correlated with the biocomposites' break stress. Notably, the crystallinity of biocomposites impacted the modulus of these materials. The reported relationships between biomass characteristics and 3D printed composite behaviors provide guidance for optimizing biomass processing in biocomposite applications.",
+      "date": "2025-09-02",
+      "issue": "10",
+      "identifier": "https://www.osti.gov/biblio/3002910",
+      "bibliographicCitation": "https://doi.org/10.1039/D5SU00327J",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "RSC Sustainability",
+      "volume": "3",
+      "publisher_information": "Royal Society of Chemistry",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Anqi [State Univ. of New York (SUNY),Syracuse,NY (United States); Howard Univ.,Washington,DC (United States)] (ORCID:0009000641299266) Ji",
+          "primaryContact": true
+        },
+        {
+          "name": "Samarthya [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000294951880) Bhagia",
+          "primaryContact": false
+        },
+        {
+          "name": "Nara [State Univ. of New York (SUNY),Syracuse,NY (United States)] (ORCID:0000000194217531) Han",
+          "primaryContact": false
+        },
+        {
+          "name": "Kwang Ho [Univ. of British Columbia,Vancouver,BC (Canada)] (ORCID:0000000339431927) Kim",
+          "primaryContact": false
+        },
+        {
+          "name": "Gyu [State Univ. of New York (SUNY),Syracuse,NY (United States)] (ORCID:0000000301691096) Leem",
+          "primaryContact": false
+        },
+        {
+          "name": "Nidia C. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000282520194) Gallego",
+          "primaryContact": false
+        },
+        {
+          "name": "Shuyang [Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:0000000239043046) Zhang",
+          "primaryContact": false
+        },
+        {
+          "name": "Kai [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000314453206) Li",
+          "primaryContact": false
+        },
+        {
+          "name": "Soydan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000238254589) Ozcan",
+          "primaryContact": false
+        },
+        {
+          "name": "Arthur J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of Tennessee,Knoxville,TN (United States)] (ORCID:000000023536554X) Ragauskas",
+          "primaryContact": false
+        },
+        {
+          "name": "Chang Geun [State Univ. of New York (SUNY),Syracuse,NY (United States)] (ORCID:0000000261792414) Yoo",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "National Science Foundation (NSF)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Laboratory Directed Research and Development (LDRD) Program"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3002910",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Structure-guided utilization of lignocellulose for catalysis, energy, and biomaterials",
       "description": "As a complex composite of cellulose, hemicellulose, and lignin, plant lignocellulose has long served as a major resource for biomass conversion, materials engineering, and bio-based product development. High-resolution structural insights enabled by solid-state nuclear magnetic resonance (ssNMR) now allow the mapping of polymer interfaces, identification of functional group accessibility, and tracking of molecular organization during processing, all of which are critical factors for optimizing catalytic strategies. These insights could drive transformative progress in lignocellulose-based applications, including selective depolymerization, improved pretreatment design, and efficient upcycling of lignin into resins, plastics, and biomedical materials. In industry-relevant contexts, such as biofuel generation and renewable material manufacturing, understanding the hydration dynamics, cross-linking patterns, and structural heterogeneity is also essential. The ability to visualize these features in native biomass presents a unique opportunity to develop new strategies for sustainability and performance. As the structural toolbox continues to expand, it is becoming a central enabler for innovations in renewable energy, green chemistry, and advanced bioproducts.",
       "abstract": "As a complex composite of cellulose, hemicellulose, and lignin, plant lignocellulose has long served as a major resource for biomass conversion, materials engineering, and bio-based product development. High-resolution structural insights enabled by solid-state nuclear magnetic resonance (ssNMR) now allow the mapping of polymer interfaces, identification of functional group accessibility, and tracking of molecular organization during processing, all of which are critical factors for optimizing catalytic strategies. These insights could drive transformative progress in lignocellulose-based applications, including selective depolymerization, improved pretreatment design, and efficient upcycling of lignin into resins, plastics, and biomedical materials. In industry-relevant contexts, such as biofuel generation and renewable material manufacturing, understanding the hydration dynamics, cross-linking patterns, and structural heterogeneity is also essential. The ability to visualize these features in native biomass presents a unique opportunity to develop new strategies for sustainability and performance. As the structural toolbox continues to expand, it is becoming a central enabler for innovations in renewable energy, green chemistry, and advanced bioproducts.",
