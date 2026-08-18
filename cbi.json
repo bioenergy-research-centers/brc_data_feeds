@@ -47594,6 +47594,209 @@
       "uid": "CBI_https://www.osti.gov/biblio/3021903",
       "created_at": "2026-04-17T17:16:01.909Z",
       "updated_at": "2026-05-04T18:07:14.121Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2021-09-01",
+      "issue": "",
+      "title": "Reusability First: Toward FAIR Workflows",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "The FAIR principles of open science (Findable, Accessible, Interoperable, and Reusable) have had transformative effects on modern large-scale computational science. In particular, they have encouraged more open access to and use of data, an important consideration as collaboration among teams of researchers accelerates and the use of workflows by those teams to solve problems increases. How best to apply the FAIR principles to workflows themselves, and software more generally, is not yet well understood. We argue that the software engineering concept of technical debt management provides a useful guide for application of those principles to workflows, and in particular that it implies reusability should be considered as \u2018first among equals\u2019. Moreover, our approach recognizes a continuum of reusability where we can make explicit and selectable the tradeoffs required in workflows for both their users and developers.To this end, we propose a new abstraction approach for reusable workflows, with demonstrations for both synthetic workloads and real-world computational biology workflows. Through application of novel systems and tools that are based on this abstraction, these experimental workflows are refactored to rightsize the granularity of workflow components to efficiently fill the gap between end-user simplicity and general customizability. Our work makes it easier to selectively reason about and automate the connections between trade-offs across user and developer concerns when exposing degrees of freedom for reuse. Additionally, by exposing fine-grained reusability abstractions we enable performance optimizations, as we demonstrate on both institutional-scale and leadership-class HPC resources.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1827005",
+      "dataset_url": "https://www.osti.gov/biblio/1827005",
+      "description": "The FAIR principles of open science (Findable, Accessible, Interoperable, and Reusable) have had transformative effects on modern large-scale computational science. In particular, they have encouraged more open access to and use of data, an important consideration as collaboration among teams of researchers accelerates and the use of workflows by those teams to solve problems increases. How best to apply the FAIR principles to workflows themselves, and software more generally, is not yet well understood. We argue that the software engineering concept of technical debt management provides a useful guide for application of those principles to workflows, and in particular that it implies reusability should be considered as \u2018first among equals\u2019. Moreover, our approach recognizes a continuum of reusability where we can make explicit and selectable the tradeoffs required in workflows for both their users and developers.To this end, we propose a new abstraction approach for reusable workflows, with demonstrations for both synthetic workloads and real-world computational biology workflows. Through application of novel systems and tools that are based on this abstraction, these experimental workflows are refactored to rightsize the granularity of workflow components to efficiently fill the gap between end-user simplicity and general customizability. Our work makes it easier to selectively reason about and automate the connections between trade-offs across user and developer concerns when exposing degrees of freedom for reuse. Additionally, by exposing fine-grained reusability abstractions we enable performance optimizations, as we demonstrate on both institutional-scale and leadership-class HPC resources.",
+      "journal_name": "",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://www.osti.gov/biblio/1827005",
+      "publisher_information": "",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1827005",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2021-02-01",
+      "issue": "",
+      "title": "Opportunities and Challenges of Lignin Utilization",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Lignin is the most abundant non-carbohydrate component of plant cell walls and the largest aromatic source on earth. It is gaining more attention due to its potentials for many industrial applications. Compared to the applications of carbohydrate components like cellulose and hemicellulose, the utilization of lignin is challenging due to its natural rigidity, heterogeneity, and complexity. On the other hand, the successful utilization of lignin can broaden the spectrum of renewable resources in producing chemicals, fuels, and materials. In addition, value-added lignin products can enhance the economic competitivity of many biofuels and biochemicals mainly produced from cellulose and hemicellulose. In the last few decades, there have been notable improvements in fundamental understandings of the plant cell wall, lignin chemistry, catalysis, and other engineering principles, as well as the development of diverse conversion and characterization technologies. Prior to the detailed discussions of recent lignin utilization strategies through decomposition approaches such as thermochemical, biological, photoelectrochemical and electrochemical depolymerization and material approaches including carbon materials, adsorbents, thermosets, thermoplastics, hydrogels and nanoparticles, this chapter briefly discusses the types of lignin and its potentials and limitations based on its characteristics and applied processes.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1770632",
+      "dataset_url": "https://www.osti.gov/biblio/1770632",
+      "description": "Lignin is the most abundant non-carbohydrate component of plant cell walls and the largest aromatic source on earth. It is gaining more attention due to its potentials for many industrial applications. Compared to the applications of carbohydrate components like cellulose and hemicellulose, the utilization of lignin is challenging due to its natural rigidity, heterogeneity, and complexity. On the other hand, the successful utilization of lignin can broaden the spectrum of renewable resources in producing chemicals, fuels, and materials. In addition, value-added lignin products can enhance the economic competitivity of many biofuels and biochemicals mainly produced from cellulose and hemicellulose. In the last few decades, there have been notable improvements in fundamental understandings of the plant cell wall, lignin chemistry, catalysis, and other engineering principles, as well as the development of diverse conversion and characterization technologies. Prior to the detailed discussions of recent lignin utilization strategies through decomposition approaches such as thermochemical, biological, photoelectrochemical and electrochemical depolymerization and material approaches including carbon materials, adsorbents, thermosets, thermoplastics, hydrogels and nanoparticles, this chapter briefly discusses the types of lignin and its potentials and limitations based on its characteristics and applied processes.",
+      "journal_name": "ACS Publications,Washington,District of Columbia,United States of America",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://www.osti.gov/biblio/1770632",
+      "publisher_information": "ACS Publications,Washington,District of Columbia,United States of America",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1770632",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2020-04-25",
+      "issue": "",
+      "title": "Challenges of cultivated meat production and applications of genome-scale metabolic modeling",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Not provided.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1803332",
+      "dataset_url": "https://www.osti.gov/biblio/1803332",
+      "description": "Not provided.",
+      "journal_name": "American Institute of Chemical Engineers",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://doi.org/10.1002/aic.16235",
+      "publisher_information": "American Institute of Chemical Engineers",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1803332",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2019-09-01",
+      "issue": "",
+      "title": "Measurement of Physicochemical Properties of Lignin",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Lignin is an essential cell wall component of lignocellulose. Unlike other major components such as cellulose and hemicellulose, lignin is a noncarbohydrate biopolymer and contributes to cell wall rigidity and hydrophobicity. Lignin\u2019s unique properties contribute to the transportation of water and minerals in plants and protect against microbial attacks, while the latter property hinders the conversion of carbohydrates in lignocellulose. Also, its heterogeneity and structural complexity are major recalcitrance factors in biomass conversion. Various approaches (including genetically engineered plants, pulping, pretreatments, and fractionation processes) have been proposed to reduce and/or remove lignin for effective conversion of lignocellulose. Recently, interest in the biorefinery concept considers lignin as a potential feedstock in many applications; however, the technologies necessary to facilitate the economic production of many lignin-based products is still in its infancy. For the effective utilization of lignocellulose, understanding the physicochemical properties of lignin is the first and last step. It not only provides the key information about lignin structures in the original plant cell wall, conversion products, or residues, but also explains how the modification and/or conversion process affects lignin and biomass in general. Many different lignin characteristics, including physicochemical, morphological, and thermal properties, can be measured by diverse analytical techniques. This chapter introduces analytical methods that measure several essential physicochemical properties of lignin, such as molecular weights by gel permeation chromatography (GPC), quantitative and qualitative information of structural properties (interunit linkages and aromatic subunits) by one-dimensional and two-dimensional nuclear magnetic resonance (NMR), and hydroxyl group content by 31P NMR.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1566969",
+      "dataset_url": "https://www.osti.gov/biblio/1566969",
+      "description": "Lignin is an essential cell wall component of lignocellulose. Unlike other major components such as cellulose and hemicellulose, lignin is a noncarbohydrate biopolymer and contributes to cell wall rigidity and hydrophobicity. Lignin\u2019s unique properties contribute to the transportation of water and minerals in plants and protect against microbial attacks, while the latter property hinders the conversion of carbohydrates in lignocellulose. Also, its heterogeneity and structural complexity are major recalcitrance factors in biomass conversion. Various approaches (including genetically engineered plants, pulping, pretreatments, and fractionation processes) have been proposed to reduce and/or remove lignin for effective conversion of lignocellulose. Recently, interest in the biorefinery concept considers lignin as a potential feedstock in many applications; however, the technologies necessary to facilitate the economic production of many lignin-based products is still in its infancy. For the effective utilization of lignocellulose, understanding the physicochemical properties of lignin is the first and last step. It not only provides the key information about lignin structures in the original plant cell wall, conversion products, or residues, but also explains how the modification and/or conversion process affects lignin and biomass in general. Many different lignin characteristics, including physicochemical, morphological, and thermal properties, can be measured by diverse analytical techniques. This chapter introduces analytical methods that measure several essential physicochemical properties of lignin, such as molecular weights by gel permeation chromatography (GPC), quantitative and qualitative information of structural properties (interunit linkages and aromatic subunits) by one-dimensional and two-dimensional nuclear magnetic resonance (NMR), and hydroxyl group content by 31P NMR.",
+      "journal_name": "American Chemical Society,Knoxville,Tennessee,United States of America",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://doi.org/10.1021/bk-2019-1338.ch003",
+      "publisher_information": "American Chemical Society,Knoxville,Tennessee,United States of America",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1566969",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2018-08-02",
+      "issue": "",
+      "title": "Reductive Catalytic Fractionation of C-Lignin",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Lignin composed solely of caffeyl alcohol units, or C-lignin, was recently discovered in the seed coats of a number of vanilla orchid and cactus species. The caffeyl alcohol monomer polymerizes into a highly uniform benzodioxane backbone, making C-lignin a promising substrate for lignin valorization, where heterogeneity is a key challenge. In this study, we used reductive catalytic fractionation (RCF) on vanilla seeds to investigate the depolymerization of naturally grown C-lignin. To overcome challenges associated with the high extractive content and poor sugar retention in vanilla seeds, the ratio of monomer yield to total lignin yield was used to isolate the depolymerization efficiency of C-lignin from the extraction efficiency of lignin from seeds. This approach allowed us to compare extents of depolymerization across lignin types and biomass feedstocks. C-Lignin RCF generated extents of depolymerization akin to those of hardwoods, despite observing incomplete benzodioxane cleavage due to catalyst deactivation caused by the seed extractives. In addition, depolymerization of C-lignin produced a favorable monomeric product distribution consisting of only propyl and propenyl catechol. These promising results suggest that genetic modification of other plant species to incorporate C-lignin has the potential to yield a single, valuable catechol product via RCF.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1475114",
+      "dataset_url": "https://www.osti.gov/biblio/1475114",
+      "description": "Lignin composed solely of caffeyl alcohol units, or C-lignin, was recently discovered in the seed coats of a number of vanilla orchid and cactus species. The caffeyl alcohol monomer polymerizes into a highly uniform benzodioxane backbone, making C-lignin a promising substrate for lignin valorization, where heterogeneity is a key challenge. In this study, we used reductive catalytic fractionation (RCF) on vanilla seeds to investigate the depolymerization of naturally grown C-lignin. To overcome challenges associated with the high extractive content and poor sugar retention in vanilla seeds, the ratio of monomer yield to total lignin yield was used to isolate the depolymerization efficiency of C-lignin from the extraction efficiency of lignin from seeds. This approach allowed us to compare extents of depolymerization across lignin types and biomass feedstocks. C-Lignin RCF generated extents of depolymerization akin to those of hardwoods, despite observing incomplete benzodioxane cleavage due to catalyst deactivation caused by the seed extractives. In addition, depolymerization of C-lignin produced a favorable monomeric product distribution consisting of only propyl and propenyl catechol. These promising results suggest that genetic modification of other plant species to incorporate C-lignin has the potential to yield a single, valuable catechol product via RCF.",
+      "journal_name": "American Chemical Society (ACS)",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://doi.org/10.1021/acssuschemeng.8b02741",
+      "publisher_information": "American Chemical Society (ACS)",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1475114",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2017-05-30",
+      "issue": "",
+      "title": "Alkaline Peroxide Delignification of Corn Stover",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Selective biomass fractionation into carbohydrates and lignin is a key challenge in the conversion of lignocellulosic biomass to fuels and chemicals. In the present study, alkaline hydrogen peroxide (AHP) pretreatment was investigated to fractionate lignin from polysaccharides in corn stover (CS), with a particular emphasis on the fate of the lignin for subsequent valorization. The influence of peroxide loading on delignification during AHP pretreatment was examined over the range of 30-500 mg H2O2/g dry CS at 50 degrees C for 3 h. Mass balances were conducted on the solid and liquid fractions generated after pretreatment for each of the three primary components, lignin, hemicellulose, and cellulose. AHP pretreatment at 250 mg H2O2/g dry CS resulted in the pretreated solids with more than 80% delignification consequently enriching the carbohydrate fraction to &gt;90%. Two-dimensional nuclear magnetic resonance (2D-NMR) spectroscopy of the AHP pretreated residue shows that, under high peroxide loadings (&gt;250 mg H2O2/g dry CS), most of the side chain structures were oxidized and the aryl-ether bonds in lignin were partially cleaved, resulting in significant delignification of the pretreated residues. Gel permeation chromatography (GPC) analysis shows that AHP pretreatment effectively depolymerizes CS lignin into low molecular weight (LMW) lignin fragments in the aqueous fraction. Imaging of AHP pretreated residues shows a more granular texture and a clear lamellar pattern in secondary walls, indicative of layers of varying lignin removal or relocalization. Enzymatic hydrolysis of this pretreated residue at 20 mg/g of glucan resulted in 90% and 80% yields of glucose and xylose, respectively, after 120 h. Overall, AHP pretreatment is able to selectively remove more than 80% of the lignin from biomass in a form that has potential for downstream valorization processes and enriches the solid pulp into a highly digestible material.",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1371647",
+      "dataset_url": "https://www.osti.gov/biblio/1371647",
+      "description": "Selective biomass fractionation into carbohydrates and lignin is a key challenge in the conversion of lignocellulosic biomass to fuels and chemicals. In the present study, alkaline hydrogen peroxide (AHP) pretreatment was investigated to fractionate lignin from polysaccharides in corn stover (CS), with a particular emphasis on the fate of the lignin for subsequent valorization. The influence of peroxide loading on delignification during AHP pretreatment was examined over the range of 30-500 mg H2O2/g dry CS at 50 degrees C for 3 h. Mass balances were conducted on the solid and liquid fractions generated after pretreatment for each of the three primary components, lignin, hemicellulose, and cellulose. AHP pretreatment at 250 mg H2O2/g dry CS resulted in the pretreated solids with more than 80% delignification consequently enriching the carbohydrate fraction to &gt;90%. Two-dimensional nuclear magnetic resonance (2D-NMR) spectroscopy of the AHP pretreated residue shows that, under high peroxide loadings (&gt;250 mg H2O2/g dry CS), most of the side chain structures were oxidized and the aryl-ether bonds in lignin were partially cleaved, resulting in significant delignification of the pretreated residues. Gel permeation chromatography (GPC) analysis shows that AHP pretreatment effectively depolymerizes CS lignin into low molecular weight (LMW) lignin fragments in the aqueous fraction. Imaging of AHP pretreated residues shows a more granular texture and a clear lamellar pattern in secondary walls, indicative of layers of varying lignin removal or relocalization. Enzymatic hydrolysis of this pretreated residue at 20 mg/g of glucan resulted in 90% and 80% yields of glucose and xylose, respectively, after 120 h. Overall, AHP pretreatment is able to selectively remove more than 80% of the lignin from biomass in a form that has potential for downstream valorization processes and enriches the solid pulp into a highly digestible material.",
+      "journal_name": "American Chemical Society (ACS)",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://doi.org/10.1021/acssuschemeng.7b01424",
+      "publisher_information": "American Chemical Society (ACS)",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1371647",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
+    },
+    {
+      "brc": "CBI",
+      "date": "2017-06-01",
+      "issue": "",
+      "title": "Cellulosic ethanol: status and innovation",
+      "topic": [
+        "Unknown"
+      ],
+      "active": false,
+      "volume": "",
+      "creator": [],
+      "funding": [],
+      "abstract": "Although the purchase price of cellulosic feedstocks is competitive with petroleum on an energy basis, the cost of lignocellulose conversion to ethanol using today\u2019s technology is high. Cost reductions can be pursued via either in-paradigm or new-paradigm innovation. As an example of new-paradigm innovation, consolidated bioprocessing using thermophilic bacteria combined with milling during fermentation (cotreatment) is analyzed. Acknowledging the nascent state of this approach, our analysis indicates potential for radically improved cost competitiveness and feasibility at smaller scale compared to current technology, arising from (a) R&amp;D-driven advances (consolidated bioprocessing with cotreatment in lieu of thermochemical pretreatment and added fungal cellulase), and (b) configurational changes (fuel pellet coproduction instead of electricity, gas boiler(s) in lieu of a solid fuel boiler).",
+      "keywords": [
+        "CBI"
+      ],
+      "identifier": "https://www.osti.gov/biblio/1393924",
+      "dataset_url": "https://www.osti.gov/biblio/1393924",
+      "description": "Although the purchase price of cellulosic feedstocks is competitive with petroleum on an energy basis, the cost of lignocellulose conversion to ethanol using today\u2019s technology is high. Cost reductions can be pursued via either in-paradigm or new-paradigm innovation. As an example of new-paradigm innovation, consolidated bioprocessing using thermophilic bacteria combined with milling during fermentation (cotreatment) is analyzed. Acknowledging the nascent state of this approach, our analysis indicates potential for radically improved cost competitiveness and feasibility at smaller scale compared to current technology, arising from (a) R&amp;D-driven advances (consolidated bioprocessing with cotreatment in lieu of thermochemical pretreatment and added fungal cellulase), and (b) configurational changes (fuel pellet coproduction instead of electricity, gas boiler(s) in lieu of a solid fuel boiler).",
+      "journal_name": "Elsevier",
+      "has_related_ids": [],
+      "bibliographicCitation": "https://doi.org/10.1016/j.copbio.2017.03.008",
+      "publisher_information": "Elsevier",
+      "country_publication_code": "US",
+      "schema_version": "0.2.0",
+      "uid": "CBI_https://www.osti.gov/biblio/1393924",
+      "created_at": "2026-05-19T00:05:27.212Z",
+      "updated_at": "2026-08-18T18:08:08.787Z"
     }
   ]
 }
