@@ -33965,6 +33965,52 @@
     },
     {
       "brc": "CBI",
+      "title": "Turbo\u2010charging crop improvement: harnessing multiplex editing for polygenic trait engineering and beyond",
+      "description": "Multiplex CRISPR editing has emerged as a transformative platform for plant genome engineering, enabling the simultaneous targeting of multiple genes, regulatory elements, or chromosomal regions. This approach is effective for dissecting gene family functions, addressing genetic redundancy, engineering polygenic traits, and accelerating trait stacking and de novo domestication. Its applications now extend beyond standard gene knockouts to include epigenetic and transcriptional regulation, chromosomal engineering, and transgene\u2010free editing. These capabilities are advancing crop improvement not only in annual species but also in more complex systems such as polyploids, undomesticated wild relatives, and species with long generation times. At the same time, multiplex editing presents technical challenges, including complex construct design and the need for robust, scalable mutation detection. We discuss current toolkits and recent innovations in vector architecture, such as promoter and scaffold engineering, that streamline workflows and enhance editing efficiency. High\u2010throughput sequencing technologies, including long\u2010read platforms, are improving the resolution of complex editing outcomes such as structural rearrangements\u2014often missed by standard genotyping\u2014when targeting repetitive or tandemly spaced loci. To fully realize the potential of multiplex genome engineering, there is growing demand for user\u2010friendly, synthetic biology\u2010compatible, and scalable computational workflows for gRNA design, construct assembly, and mutation analysis. Experimentally validated inducible or tissue\u2010specific promoters are also highly desirable for achieving spatiotemporal control. As these tools continue to evolve, multiplex CRISPR editing is poised to become a foundational technology of next\u2010generation crop improvement to address challenges in agriculture, sustainability, and climate resilience.",
+      "abstract": "Multiplex CRISPR editing has emerged as a transformative platform for plant genome engineering, enabling the simultaneous targeting of multiple genes, regulatory elements, or chromosomal regions. This approach is effective for dissecting gene family functions, addressing genetic redundancy, engineering polygenic traits, and accelerating trait stacking and de novo domestication. Its applications now extend beyond standard gene knockouts to include epigenetic and transcriptional regulation, chromosomal engineering, and transgene\u2010free editing. These capabilities are advancing crop improvement not only in annual species but also in more complex systems such as polyploids, undomesticated wild relatives, and species with long generation times. At the same time, multiplex editing presents technical challenges, including complex construct design and the need for robust, scalable mutation detection. We discuss current toolkits and recent innovations in vector architecture, such as promoter and scaffold engineering, that streamline workflows and enhance editing efficiency. High\u2010throughput sequencing technologies, including long\u2010read platforms, are improving the resolution of complex editing outcomes such as structural rearrangements\u2014often missed by standard genotyping\u2014when targeting repetitive or tandemly spaced loci. To fully realize the potential of multiplex genome engineering, there is growing demand for user\u2010friendly, synthetic biology\u2010compatible, and scalable computational workflows for gRNA design, construct assembly, and mutation analysis. Experimentally validated inducible or tissue\u2010specific promoters are also highly desirable for achieving spatiotemporal control. As these tools continue to evolve, multiplex CRISPR editing is poised to become a foundational technology of next\u2010generation crop improvement to address challenges in agriculture, sustainability, and climate resilience.",
+      "date": "2025-10-14",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3364122",
+      "bibliographicCitation": "https://doi.org/10.1111/tpj.70527",
+      "keywords": [
+        "59 BASIC BIOLOGICAL SCIENCES",
+        "CRISPR-Cas",
+        "chromosomal engineering",
+        "combinatorial mutagenesis",
+        "de novo domestication",
+        "multiplex genome editing",
+        "polygenic trait stacking",
+        "synthetic biology"
+      ],
+      "topic": [
+        "Microbiology"
+      ],
+      "journal_name": "The Plant Journal",
+      "volume": "124",
+      "publisher_information": "Society for Experimental Biology",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Kangquan [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000246276585) Yin",
+          "primaryContact": true
+        },
+        {
+          "name": "Chung\u2010Jui [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States); Univ. of Georgia,Athens,GA (United States)] (ORCID:0000000292827704) Tsai",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3364122",
+      "active": false
+    },
+    {
+      "brc": "CBI",
       "title": "Valorization of consolidated bioprocessing residues for bioplastics",
       "description": "This study demonstrates an organic solvent-free processing strategy to valorize consolidated bioprocessing (CBP) residues, from switchgrass and poplar biomass, into functional poly(butylene succinate) (PBS)-based biocomposites using high-shear homogenization (HSH). HSH transformed the switchgrass and poplar CBP residues (CBP-R) into fine, uniformly distributed particles and microfibers. The composites of PBS with homogenized switchgrass residues (H-CBP-R-SG) or homogenized poplar residues (H-CBP-R-P) at a 70/30 weight ratio exhibited improved processability and mechanical integrity, with the Young's modulus for the PBS/H-CBP-R-SG and PBS/H-CBP-R-P nearly doubling to 0.66 \u00b1 0.07 GPa and 0.65 \u00b1 0.04 GPa, respectively, compared to neat PBS (0.36 \u00b1 0.02 GPa). Dynamic Mechanical Analysis (DMA) reveals a significant suppression of the tan \u03b4 peak magnitude, indicating that HSH-mediated physical activation facilitates stress transfer in composites typical of covalent chemical grafting systems. While the transition to a stiffness-dominated profile reduces ductility, the resulting composites exhibit the dimensional stability and resistance to thermal warping required for high-fidelity FDM 3D printing and injection molding. Beyond material performance, comprehensive techno-economic analysis (TEA) and life cycle assessment (LCA) confirmed that diverting CBP residues into composite products can improve the economic viability of the biorefinery without substantially increasing biorefinery global warming potential (GWP). At a 30 wt% blend ratio, incorporating residuals into PBS yielded a minimum selling price for the composite of $\\$4.07$ per kg compared to the conventional bioplastic price of $\\$5.00$ per kg. This approach aligns with circular bioeconomy principles by converting waste streams into value-added products. Furthermore, this innovative strategy addresses key challenges in bioplastic development, including cost, compatibility, and performance, while simultaneously advancing waste minimization strategies for sustainable manufacturing systems.",
       "abstract": "This study demonstrates an organic solvent-free processing strategy to valorize consolidated bioprocessing (CBP) residues, from switchgrass and poplar biomass, into functional poly(butylene succinate) (PBS)-based biocomposites using high-shear homogenization (HSH). HSH transformed the switchgrass and poplar CBP residues (CBP-R) into fine, uniformly distributed particles and microfibers. The composites of PBS with homogenized switchgrass residues (H-CBP-R-SG) or homogenized poplar residues (H-CBP-R-P) at a 70/30 weight ratio exhibited improved processability and mechanical integrity, with the Young's modulus for the PBS/H-CBP-R-SG and PBS/H-CBP-R-P nearly doubling to 0.66 \u00b1 0.07 GPa and 0.65 \u00b1 0.04 GPa, respectively, compared to neat PBS (0.36 \u00b1 0.02 GPa). Dynamic Mechanical Analysis (DMA) reveals a significant suppression of the tan \u03b4 peak magnitude, indicating that HSH-mediated physical activation facilitates stress transfer in composites typical of covalent chemical grafting systems. While the transition to a stiffness-dominated profile reduces ductility, the resulting composites exhibit the dimensional stability and resistance to thermal warping required for high-fidelity FDM 3D printing and injection molding. Beyond material performance, comprehensive techno-economic analysis (TEA) and life cycle assessment (LCA) confirmed that diverting CBP residues into composite products can improve the economic viability of the biorefinery without substantially increasing biorefinery global warming potential (GWP). At a 30 wt% blend ratio, incorporating residuals into PBS yielded a minimum selling price for the composite of $\\$4.07$ per kg compared to the conventional bioplastic price of $\\$5.00$ per kg. This approach aligns with circular bioeconomy principles by converting waste streams into value-added products. Furthermore, this innovative strategy addresses key challenges in bioplastic development, including cost, compatibility, and performance, while simultaneously advancing waste minimization strategies for sustainable manufacturing systems.",
