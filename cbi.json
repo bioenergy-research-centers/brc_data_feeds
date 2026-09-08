@@ -34912,7 +34912,8 @@
       "title": "Improved nylon polymerization using amide diads",
       "description": "Nylons, a major class of synthetic polyamides, are widely used due to their excellent mechanical strength, thermal stability, and chemical resistance. Conventional nylon production relies on the polymerization of lactams or stoichiometric nylon salts. However, applying these approaches to unconventional precursors such as bio-derived glutaric acid produces polymers with low molecular weight and limited applications. To address these challenges, we demonstrated that chemically-synthesized nylon diads enable the production of higher-molecular-weight polyamides compared with traditional salts. We then identified a biosynthetic approach using amide synthetases to convert unprotected bifunctional substrates into nylon-relevant diads. Using a cofactor regeneration system, enzymatic diad synthesis was scaled to produce sufficient material for laboratory-scale characterization and solid-state polymerization. Amide synthetases demonstrated broad substrate scope, catalyzing the regioselective assembly of diverse nylon-relevant diacids, diamines, and \u03c9-amino acids. This strategy offers a novel route to synthesize challenging nylon monomers and advances production of bioderived nylons.",
       "abstract": "Nylons, a major class of synthetic polyamides, are widely used due to their excellent mechanical strength, thermal stability, and chemical resistance. Conventional nylon production relies on the polymerization of lactams or stoichiometric nylon salts. However, applying these approaches to unconventional precursors such as bio-derived glutaric acid produces polymers with low molecular weight and limited applications. To address these challenges, we demonstrated that chemically-synthesized nylon diads enable the production of higher-molecular-weight polyamides compared with traditional salts. We then identified a biosynthetic approach using amide synthetases to convert unprotected bifunctional substrates into nylon-relevant diads. Using a cofactor regeneration system, enzymatic diad synthesis was scaled to produce sufficient material for laboratory-scale characterization and solid-state polymerization. Amide synthetases demonstrated broad substrate scope, catalyzing the regioselective assembly of diverse nylon-relevant diacids, diamines, and \u03c9-amino acids. This strategy offers a novel route to synthesize challenging nylon monomers and advances production of bioderived nylons.",
-      "date": "2023-05-31",
+      "date": "2026-06-22",
+      "issue": "27",
       "identifier": "https://www.osti.gov/biblio/3385030",
       "bibliographicCitation": "https://doi.org/10.1039/d6gc00885b",
       "topic": [
@@ -34920,49 +34921,68 @@
       ],
       "journal_name": "Green Chemistry",
       "volume": "28",
+      "publisher_information": "Royal Society of Chemistry",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Liangyu   [ORNL] (ORCID:0009000212029938) Qian",
+          "name": "Liangyu [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0009000212029938) Qian",
           "primaryContact": true
         },
         {
-          "name": "Isaiah   [ORNL] (ORCID:0000000273339182) Dishner",
+          "name": "Isaiah T. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000273339182) Dishner",
           "primaryContact": false
         },
         {
-          "name": "Dana Lynn   [ORNL] (ORCID:0000000247588054) Carper",
+          "name": "Dana Lynn [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000247588054) Carper",
           "primaryContact": false
         },
         {
-          "name": "Vilmos   [ORNL] (ORCID:0000000301865797) Kertesz",
+          "name": "Jerry M. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000231039333) Parks",
           "primaryContact": false
         },
         {
-          "name": "Nicholas   [ORNL] Zolnierczuk",
+          "name": "Vilmos [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000301865797) Kertesz",
           "primaryContact": false
         },
         {
-          "name": "Nikki   [ORNL] (ORCID:0000000333010849) Thiele",
+          "name": "Nicholas T. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000236059296) Zolnierczuk",
           "primaryContact": false
         },
         {
-          "name": "John F [ORNL] (ORCID:0000000298664010) Cahill",
+          "name": "Nduka D. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000193836023) Ogbonna",
           "primaryContact": false
         },
         {
-          "name": "Jeff   [ORNL] (ORCID:0000000290978680) Foster",
+          "name": "Nikki A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000333010849) Thiele",
           "primaryContact": false
         },
         {
-          "name": "Josh   [ORNL] (ORCID:0000000323028180) Michener",
+          "name": "John F. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000298664010) Cahill",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeffrey C. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000290978680) Foster",
+          "primaryContact": false
+        },
+        {
+          "name": "Joshua K. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] (ORCID:0000000323028180) Michener",
           "primaryContact": false
         }
       ],
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "USDOE"
+            "organizationName": "USDOE Laboratory Directed Research and Development (LDRD) Program"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Office of Workforce Development for Teachers & Scientists (WDTS)"
           }
         }
       ],
