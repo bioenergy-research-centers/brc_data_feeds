@@ -46199,6 +46199,42 @@
       ],
       "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Ware/PUBLIC_DATA/Dataset_for_Molecular_Motion_Below_the_Glass_Transition_A_Solid-State_NMR_Study_of_Siloxane_Polymer_Dynamics/project-begin.view?",
       "active": true
+    },
+    {
+      "brc": "CBI",
+      "title": "Comparing deconstruction of sugarcane bagasse by a coculture of thermophilic bacteria and a fungal cellulase system",
+      "date": "2026-07-13",
+      "identifier": "https://www.osti.gov/biblio/3818195",
+      "bibliographicCitation": "https://doi.org/10.1186/s13068-026-02787-x",
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Biotechnology for Biofuels and Bioproducts",
+      "publisher_information": "Springer Science and Business Media LLC",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Melque Nat\u00e3 Silva",
+          "primaryContact": true
+        },
+        {
+          "name": "Lee R. Lynd",
+          "primaryContact": false
+        },
+        {
+          "name": "Evert K. (ORCID:000000020565392X) Holwerda",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3818195",
+      "active": false
     }
   ]
 }
