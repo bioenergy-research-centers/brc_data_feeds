@@ -46235,6 +46235,99 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3818195",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Harvest Intensity Rewires the Switchgrass Rhizosphere",
+      "description": "We tested whether increasing harvest intensity propagates from plant allocation through rhizosphere chemistry and microbial communities to soil organic matter (SOM) and mobile nutrient endpoints in field-grown switchgrass (PanicumvirgatumL.) managed under one, two, or three annual harvests. Targeted and untargeted LC-MS/MS metabolomics, 16S/ITS/arbuscular mycorrhizal fungal amplicon sequencing, root traits, particulate and mineral-associated organic matter (POM and MAOM), and soil-water dissolved inorganic N (DIN) and inorganic phosphate (Pi) were integrated within a randomized complete block design.",
+      "abstract": "We tested whether increasing harvest intensity propagates from plant allocation through rhizosphere chemistry and microbial communities to soil organic matter (SOM) and mobile nutrient endpoints in field-grown switchgrass (PanicumvirgatumL.) managed under one, two, or three annual harvests. Targeted and untargeted LC-MS/MS metabolomics, 16S/ITS/arbuscular mycorrhizal fungal amplicon sequencing, root traits, particulate and mineral-associated organic matter (POM and MAOM), and soil-water dissolved inorganic N (DIN) and inorganic phosphate (Pi) were integrated within a randomized complete block design.",
+      "date": "2026-09-21",
+      "identifier": "https://www.osti.gov/biblio/3874811",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/3874811",
+      "keywords": [
+        "CBI",
+        "sustainability",
+        "harvest intensity",
+        "rhizosphere metabolomics",
+        "microbiome",
+        "particulate organic matter",
+        "mineral-associated organic matter",
+        "nutrient mobility"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "T.O. Isimikalu",
+          "primaryContact": true
+        },
+        {
+          "name": "X. Li",
+          "primaryContact": false
+        },
+        {
+          "name": "G.F. Custer",
+          "primaryContact": false
+        },
+        {
+          "name": "K. Tully",
+          "primaryContact": false
+        },
+        {
+          "name": "M.A. Cregger",
+          "primaryContact": false
+        },
+        {
+          "name": "B. Bowen",
+          "primaryContact": false
+        },
+        {
+          "name": "K. Louie",
+          "primaryContact": false
+        },
+        {
+          "name": "T. Northen",
+          "primaryContact": false
+        },
+        {
+          "name": "J.R. Cumming",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3166295,
+          "revision": 1,
+          "osti_id": 3874811,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-09-21T16:24:44.172+00:00",
+          "date_updated": "2026-09-21T16:24:45.645+00:00",
+          "files": [
+            {
+              "media_file_id": 13947362,
+              "media_id": 3166295,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Cumming/PUBLIC_DATA/Harvest%20Intensity%20Rewires%20the%20Switchgrass%20Rhizosphere/project-begin.view?wizard=true",
+              "date_file_added": "2026-09-21T16:24:44.193+00:00",
+              "date_file_updated": "2026-09-21T16:24:45.604+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Cumming/PUBLIC_DATA/Harvest%20Intensity%20Rewires%20the%20Switchgrass%20Rhizosphere/project-begin.view?wizard=true",
+      "active": true
     }
   ]
 }
