@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.2.0",
+  "schema_version": "0.2.1",
   "datasets": [
     {
       "brc": "CBI",
@@ -3117,7 +3117,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1468119",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -3221,7 +3227,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1468129",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Arabidopsis thaliana",
+          "NCBITaxID": 3702
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -5287,7 +5299,21 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1494155",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Miscanthus sinensis",
+          "NCBITaxID": 62337
+        },
+        {
+          "scientificName": "Miscanthus",
+          "NCBITaxID": 62336
+        },
+        {
+          "scientificName": "Panicum virgatum",
+          "NCBITaxID": 38727
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -5635,6 +5661,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1502788",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Caldicellulosiruptor bescii",
+          "NCBITaxID": 31899
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2700-73261"
       ]
@@ -6262,6 +6294,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1529168",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Pseudomonas putida KT2440",
+          "NCBITaxID": 160488
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2A00-73031"
       ]
@@ -6652,6 +6690,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1542755",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Salix viminalis",
+          "NCBITaxID": 40686
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2700-73918"
       ]
@@ -8763,7 +8807,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1598473",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Acetivibrio thermocellus",
+          "NCBITaxID": 1515
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -8953,6 +9003,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1602688",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Caldicellulosiruptor bescii",
+          "NCBITaxID": 31899
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2700-76211"
       ]
@@ -10352,6 +10408,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1618700",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Panicum virgatum",
+          "NCBITaxID": 38727
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2700-70667"
       ]
@@ -12381,7 +12443,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1626951",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Salix",
+          "NCBITaxID": 40685
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -19402,7 +19470,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1830153",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Panicum virgatum",
+          "NCBITaxID": 38727
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -19556,7 +19630,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1834653",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Viridiplantae",
+          "NCBITaxID": 33090
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -20044,7 +20124,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1843678",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Rhodococcus opacus PD630",
+          "NCBITaxID": 543736
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -20674,7 +20760,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1847495",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Escherichia coli",
+          "NCBITaxID": 562
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -24892,6 +24984,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1984226",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Sphingobium",
+          "NCBITaxID": 165695
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2A00-86481"
       ]
@@ -28333,7 +28431,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/2448205",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -33019,7 +33123,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3024137",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Acetivibrio thermocellus",
+          "NCBITaxID": 1515
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -33679,7 +33789,17 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3030360",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        },
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -33742,7 +33862,17 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3030399",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Agrobacterium tumefaciens",
+          "NCBITaxID": 358
+        },
+        {
+          "scientificName": "Martinezella rhizogenes",
+          "NCBITaxID": 359
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -34525,12 +34655,23 @@
         },
         {
           "fundingOrganization": {
+            "organizationName": "USDOE"
+          }
+        },
+        {
+          "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
           }
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/3367327",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -35314,6 +35455,20 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1873828",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Cupriavidus necator",
+          "NCBITaxID": 106590
+        },
+        {
+          "scientificName": "Novosphingobium aromaticivorans",
+          "NCBITaxID": 48935
+        },
+        {
+          "scientificName": "Pseudomonas putida KT2440",
+          "NCBITaxID": 160488
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2800-81928"
       ]
@@ -43596,7 +43751,7 @@
         "Populus"
       ],
       "identifier": "https://www.osti.gov/biblio/2477696",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Tuskan/PUBLIC_DATA/Elemental profiling and genomewide association studies reveal genomic variants modulating ionomic composition in Populus trichocarpa leaves/project-begin.view?wizard=true",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Tuskan/PUBLIC_DATA/Elemental%20profiling%20and%20genomewide%20association%20studies%20reveal%20genomic%20variants%20modulating%20ionomic%20composition%20in%20Populus%20trichocarpa%20leaves/project-begin.view?wizard=true",
       "description": "Samples were collected from a population of 1,089 black cottonwood genotypes (P. trichocarpa) assembled from native stands to encompass the central portion of the natural range of the species, stretching from 38.8\u00b0 to 54.3\u00b0 N Q13 latitude from California, USA, to British Columbia, Canada. Establishment of the common garden, growth conditions, and site maintenance have been described by Muchero et al (2015). In this study, leaf samples for ionomic profiling were collected from 4-year-old trees, during the growing season, in July 2012, from a field located in Clatskanie, Oregon, USA (46\u00b06\u203211\u2033N 123\u00b012\u203213\u2033W). The field site was located in a protected alluvial floodplain containing a uniform Wauna-Locoda silt loam soil area characterized by an acidic pH, in Columbia County, Oregon. A subset of 584 out of the 1,089 P. trichocarpa genotypes were represented in this sampling. These genotypes were randomly selected to represent the geographical distribution of the population. A single fully mature (LPI 7-9) leaf on the south side of the tree exposed to full sunlight conditions was removed from the tree within a 6-hour window centering on solar noon and immediately frozen under dry ice before processing. Leaf samples of 584 P. trichocarpa genotypes were finely ground to 40 mm particle size using a mortar and pestle, and ionomic composition was analyzed using ICP-MS. In total, 20 elements were profiled, including aluminum (Al27), arsenic (As75), boron (B11), cadmium (Cd111), calcium (Ca43), cobalt (Co), copper (Cu), iron (Fe57), magnesium (Mg25), manganese (Mn55), molybdenum (Mo), nickel (Ni60), phosphorus (P31), potassium (K39), rubidium (Rb85), selenium (Se82), sodium (Na23), strontium (Sr88), sulfur (S34), and zinc (Zn66), following a protocol established by Ziegler et al. (2013). For each sample, 75mg of powder was digested overnight in 2.5 mL HNO3 containing 20 parts per billion (ppb) indium as an internal standard, following the protocol described in Ziegler et al. (2013). Following a dilution, concentration of the 20 elements was measured using an Elan 6000 DRC-e mass spectrometer (Perkin-Elmer SCIEX) connected to a PFA microflow nebulizer (Elemental Scientific) and Apex HF desolvator (Elemental Scientific). One measurement per sample per genotype was done. For subsequent analyses, the quantifications were converted to total element concentration.",
       "relatedItem": [
         {
@@ -43706,7 +43861,7 @@
         "plant stress tolerance"
       ],
       "identifier": "https://www.osti.gov/biblio/2475384",
-      "dataset_url": "https://labkey.ornl.gov/labkey/Early Career/Cregger/PUBLIC_DATA/Leveraging hyperspectral imaging to identify drought tolerant Populus species and genotypes within species/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/Early%20Career/Cregger/PUBLIC_DATA/Leveraging%20hyperspectral%20imaging%20to%20identify%20drought%20tolerant%20Populus%20species%20and%20genotypes%20within%20species/project-begin.view?",
       "description": "The aim of this study was to identity variation in drought tolerance across genotypes of Populus deltoides, Populus trichocarpa, and hybrids of the two species. A panel of 102 Populus genotypes, comprising 37 genotypes of P. trichocarpa, 37 of P. deltoides and 28 unique hybrid genotypes (P. trichocarpa x P. deltoides and P. deltoides x P. trichocarpa) were evaluated in the greenhouse under two treatments, well-watered (WW) and drought (DS). Plant physiological data were collected throughout the experiment once the drought treatment began. Throughout the experiment, we tracked soil volumetric water content, pot weight, stomatal conductance, quantum yield of photosystem II, and electron transport rate. In addition to those measurements, upon completion of the experiment, we assessed above and belowground plant biomass, plant height and stem diameter, leaf number, specific leaf area, relative water content, total protein, and total chlorophyll. We obtained hyperspectral signatures of one leaf from each plant at the end of the experiment. Columns BC \u2013 LL are hyperspectral averages for one leaf from each plant at each wavelength as described in the column header.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2475384",
@@ -43814,7 +43969,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2447131",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/HSQC spectra of lignin isolated from poplar stems/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/HSQC%20spectra%20of%20lignin%20isolated%20from%20poplar%20stems/project-begin.view?",
       "description": "Here we present a curated dataset of two-dimensional heteronuclear single quantum coherence (HSQC) nuclear magnetic resonance (NMR) spectra of lignin isolated from stems of genetically engineered poplar through auxin signaling gene modification. The plants were grown in greenhouse with temperatures between 21 and 23 \u00b0C. Plants were harvested and the aboveground stems were cut off an approximately five-inch-long segment from the bottom end of the plant stem, debarked and air-dried for three weeks. The dried stem samples were Wiley milled (mesh size 20), Soxhlet-extracted with toluene/ethanol for 24 h to remove extractives. The extracted biomass was ball-milled in a Retsch PM100 planetary ball mill using a porcelain jar with ceramic balls at 600 rpm for 2 h (in 5 min on and 5 min off cycles to avoid excessive sample heating). The ball-milled materials were then subjected to enzymatic hydrolysis for 48 h followed by centrifugation and washing with deionized water. The solid residue was freeze-dried to recover the lignin. The dry stem lignin samples were dissolved in deuterated dimethyl sulfoxide (d6) and transferred into a 5 mm tube. 13C\u20131H HSQC experiments were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus using a standard Bruker pulse sequence on a Prodigy platform cryoprobe. The NMR spectra were acquired under the following acquisition conditions: 230 ppm spectral width in F1 (13C) dimension with 256 data points and 12 ppm spectral width in F2 (1H) dimension with 2048 data points, a 90\u00b0 pulse, a one bond C\u2013H coupling constant of 145 Hz, a 1.0 s pulse delay, and 64 scans. Spectra were processed using the Bruker TopSpin 3.6 software. Additional meta data is embedded in the raw spectra figures.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2447131",
@@ -43865,7 +44020,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2447143",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/HSQC spectra of lignin isolated from poplar roots/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/HSQC%20spectra%20of%20lignin%20isolated%20from%20poplar%20roots/project-begin.view?",
       "description": "Here we present a curated dataset of two-dimensional heteronuclear single quantum coherence (HSQC) nuclear magnetic resonance (NMR) spectra of lignin isolated from roots of a greenhouse grown natural population of an energy crop poplar (Populus trichocarpa). Dormant cuttings of field-grown poplar were grown in 6-liter pots in a peat-based media containing bark, perlite, vermiculite, dolomite lime and a wetting agent in an environmentally controlled greenhouse. Temperatures were between 21 and 23 \u00b0C, with supplemental lighting to support a 16-h day length using 1000-watt high-pressure sodium lights in greenhouse. Once established, all plants were cut-back, allowed to regrow and harvested at the same time following an eight-month long growth period. Plants were harvested and the belowground roots were washed off soils, blotted, dried in an oven at 70 \u00b0C for 3 days, and Wiley milled (mesh size 20). The roots were Soxhlet-extracted with toluene/ethanol for 24 h to remove extractives. The extracted roots were ball-milled in a Retsch PM100 planetary ball mill using a porcelain jar with ceramic balls at 600 rpm for 2 h (in 5 min on and 5 min off cycles to avoid excessive sample heating). The ball-milled materials were then subjected to enzymatic hydrolysis for 48 h followed by centrifugation and washing with deionized water. The solid residue was extracted twice with 96% (v/v) 1,4-dioxane/water mixture at room temperature overnight. The extracts were combined, rotary evaporated, and freeze-dried to recover lignin. The dry lignin samples were dissolved in deuterated dimethyl sulfoxide (d6) and transferred into a 5 mm tube. 13C\u20131H HSQC experiments were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus using a standard Bruker pulse sequence on a Prodigy platform cryoprobe. The NMR spectra were acquired under the following acquisition conditions: 220 ppm spectral width in F1 (13C) dimension with 256 data points and 12 ppm spectral width in F2 (1H) dimension with 1024 data points, a 90\u00b0 pulse, a one bond C\u2013H coupling constant of 145 Hz, a 1.0 s pulse delay, and 64 scans. Spectra were processed using the Bruker TopSpin software. Additional meta data is embedded in the raw spectra figures.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2447143",
@@ -43917,7 +44072,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2446708",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Proton NMR spectra of lignin isolated from field grown transgenic poplar/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Proton%20NMR%20spectra%20of%20lignin%20isolated%20from%20field%20grown%20transgenic%20poplar/project-begin.view?",
       "description": "Here we present a curated dataset of a series of 1H nuclear magnetic resonance (NMR) spectra of lignin isolated from transgenic monolignol 4-O-methyltransferase (MOMT4) engineered poplar. The transgenic poplar was collected from a 2-year-old rotation trees within a three-year field trial experiment. Two replicates were collected for each transgenic poplar for the 1H NMR analysis. The poplar samples were Soxhlet-extracted with toluene/ethanol to remove the extractives and the extractives-free poplar was then ball-milled in a Retsch PM100 planetary ball mill using a porcelain jar with ceramic balls at 600 rpm for 2 h. The ball-milled materials were subjected to enzymatic hydrolysis for 48 h followed by centrifugation and washing with deionized water. The solid residue was extracted twice with 96:4 (v/v) 1,4-dioxane/water mixture at room temperature overnight. The extracts were combined, rotary evaporated, and freeze-dried to recover lignin. The dry lignin samples were dissolved in deuterated dimethyl sulfoxide and transferred into a 5 mm NMR tube. 1H NMR experiments were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus using a standard Bruker pulse sequence (zg) on a Prodigy platform cryoprobe. The NMR spectra were acquired with 16 ppm spectra width, 32k data points, 3s pulse delay, and 16 scans. All the data was processed using the Bruker\u2019s TopSpin 3.6 software. Additional meta data is embedded in the raw spectra files.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2446708",
@@ -43985,7 +44140,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2446777",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Heteronuclear single quantum coherence (HSQC) NMR spectra of lignin isolated from switchgrass residues after fermentation with milling/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Heteronuclear%20single%20quantum%20coherence%20(HSQC)%20NMR%20spectra%20of%20lignin%20isolated%20from%20switchgrass%20residues%20after%20fermentation%20with%20milling/project-begin.view?",
       "description": "Here we present a curated dataset of two-dimensional heteronuclear single quantum coherence (HSQC) nuclear magnetic resonance (NMR) spectra of lignin isolated from a herbaceous energy crop (Panicum virgatum L.). The lowland variant \u201cTimber\u201d switchgrass from Ernst seeds was used. The switchgrass was knife milled and passed through a 2 mm sieve prior to consolidated bioprocessing (CBP) process. Switchgrass was suspended in Milli-Q water and autoclaved for 90 min on liquid cycles. The residues after autoclaving were then subjected to CBP using coculture of Clostridium thermocellum (C. thermocellum DSM 1313 (LL1004)) and Thermoanaerobacterium thermosaccarolyticum ( T. thermosaccharolyticum HG-8 ATCC 31960 (LL1244)). Once-fermented and twice-fermented (FF) switchgrass were subjected to ball and disc milling in bioreactors at 55 \u00b0C and 60, 48 grams/L solids loadings for primary and secondary fermentation respectively. When fermentations were completed, the residual solids were rinsed with milli-Q water. Lignin was isolated from the pretreated residues after ball-milling in a porcelain jar with ceramic balls via Retsch PM 200 at 600 rpm for 2 h followed by enzymatic hydrolysis in acetate buffer (pH 4.8, 50 \u00b0C) for 48 h. The dry lignin samples were dissolved in deuterated dimethyl sulfoxide (d6) and characterized using 13C\u20131H HSQC in a Bruker Avance III HD 500-MHz NMR spectrometer. A standard Bruker pulse sequence (hsqcetgpsisp.2) was used on a Prodigy platform cryoprobe. The spectra were acquired with the following acquisition conditions: 230 ppm spectral width in F1 (13C) dimension with 256 data points and 12 ppm spectral width in F2 (1H) dimension with 2048 data points, a 90\u00b0 pulse, with a C\u2013H coupling constant of 145 Hz, a 1.0 s pulse delay, and 64 scans. Spectra were processed using the Bruker TopSpin 3.6 software.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2446777",
@@ -44043,7 +44198,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2446778",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Lignin content of Populus trichocarpa residues after CELF pretreatment and CBP fermentation/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Lignin%20content%20of%20Populus%20trichocarpa%20residues%20after%20CELF%20pretreatment%20and%20CBP%20fermentation/project-begin.view?",
       "description": "Here we present a dataset of lignin content from a woody energy crop (Populus trichocarpa) residues after a series of co-solvent enhanced lignocellulosic fractionation (CELF) pretreatment and consolidated bioprocessing (CBP) process. The natural poplar variant GW-9947 from the Center for Bioenergy Innovation (CBI) was used. The poplar was knife milled and passed through a 1 mm sieve and CELF pretreatment was performed in a Parr autoclave reactor with 7.5 wt % solids loading, 0.5 wt% H2SO4 as catalyst at 150\u00b0C with 5, 15, 25 and 30 minutes, respectively. Tetrahydrofuran was added in a 1:1 mass ratio with water as the pretreatment solvent. The residues from CELF pretreatment were then subjected to CBP using the bacterium C. thermocellum DSM 1313. CBP fermentations were performed at 60 \u00b0C in a shaker at 50, 75, and 100 grams/L solids loadings. The Klason lignin was measured using a two-step acid hydrolysis process. In brief, the poplar samples were first hydrolyzed by 72 wt% sulfuric acid at 30 oC for an hour. The hydrolysates were then diluted to 4 wt% sulfuric acid using deionized water and subsequently autoclaved at 121 oC for 1 h. Upon the completion of the two-step hydrolysis, the resulting solution was cooled to room temperature and the precipitate was then filtered through a G8 glass fiber filter through a crucible, dried at oven for overnight, and weighed to get the Klason lignin content. The lignin data provides information about lignin content changes after CELF and C. thermocellum CBP process.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2446778",
@@ -44081,7 +44236,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2440810",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Two-dimensional heteronuclear single quantum coherence (HSQC) NMR spectra of lignin isolated from field grown transgenic poplar/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Two-dimensional%20heteronuclear%20single%20quantum%20coherence%20(HSQC)%20NMR%20spectra%20of%20lignin%20isolated%20from%20field%20grown%20transgenic%20poplar/project-begin.view?",
       "description": "Here we present a curated dataset of a series of two-dimensional heteronuclear single quantum coherence (HSQC) nuclear magnetic resonance (NMR) spectra of lignin isolated from a field grown transgenic poplar engineered with a monolignol 4-O-methyltransferase (MOMT4). The poplar was collected from a 2-year-old rotation trees within a three-year field trial experiment. The poplar was Soxhlet-extracted with toluene/ethanol and the extractives-free poplar was then ball-milled in a Retsch PM100 planetary ball mill using a porcelain jar with ceramic balls at 600 rpm for 2 h (in 5 min on and 5 min off cycles to avoid excessive sample heating). The ball-milled materials were then subjected to enzymatic hydrolysis for 48 h followed by centrifugation and washing with deionized water. The solid residue was extracted twice with 96:4 (v/v) 1,4-dioxane/water mixture at room temperature overnight. The extracts were combined, rotary evaporated, and freeze-dried to recover the lignin. The dry lignin samples were dissolved in deuterated dimethyl sulfoxide for NMR experiments. 13C\u20131H HSQC experiments were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus using a standard Bruker pulse sequence (hsqcetgpsisp2.2) on a Prodigy platform cryoprobe. The NMR spectra were acquired under the following acquisition conditions: 220 ppm spectral width in F1 (13C) dimension with 256 data points and 12 ppm spectral width in F2 (1H) dimension with 1024 data points, a 90\u00b0 pulse, a one bond C\u2013H coupling constant of 145 Hz, a 1.0 s pulse delay, and 64 scans. All the data was processed using the Bruker\u2019s TopSpin 3.6 software. The NMR spectra provides structural characteristics information about lignin in field grown transgenic MOMT4 poplar. Additional meta data is embedded in the raw spectra figures.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2440810",
@@ -44128,7 +44283,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2440865",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Cellulose crystallinity index (CrI) of switchgrass measured by solid-state NMR/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Cellulose%20crystallinity%20index%20(CrI)%20of%20switchgrass%20measured%20by%20solid-state%20NMR/project-begin.view?",
       "description": "Here we present a curated dataset of switchgrass cellulose crystallinity index (CrI) measured using solid state nuclear magnetic resonance (NMR) spectroscopy. Seventy-two topline switchgrass lines grown in greenhouse were collected and ground to -20/+80 mesh. The switchgrass was then Soxhlet-extracted with toluene/ethanol for 24 h to remove extractives. The extractives-free switchgrass was holopulped by using peracetic acid at 5 g loading per g biomass and the solution consistency was adjusted to 5% with DI water. Holopulping was conducted at room temperature for 24 h with stirring. The obtained holocellulose was washed excessively with DI water and air-dried at room temperature for 24 h. The dried holocellulose was treated with hydrochloric acid (2.5 M) for 2 h to remove hemicellulose. The isolated cellulose was collected by filtration, rinsed with DI water, and used to analyze cellulose crystallinity by solid-state NMR. The NMR samples were prepared by packing the moisturized cellulose into 4-mm cylindrical Zirconia MAS rotors. Cross polarization/magic angle spinning (CP/MAS) NMR analysis of cellulose was carried out on a Bruker Avance III 400-MHz spectrometer operating at 100.59 MHz for 13C in a Bruker double-resonance MAS probe head at spinning speeds of 8 kHz. The CP/MAS experiments utilized a 5 ms (90\u00b0) proton pulse, 1.5 ms contact pulse, 4 s recycle delay and 4000 scans. The cellulose crystallinity index was determined from the areas of the cellulose crystalline C4 signal (\u03b4 86-92 ppm) over the entire C4 regions (\u03b4 79-92 ppm) in the NMR spectra.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2440865",
@@ -44188,7 +44343,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2440741",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Lignin molecular weights of Populus trichocarpa residues after CELF pretreatment/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Lignin%20molecular%20weights%20of%20Populus%20trichocarpa%20residues%20after%20CELF%20pretreatment/project-begin.view?",
       "description": "Here we present a dataset of molecular weights of lignin from a woody energy crop (Populus trichocarpa) residues after a series of co-solvent enhanced lignocellulosic fractionation (CELF) pretreatment. The natural poplar variant GW-9947 from the Center for Bioenergy Innovation (CBI) was used. The poplar was knife milled and passed through a 1 mm sieve and CELF pretreatment was performed in a Parr autoclave reactor with 7.5 wt % solids loading, 0.5 wt% H2SO4 as catalyst at 150\u00b0C with various time. Tetrahydrofuran was added in a 1:1 mass ratio with water as the pretreatment solvent. Lignin was isolated from the pretreated samples after ball-milling in a porcelain jar with ceramic balls via Retsch PM 200 at 580 rpm for 2.5 h followed by enzymatic hydrolysis in acetate buffer (pH 4.8, 50 \u00b0C) for 48 h. The solid residue was isolated by centrifugation and hydrolyzed again with freshly added buffer and enzymes for another 48 h. After filtration, the solid residue was extracted twice with 96% (v/v) 1,4-dioxane/water mixture at room temperature overnight. The extracts were combined, rotary evaporated, and freeze-dried to recover lignin. The lignin samples were then derivatized in an acetic anhydride/pyridine (1:1, v/v) mixture and stirred at room temperature for 24 h. Ethanol was added to the reaction mixture, left for 30 min and then removed with a rotary evaporator. The addition and removal of ethanol was repeated at least 3 times until all traces of acetic acid were removed. Acetylated lignin samples were then dissolved in tetrahydrofuran (THF) at a concentration of 1.0 mg/mL. The molecular weight of acetylated lignin was measured by a gel permeation chromatography (GPC) on a PSS-Polymer Standards Service (Warwick, RI, USA) GPC SECurity 1200 system featuring Agilent HPLC 1200 components equipped with four Waters Styragel columns (HR1, HR2, HR4 and HR6) and an UV detector (270 nm). Tetrahydrofuran was used as the mobile phase and flow rate was 0.3 mL/min. The Polymer Standards Service WinGPC Unity software (Build 6807) was used for data processing for all the samples. The data provides information about the effects of CELF pretreatment time at 150 \u00baC on lignin molecular weights.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2440741",
@@ -44238,7 +44393,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2440742",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Cellulose molecular weight of corn stover with cotreatment/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Cellulose%20molecular%20weight%20of%20corn%20stover%20with%20cotreatment/project-begin.view?",
       "description": "Here we present a dataset of cellulose molecular weights from corn stover after a cotreatment process. The corn stover sample was subjected to a combination of mechanical disruption (ball milling) and consolidated bioprocessing (CBP) process using the bacterium C. thermocellum at 60 grams/L solids loadings. Cellulose was isolated from control, no cotreatment control, and cotreatment corn stover. Cellulose was then derivatized using anhydrous pyridine and phenyl isocyanate over 48 h at 70 \u00baC. The reaction was quenched by anhydrous methanol. Methanol and water mixture (7:3, v/v) was added dropwise to promote precipitation of the cellulose derivative. The solids were collected by filtration and thoroughly washed with the methanol and water mixture followed by water. The cellulose derivative was dried overnight under vacuum at 40\u00b0C. The obtained cellulose tricarbanilates was then dissolved in tetrahydrofuran (THF) at 1.0 mg/mL and the solution was filtered through a 0.45 \u00b5m PTFE filter and placed in an auto-sampler vial. The molecular weight of cellulose was measured by Agilent GPC SECurity 1200 system equipped with four Waters Styragel columns (i.e., HR0.5, HR2, HR4, and HR6) and a UV detector (270 nm). THF was used as the mobile phase. Data collection and processing was performed by Polymer Standards Service WinGPC Unity software (Build 6807). The molecular weight was calculated relative to the polystyrene calibration curve. The data on molecular weights provided information about the effects of cotreatment on corn stover cellulose molecular changes.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2440742",
@@ -44291,7 +44446,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2440812",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/Carbon-13 NMR spectra of lignin isolated from field grown transgenic poplar/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/Carbon-13%20NMR%20spectra%20of%20lignin%20isolated%20from%20field%20grown%20transgenic%20poplar/project-begin.view?",
       "description": "Here we present a curated dataset of a series of 13C nuclear magnetic resonance (NMR) spectra of lignin isolated from transgenic monolignol 4-O-methyltransferase (MOMT4) engineered poplar. The transgenic poplar was collected from a 3-year field trial experiment. The poplar was Soxhlet-extracted with toluene/ethanol and the extractives-free poplar was then ball-milled in a Retsch PM100 planetary ball mill using a porcelain jar with ceramic balls at 600 rpm for 2 h. The ball-milled materials were then subjected to enzymatic hydrolysis for 48 h followed by centrifugation and washing with deionized water. The solid residue was extracted twice with 96:4 (v/v) 1,4-dioxane/water mixture at room temperature overnight. The extracts were combined, rotary evaporated, and freeze-dried to recover the lignin. The dry lignin samples were dissolved in deuterated dimethyl sulfoxide for NMR characterization. 13C experiments were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus using a standard Bruker pulse sequence (zgpg) on a Prodigy platform cryoprobe. The NMR spectra were acquired under the following conditions: spectra width 229 ppm, 64k data points, 1s pulse delay, and 6k scans. All the data was processed using the Bruker\u2019s TopSpin 3.6 software. Additional meta data is embedded in the raw spectra files.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2440812",
@@ -44349,7 +44504,7 @@
         "CBI"
       ],
       "identifier": "https://www.osti.gov/biblio/2439925",
-      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public Data/NMR_Spectra_Populus_Trichocarpa/project-begin.view?",
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ragauskas/Public%20Data/NMR_Spectra_Populus_Trichocarpa/project-begin.view?",
       "description": "Here we present a curated dataset of a series of two-dimensional heteronuclear single quantum coherence (HSQC) nuclear magnetic resonance (NMR) spectra of lignin isolated from a woody energy crop (Populus trichocarpa) residues after co-solvent enhanced lignocellulosic fractionation (CELF) pretreatment and consolidated bioprocessing (CBP) process. The natural poplar variant GW-9947 from the Center for Bioenergy Innovation (CBI) was used. The poplar was knife milled and passed through a 1 mm sieve. The CELF pretreatment was performed in a Parr autoclave reactor with 7.5 wt % solids loading, 0.5 wt% H2SO4 as catalyst at 150\u00b0C with 15, 25 and 30 minutes, respectively. Tetrahydrofuran was added in a 1:1 mass ratio with water as the pretreatment solvent. The residues from CELF pretreatment were then subjected to CBP using the bacterium C. thermocellum DSM 1313. CBP fermentations were performed at 60 \u00b0C in a shaker at 50 grams/L solids loadings. Lignin was isolated from the pretreated samples after ball-milling in a porcelain jar with ceramic balls via Retsch PM 200 at 580 rpm for 2.5 h followed by enzymatic hydrolysis in acetate buffer (pH 4.8, 50 \u00b0C) for 48 h. The lignin samples were characterized using 13C\u20131H HSQC experiments which were performed in a Bruker Avance III HD 500 MHz NMR spectrometer operating at a frequency of 125.12 MHz for the 13C nucleus. A standard Bruker pulse sequence was used on a Prodigy platform cryoprobe. The dry lignin samples were dissolved in deuterated dimethylsulfoxide for HSQC experiments. The spectra were acquired under the following acquisition conditions: 210 ppm spectral width in F1 (13C) dimension with 256 data points and 11 ppm spectral width in F2 (1H) dimension with 1024 data points, a 90\u00b0 pulse, a one bond C\u2013H coupling constant of 145 Hz, a 1.0 s pulse delay, and 64 scans. All the data was processed using the TopSpin 3.6 software (Bruker BioSpin). The NMR spectra provides structural characteristics information about lignin remaining in solids after CELF (150 \u00b0C with 15, 25 and 30 minutes) process and C. thermocellum CBP.",
       "relatedItem": [],
       "bibliographicCitation": "https://doi.org/10.25983/2439925",
@@ -46328,6 +46483,573 @@
       ],
       "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Cumming/PUBLIC_DATA/Harvest%20Intensity%20Rewires%20the%20Switchgrass%20Rhizosphere/project-begin.view?wizard=true",
       "active": true
+    },
+    {
+      "brc": "CBI",
+      "title": "graph_variants",
+      "description": "Populus trichocarpavariants from the pangenome graph VCF were genotyped across a broader population of 1492 samples using the k-mer genotyping tool Pangenie (https://github.com/eblerjana/pangenie).",
+      "abstract": "Populus trichocarpavariants from the pangenome graph VCF were genotyped across a broader population of 1492 samples using the k-mer genotyping tool Pangenie (https://github.com/eblerjana/pangenie).",
+      "date": "2026-09-30",
+      "identifier": "https://www.osti.gov/biblio/17031160",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/17031160",
+      "keywords": [
+        "poplar",
+        "populus trichocarpa",
+        "pangenome",
+        "pangenome graph",
+        "variants",
+        "graph variants",
+        "SNPs",
+        "structural variants",
+        "CBI",
+        "Feedstock Development"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Doug Hyatt",
+          "primaryContact": true
+        },
+        {
+          "name": "Daniel Jacobson",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3320253,
+          "revision": 1,
+          "osti_id": 17031160,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-09-30T17:22:16.479+00:00",
+          "date_updated": "2026-09-30T17:22:17.547+00:00",
+          "files": [
+            {
+              "media_file_id": 14103861,
+              "media_id": 3320253,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/graph_variants/project-begin.view?",
+              "date_file_added": "2026-09-30T17:22:16.493+00:00",
+              "date_file_updated": "2026-09-30T17:22:17.542+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/graph_variants/project-begin.view?",
+      "active": true,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        },
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "assemblies",
+      "description": "Release files for 88 haplotype assemblies (44 genotypes) from Hudson Alpha / JGI.&nbsp; These can also be found at the DOE Joint Genome Institute via Proposal 506486.",
+      "abstract": "Release files for 88 haplotype assemblies (44 genotypes) from Hudson Alpha / JGI.&nbsp; These can also be found at the DOE Joint Genome Institute via Proposal 506486.",
+      "date": "2026-10-01",
+      "identifier": "https://www.osti.gov/biblio/17050550",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/17050550",
+      "keywords": [
+        "poplar",
+        "populus",
+        "populus trichocarpa",
+        "assemblies",
+        "genome assemblies",
+        "haplotypes",
+        "haplotype-resolved",
+        "CBI"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Doug Hyatt",
+          "primaryContact": true
+        },
+        {
+          "name": "Mallory Morgan",
+          "primaryContact": false
+        },
+        {
+          "name": "Hari Chhetri",
+          "primaryContact": false
+        },
+        {
+          "name": "Chanaka R. Abeyratne",
+          "primaryContact": false
+        },
+        {
+          "name": "Manesh Shah",
+          "primaryContact": false
+        },
+        {
+          "name": "Annie Furches",
+          "primaryContact": false
+        },
+        {
+          "name": "David Kainer",
+          "primaryContact": false
+        },
+        {
+          "name": "Michael Garvin",
+          "primaryContact": false
+        },
+        {
+          "name": "Sara Jawdy",
+          "primaryContact": false
+        },
+        {
+          "name": "Tao Yao",
+          "primaryContact": false
+        },
+        {
+          "name": "Miaomiao Li",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Posy E. Busby",
+          "primaryContact": false
+        },
+        {
+          "name": "Kerrie Barry",
+          "primaryContact": false
+        },
+        {
+          "name": "Chris Daum",
+          "primaryContact": false
+        },
+        {
+          "name": "Yuko Yoshinaga",
+          "primaryContact": false
+        },
+        {
+          "name": "Anna Lipzen",
+          "primaryContact": false
+        },
+        {
+          "name": "Jie Guo",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy Schmutz",
+          "primaryContact": false
+        },
+        {
+          "name": "Jerry Jenkins",
+          "primaryContact": false
+        },
+        {
+          "name": "John Lovell",
+          "primaryContact": false
+        },
+        {
+          "name": "Chris Plott",
+          "primaryContact": false
+        },
+        {
+          "name": "Lori Beth Boston",
+          "primaryContact": false
+        },
+        {
+          "name": "Jenell Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Jane Grimwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Jayson Talag",
+          "primaryContact": false
+        },
+        {
+          "name": "Shanmugam Rajasekar",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel Jacobson.",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3339794,
+          "revision": 1,
+          "osti_id": 17050550,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-10-01T18:44:41.364+00:00",
+          "date_updated": "2026-10-01T18:44:42.481+00:00",
+          "files": [
+            {
+              "media_file_id": 14124022,
+              "media_id": 3339794,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/assemblies/project-begin.view",
+              "date_file_added": "2026-10-01T18:44:41.390+00:00",
+              "date_file_updated": "2026-10-01T18:44:42.476+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/assemblies/project-begin.view",
+      "active": true,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        },
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Long_Reads",
+      "description": "PacBio Hifi CCS reads for 44Populus trichocarpagenotypes.Release files for 44 PacBio fastq files from Hudson Alpha / JGI, with the genotype ID prepended to the filename.&nbsp; These files can also be found at the DOE Joint Genome Institute via Proposal 506486.",
+      "abstract": "PacBio Hifi CCS reads for 44Populus trichocarpagenotypes.Release files for 44 PacBio fastq files from Hudson Alpha / JGI, with the genotype ID prepended to the filename.&nbsp; These files can also be found at the DOE Joint Genome Institute via Proposal 506486.",
+      "date": "2026-10-05",
+      "identifier": "https://www.osti.gov/biblio/17118572",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/17118572",
+      "keywords": [
+        "poplar",
+        "populus",
+        "populus trichocarpa",
+        "pacbio",
+        "pacbio reads",
+        "dna sequencing",
+        "genomic dna",
+        "pacbio hifi ccs",
+        "CBI",
+        "Feedstock_Development"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Doug Hyatt",
+          "primaryContact": true
+        },
+        {
+          "name": "Mallory Morgan",
+          "primaryContact": false
+        },
+        {
+          "name": "Hari Chhetri",
+          "primaryContact": false
+        },
+        {
+          "name": "Chanaka R. Abeyratne",
+          "primaryContact": false
+        },
+        {
+          "name": "Manesh Shah",
+          "primaryContact": false
+        },
+        {
+          "name": "Annie Furches",
+          "primaryContact": false
+        },
+        {
+          "name": "David Kainer",
+          "primaryContact": false
+        },
+        {
+          "name": "Michael Garvin",
+          "primaryContact": false
+        },
+        {
+          "name": "Sara Jawdy",
+          "primaryContact": false
+        },
+        {
+          "name": "Tao Yao",
+          "primaryContact": false
+        },
+        {
+          "name": "Miaomiao Li",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui Chen",
+          "primaryContact": false
+        },
+        {
+          "name": "Posy E. Busby",
+          "primaryContact": false
+        },
+        {
+          "name": "Kerrie Barry",
+          "primaryContact": false
+        },
+        {
+          "name": "Chris Daum",
+          "primaryContact": false
+        },
+        {
+          "name": "Yuko Yoshinaga",
+          "primaryContact": false
+        },
+        {
+          "name": "Anna Lipzen",
+          "primaryContact": false
+        },
+        {
+          "name": "Jie Guo",
+          "primaryContact": false
+        },
+        {
+          "name": "Jeremy Schmutz",
+          "primaryContact": false
+        },
+        {
+          "name": "Jerry Jenkins",
+          "primaryContact": false
+        },
+        {
+          "name": "John Lovell",
+          "primaryContact": false
+        },
+        {
+          "name": "Chris Plott",
+          "primaryContact": false
+        },
+        {
+          "name": "Lori Beth Boston",
+          "primaryContact": false
+        },
+        {
+          "name": "Jenell Webber",
+          "primaryContact": false
+        },
+        {
+          "name": "Jane Grimwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Jayson Talag",
+          "primaryContact": false
+        },
+        {
+          "name": "Shanmugam Rajasekar",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel Jacobson.",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3408311,
+          "revision": 1,
+          "osti_id": 17118572,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-10-05T16:54:37.405+00:00",
+          "date_updated": "2026-10-05T16:54:38.480+00:00",
+          "files": [
+            {
+              "media_file_id": 14193430,
+              "media_id": 3408311,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/Long_Reads/project-begin.view",
+              "date_file_added": "2026-10-05T16:54:37.435+00:00",
+              "date_file_updated": "2026-10-05T16:54:38.474+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Jacobson/PUBLIC_DATA/poplar_pangenome/Long_Reads/project-begin.view",
+      "active": true,
+      "species": [
+        {
+          "scientificName": "Populus",
+          "NCBITaxID": 3689
+        },
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Dataset_Switchgrass_GWAS_Panel_IronHorse2020_NMR_Sugars",
+      "description": "Related publication: This dataset accompanies the aboveground biomass and cell wall composition data reported in Mazarei, M., Harman-Ware, A. E., Pendergast, T. H., IV, Shrestha, V., Xu, Y., Piasecki, C., Millwood, R. J., Devos, K. M., &amp; Stewart, C. N., Jr. (2025). Variation in Biomass Yield and Cell Wall Composition in Switchgrass Natural Variants Under Two Nitrogen Regimes. BioEnergy Research, 18, 35. DOI: 10.1007/s12155-025-10838-8 (https://doi.org/10.1007/s12155-025-10838-8).",
+      "abstract": "Related publication: This dataset accompanies the aboveground biomass and cell wall composition data reported in Mazarei, M., Harman-Ware, A. E., Pendergast, T. H., IV, Shrestha, V., Xu, Y., Piasecki, C., Millwood, R. J., Devos, K. M., &amp; Stewart, C. N., Jr. (2025). Variation in Biomass Yield and Cell Wall Composition in Switchgrass Natural Variants Under Two Nitrogen Regimes. BioEnergy Research, 18, 35. DOI: 10.1007/s12155-025-10838-8 (https://doi.org/10.1007/s12155-025-10838-8).",
+      "date": "2026-09-28",
+      "identifier": "https://www.osti.gov/biblio/3989267",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/3989267",
+      "keywords": [
+        "Switchgrass",
+        "Panicum virgatum",
+        "Genome-wide association study (GWAS)",
+        "Diversity panel",
+        "Cell wall composition",
+        "Structural carbohydrates",
+        "Glucose",
+        "Xylose",
+        "Arabinose",
+        "Galactose",
+        "Acid hydrolysis",
+        "1H NMR",
+        "Partial least squares (PLS2) regression",
+        "Chemometrics",
+        "High-throughput phenotyping",
+        "Bioenergy feedstock",
+        "Iron Horse Farm",
+        "CBI",
+        "Feedstock Development"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Renee M. Happs",
+          "primaryContact": true
+        },
+        {
+          "name": "Gui Zheng",
+          "primaryContact": false
+        },
+        {
+          "name": "Anne E. Harman-Ware",
+          "primaryContact": false
+        },
+        {
+          "name": "Bennett Addison",
+          "primaryContact": false
+        },
+        {
+          "name": "Mitra Mazarei",
+          "primaryContact": false
+        },
+        {
+          "name": "Thomas H. Pendergast IV",
+          "primaryContact": false
+        },
+        {
+          "name": "Vivek Shrestha",
+          "primaryContact": false
+        },
+        {
+          "name": "Yaping Xu",
+          "primaryContact": false
+        },
+        {
+          "name": "Cristiano Piasecki",
+          "primaryContact": false
+        },
+        {
+          "name": "Reginald J. Millwood",
+          "primaryContact": false
+        },
+        {
+          "name": "Katrien M. Devos",
+          "primaryContact": false
+        },
+        {
+          "name": "C. Neal Stewart Jr.",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3279977,
+          "revision": 1,
+          "osti_id": 3989267,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-09-28T15:11:34.620+00:00",
+          "date_updated": "2026-09-28T15:11:35.563+00:00",
+          "files": [
+            {
+              "media_file_id": 14062582,
+              "media_id": 3279977,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Ware/PUBLIC_DATA/Dataset_Switchgrass_GWAS_Panel_IronHorse2020_NMR_Sugars/project-begin.view?",
+              "date_file_added": "2026-09-28T15:11:34.793+00:00",
+              "date_file_updated": "2026-09-28T15:11:35.545+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Ware/PUBLIC_DATA/Dataset_Switchgrass_GWAS_Panel_IronHorse2020_NMR_Sugars/project-begin.view?",
+      "active": true,
+      "species": [
+        {
+          "scientificName": "Panicum virgatum",
+          "NCBITaxID": 38727
+        }
+      ]
     }
   ]
 }
