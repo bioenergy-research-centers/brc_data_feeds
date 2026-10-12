@@ -47050,6 +47050,80 @@
           "NCBITaxID": 38727
         }
       ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Overcoming environmental constraints to high\u2010yielding eastern cottonwood productivity in the southeastern United States",
+      "description": "The global demand for biomass is rising, and <em>Populus</em> species are among the most productive temperate woody plants. This 6-year study, conducted in Sumter County, South Carolina, USA evaluated the effects of supplemental irrigation and fertilization on crown and leaf traits, dry weight productivity, and clonal variation in <em>Populus deltoides</em>. Eight commercially available clones (\u2018ST148\u2019, \u2018S2C20\u2019, \u20183167\u2019, \u2018ST72\u2019, \u201820WV\u2019, \u2018S7C1\u2019, \u2018ST70\u2019, and \u2018S7C15\u2019) were assessed. Drip irrigation was applied to maintain soil tension at either 33\u2009kPa (15% volumetric soil moisture) or 1500\u2009kPa (10%). Nutrient treatments via weekly fertigation applications consisted of two levels: a high annual rate (initially 85\u2009kg elemental nitrogen ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup>, increasing to 182\u2009kg\u2009ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup> at Year 3, then reduced to 135\u2009kg\u2009ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup> thereafter) and a low rate at 50% of the high treatment. Dry weight yields were estimated using standing tree measurements. Results revealed significant clonal differences in leaf area index (LAI) that peaked in Year 3, with the fastest-growing clones exhibiting lower LAI values. At Ages 2 and 3, these clones also showed higher concentrations of K, Ca, B, Cu, and Mn in leaves, along with lower Mg and Zn concentrations. Both annual height and diameter growth varied significantly by treatment and clone, with the largest height increases observed in the low fertilizer treatments from Year 3 onward. Biomass production in all irrigated plots exceeded that of non-irrigated plots across all biomass components at Ages 4, 5, and 6. Furthermore, stem-to-root dry weight ratios increased more rapidly in the best-performing treatment\u2013clone combinations compared to non-irrigated plots. Notably, <em>P. deltoides</em> plots receiving fertilizer had higher soil carbon concentrations (i.e., percent C) compared to adjacent sweetgum, sycamore, and agricultural plots. These findings highlight the potential of targeted irrigation strategies to enhance biomass productivity in <em>P. deltoides</em> plantations.",
+      "abstract": "The global demand for biomass is rising, and <em>Populus</em> species are among the most productive temperate woody plants. This 6-year study, conducted in Sumter County, South Carolina, USA evaluated the effects of supplemental irrigation and fertilization on crown and leaf traits, dry weight productivity, and clonal variation in <em>Populus deltoides</em>. Eight commercially available clones (\u2018ST148\u2019, \u2018S2C20\u2019, \u20183167\u2019, \u2018ST72\u2019, \u201820WV\u2019, \u2018S7C1\u2019, \u2018ST70\u2019, and \u2018S7C15\u2019) were assessed. Drip irrigation was applied to maintain soil tension at either 33\u2009kPa (15% volumetric soil moisture) or 1500\u2009kPa (10%). Nutrient treatments via weekly fertigation applications consisted of two levels: a high annual rate (initially 85\u2009kg elemental nitrogen ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup>, increasing to 182\u2009kg\u2009ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup> at Year 3, then reduced to 135\u2009kg\u2009ha<sup>\u22121</sup>\u2009year<sup>\u22121</sup> thereafter) and a low rate at 50% of the high treatment. Dry weight yields were estimated using standing tree measurements. Results revealed significant clonal differences in leaf area index (LAI) that peaked in Year 3, with the fastest-growing clones exhibiting lower LAI values. At Ages 2 and 3, these clones also showed higher concentrations of K, Ca, B, Cu, and Mn in leaves, along with lower Mg and Zn concentrations. Both annual height and diameter growth varied significantly by treatment and clone, with the largest height increases observed in the low fertilizer treatments from Year 3 onward. Biomass production in all irrigated plots exceeded that of non-irrigated plots across all biomass components at Ages 4, 5, and 6. Furthermore, stem-to-root dry weight ratios increased more rapidly in the best-performing treatment\u2013clone combinations compared to non-irrigated plots. Notably, <em>P. deltoides</em> plots receiving fertilizer had higher soil carbon concentrations (i.e., percent C) compared to adjacent sweetgum, sycamore, and agricultural plots. These findings highlight the potential of targeted irrigation strategies to enhance biomass productivity in <em>P. deltoides</em> plantations.",
+      "date": "2026-03-24",
+      "issue": "1",
+      "identifier": "https://www.osti.gov/biblio/3520183",
+      "bibliographicCitation": "https://doi.org/10.1111/aab.70113",
+      "keywords": [
+        "biomass yield",
+        "drip irrigation",
+        "soil carbon",
+        "soil water"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "journal_name": "Annals of Applied Biology",
+      "volume": "189",
+      "publisher_information": "Wiley",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Gerald A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000301061289) Tuskan",
+          "primaryContact": true
+        },
+        {
+          "name": "Stan D. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Wullschleger",
+          "primaryContact": false
+        },
+        {
+          "name": "Paul J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States)] Hanson",
+          "primaryContact": false
+        },
+        {
+          "name": "Melissa A. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:000000018329366X) Cregger",
+          "primaryContact": false
+        },
+        {
+          "name": "John L. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000344518947) Field",
+          "primaryContact": false
+        },
+        {
+          "name": "Brandon P. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000316304271) Sloan",
+          "primaryContact": false
+        },
+        {
+          "name": "M. W. [International Paper Co.,Memphis,TN (United States)] Cunningham",
+          "primaryContact": false
+        },
+        {
+          "name": "B. M. [International Paper Co.,Memphis,TN (United States); Michigan State Univ.,East Lansing,MI (United States)] Cregg",
+          "primaryContact": false
+        },
+        {
+          "name": "J. L. [International Paper Co.,Memphis,TN (United States)] Rakestraw",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. [Oak Ridge National Laboratory (ORNL),Oak Ridge,TN (United States). Center for Bioenergy Innovation (CBI)] (ORCID:0000000295406622) Tschaplinski",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/3520183",
+      "active": false
     }
   ]
 }
