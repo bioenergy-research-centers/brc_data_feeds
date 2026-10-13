@@ -33274,6 +33274,7 @@
         "circadian clock",
         "crassulacean acid metabolism",
         "drought stress",
+        "feedstock development",
         "gene expression",
         "photosynthesis",
         "stomatal movement",
@@ -33359,11 +33360,6 @@
       "funding": [
         {
           "fundingOrganization": {
-            "organizationName": "US Department of Energy"
-          }
-        },
-        {
-          "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Basic Energy Sciences (BES). Scientific User Facilities (SUF)"
           }
         },
@@ -33374,7 +33370,7 @@
         },
         {
           "fundingOrganization": {
-            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23), Biological Systems Science Division (SC-23.2 )"
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER). Biological Systems Science (BSS)"
           }
         }
       ],
