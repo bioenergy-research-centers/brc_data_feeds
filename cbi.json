@@ -46089,8 +46089,8 @@
     {
       "brc": "CBI",
       "title": "Green_Revolution_genes_in_Populus",
-      "description": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-2",
-      "abstract": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-2",
+      "description": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9\".",
+      "abstract": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9\".",
       "date": "2026-08-10",
       "identifier": "https://www.osti.gov/biblio/3407920",
       "bibliographicCitation": "https://doi.org/10.25983/CBI/3407920",
@@ -47120,6 +47120,120 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/3520183",
       "active": false
+    },
+    {
+      "brc": "CBI",
+      "title": "Metabolite_Profiles_of_RGA_Triple_Mutant_Bark_Samples",
+      "description": "This dataset contains the bark metabolic measurements ofPopulustremulaxP.albagenotypes of RGA triple knockout.Populusgenotypes in this study includes the empty vector control (EV) and three independent RGA triple mutants, 267-17, 267-24, and 267-9.",
+      "abstract": "This dataset contains the bark metabolic measurements ofPopulustremulaxP.albagenotypes of RGA triple knockout.Populusgenotypes in this study includes the empty vector control (EV) and three independent RGA triple mutants, 267-17, 267-24, and 267-9.",
+      "date": "2026-07-13",
+      "identifier": "https://www.osti.gov/biblio/3377494",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/3377494",
+      "keywords": [
+        "Bark tissue",
+        "metabolite profiling",
+        "RGA triple mutants",
+        "PopulustremulaxP.alba",
+        "CBI",
+        "Feedstock Development"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Tao Yao",
+          "primaryContact": true
+        },
+        {
+          "name": "Lindsay P. Brown",
+          "primaryContact": false
+        },
+        {
+          "name": "Nancy L. Engle",
+          "primaryContact": false
+        },
+        {
+          "name": "Timothy J. Tschaplinski",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Miaomiao Li",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui Chen",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 2655050,
+          "revision": 1,
+          "osti_id": 3377494,
+          "document_page_count": 0,
+          "mime_type": "text/html",
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-07-14T01:23:10.696+00:00",
+          "date_updated": "2026-07-14T01:23:12.908+00:00",
+          "files": [
+            {
+              "media_file_id": 13394143,
+              "media_id": 2655050,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/ChenJ/public_data/Metabolite_Profiles_of_RGA_Triple_Mutant_Bark_Samples/project-begin.view?",
+              "mime_type": "text/html",
+              "duration_seconds": 0,
+              "subtitle_tracks": 0,
+              "video_tracks": 0,
+              "date_file_added": "2026-07-14T01:23:10.726+00:00",
+              "date_file_updated": "2026-07-14T01:23:11.951+00:00"
+            },
+            {
+              "media_file_id": 13394144,
+              "media_id": 2655050,
+              "checksum": "deceecacad9f4b7b4f39150ffa309bf94455dc2c5dc55aecd994b3f3751727ed",
+              "revision": 1,
+              "parent_media_file_id": 13394143,
+              "media_type": "C",
+              "mime_type": "text/html",
+              "document_page_count": 0,
+              "pdf_version": "1.7",
+              "pdfa_conformance": "B",
+              "pdfa_part": "1",
+              "date_file_added": "2026-07-14T01:23:11.945+00:00",
+              "date_file_updated": "2026-07-14T01:23:12.906+00:00"
+            },
+            {
+              "media_file_id": 13394145,
+              "media_id": 2655050,
+              "revision": 1,
+              "parent_media_file_id": 13394144,
+              "media_type": "T",
+              "mime_type": "text/plain",
+              "date_file_added": "2026-07-14T01:23:12.901+00:00",
+              "date_file_updated": "2026-07-14T01:23:12.901+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ChenJ/public_data/Metabolite_Profiles_of_RGA_Triple_Mutant_Bark_Samples/project-begin.view?",
+      "active": true
     }
   ]
 }
