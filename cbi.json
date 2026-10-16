@@ -47234,6 +47234,88 @@
       ],
       "dataset_url": "https://labkey.ornl.gov/labkey/CBI/ChenJ/public_data/Metabolite_Profiles_of_RGA_Triple_Mutant_Bark_Samples/project-begin.view?",
       "active": true
+    },
+    {
+      "brc": "CBI",
+      "title": "Drought_epigenetic_memory_in_Populus",
+      "description": "This dataset contains raw sequencing reads from RNA-seq and EM-seq experiments conducted onPopulus trichocarpagenotype BESC-1146.",
+      "abstract": "This dataset contains raw sequencing reads from RNA-seq and EM-seq experiments conducted onPopulus trichocarpagenotype BESC-1146.",
+      "date": "2026-10-16",
+      "identifier": "https://www.osti.gov/biblio/17304119",
+      "bibliographicCitation": "https://doi.org/10.25983/CBI/17304119",
+      "keywords": [
+        "CBI",
+        "Feedstock Development",
+        "DNA methylation",
+        "Marker genes",
+        "Drought stress",
+        "Epigenetic memory",
+        "Populus trichocarpa"
+      ],
+      "topic": [
+        "Unknown"
+      ],
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Miaomiao Li",
+          "primaryContact": true
+        },
+        {
+          "name": "Tao Yao",
+          "primaryContact": false
+        },
+        {
+          "name": "Sanskriti Dwivedi",
+          "primaryContact": false
+        },
+        {
+          "name": "Gerald A. Tuskan",
+          "primaryContact": false
+        },
+        {
+          "name": "Jin-Gui Chen",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
+          },
+          "awardNumber": "AC05-00OR22725"
+        }
+      ],
+      "relatedItem": [],
+      "media": [
+        {
+          "media_id": 3594208,
+          "revision": 1,
+          "osti_id": 17304119,
+          "media_source": "ELINK_2_API",
+          "date_added": "2026-10-16T15:02:05.335+00:00",
+          "date_updated": "2026-10-16T15:02:06.650+00:00",
+          "files": [
+            {
+              "media_file_id": 14381024,
+              "media_id": 3594208,
+              "revision": 1,
+              "media_type": "O",
+              "url": "https://labkey.ornl.gov/labkey/CBI/Miaomiaoli/PUBLIC_DATA/Drought_epigenetic_memory_in_Populus/project-begin.view?",
+              "date_file_added": "2026-10-16T15:02:05.412+00:00",
+              "date_file_updated": "2026-10-16T15:02:06.631+00:00"
+            }
+          ]
+        }
+      ],
+      "dataset_url": "https://labkey.ornl.gov/labkey/CBI/Miaomiaoli/PUBLIC_DATA/Drought_epigenetic_memory_in_Populus/project-begin.view?",
+      "active": true,
+      "species": [
+        {
+          "scientificName": "Populus trichocarpa",
+          "NCBITaxID": 3694
+        }
+      ]
     }
   ]
 }
