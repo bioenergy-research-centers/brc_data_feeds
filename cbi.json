@@ -6690,6 +6690,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1542755",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Salix viminalis",
+          "NCBITaxID": 40686
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2700-73918"
       ]
@@ -12437,7 +12443,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1626951",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Salix",
+          "NCBITaxID": 40685
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -19618,7 +19630,13 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1834653",
-      "active": false
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Viridiplantae",
+          "NCBITaxID": 33090
+        }
+      ]
     },
     {
       "brc": "CBI",
@@ -20109,7 +20127,8 @@
       "active": false,
       "species": [
         {
-          "scientificName": "Rhodococcus opacus PD630"
+          "scientificName": "Rhodococcus opacus PD630",
+          "NCBITaxID": 543736
         }
       ]
     },
@@ -24965,6 +24984,12 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1984226",
       "active": false,
+      "species": [
+        {
+          "scientificName": "Sphingobium",
+          "NCBITaxID": 165695
+        }
+      ],
       "has_related_ids": [
         "NREL/JA-2A00-86481"
       ]
