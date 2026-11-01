@@ -6690,12 +6690,6 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1542755",
       "active": false,
-      "species": [
-        {
-          "scientificName": "Salix viminalis",
-          "NCBITaxID": 40686
-        }
-      ],
       "has_related_ids": [
         "NREL/JA-2700-73918"
       ]
