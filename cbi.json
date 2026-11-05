@@ -47316,6 +47316,91 @@
           "NCBITaxID": 3694
         }
       ]
+    },
+    {
+      "brc": "CBI",
+      "title": "Reconstruction of a resource balance analysis model of Clostridium thermocellum examines the metabolic cost of glycolytic and cellulosome enzymes",
+      "date": "2025-12-31",
+      "identifier": "https://www.osti.gov/biblio/17426534",
+      "bibliographicCitation": "https://doi.org/10.1016/j.ymben.2025.09.001",
+      "keywords": [
+        "09 BIOMASS FUELS",
+        "Clostridium Thermocellum",
+        "resource balance",
+        "CBI"
+      ],
+      "topic": [
+        "Biomass & Feedstock"
+      ],
+      "journal_name": "Metabolic Engineering",
+      "volume": "93",
+      "publisher_information": "Elsevier BV",
+      "country_publication_code": "US",
+      "creator": [
+        {
+          "name": "Thomas C. Willis",
+          "primaryContact": true
+        },
+        {
+          "name": "Wheaton L. Schroeder",
+          "primaryContact": false
+        },
+        {
+          "name": "Daven B. Khana",
+          "primaryContact": false
+        },
+        {
+          "name": "Xuejun Qian",
+          "primaryContact": false
+        },
+        {
+          "name": "Sanjeev Dahal",
+          "primaryContact": false
+        },
+        {
+          "name": "Daniel Amador-Noguez",
+          "primaryContact": false
+        },
+        {
+          "name": "Costas D. (ORCID:0000000215081398) Maranas",
+          "primaryContact": false
+        }
+      ],
+      "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Center for Bioenergy Innovation"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Institute for Computational and Data Sciences, Pennsylvania State University"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Office of Science"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "U.S. Department of Energy"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "US Department of Energy Biological and Environmental Research"
+          }
+        }
+      ],
+      "dataset_url": "https://www.osti.gov/biblio/17426534",
+      "active": false,
+      "species": [
+        {
+          "scientificName": "Acetivibrio thermocellus",
+          "NCBITaxID": 1515
+        }
+      ]
     }
   ]
 }
