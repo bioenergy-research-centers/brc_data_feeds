@@ -46089,8 +46089,8 @@
     {
       "brc": "CBI",
       "title": "Green_Revolution_genes_in_Populus",
-      "description": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9\".",
-      "abstract": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9\".",
+      "description": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9. This dataset also includes the supplementary figures and tables for the publication \u201cEnhanced biomass production by engineering gibberellin signaling in Populus.\u201d",
+      "abstract": "This dataset contains the stem RNA-seq data of Populus tremula x P. alba genotypes of RGA triple knockout. Populus genotypes in this study includes the empty vector control (EV, Cas9-19) and three independent RGA triple mutants, 267-17 (RGAX4KO_17), 267-24, 267-9. This dataset also includes the supplementary figures and tables for the publication \u201cEnhanced biomass production by engineering gibberellin signaling in Populus.\u201d",
       "date": "2026-08-10",
       "identifier": "https://www.osti.gov/biblio/3407920",
       "bibliographicCitation": "https://doi.org/10.25983/CBI/3407920",
