@@ -19630,13 +19630,7 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1834653",
-      "active": false,
-      "species": [
-        {
-          "scientificName": "Viridiplantae",
-          "NCBITaxID": 33090
-        }
-      ]
+      "active": false
     },
     {
       "brc": "CBI",
@@ -20127,8 +20121,7 @@
       "active": false,
       "species": [
         {
-          "scientificName": "Rhodococcus opacus PD630",
-          "NCBITaxID": 543736
+          "scientificName": "Rhodococcus opacus PD630"
         }
       ]
     },
@@ -24984,12 +24977,6 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1984226",
       "active": false,
-      "species": [
-        {
-          "scientificName": "Sphingobium",
-          "NCBITaxID": 165695
-        }
-      ],
       "has_related_ids": [
         "NREL/JA-2A00-86481"
       ]
