@@ -26910,12 +26910,6 @@
       ],
       "dataset_url": "https://www.osti.gov/biblio/1984226",
       "active": false,
-      "species": [
-        {
-          "scientificName": "Sphingobium",
-          "NCBITaxID": 165695
-        }
-      ],
       "has_related_ids": [
         "NREL/JA-2A00-86481"
       ]
