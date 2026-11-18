@@ -49060,32 +49060,39 @@
     {
       "brc": "CBI",
       "title": "Comparing deconstruction of sugarcane bagasse by a coculture of thermophilic bacteria and a fungal cellulase system",
+      "description": "Background Lignocellulosic biomass is a promising feedstock for sustainable bioethanol production due to its abundance, renewability, and high carbohydrate content. Among these feedstocks, sugarcane bagasse (SCB), a fibrous byproduct of sugar and ethanol mills, is particularly abundant in Brazil. However, the complex and recalcitrant structure of lignocellulose hinders its biological conversion into biofuels. There are different enzymatic architectures to overcome this challenge. Fungal enzyme systems rely on non-complexed cellulase components that act independently and are often used in combination with yeast fermentation in a simultaneous saccharification and fermentation (SSF) configuration. By contrast, thermophilic bacteria such as Clostridium thermocellum employ complexed cellulosome systems capable of highly efficient biomass deconstruction, which enables their application in Consolidated Bioprocessing (CBP). Although previous studies have compared these systems on various lignocellulosic feedstocks, no direct comparison exists for unpretreated sugarcane bagasse. This study aimed to compare carbohydrate solubilization between CBP with a coculture of thermophilic bacteria and SSF with a fungal enzyme\u2013yeast system for the conversion of unpretreated SCB, and to assess the effect of particle size. Results CBP consistently achieved higher carbohydrate solubilization than SSF across all particle sizes, with improvements ranging from 1.9- to 3.7-fold. CBP was also less affected by particle size variation, showing a drop of 0.52-fold in solubilization for particles sized 0.2\u20134.00 mm, compared to a 2.2-fold for SSF. A strong linear correlation between C6 and C5 sugar solubilization was observed for both strategies. Despite differences in solubilization, residual sugar concentrations were similar between systems. Neither increased enzyme loading nor improved conditions significantly improved SSF performance, indicating intrinsic limitations in the enzymatic hydrolysis of unpretreated SCB. Conclusions This study provides the first direct comparison of unpretreated SCB deconstruction mediated by a thermophilic bacterial culture to a fungal cellulase preparation in the presence of yeast. Higher carbohydrate solubilization is seen for the bacterial system regardless of particle size. These findings highlight the potential of CBP with thermophilic bacteria as an alternative to conventional strategies. The results also reinforce the importance of standardized metrics, such as fractional carbohydrate solubilization, for cross-study comparison.",
+      "abstract": "Background Lignocellulosic biomass is a promising feedstock for sustainable bioethanol production due to its abundance, renewability, and high carbohydrate content. Among these feedstocks, sugarcane bagasse (SCB), a fibrous byproduct of sugar and ethanol mills, is particularly abundant in Brazil. However, the complex and recalcitrant structure of lignocellulose hinders its biological conversion into biofuels. There are different enzymatic architectures to overcome this challenge. Fungal enzyme systems rely on non-complexed cellulase components that act independently and are often used in combination with yeast fermentation in a simultaneous saccharification and fermentation (SSF) configuration. By contrast, thermophilic bacteria such as Clostridium thermocellum employ complexed cellulosome systems capable of highly efficient biomass deconstruction, which enables their application in Consolidated Bioprocessing (CBP). Although previous studies have compared these systems on various lignocellulosic feedstocks, no direct comparison exists for unpretreated sugarcane bagasse. This study aimed to compare carbohydrate solubilization between CBP with a coculture of thermophilic bacteria and SSF with a fungal enzyme\u2013yeast system for the conversion of unpretreated SCB, and to assess the effect of particle size. Results CBP consistently achieved higher carbohydrate solubilization than SSF across all particle sizes, with improvements ranging from 1.9- to 3.7-fold. CBP was also less affected by particle size variation, showing a drop of 0.52-fold in solubilization for particles sized 0.2\u20134.00 mm, compared to a 2.2-fold for SSF. A strong linear correlation between C6 and C5 sugar solubilization was observed for both strategies. Despite differences in solubilization, residual sugar concentrations were similar between systems. Neither increased enzyme loading nor improved conditions significantly improved SSF performance, indicating intrinsic limitations in the enzymatic hydrolysis of unpretreated SCB. Conclusions This study provides the first direct comparison of unpretreated SCB deconstruction mediated by a thermophilic bacterial culture to a fungal cellulase preparation in the presence of yeast. Higher carbohydrate solubilization is seen for the bacterial system regardless of particle size. These findings highlight the potential of CBP with thermophilic bacteria as an alternative to conventional strategies. The results also reinforce the importance of standardized metrics, such as fractional carbohydrate solubilization, for cross-study comparison.",
       "date": "2026-07-13",
+      "issue": "1",
       "identifier": "https://www.osti.gov/biblio/3818195",
       "bibliographicCitation": "https://doi.org/10.1186/s13068-026-02787-x",
+      "keywords": [
+        "09 BIOMASS FUELS"
+      ],
       "topic": [
-        "Unknown"
+        "Biomass & Feedstock"
       ],
       "journal_name": "Biotechnology for Biofuels and Bioproducts",
-      "publisher_information": "Springer Science and Business Media LLC",
+      "volume": "19",
+      "publisher_information": "BioMed Central",
       "country_publication_code": "US",
       "creator": [
         {
-          "name": "Melque Nat\u00e3 Silva",
+          "name": "Melque Nat\u00e3 [Univ. of Campinas (UNICAMP),Sao Paulo (Brazil)] Silva",
           "primaryContact": true,
           "individual_roles": [
             "FirstAuthor"
           ]
         },
         {
-          "name": "Lee R. Lynd",
+          "name": "Lee R. [Dartmouth College,Hanover,NH (United States)] Lynd",
           "primaryContact": false,
           "individual_roles": [
             "ContributingAuthor"
           ]
         },
         {
-          "name": "Evert K. (ORCID:000000020565392X) Holwerda",
+          "name": "Evert K. [Dartmouth College,Hanover,NH (United States)] (ORCID:000000020565392X) Holwerda",
           "primaryContact": false,
           "individual_roles": [
             "ContributingAuthor"
@@ -49093,6 +49100,31 @@
         }
       ],
       "funding": [
+        {
+          "fundingOrganization": {
+            "organizationName": "Funda&ccedil"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "&atilde"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "o de Amparo &agrave"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "Pesquisa do Estado de S&atilde"
+          }
+        },
+        {
+          "fundingOrganization": {
+            "organizationName": "o Paulo"
+          }
+        },
         {
           "fundingOrganization": {
             "organizationName": "USDOE Office of Science (SC), Biological and Environmental Research (BER)"
