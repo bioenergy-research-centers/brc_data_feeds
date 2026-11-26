@@ -21115,13 +21115,7 @@
         }
       ],
       "dataset_url": "https://www.osti.gov/biblio/1834653",
-      "active": false,
-      "species": [
-        {
-          "scientificName": "Viridiplantae",
-          "NCBITaxID": 33090
-        }
-      ]
+      "active": false
     },
     {
       "brc": "CBI",
